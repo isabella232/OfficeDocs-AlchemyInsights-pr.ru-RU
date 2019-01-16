@@ -1,0 +1,33 @@
+---
+title: Восстановление удаленного списка или библиотеки
+ms.author: stevhord
+author: bentoncity
+manager: scotv
+ms.date: 5/17/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 09a0553b-4fcd-410d-ba50-fe55cb79eea1
+ms.openlocfilehash: 4f0806ae2a857dd02f1da8fb3935569baf54b3c5
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28308719"
+---
+# <a name="restore-a-deleted-sharepoint-list-or-library"></a><span data-ttu-id="dc2ad-102">Восстановление удаленного списка SharePoint или библиотеки</span><span class="sxs-lookup"><span data-stu-id="dc2ad-102">Restore a deleted SharePoint list or library</span></span>
+
+1. <span data-ttu-id="dc2ad-103">Перейдите на сайт SharePoint.</span><span class="sxs-lookup"><span data-stu-id="dc2ad-103">Go to the SharePoint site.</span></span>
+    
+2. <span data-ttu-id="dc2ad-p101">В левой области нажмите кнопку **Корзина** . Если отсутствует в корзине, щелкните значок параметры и нажмите кнопку **контент сайта**. В правой части панели команд в верхней будет в корзину.</span><span class="sxs-lookup"><span data-stu-id="dc2ad-p101">Click **Recycle bin** in the left pane. If you don't see Recycle bin, click the Settings icon, and then click **Site contents**. The Recycle Bin is on the far right of the command bar at the top.</span></span>
+    
+3. <span data-ttu-id="dc2ad-107">Выберите слева от элементов, которые необходимо восстановить.</span><span class="sxs-lookup"><span data-stu-id="dc2ad-107">Click to the left of the items you want to restore.</span></span>
+    
+4. <span data-ttu-id="dc2ad-108">Выберите пункт **Восстановить**.</span><span class="sxs-lookup"><span data-stu-id="dc2ad-108">Click **Restore**.</span></span>
+    
+<span data-ttu-id="dc2ad-p102">Удаленные элементы сохраняются на 93 дней. Если не отображается элемент, который вы ищете, он может были удалены из этой корзины и перемещено в корзине семейства сайтов. Чтобы проверить, щелкните ссылку **Корзина второго уровня** в нижней части корзины.</span><span class="sxs-lookup"><span data-stu-id="dc2ad-p102">Deleted items are retained for 93 days. If you don't see the item you're looking for, it might have been deleted from this recycle bin and moved to the site collection recycle bin. To check, click the **Second-stage recycle bin** link at the bottom of the recycle bin.</span></span> 
+  
+
