@@ -1,9 +1,17 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383441"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
 
 
-## <a name="week-of-january-07-2019"></a>Неделя 07 января 2019
+## <a name="week-of-january-07-2019"></a>Неделя с 7 января 2019 г.
 
 
 | Дата публикации |Название статьи | Изменение |
@@ -624,3 +632,14 @@
 | 11/1/2019 | [Удаление пользователей](/AlchemyInsights/deleting-users) | изменено |
 | 11/1/2019 | [Развертывание облегчения единого входа](/AlchemyInsights/deploy-seamless-single-sign-on) | изменено |
 | 11/1/2019 | [Отключение доступа к сети Yammer](/AlchemyInsights/disable-access-to-yammer) | изменено |
+
+
+## <a name="week-of-january-14-2019"></a>Недели после 14 января 2019
+
+
+| Дата публикации |Название статьи | Изменение |
+|------|------------|--------|
+| 1/14/2019 | Заполнитель Алхимия | удалены |
+| 1/14/2019 | Добавление домена Алхимия | удалены |
+| 1/14/2019 | [Домашняя страница полезные сведения о Алхимия](/AlchemyInsights/index) | изменено |
+| 1/17/2019 | [то же, что имя файла лучше всего подходит [ПРАВИЛА # — описание]](/AlchemyInsights/1-alchemy-insight-template) | добавлен |
