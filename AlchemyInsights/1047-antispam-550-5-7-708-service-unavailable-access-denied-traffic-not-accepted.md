@@ -13,13 +13,13 @@ ms.openlocfilehash: 1c10f03dcd105fe80edf3407288bdd551cfed54a
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383434"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454083"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="ef168-103">550 5.7.708, отказано в доступе, трафик не принимаются из этого IP-адреса</span><span class="sxs-lookup"><span data-stu-id="ef168-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="f07ce-103">550 5.7.708, отказано в доступе, трафик не принимаются из этого IP-адреса</span><span class="sxs-lookup"><span data-stu-id="f07ce-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="ef168-104">Эта ошибка возникает при отправке электронной почты от известных, низкой репутации IP-адресов, которые обычно используются новых клиентов.</span><span class="sxs-lookup"><span data-stu-id="ef168-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
+<span data-ttu-id="f07ce-104">Эта ошибка возникает при отправке электронной почты от известных, низкой репутации IP-адресов, которые обычно используются новых клиентов.</span><span class="sxs-lookup"><span data-stu-id="f07ce-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
   
-<span data-ttu-id="ef168-105">Если необходимо отправлять электронную почту из этих IP-адресов, прежде чем можно приобрести лицензии, обратитесь в службу поддержки для запроса исключение, пока вы можете приобрести лицензии.</span><span class="sxs-lookup"><span data-stu-id="ef168-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
+<span data-ttu-id="f07ce-105">Если необходимо отправлять электронную почту из этих IP-адресов, прежде чем можно приобрести лицензии, обратитесь в службу поддержки для запроса исключение, пока вы можете приобрести лицензии.</span><span class="sxs-lookup"><span data-stu-id="f07ce-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
   
 
