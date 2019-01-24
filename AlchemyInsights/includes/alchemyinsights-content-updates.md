@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383441"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454443"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -209,7 +209,7 @@ ms.locfileid: "29383441"
 | 1/10/2019 | [Доступ запрещен при просмотре рабочего процесса](/AlchemyInsights/access-denied-when-viewing-a-workflow) | добавлен |
 | 1/10/2019 | [Службы Access](/AlchemyInsights/access-services) | добавлен |
 | 1/10/2019 | [Активируйте новую подписку с помощью ключа продукта](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | добавлен |
-| 1/10/2019 | [Активация Office](/AlchemyInsights/activate-office) | добавлен |
+| 1/10/2019 | Активация Office | добавлен |
 | 1/10/2019 | [Активация подписки многопользовательской лицензии на Microsoft Office 365](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | добавлен |
 | 1/10/2019 | [Устранение неполадок активации](/AlchemyInsights/activation-troubleshooting) | добавлен |
 | 1/10/2019 | [Добавление группы к сайту SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | добавлен |
@@ -218,7 +218,7 @@ ms.locfileid: "29383441"
 | 1/10/2019 | [Добавление или удаление псевдоним электронной почты для пользователя](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | добавлен |
 | 1/10/2019 | [Добавление рабочих мест в будущих подписки](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | добавлен |
 | 1/10/2019 | [Добавление рабочих мест в будущих подписки](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | добавлен |
-| 1/10/2019 | [Добавление пользователей в Office 365](/AlchemyInsights/add-users-to-office-365) | добавлен |
+| 1/10/2019 | Добавление пользователей в Office 365 | добавлен |
 | 1/10/2019 | [Добавление внешних пользователей в группу рассылки?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | добавлен |
 | 1/10/2019 | [Добавление внешних пользователей](/AlchemyInsights/adding-external-users) | добавлен |
 | 1/10/2019 | [Службы федерации Active Directory Federation истечение срока действия сертификата](/AlchemyInsights/adfs-federation-certificate-expiring) | добавлен |
@@ -272,11 +272,11 @@ ms.locfileid: "29383441"
 | 1/10/2019 | [Измените имя домена в службе SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | добавлен |
 | 1/10/2019 | [Изменение частоты оплаты](/AlchemyInsights/change-how-often-you-pay) | добавлен |
 | 1/10/2019 | [Изменение MDM центра сертификации](/AlchemyInsights/change-mdm-authority) | добавлен |
-| 1/10/2019 | [Изменение NameServers](/AlchemyInsights/change-nameservers) | добавлен |
+| 1/10/2019 | Change nameservers | добавлен |
 | 1/10/2019 | [Изменение OneDrive для бизнеса квота хранилища](/AlchemyInsights/change-onedrive-for-business-storage-quota) | добавлен |
 | 1/10/2019 | [Изменение метода оплаты](/AlchemyInsights/change-payment-method) | добавлен |
 | 1/10/2019 | [Изменение разрешений для списка SharePoint или библиотеки](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | добавлен |
-| 1/10/2019 | [Изменение запасного адреса электронной почты, на который отправляются уведомления о выставлении счетов](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | добавлен |
+| 1/10/2019 | Изменение запасного адреса электронной почты, на который отправляются уведомления о выставлении счетов | добавлен |
 | 1/10/2019 | [Изменение имени участника-пользователя](/AlchemyInsights/change-upn) | добавлен |
 | 1/10/2019 | [Изменения для доступа внешних пользователей](/AlchemyInsights/changes-to-external-user-access) | добавлен |
 | 1/10/2019 | [Изменение размера сообщения или вложения](/AlchemyInsights/changing-message-or-attachment-size) | добавлен |
@@ -303,7 +303,7 @@ ms.locfileid: "29383441"
 | 1/10/2019 | [Создание потока](/AlchemyInsights/create-a-flow) | добавлен |
 | 1/10/2019 | [Создание современных группы сайта](/AlchemyInsights/create-a-modern-team-site) | добавлен |
 | 1/10/2019 | [Создание общего почтового ящика](/AlchemyInsights/create-a-shared-mailbox) | добавлен |
-| 1/10/2019 | [Создание сайта SharePoint](/AlchemyInsights/create-a-sharepoint-site) | добавлен |
+| 1/10/2019 | Создание сайта SharePoint | добавлен |
 | 1/10/2019 | [Создание сайта в SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | добавлен |
 | 1/10/2019 | [Создание и использование общего почтового ящика](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | добавлен |
 | 1/10/2019 | [Создайте и используйте общий почтовый ящик](/AlchemyInsights/create-and-use-a-shared-mailbox) | добавлен |
@@ -321,7 +321,7 @@ ms.locfileid: "29383441"
 | 1/10/2019 | [Отклоненные кредитной карты](/AlchemyInsights/declined-credit-card) | добавлен |
 | 1/10/2019 | [Разрешения делегированных почтовых ящиков в гибридной среде](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | добавлен |
 | 1/10/2019 | [Удаление связи сайтов](/AlchemyInsights/delete-a-communication-site) | добавлен |
-| 1/10/2019 | [Удаление страницы](/AlchemyInsights/delete-a-page) | добавлен |
+| 1/10/2019 | Удаление страницы | добавлен |
 | 11/1/2019 | [1047 AntiSpam\550 5.7.708 служба недоступна. Отказано в доступе, не принимаются с этой IP-трафика](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | изменено |
 | 11/1/2019 | [1048 5.7.750 служба недоступна. Клиент запретом Отправка из незарегистрированных доменов](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | изменено |
 | 11/1/2019 | [1049 AntiSpam\4.5.3 слишком много получателей (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | изменено |
@@ -506,7 +506,7 @@ ms.locfileid: "29383441"
 | 11/1/2019 | [Доступ запрещен при просмотре рабочего процесса](/AlchemyInsights/access-denied-when-viewing-a-workflow) | изменено |
 | 11/1/2019 | [Службы Access](/AlchemyInsights/access-services) | изменено |
 | 11/1/2019 | [Активируйте новую подписку с помощью ключа продукта](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | изменено |
-| 11/1/2019 | [Активация Office](/AlchemyInsights/activate-office) | изменено |
+| 11/1/2019 | Активация Office | изменено |
 | 11/1/2019 | [Активация подписки многопользовательской лицензии на Microsoft Office 365](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | изменено |
 | 11/1/2019 | [Устранение неполадок активации](/AlchemyInsights/activation-troubleshooting) | изменено |
 | 11/1/2019 | [Добавление группы к сайту SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | изменено |
@@ -515,7 +515,7 @@ ms.locfileid: "29383441"
 | 11/1/2019 | [Добавление или удаление псевдоним электронной почты для пользователя](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | изменено |
 | 11/1/2019 | [Добавление рабочих мест в будущих подписки](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | изменено |
 | 11/1/2019 | [Добавление рабочих мест в будущих подписки](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | изменено |
-| 11/1/2019 | [Добавление пользователей в Office 365](/AlchemyInsights/add-users-to-office-365) | изменено |
+| 11/1/2019 | Добавление пользователей в Office 365 | изменено |
 | 11/1/2019 | [Добавление внешних пользователей в группу рассылки?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | изменено |
 | 11/1/2019 | [Добавление внешних пользователей](/AlchemyInsights/adding-external-users) | изменено |
 | 11/1/2019 | [Службы федерации Active Directory Federation истечение срока действия сертификата](/AlchemyInsights/adfs-federation-certificate-expiring) | изменено |
@@ -569,11 +569,11 @@ ms.locfileid: "29383441"
 | 11/1/2019 | [Измените имя домена в службе SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | изменено |
 | 11/1/2019 | [Изменение частоты оплаты](/AlchemyInsights/change-how-often-you-pay) | изменено |
 | 11/1/2019 | [Изменение MDM центра сертификации](/AlchemyInsights/change-mdm-authority) | изменено |
-| 11/1/2019 | [Изменение NameServers](/AlchemyInsights/change-nameservers) | изменено |
+| 11/1/2019 | Change nameservers | изменено |
 | 11/1/2019 | [Изменение OneDrive для бизнеса квота хранилища](/AlchemyInsights/change-onedrive-for-business-storage-quota) | изменено |
 | 11/1/2019 | [Изменение метода оплаты](/AlchemyInsights/change-payment-method) | изменено |
 | 11/1/2019 | [Изменение разрешений для списка SharePoint или библиотеки](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | изменено |
-| 11/1/2019 | [Изменение запасного адреса электронной почты, на который отправляются уведомления о выставлении счетов](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | изменено |
+| 11/1/2019 | Изменение запасного адреса электронной почты, на который отправляются уведомления о выставлении счетов | изменено |
 | 11/1/2019 | [Изменение имени участника-пользователя](/AlchemyInsights/change-upn) | изменено |
 | 11/1/2019 | [Изменения для доступа внешних пользователей](/AlchemyInsights/changes-to-external-user-access) | изменено |
 | 11/1/2019 | [Изменение размера сообщения или вложения](/AlchemyInsights/changing-message-or-attachment-size) | изменено |
@@ -600,7 +600,7 @@ ms.locfileid: "29383441"
 | 11/1/2019 | [Создание потока](/AlchemyInsights/create-a-flow) | изменено |
 | 11/1/2019 | [Создание современных группы сайта](/AlchemyInsights/create-a-modern-team-site) | изменено |
 | 11/1/2019 | [Создание общего почтового ящика](/AlchemyInsights/create-a-shared-mailbox) | изменено |
-| 11/1/2019 | [Создание сайта SharePoint](/AlchemyInsights/create-a-sharepoint-site) | изменено |
+| 11/1/2019 | Создание сайта SharePoint | изменено |
 | 11/1/2019 | [Создание сайта в SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | изменено |
 | 11/1/2019 | [Создание и использование общего почтового ящика](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | изменено |
 | 11/1/2019 | [Создайте и используйте общий почтовый ящик](/AlchemyInsights/create-and-use-a-shared-mailbox) | изменено |
@@ -618,7 +618,7 @@ ms.locfileid: "29383441"
 | 11/1/2019 | [Отклоненные кредитной карты](/AlchemyInsights/declined-credit-card) | изменено |
 | 11/1/2019 | [Разрешения делегированных почтовых ящиков в гибридной среде](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | изменено |
 | 11/1/2019 | [Удаление связи сайтов](/AlchemyInsights/delete-a-communication-site) | изменено |
-| 11/1/2019 | [Удаление страницы](/AlchemyInsights/delete-a-page) | изменено |
+| 11/1/2019 | Удаление страницы | изменено |
 | 11/1/2019 | [Удаление сайта SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | изменено |
 | 11/1/2019 | [Удаление сайта SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | изменено |
 | 11/1/2019 | [Удаление связи сайтов](/AlchemyInsights/delete-communication-site) | изменено |
@@ -639,7 +639,7 @@ ms.locfileid: "29383441"
 
 | Дата публикации |Название статьи | Изменение |
 |------|------------|--------|
-| 1/14/2019 | Заполнитель Алхимия | удалены |
-| 1/14/2019 | Добавление домена Алхимия | удалены |
+| 1/14/2019 | Заполнитель Алхимия | Удаленные |
+| 1/14/2019 | Добавление домена Алхимия | Удаленные |
 | 1/14/2019 | [Домашняя страница полезные сведения о Алхимия](/AlchemyInsights/index) | изменено |
 | 1/17/2019 | [то же, что имя файла лучше всего подходит [ПРАВИЛА # — описание]](/AlchemyInsights/1-alchemy-insight-template) | добавлен |
