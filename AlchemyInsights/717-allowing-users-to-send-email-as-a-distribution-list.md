@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
 ms.openlocfilehash: 5def8c3d396c1324112bfc9288ad18755142c14d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28308785"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497991"
 ---
 # <a name="allow-users-to-send-email-as-a-distribution-group"></a>Разрешить пользователям отправлять электронную почту как группы рассылки
 
 Чтобы разрешить пользователям отправлять сообщения, выглядящие поступают из существующей группы рассылки, выполните следующие действия:
   
-1. В [центре администрирования Exchange](https://outlook.office365.com/ecp/)перейдите к разделу **Получатели** \> **групп**.
+1. В Центре администрирования Exchange выберите [Получатели](https://outlook.office365.com/ecp/) **** \>.
     
 2. Выберите группу рассылки, которую необходимо изменить и нажмите кнопку **Изменить**.
     

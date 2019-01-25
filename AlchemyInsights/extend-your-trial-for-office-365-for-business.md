@@ -1,5 +1,5 @@
 ---
-title: Расширение пробная версия Office 365 для бизнеса
+title: Продление пробной версии Office 365 для бизнеса
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: c325ca115037831d220d9dd5a7b092ab74aee593
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307893"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486126"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Расширение пробная версия Office 365 для бизнеса
+# <a name="extend-your-trial-for-office-365-for-business"></a>Продление пробной версии Office 365 для бизнеса
 
 Если в течение 15 дней до истечения пробной подписки и еще не была расширена пробной версии до, можно расширить для другого периода 30-дневную пробную версию. Можно сделать, только один раз.
   

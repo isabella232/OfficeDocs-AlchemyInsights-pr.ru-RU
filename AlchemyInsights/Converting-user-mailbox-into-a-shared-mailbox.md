@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 22ad1b3fb818b40bcd77974031735f931e986968
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28308959"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486218"
 ---
 Почтовый ящик пользователя можно преобразовать к общему почтовому ящику, только если у пользователя есть лицензии Exchange. После преобразования почтовый ящик будет продолжать отображаться в список активных пользователей, так как этот список включает в себя общие почтовые ящики. Тем не менее преобразованные почтового ящика будет также отображаться в списке общего почтового ящика. 
   

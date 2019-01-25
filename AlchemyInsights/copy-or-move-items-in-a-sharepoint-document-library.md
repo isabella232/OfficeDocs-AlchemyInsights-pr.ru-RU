@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307884"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486067"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Копирование и перемещение элементов в библиотеке документов SharePoint
 
@@ -37,6 +37,6 @@ ms.locfileid: "28307884"
 3. Нажмите кнопку **Копировать** или **Переместить сюда**.
     
 > [!NOTE]
->  Одновременно можно скопировать до 500 МБ, файлов и папок. > При копировании документы, имеющие: журнал версий, копируются только последнюю версию. При перемещении документов, их журнал также перемещены. 
+>  Одновременно можно скопировать до 500 МБ, файлов и папок. > при копировании документы, имеющие: журнал версий, только последнюю версию скопирован. При перемещении документов, их журнал также перемещены. 
   
 

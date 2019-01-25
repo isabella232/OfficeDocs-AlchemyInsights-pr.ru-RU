@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
 ms.openlocfilehash: 05346ac6e4d5eac40ff0d728b5be36f846460fc9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307867"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486737"
 ---
 Как администратора у вас есть возможность заблокируйте доступ к Exchange Online PowerShell для пользователей. Для получения дополнительных сведений см.
   
-- [Управление удаленным доступом к PowerShell в Exchange Online](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- Управление удаленным доступом к PowerShell в Exchange Online
     
 - [Клиентские правила в Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (найдите протокола **RemotePowerShell** ) 
     

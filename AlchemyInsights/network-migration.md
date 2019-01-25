@@ -1,5 +1,5 @@
 ---
-title: Миграция сети
+title: Перенос сети
 ms.author: pebaum
 author: pebaum
 ms.date: 7/27/2018
@@ -9,13 +9,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 0ca24de4ed42b423e5e227529395a9d6b0a17b64
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28309145"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486195"
 ---
-# <a name="network-migration"></a>Миграция сети
+# <a name="network-migration"></a>Перенос сети
 
 Клиент O365 возможно связан с несколькими сети Yammer в 1 клиентов: многие конфигурации сети. Запуск 16 октября 2018, Yammer больше не поддерживает несколько сетей Yammer, связанные с одного клиента Office 365. Можно выполнить перенос сети для получения предпочитаемой конфигурацией 1:1.
   

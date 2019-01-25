@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
 ms.openlocfilehash: 6eae9146d33f5fc307085dbf931d57bdbb28b82e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28309147"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486076"
 ---
 Возникают проблемы с **Предотвращения потери данных (DLP)** не работает для контента, содержащий **Номер банковского счета в США** , при использовании типа конфиденциальной информации DLP в O365? Если это так, убедитесь, что ваш контент содержит необходимые сведения для что выполняет поиск политики защиты от потери данных при вычислении ее. 
   
@@ -28,7 +28,7 @@ ms.locfileid: "28309147"
     
 - **[Определение:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)** Политики защиты от потери данных — 75% уверены в том, что этот тип конфиденциальных данных обнаружил if в рамках близости 300 знаков: 
     
-  - Находит контент, который соответствует шаблону регулярное выражение Regex_usa_bank_account_number
+  - регулярное выражение Regex_usa_bank_account_number находит содержимое, которое соответствует шаблону;
     
   - находится ключевое слово из Keyword_usa_Bank_Account.
     
