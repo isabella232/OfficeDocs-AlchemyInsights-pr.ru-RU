@@ -12,48 +12,48 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
 ms.openlocfilehash: 05b2165477de270d4062773582b530abb63336a9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28308605"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486031"
 ---
-[<span data-ttu-id="9e5f7-102">Необходимые лицензии для Microsoft задач</span><span class="sxs-lookup"><span data-stu-id="9e5f7-102">Required licenses for Microsoft ToDo</span></span>](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[<span data-ttu-id="88b90-102">Необходимые лицензии для Microsoft задач</span><span class="sxs-lookup"><span data-stu-id="88b90-102">Required licenses for Microsoft ToDo</span></span>](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-<span data-ttu-id="9e5f7-103">Пользователь должен иметь одно из следующих число лицензий на использование Microsoft задач:</span><span class="sxs-lookup"><span data-stu-id="9e5f7-103">A user must have one of the following licences to use Microsoft ToDo:</span></span>
+<span data-ttu-id="88b90-103">Пользователь должен иметь одно из следующих число лицензий на использование Microsoft задач:</span><span class="sxs-lookup"><span data-stu-id="88b90-103">A user must have one of the following licences to use Microsoft ToDo:</span></span>
   
-- <span data-ttu-id="9e5f7-104">Бизнес базовый</span><span class="sxs-lookup"><span data-stu-id="9e5f7-104">Business Essentials</span></span>
+- <span data-ttu-id="88b90-104">Бизнес базовый</span><span class="sxs-lookup"><span data-stu-id="88b90-104">Business Essentials</span></span>
     
-- <span data-ttu-id="9e5f7-105">Бизнес премиум</span><span class="sxs-lookup"><span data-stu-id="9e5f7-105">Business Premium</span></span>
+- <span data-ttu-id="88b90-105">Бизнес премиум</span><span class="sxs-lookup"><span data-stu-id="88b90-105">Business Premium</span></span>
     
-- <span data-ttu-id="9e5f7-106">Microsoft 365 Firstline F1</span><span class="sxs-lookup"><span data-stu-id="9e5f7-106">Microsoft 365 Firstline F1</span></span>
+- <span data-ttu-id="88b90-106">Microsoft 365 Firstline F1</span><span class="sxs-lookup"><span data-stu-id="88b90-106">Microsoft 365 Firstline F1</span></span>
     
-- <span data-ttu-id="9e5f7-107">Любой план Office 365 для предприятия</span><span class="sxs-lookup"><span data-stu-id="9e5f7-107">Any Office 365 Enterprise plan</span></span>
+- <span data-ttu-id="88b90-107">Любой план Office 365 для предприятия</span><span class="sxs-lookup"><span data-stu-id="88b90-107">Any Office 365 Enterprise plan</span></span>
     
-- <span data-ttu-id="9e5f7-108">Secure производительности бизнеса</span><span class="sxs-lookup"><span data-stu-id="9e5f7-108">Secure Productive Business</span></span>
+- <span data-ttu-id="88b90-108">Secure производительности бизнеса</span><span class="sxs-lookup"><span data-stu-id="88b90-108">Secure Productive Business</span></span>
     
-- <span data-ttu-id="9e5f7-109">Secure Productive Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="9e5f7-109">Secure Productive Enterprise E3</span></span>
+- <span data-ttu-id="88b90-109">Secure Productive Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="88b90-109">Secure Productive Enterprise E3</span></span>
     
-- <span data-ttu-id="9e5f7-110">Secure Productive Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="9e5f7-110">Secure Productive Enterprise E5</span></span>
+- <span data-ttu-id="88b90-110">Secure Productive Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="88b90-110">Secure Productive Enterprise E5</span></span>
     
-- <span data-ttu-id="9e5f7-111">Любой плана обучения Office 365</span><span class="sxs-lookup"><span data-stu-id="9e5f7-111">Any Office 365 Education plan</span></span>
+- <span data-ttu-id="88b90-111">Любой плана обучения Office 365</span><span class="sxs-lookup"><span data-stu-id="88b90-111">Any Office 365 Education plan</span></span>
     
-- <span data-ttu-id="9e5f7-112">Microsoft 365 A3</span><span class="sxs-lookup"><span data-stu-id="9e5f7-112">Microsoft 365 A3</span></span>
+- <span data-ttu-id="88b90-112">Microsoft 365 A3</span><span class="sxs-lookup"><span data-stu-id="88b90-112">Microsoft 365 A3</span></span>
     
-- <span data-ttu-id="9e5f7-113">Microsoft 365 A5</span><span class="sxs-lookup"><span data-stu-id="9e5f7-113">Microsoft 365 A5</span></span>
+- <span data-ttu-id="88b90-113">Microsoft 365 A5</span><span class="sxs-lookup"><span data-stu-id="88b90-113">Microsoft 365 A5</span></span>
     
-<span data-ttu-id="9e5f7-114">В дополнение к лицензии продукта один из следующих версий Exchange Online необходимо для задач, должны иметь возможность синхронизации пользовательских данных:</span><span class="sxs-lookup"><span data-stu-id="9e5f7-114">In addition to a valid product license, one of the following versions of Exchange Online is needed for ToDo to be able to sync user data:</span></span> 
+<span data-ttu-id="88b90-114">В дополнение к лицензии продукта один из следующих версий Exchange Online необходимо для задач, должны иметь возможность синхронизации пользовательских данных:</span><span class="sxs-lookup"><span data-stu-id="88b90-114">In addition to a valid product license, one of the following versions of Exchange Online is needed for ToDo to be able to sync user data:</span></span> 
   
-- <span data-ttu-id="9e5f7-115">Exchange Online (план 1)</span><span class="sxs-lookup"><span data-stu-id="9e5f7-115">Exchange Online Plan 1</span></span>
+- <span data-ttu-id="88b90-115">Exchange Online (план 1)</span><span class="sxs-lookup"><span data-stu-id="88b90-115">Exchange Online Plan 1</span></span>
     
-- <span data-ttu-id="9e5f7-116">Exchange Online (план 2)</span><span class="sxs-lookup"><span data-stu-id="9e5f7-116">Exchange Online Plan 2</span></span>
+- <span data-ttu-id="88b90-116">Exchange Online (план 2)</span><span class="sxs-lookup"><span data-stu-id="88b90-116">Exchange Online Plan 2</span></span>
     
-- <span data-ttu-id="9e5f7-117">Основы Exchange</span><span class="sxs-lookup"><span data-stu-id="9e5f7-117">Exchange Essentials</span></span>
+- <span data-ttu-id="88b90-117">Основы Exchange</span><span class="sxs-lookup"><span data-stu-id="88b90-117">Exchange Essentials</span></span>
     
-- <span data-ttu-id="9e5f7-118">Базовая подписка на Exchange Online</span><span class="sxs-lookup"><span data-stu-id="9e5f7-118">Exchange Online Kiosk</span></span>
+- <span data-ttu-id="88b90-118">Базовая подписка на Exchange Online</span><span class="sxs-lookup"><span data-stu-id="88b90-118">Exchange Online Kiosk</span></span>
     
-- <span data-ttu-id="9e5f7-119">Exchange Online POP</span><span class="sxs-lookup"><span data-stu-id="9e5f7-119">Exchange Online POP</span></span>
+- <span data-ttu-id="88b90-119">Exchange Online POP</span><span class="sxs-lookup"><span data-stu-id="88b90-119">Exchange Online POP</span></span>
     
-[<span data-ttu-id="9e5f7-120">Назначение лицензий для учетных записей пользователей с помощью PowerShell в Office 365</span><span class="sxs-lookup"><span data-stu-id="9e5f7-120">Assign licenses to user accounts with Office 365 PowerShell</span></span>](https://docs.microsoft.com/en-us/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[<span data-ttu-id="88b90-120">Назначение лицензий для учетных записей пользователей с помощью PowerShell в Office 365</span><span class="sxs-lookup"><span data-stu-id="88b90-120">Assign licenses to user accounts with Office 365 PowerShell</span></span>](https://docs.microsoft.com/en-us/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   
 
