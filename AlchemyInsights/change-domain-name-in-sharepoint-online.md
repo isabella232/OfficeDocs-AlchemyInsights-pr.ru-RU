@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
 ms.openlocfilehash: ff7ed718299a88b21638ab1b73a6e9b631d8659b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28309131"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499359"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Измените имя домена в службе SharePoint Online
 
-К сожалению нельзя изменить имя домена SharePoint Online для вашей организации в Office 365. Например если название организации изменяется с «Contoso» на «Fourth Coffee», не может изменить contoso.sharepoint.com для fourthcoffee.sharepoint.com.
+К сожалению, в Office 365 невозможно изменить доменное имя SharePoint Online для организации. Например, если название организации изменилось с Contoso на Fourth Coffee, вы не сможете изменить доменное имя contoso.sharepoint.com на fourthcoffee.sharepoint.com.
   
 Чтобы использовать fourthcoffee.sharepoint.com имя домена, необходимо приобрести новой подписки Office 365 и перемещение всех сообщений электронной почты, файлы и другие данные, которые необходимо сохранить, чтобы создать подписку.
   
