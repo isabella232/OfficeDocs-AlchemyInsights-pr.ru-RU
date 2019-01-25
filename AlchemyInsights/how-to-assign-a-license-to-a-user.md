@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28308802"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486885"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Назначение лицензии пользователя
 
 Пользователь должен иметь лицензию для доступа к службам. Ниже перечислены действия, чтобы добавить, изменить или удалить лицензии у пользователя.
   
-1. В центре администрирования перейдите на страницу [Активных пользователей](https://go.microsoft.com/fwlink/p/?linkid=834822) , или выберите **пользователей** \> **Активные пользователи**.
+1. В Центре администрирования откройте страницу [Активные пользователи](https://go.microsoft.com/fwlink/p/?linkid=834822) или выберите **Пользователи** \> **Активные пользователи**.
     
 2. Установите флажок рядом с именем пользователя, которому требуется назначить, изменить или удалить лицензии.
     

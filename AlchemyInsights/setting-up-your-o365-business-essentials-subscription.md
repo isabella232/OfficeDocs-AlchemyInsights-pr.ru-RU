@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28309065"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486806"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Настройка подписки O365 Business Essentials
 
 Создайте учетные записи Office 365 и Добавление домена
   
-- На этом этапе мастер установки использовать для создания учетные записи Office 365 для пользователей и добавить собственный домен. Мастер позволяет настраивать идентификатор пользователя и адрес электронной почты в бизнесе, как [rob@contoso.com](mailto:rob@contoso.com)всех пользователей.
+- На этом шаге с помощью мастера настройки создаются учетные записи Office 365 для пользователей и добавляется собственный домен. Мастер позволяет персонализировать идентификаторы и адреса электронной почты всех пользователей с учетом корпоративных стандартов, например так: gregory@contoso.com.
     
 - Перейдите в [Центр администрирования Office 365](https://login.partner.microsoftonline.cn/).
     
