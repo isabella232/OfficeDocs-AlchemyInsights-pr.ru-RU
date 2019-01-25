@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
 ms.openlocfilehash: 024ee853d7752420ccd9d12d7762d9a578f28b60
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28308109"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486117"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="9a77d-102">Лицензионного соглашения enterprise, активируемого на другую учетную запись</span><span class="sxs-lookup"><span data-stu-id="9a77d-102">Volume licensing enterprise agreement activated on wrong account</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="9aea2-102">Лицензионного соглашения enterprise, активируемого на другую учетную запись</span><span class="sxs-lookup"><span data-stu-id="9aea2-102">Volume licensing enterprise agreement activated on wrong account</span></span>
 
-<span data-ttu-id="9a77d-103">Если в подписках приобрести отдельно по соглашению корпоративного лицензирования многопользовательской активации на неверный клиента, используйте параметр «назовем вы» для поговорите с инженером службы поддержки.</span><span class="sxs-lookup"><span data-stu-id="9a77d-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="9aea2-103">Если в подписках приобрести отдельно по соглашению корпоративного лицензирования многопользовательской активации на неверный клиента, используйте параметр «назовем вы» для поговорите с инженером службы поддержки.</span><span class="sxs-lookup"><span data-stu-id="9aea2-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
   
 
