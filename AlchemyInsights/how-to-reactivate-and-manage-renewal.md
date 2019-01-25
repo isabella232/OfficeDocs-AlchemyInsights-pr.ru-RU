@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
 ms.openlocfilehash: de9ab3b22eb2416f47c99f0588bc73d1ad57ab2d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28308133"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486551"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a><span data-ttu-id="7730c-102">Повторная активация и управлении повторяющихся выставления счетов</span><span class="sxs-lookup"><span data-stu-id="7730c-102">How to reactivate and manage recurring billing</span></span>
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a><span data-ttu-id="b5db0-102">Повторная активация и управлении повторяющихся выставления счетов</span><span class="sxs-lookup"><span data-stu-id="b5db0-102">How to reactivate and manage recurring billing</span></span>
 
-<span data-ttu-id="7730c-p101">Похоже, у вас есть подписка, истек срок действия. Если вы хотите снова включить его, здесь как.</span><span class="sxs-lookup"><span data-stu-id="7730c-p101">Looks like you have a subscription that has expired. If you would like to reactivate it, here's how.</span></span>
+<span data-ttu-id="b5db0-p101">Похоже, у вас есть подписка, истек срок действия. Если вы хотите снова включить его, здесь как.</span><span class="sxs-lookup"><span data-stu-id="b5db0-p101">Looks like you have a subscription that has expired. If you would like to reactivate it, here's how.</span></span>
   
-1. <span data-ttu-id="7730c-105">В центре администрирования перейдите на страницу [подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) или перейдите к **выставления счетов** \> **подписки**.</span><span class="sxs-lookup"><span data-stu-id="7730c-105">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="b5db0-105">В центре администрирования перейдите на страницу [подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) или перейдите к **выставления счетов** \> **подписки**.</span><span class="sxs-lookup"><span data-stu-id="b5db0-105">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="7730c-106">Выберите подписки, который является **истек** или **отключено**.</span><span class="sxs-lookup"><span data-stu-id="7730c-106">Choose the subscription that is **Expired** or **Disabled**.</span></span>
+2. <span data-ttu-id="b5db0-106">Выберите подписки, который является **истек** или **отключено**.</span><span class="sxs-lookup"><span data-stu-id="b5db0-106">Choose the subscription that is **Expired** or **Disabled**.</span></span>
     
-3. <span data-ttu-id="7730c-107">Выберите **повторной активации**.</span><span class="sxs-lookup"><span data-stu-id="7730c-107">Choose **Reactivate**.</span></span>
+3. <span data-ttu-id="b5db0-107">Выберите **повторной активации**.</span><span class="sxs-lookup"><span data-stu-id="b5db0-107">Choose **Reactivate**.</span></span>
     
-    <span data-ttu-id="7730c-108">Если вы не видите **повторной активации** как вариант, параметр «назовем вы» обращение к специалисту службы поддержки пользователей для повторной активации подписки.</span><span class="sxs-lookup"><span data-stu-id="7730c-108">If you do not see **Reactivate** as an option, use the "Let us call you" option to talk to a support engineer to reactivate your subscription.</span></span> 
+    <span data-ttu-id="b5db0-108">Если вы не видите **повторной активации** как вариант, параметр «назовем вы» обращение к специалисту службы поддержки пользователей для повторной активации подписки.</span><span class="sxs-lookup"><span data-stu-id="b5db0-108">If you do not see **Reactivate** as an option, use the "Let us call you" option to talk to a support engineer to reactivate your subscription.</span></span> 
     
-4. <span data-ttu-id="7730c-p102">Для повторной активации, вам потребуется обновить сведения о вашей оплаты. Введите сведения о платежей и нажмите кнопку **Submit**.</span><span class="sxs-lookup"><span data-stu-id="7730c-p102">In order to reactivate, you'll be asked to update your payment details. Enter your payment details and choose **Submit**.</span></span>
+4. <span data-ttu-id="b5db0-p102">Для повторной активации, вам потребуется обновить сведения о вашей оплаты. Введите сведения о платежей и нажмите кнопку **Submit**.</span><span class="sxs-lookup"><span data-stu-id="b5db0-p102">In order to reactivate, you'll be asked to update your payment details. Enter your payment details and choose **Submit**.</span></span>
     
-<span data-ttu-id="7730c-111">Для управления ежемесячно или ежегодно выставления счетов вы можно включать **Типовой выставления счетов** , включено или отключено.</span><span class="sxs-lookup"><span data-stu-id="7730c-111">To manage monthly or yearly billing you can toggle **Recurring billing** on or off.</span></span> 
+<span data-ttu-id="b5db0-111">Для управления ежемесячно или ежегодно выставления счетов вы можно включать **Типовой выставления счетов** , включено или отключено.</span><span class="sxs-lookup"><span data-stu-id="b5db0-111">To manage monthly or yearly billing you can toggle **Recurring billing** on or off.</span></span> 
   
-1. <span data-ttu-id="7730c-112">В центре администрирования перейдите на страницу [подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) или перейдите к **выставления счетов** \> **подписки**.</span><span class="sxs-lookup"><span data-stu-id="7730c-112">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="b5db0-112">В центре администрирования перейдите на страницу [подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) или перейдите к **выставления счетов** \> **подписки**.</span><span class="sxs-lookup"><span data-stu-id="b5db0-112">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="7730c-113">Выберите подписку, для которого вы хотите управлять повторяющихся выставления счетов.</span><span class="sxs-lookup"><span data-stu-id="7730c-113">Choose the subscription for which you want to manage recurring billing.</span></span>
+2. <span data-ttu-id="b5db0-113">Выберите подписку, для которого вы хотите управлять повторяющихся выставления счетов.</span><span class="sxs-lookup"><span data-stu-id="b5db0-113">Choose the subscription for which you want to manage recurring billing.</span></span>
     
-3. <span data-ttu-id="7730c-114">Переключитесь в переключателя **выставления счетов типовой** **включено** или **отключено**.</span><span class="sxs-lookup"><span data-stu-id="7730c-114">Switch the **Recurring billing** toggle to **On** or **Off**.</span></span>
+3. <span data-ttu-id="b5db0-114">Переключитесь в переключателя **выставления счетов типовой** **включено** или **отключено**.</span><span class="sxs-lookup"><span data-stu-id="b5db0-114">Switch the **Recurring billing** toggle to **On** or **Off**.</span></span>
     
-<span data-ttu-id="7730c-115">Для получения дополнительных сведений см.: [Управление регулярное выставления счетов по подписке](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span><span class="sxs-lookup"><span data-stu-id="7730c-115">For more information, see: [Manage recurring billing for your subscription](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
+<span data-ttu-id="b5db0-115">Для получения дополнительных сведений см.: [Управление регулярное выставления счетов по подписке](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span><span class="sxs-lookup"><span data-stu-id="b5db0-115">For more information, see: [Manage recurring billing for your subscription](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
   
 
