@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
 ms.openlocfilehash: 44c07b78c7cf52ab10b11cb3b94ae2eae76ad887
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307870"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486939"
 ---
 # <a name="create-a-shared-mailbox"></a>Создание общего почтового ящика
 
-Общего почтового ящика позволяет несколько пользователей одновременно отправлять и получать сообщения электронной почты, псевдоним, как **sales@contoso.com**без назначения другой лицензии.
+Общий почтовый ящик позволяет нескольким пользователям отправлять и получать почту, пользуясь одним и тем же адресом, например sales@contoso.com. Назначать лицензию каждому пользователю не нужно.
   
 Для получения дополнительных сведений см. [Создание общего почтового ящика](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) . 
   

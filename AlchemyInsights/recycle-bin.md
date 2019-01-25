@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: a4b1ce6c6a454939bb47fcfb183914fb26b1f6c5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28309088"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500367"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Восстановление элементов в SharePoint Online
 
@@ -30,6 +30,6 @@ ms.locfileid: "28309088"
     
 3. Выберите пункт **Восстановить**.
     
-[Восстановление удаленных элементов из корзины семейства сайтов](https://go.microsoft.com/fwlink/?linkid=866439)
+[Восстановление удаленных элементов из корзины семейства веб-сайтов](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
 ms.openlocfilehash: b92d122b774d97cd2e44cc0880dc5001065b57cc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28308073"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486974"
 ---
 Возникают проблемы с **Предотвращения потери данных (DLP)** не работает для контента, содержащий **Страховой номер (SSN)** при использовании тип конфиденциальных данных в Office 365? Если это так, убедитесь в том, что ваш контент содержит необходимые сведения для политики защиты от потери данных, которые выполняет поиск. 
   
@@ -36,7 +36,7 @@ ms.locfileid: "28308073"
     
 - **[Определение:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** Политика защиты от потери данных — это 85% уверены в том, что этот тип конфиденциальных данных обнаружил if в рамках близости 300 знаков: 
     
-  - [Функция Func_ssn](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) находит контент, который соответствует шаблону. 
+  - Функция Func_ssn находит содержимое, которое соответствует шаблону. 
     
   - Ключевое слово из [Keyword_ssn](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) найти. Включает в себя примеры ключевых слов: *социального страхования, социального страхования #, Soc сек, SSN* . Например, следующий пример приведет к запуску для политики защиты от потери данных SSN: **SSN: 489 36 8350**
     

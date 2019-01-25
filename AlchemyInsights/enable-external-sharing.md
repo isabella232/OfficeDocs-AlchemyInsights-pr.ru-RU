@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
 ms.openlocfilehash: 92c9660fda35489bfe94538800cff7060557c9a6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28308288"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29486223"
 ---
 # <a name="enable-external-sharing"></a>Включить внешний общий доступ
 
@@ -33,7 +33,7 @@ ms.locfileid: "28308288"
     
   - «Разрешить как внешние пользователи, которые принять общего доступа к приглашения и анонимных гостевых ссылок»
     
-- **Отдельные семейства сайтов**
+- Отдельные семейства веб-сайтов
     
   - Семейств - семейства сайтов выберите интересующую, веб-сайтов и выберите общий доступ - из ленты -\> убедитесь, либо параметры совместного доступа.
     

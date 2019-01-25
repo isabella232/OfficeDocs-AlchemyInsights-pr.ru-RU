@@ -10,11 +10,11 @@ localization_priority: Priority
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Распределение не более 500 слов для статьи.
 ms.openlocfilehash: 9fa764414e1af83db12d3c21da68128d3931e3fe
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28307963"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29485964"
 ---
 Распределение не более 500 слов для статьи.
   
