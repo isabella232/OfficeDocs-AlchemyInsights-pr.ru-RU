@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454227"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662943"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Обязательный клиента направленными H1, H2 не работает
 Пример текста блокировать - выполните следующие действия:
 
-1. Файлы в папке **AlchemyInsights** должны иметь идентификатор правила и имя правила с [портал партнерских Алхимия](https://alchemyportal.azurewebsites.net) в mane.
+1. Файлы в папке **AlchemyInsights** должны иметь идентификатор правила и имя правила с [портал партнерских Алхимия](https://alchemyportal.azurewebsites.net) в имени файла.
     1. например ***976-How-to-enable-litigation-hold***
 1. Используйте метаданные в верхней части этого файла в качестве шаблона. Ничего не требуется.
 1. [Портал партнерских Алхимия](https://alchemyportal.azurewebsites.net)перейдите до раздела **клиента возможность получения заголовка:** и использования, выберите пункт начала в качестве названия H1 для сведений об. 
@@ -34,3 +34,8 @@ ms.locfileid: "29454227"
     1. Ссылки всегда должно быть либо **«URL-ссылки» / внешних** или **глубокое ссылки на элементы пользовательского интерфейса**, не внутренние ссылки.
 
 И это действительно еще немного слишком много времени. Около 400 символов — лучше
+
+Когда контент готов, его по запросу для ветвления live. Затем перейдите на [портал партнерских Алхимия](https://alchemyportal.azurewebsites.net) и введите имя файла в поле URL-адрес. Убедитесь, что возможность получения проверяются и публикуются отвечает «Да» и выберите правило обновления. (Это будет выглядеть красивее в новой версии портала - отпускает в ближайшее время.)
+
+![поля URL-адреса](media/for-content-team.PNG)
+

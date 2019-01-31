@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 5068d2ce7c2bb96551d6eeb6f60044bbe741e1cb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4029a07e1108a515b9dac2def814243ae3c76c22
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29485970"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661656"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Переключатель планы для увеличения размера почтового ящика
 
 Если размер почтового ящика уже 100 ГБ, нет возможности увеличить. В этом случае выполните [Этот совет](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71). 
   
-Если размер почтового ящика 50 ГБ, можно увеличить до 100 ГБ, при переключении на [Office 365 для предприятий E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) или [Office 365 корпоративный E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Ниже приведены действия, чтобы переключиться на другой план Office 365.
+Если размер почтового ящика 50 ГБ, можно увеличить до 100 ГБ, при переключении на [Office 365 для предприятий E3](https://products.office.com/business/office-365-enterprise-e3-business-software) или [Office 365 корпоративный E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Ниже приведены действия, чтобы переключиться на другой план Office 365.
   
 1. В центре администрирования Office 365 перейдите на страницу [подписок](https://go.microsoft.com/fwlink/p/?linkid=842054) , или выберите **выставления счетов** \> **подписки**.
     

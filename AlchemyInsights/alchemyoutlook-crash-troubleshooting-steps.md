@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: ea9b108ae40126fa60679d84cd5969e2ecb629d9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1de3b2f04162388939809048259552277c4074fc
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29486127"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657439"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Сбой Outlook, действия по устранению неполадок
 
-Если возникают проблемы с рабочего стола сбой Outlook, запустите, следующие 3 действия, которые перечислены в этой статье подробно: [как диагностировать проблемы, которые привести к сбою или зависает при использовании с Office 365.](https://support.microsoft.com/en-us/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Если возникают проблемы с рабочего стола сбой Outlook, запустите, следующие 3 действия, которые перечислены в этой статье подробно: [как диагностировать проблемы, которые привести к сбою или зависает при использовании с Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
   
 Шаг 1: Изучения возможных проблем с надстройками.
   
@@ -28,6 +28,6 @@ ms.locfileid: "29486127"
   
 Шаг 3: Создание нового профиля Outlook или [средство профилей Outlook](https://aka.ms/SaRA-OutlookSetupProfile) можно запустить на состояние компьютера. 
   
-Если после обновления возникновения проблемы и действия, описанные выше не работают, может потребоваться вернуться к предыдущей сборки. Узнайте, [как вернуться к более ранней версии Office 2013 или Office 2016 Click-to-Run](https://support.microsoft.com/EN-US/help/2770432).
+Если после обновления возникновения проблемы и действия, описанные выше не работают, может потребоваться вернуться к предыдущей сборки. Узнайте, [как вернуться к более ранней версии Office 2013 или Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
   
 

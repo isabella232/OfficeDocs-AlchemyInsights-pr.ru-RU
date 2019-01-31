@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29486416"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655680"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Папка элементов для восстановления заполнен
 
@@ -36,7 +36,7 @@ ms.locfileid: "29486416"
     
 - [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-Для почтовых ящиков, которые находятся на удержании необходимо удалить удержания, прежде чем они могут удаленных элементов в папке элементов для восстановления "Администраторы". Дополнительные сведения можно [удалять элементы в папке облачные почтовые ящики на хранение элементов для восстановления](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Для почтовых ящиков, которые находятся на удержании необходимо удалить удержания, прежде чем они могут удаленных элементов в папке элементов для восстановления "Администраторы". Дополнительные сведения можно [удалять элементы в папке облачные почтовые ящики на хранение элементов для восстановления](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
   
 Для предотвращения папки элементов для восстановления стать полный "Администраторы" можно увеличить ограничение хранилища восстанавливаемых элементов папки для почтовых ящиков на хранение и настроить политику хранения почтового ящика, который перемещает элементы в папке элементов для восстановления архива пользователя почтовый ящик. В разделе [Увеличение квот для почтовых ящиков на хранение элементов для восстановления](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
   

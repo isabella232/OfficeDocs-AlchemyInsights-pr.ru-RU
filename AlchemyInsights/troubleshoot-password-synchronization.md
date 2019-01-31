@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: c71fce8621057093d23891c26f7b0285fdc8b9ed
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 589820c945fb20f00431655f9f53196e740bb38f
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29486430"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655824"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Устранение неполадок синхронизации паролей
 
@@ -57,6 +57,6 @@ ms.locfileid: "29486430"
     
   - Проверяет, что учетные записи доменных служб Active Directory (AD DS), используется локальный Соединитель Active Directory имеет правильное имя пользователя, пароль и разрешения, необходимые для синхронизации паролей.
     
-Дополнительные сведения об устранении проблем синхронизации паролей в разделе [Синхронизация паролей Устранение неполадок с синхронизацией подключить Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Дополнительные сведения об устранении проблем синхронизации паролей в разделе [Синхронизация паролей Устранение неполадок с синхронизацией подключить Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   
 
