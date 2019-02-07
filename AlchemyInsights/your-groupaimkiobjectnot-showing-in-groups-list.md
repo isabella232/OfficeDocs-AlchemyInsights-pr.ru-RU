@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: f29f31c702406ad4f64391e326bffa8c3837e858
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 38b2ea54abd7d1e227c767e3522f73c58bd3784c
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29486809"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758249"
 ---
 «{AimKIObject}», не отображается в списке группы
 
@@ -21,6 +21,6 @@ ms.locfileid: "29486809"
 
 Группы рассылки с именем «{AimKIObject}» был создан {AimKITimeElapsed} минут назад. Может потребоваться до 60 минут перед в центре администрирования появится новая группа.
   
-Если вы хотите добавить элементы или другие изменения на данный момент, используйте функцию групп в [Центре администрирования Exchange](https://support.office.com/article/https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Если вы хотите добавить элементы или другие изменения на данный момент, используйте функцию групп в [Центре администрирования Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 
