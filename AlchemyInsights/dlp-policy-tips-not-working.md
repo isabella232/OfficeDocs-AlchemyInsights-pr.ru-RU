@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657782"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786747"
 ---
+# <a name="dlp-policy-tip-issues"></a>Проблемы с подсказки политики защиты от потери данных
+
 При использовании **политик защиты от потери данных**, пользователи могут получать уведомления нарушения политики с **подсказками политики**. Администраторы могут настраивать подсказок политики для отображения во время тестирования эта политика защиты от потери данных или если политика находится в режиме полного принудительного применения. 
   
 Чтобы настроить политику советов политики защиты от потери данных в центре безопасность и соответствие требованиям в режиме полного применения политик выполните следующее:
