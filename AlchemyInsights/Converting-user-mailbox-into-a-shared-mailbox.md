@@ -6,15 +6,15 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
-ms.openlocfilehash: 22ad1b3fb818b40bcd77974031735f931e986968
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4da54121763fd33aa111f3bb3c26963cd271dc51
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29486218"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906745"
 ---
 Почтовый ящик пользователя можно преобразовать к общему почтовому ящику, только если у пользователя есть лицензии Exchange. После преобразования почтовый ящик будет продолжать отображаться в список активных пользователей, так как этот список включает в себя общие почтовые ящики. Тем не менее преобразованные почтового ящика будет также отображаться в списке общего почтового ящика. 
   
