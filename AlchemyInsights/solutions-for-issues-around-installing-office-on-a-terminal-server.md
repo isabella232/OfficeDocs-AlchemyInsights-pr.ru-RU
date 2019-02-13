@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: cfd69bab102ac58343ce98db3fb02b594673ea63
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6e877493f44b4636e1293582b5baf6bf98d1d251
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29486842"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905665"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Решения для проблемы, связанные с установкой office на сервере терминалов
 
@@ -24,13 +24,13 @@ ms.locfileid: "29486842"
     
 - Убедитесь, что Office 365 профессиональный плюс успешно активирован
     
-- Просмотр сообщений об ошибках активации на общедоступном компьютере
+- Просмотрите сообщения об ошибках для активации совместно используемый компьютер.
     
-  - Продукты, обнаруженные в вашей учетной записи, невозможно использовать для активации Office на общедоступном компьютере.
+  - «Продукты, найденные в свою учетную запись не может использоваться для активации Office в сценариях совместно используемый компьютер»
   
 Эта ошибка означает, что у вас нет план Office 365, которая включает в себя Office 365 ProPlus.
     
-  - Нелицензированный продукт
+  - «Нелицензированный продукт»
     
   - Проверьте, что пользователю назначена лицензия для Office 365 ProPlus.
     
