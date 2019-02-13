@@ -6,25 +6,25 @@ ms.date: 8/21/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 23961a99287ef1d8c5b7fdc93953975e3460aca0
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 2f96c6ee5d2f58265057641694c0536a42a5faa3
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759545"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905053"
 ---
-# <a name="having-email-delivery-issues"></a><span data-ttu-id="f0262-102">Возникли проблемы доставки электронной почты?</span><span class="sxs-lookup"><span data-stu-id="f0262-102">Having email delivery issues?</span></span>
+# <a name="having-email-delivery-issues"></a><span data-ttu-id="e8dc4-102">Возникли проблемы доставки электронной почты?</span><span class="sxs-lookup"><span data-stu-id="e8dc4-102">Having email delivery issues?</span></span>
 
-<span data-ttu-id="f0262-103">Мы обнаружил, что пользователи не удается получить сообщений, отправляемых в следующих доменов:</span><span class="sxs-lookup"><span data-stu-id="f0262-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
+<span data-ttu-id="e8dc4-103">Мы обнаружил, что пользователи не удается получить сообщений, отправляемых в следующих доменов:</span><span class="sxs-lookup"><span data-stu-id="e8dc4-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
   
-<span data-ttu-id="f0262-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="f0262-104">{HealthCheckString}</span></span>
+<span data-ttu-id="e8dc4-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="e8dc4-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="f0262-p101">Для доставки электронной почты для службы Office 365 записей NS или MX параметров домена (DNS) не настроены неправильно. Дополнительные сведения можно найти [обновления DNS-записей в Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) .</span><span class="sxs-lookup"><span data-stu-id="f0262-p101">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service. You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span> 
+<span data-ttu-id="e8dc4-p101">Для доставки электронной почты для службы Office 365 записей NS или MX параметров домена (DNS) не настроены неправильно. Дополнительные сведения можно найти [обновления DNS-записей в Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) .</span><span class="sxs-lookup"><span data-stu-id="e8dc4-p101">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service. You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span> 
   
-<span data-ttu-id="f0262-107">Чтобы устранить ее, перейдите на страницу " [домены](https://admin.microsoft.com/adminportal/home#/Domains) " в центре администрирования Office 365 и поможет с ним.</span><span class="sxs-lookup"><span data-stu-id="f0262-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Office 365 Admin Center, and we'll help you with it.</span></span> 
+<span data-ttu-id="e8dc4-107">Чтобы устранить ее, перейдите на страницу " [домены](https://admin.microsoft.com/adminportal/home#/Domains) " в центре администрирования Office 365 и поможет с ним.</span><span class="sxs-lookup"><span data-stu-id="e8dc4-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Office 365 Admin Center, and we'll help you with it.</span></span> 
   
-<span data-ttu-id="f0262-108">[Проверьте вопросы и ответы по домены](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) другие распространенные решения.</span><span class="sxs-lookup"><span data-stu-id="f0262-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span> 
+<span data-ttu-id="e8dc4-108">[Проверьте вопросы и ответы по домены](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) другие распространенные решения.</span><span class="sxs-lookup"><span data-stu-id="e8dc4-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span> 
   
 
