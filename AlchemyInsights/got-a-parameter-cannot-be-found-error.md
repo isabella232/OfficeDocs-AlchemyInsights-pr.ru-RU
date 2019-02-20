@@ -1,5 +1,5 @@
 ---
-title: Произошла ошибка «Не удается найти параметр»?
+title: Получено сообщение об ошибке "не удается найти параметр"?
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -8,17 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 57d9093381217736869c48cf9f83ec6831e916a6
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 66858a36cbd1cea17d94549c17bbfe618d43f33f
+ms.sourcegitcommit: c3ed7525f24f80cc6372aa3f496463500bb0c3ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936913"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "30088090"
 ---
-# <a name="migrating-email-from-imap-email-system-to-office-365"></a><span data-ttu-id="e62e9-102">Миграцию электронной почты из системы электронной почты IMAP в Office 365</span><span class="sxs-lookup"><span data-stu-id="e62e9-102">Migrating email from IMAP email system to Office 365</span></span>
+# <a name="migrating-email-from-imap-email-system-to-office-365"></a><span data-ttu-id="71026-102">Перенос электронной почты из почтовой системы IMAP в Office 365</span><span class="sxs-lookup"><span data-stu-id="71026-102">Migrating email from IMAP email system to Office 365</span></span>
 
-<span data-ttu-id="e62e9-103">Миграция электронной почты из системы почты IMAP, выполните этот процесс: [Миграция IMAP в центре администрирования Office 365](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)</span><span class="sxs-lookup"><span data-stu-id="e62e9-103">To migrate email from an IMAP mail system, please follow this process: [IMAP migration in the Office 365 admin center](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)</span></span>
+<span data-ttu-id="71026-103">Чтобы перенести электронную почту из почтовой системы IMAP, выполните следующую процедуру: [Миграция IMAP в центре администрирования Office 365](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)</span><span class="sxs-lookup"><span data-stu-id="71026-103">To migrate email from an IMAP mail system, please follow this process: [IMAP migration in the Office 365 admin center](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)</span></span>
   
-<span data-ttu-id="e62e9-p101">Многие Крупные организации потребуется тщательное планирование для управления ожиданиям пользователей. В статье, [что вам нужно знать о переносе ваши почтовые ящики IMAP в Office 365](https://support.office.com/article/3fe19996-29bc-4879-aab9-5a622b2f1481) помогают управлять изменения.</span><span class="sxs-lookup"><span data-stu-id="e62e9-p101">Many large organizations will need to plan carefully to manage user expectations. The [What you need to know about migrating your IMAP mailboxes to Office 365](https://support.office.com/article/3fe19996-29bc-4879-aab9-5a622b2f1481) article will help you manage the change.</span></span> 
+<span data-ttu-id="71026-p101">Во многих крупных организациях необходимо тщательно спланировать управление ожиданиями пользователей. То, [что необходимо знать о переносе почтовых ящикОВ IMAP в статью Office 365](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) , поможет вам управлять этим изменением.</span><span class="sxs-lookup"><span data-stu-id="71026-p101">Many large organizations will need to plan carefully to manage user expectations. The [What you need to know about migrating your IMAP mailboxes to Office 365](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) article will help you manage the change.</span></span> 
+
+<span data-ttu-id="71026-106">Кроме того, ознакомьтесь со страницей [Office 365 со FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) для получения справки по асситед при миграции, если это возможно.</span><span class="sxs-lookup"><span data-stu-id="71026-106">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assited help with migration, if eligible.</span></span>
   
 
