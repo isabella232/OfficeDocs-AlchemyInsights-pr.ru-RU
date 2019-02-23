@@ -1,5 +1,5 @@
 ---
-title: Проверка домена в Office 365
+title: Проверка домена с помощью Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 1/14/2019
@@ -9,17 +9,17 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
-ms.openlocfilehash: 4259ab5ee7a76193b435aa518c28fe3c64a8178f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0978e89aee912dbc4166008b87866f6ad1dfffec
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29903469"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208922"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a>Проверка домена в Office 365
+# <a name="how-to-verify-your-domain-with-office-365"></a>Проверка домена с помощью Office 365
 
-Необходимо будет добавления записи TXT для вашего регистратора доменных имен, чтобы убедиться, что вы владеете вашего домена. Во-первых, следуйте указаниям [мастера добавления доменов](https://portal.office.com/adminportal/home#/Domains) , нажав кнопку **Параметры** \> **домена**, а затем **Добавить домен**.
+Чтобы убедиться в том, что вы владеете доменом, необходимо добавить запись TXT в ваш регистратор доменных имен. Для начала следуйте указаниям [мастера добавления доменов](https://portal.office.com/adminportal/home#/Domains) , щелкнув **** \> **домен**параметров, а затем **Добавить домен**.
   
-Следуйте инструкциям в [создание записей DNS на любой поставщика услуг размещения DNS для Office 365] (https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider для добавления записи TXT для проверки вашего домена. 
+Следуйте инструкциям в статье [Создание записей DNS для поставщика услуг хостинга DNS для Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , чтобы добавить запись TXT для проверки домена. 
   
 

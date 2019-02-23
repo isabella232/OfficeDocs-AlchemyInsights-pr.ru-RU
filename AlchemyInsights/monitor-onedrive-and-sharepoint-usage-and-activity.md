@@ -1,5 +1,5 @@
 ---
-title: Мониторинг использования OneDrive и SharePoint и действия
+title: Мониторинг использования и активности в OneDrive и SharePoint
 ms.author: kaarins
 author: kaarins
 ms.date: 6/10/2018
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 3d5e3e5708f9ee6b9bec8cb13d0f9b23cbcf6610
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 66188c1065ea9b844673af1214995be2da7fd810
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933925"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208058"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Просмотр отчетов об активности OneDrive и SharePoint и использовании
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Просмотр отчетов об активности и использовании OneDrive и SharePoint
 
-Перейдите на [страницы отчетов об использовании в центре администрирования Office 365](https://admin.microsoft.com/AdminPortal/Home). В разделе **Выберите отчет**выберите OneDrive или SharePoint действие или об использовании отчет. 
+Перейдите на [страницу отчеты об использовании в центре администрирования Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). В разделе **Выбор отчета**выберите сведения об активности или использовании в OneDrive или SharePoint. 
   
 [Дополнительные сведения об отчетах OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
   
