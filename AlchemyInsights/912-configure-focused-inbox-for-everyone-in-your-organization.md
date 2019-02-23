@@ -1,5 +1,5 @@
 ---
-title: 912 Настройка Focused папки "Входящие" для всех пользователей в вашей организации
+title: 912 Настройка сортировки почты для всех пользователей в Организации
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: fa4198a8ca09acd3138eb1543682da2b86a5b8c4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88dc9e01a50100f94afe659556ecc93fe8cec5b6
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913293"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209066"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Включить папки "Входящие" фокус включено или отключено для всех пользователей
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Включение и отключение сортировки почты для всех пользователей
 
-Сведения содержатся в разделе [Настройка фокус папки "Входящие" для всех пользователей в организации](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
+Инструкции приведены в разделе [Настройка отсортированНой папки "отсортированНые" для всех пользователей в Организации](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
   
- **Примечание**: для этой процедуры требуется Exchange Online PowerShell. Вы хотите сделать это в центре администрирования Office 365? [Голосовать, здесь!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+ **Примечание**. для этой процедуры требуется Exchange Online PowerShell. Вы хотите сделать это в центре администрирования Microsoft 365 вместо этого? [Проголосуйте здесь!](https://go.microsoft.com/fwlink/p/?linkid=862489)
   
 
