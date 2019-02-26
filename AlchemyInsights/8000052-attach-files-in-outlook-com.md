@@ -1,5 +1,5 @@
 ---
-title: 8000052 прикрепление файлов в Outlook.com
+title: 8000052 вложение файлов в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: e3f1b2692af4d70167133c7a4f913338e491d242
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e6709cc7b29922b3af919ed1a813cdd701d4a424
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941017"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244306"
 ---
-# <a name="how-to-attach-files"></a>Присоединение файлов
+# <a name="how-to-attach-files"></a>Как вложить файлы
 
-Присоединение файлов в классический Outlook.com:
+Чтобы вложить файлы в классическое Outlook.com:
   
-1. Создайте новое сообщение или ответ на сообщение.
+1. Создание нового сообщения или ответ на сообщение.
     
-2. В верхней области создания выберите команду **присоединить**. 
+2. В верхней части области создания нажмите кнопку приСоединить ****. 
     
-Чтобы присоединить файлы в бета-версии Outlook.com:
+Чтобы вложить файлы в бета-версию Outlook.com:
   
-1. Создайте новое сообщение или ответ на сообщение.
+1. Создание нового сообщения или ответ на сообщение.
     
-2. В нижней части области создания выберите ![Подключение](media/da223d01-5fe6-448c-a3a3-e2b5262da4b9.png).
+2. В нижней части области создания выберите значок скрепки.
     
-Дополнительные сведения о [присоединении файлы в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).
+Узнайте больше о [том, как присоединять файлы в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).
   
 

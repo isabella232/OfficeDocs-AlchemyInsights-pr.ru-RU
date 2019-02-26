@@ -1,5 +1,5 @@
 ---
-title: 8000034 уведомления о прочтении в Outlook.com
+title: 8000034 уведомления о проЧтении в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 9f3a47f27099c5e53e251ed9d80a18dd643069f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898537"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243982"
 ---
-# <a name="read-receipts-in-outlookcom"></a>Уведомления о прочтении в Outlook.com
+# <a name="read-receipts-in-outlookcom"></a>Уведомления о проЧтении в Outlook.com
 
-Не могут запрашивать уведомление в Outlook.com, но можно запросить прочтении для Outlook.com сообщений, отправляемых с помощью Microsoft Outlook для Windows. Чтобы узнать, как просматривать [Add и запрос на чтение уведомления и уведомлений о доставке](https://go.microsoft.com/fwlink/p/?linkid=874355).
+Вы не можете запросить уведомление о прочтении в Outlook.com, но можете запросить уведомления о прочтении для сообщений Outlook.com, отправляемых с помощью Outlook для Windows. Сведения о том, как [Добавить и запросить уведомления о прочтении и уведомления](https://go.microsoft.com/fwlink/p/?linkid=874355)о доставке.
   
-Чтобы выбрать, как Outlook.com реагирует на чтение запросов уведомлений, перейдите в раздел **Параметры**![параметры](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Параметры** \> **почты** \> **автоматической обработки** \> **уведомления о прочтении**. 
+чтобы выбрать, как Outlook.com реагирует на запросы уведомления о прочтении, перейдите к разделу параметры **настройки** \> **** \> **** \> **автоматической обработки** \> **уведомлений о**прочтении почты. 
   
-В бета-версии Outlook.com, выберите пункт **Параметры**![параметры](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) и выполните поиск по **уведомления о прочтении**. 
+В бета-версии Outlook.com выберите **Параметры** и найдите **уведомления о**прочтении. 
   
 

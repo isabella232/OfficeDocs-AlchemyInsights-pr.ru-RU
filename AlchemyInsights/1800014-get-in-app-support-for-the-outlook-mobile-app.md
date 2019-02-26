@@ -1,5 +1,5 @@
 ---
-title: 1800014 поддержка из приложения для мобильного приложения Outlook
+title: 1800014 получить поддержку в приложениях для мобильного приложения Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: b14d26200be299ace27372a59242091d7b115c0d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 083007614106997edc42644549fe7a46e37b4f48
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933997"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244414"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Получение поддержки в приложение для мобильного приложения Outlook
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Получение поддержки приложений для мобильного приложения Outlook
 
-1. В приложении мобильного Outlook, откройте **меню**![кнопки меню](media/265b9089-9630-42dd-a244-d9a412d8fe47.png).
+1. В мобильном приложении Outlook откройте **меню**.
     
-2. Выберите вопросительный знак![кнопку Справка](media/3b8cbf5a-6ced-4d79-b53c-fa82045c3e25.png) для открытия **помочь &amp; свои отзывы и предложения** экрана. 
+2. Выберите вопросительный знак, чтобы открыть экран " **обратная связь справки &amp; ** ". 
     
-3. Коснитесь **Обращение в службу поддержки** и поясняется своей проблеме. 
+3. Коснитесь **поддержки контакта** и опишите свою ошибку. 
     
-4. Нажмите кнопку **Отправить** и вы получите уведомление из приложения при поддержка агентов обращается к вам. 
+4. Нажмите кнопку **Отправить** , и вы получите уведомление из приложения, когда агент поддержки обращается к вам. 
     
-Подробные инструкции в разделе [Получение справки в приложение для Outlook для iOS и Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).
-  
-
+Подробные инструкции приведены в статье [Получение справки по приложениям для Outlook для iOS и Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).
