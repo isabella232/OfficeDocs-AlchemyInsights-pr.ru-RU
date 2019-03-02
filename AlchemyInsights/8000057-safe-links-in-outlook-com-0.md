@@ -1,5 +1,5 @@
 ---
-title: 8000057 безопасных ссылки в Outlook.com
+title: 8000057 безопасные ссылки в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
-ms.openlocfilehash: ed03a5d4b005e4d6f7117e66f170427161363486
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0c875235dae8f8851cbce40201b6c35120d4d2fa
+ms.sourcegitcommit: 47bdacaa8fcfce06f159a7ddbc114f2d1a70bc2c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925825"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "30361650"
 ---
-# <a name="advanced-outlookcom-security-for-office-365-subscribers"></a>Повышенной безопасности Outlook.com для подписчиков Office 365
+# <a name="advanced-outlookcom-security-for-office-365-subscribers"></a>Расширенная безопасность Outlook.com для подписчиков Office 365
 
-Все пользователи Outlook.com преимущества от нежелательной почты и фильтрации вредоносных программ. Для подписчиков Office 365 Home и Office 365 личные Outlook.com выполняет дополнительных фильтрации вложений и ссылок в получаемых сообщениях.
+Все пользователи Outlook.com получают преимущества от фильтрации нежелательной почты и вредоносных программ. Для Office 365 Home и персональных подписчиков Office 365 Outlook.com выполняет дополнительный отбор вложений и ссылок в получаемых сообщениях.
   
-При получении сообщения со ссылками на веб-страницы, Outlook.com проверяет, находятся ли ссылки связаны с фишинг-атак, а, скорее всего загрузить вирусы и вредоносные программы на компьютер.
+Когда вы получаете сообщения со ссылками на веб-страницы, Outlook.com проверяет, связаны ли ссылки на фишинговые мошенничества или они могут загружать вирусы или вредоносные программы на компьютер.
   
-Дополнительные сведения о [безопасности расширенного Outlook.com для подписчиков Office 365](https://go.microsoft.com/fwlink/p/?linkid=2006140), включая удаление надежных ссылки из сообщения.
+Узнайте больше о [расширенной безопасности Outlook.com для подписчикОв Office 365](https://go.microsoft.com/fwlink/p/?linkid=2006140), в том числе об удалении безопасных ссылок из сообщений.
   
-
+Примечание: расширенные клиенты и подписчики Office 365 могут включать и отключать безопасные ссылки в своих [параметрАх безопасности Premium](https://outlook.live.com/mail/options/premium/security).
