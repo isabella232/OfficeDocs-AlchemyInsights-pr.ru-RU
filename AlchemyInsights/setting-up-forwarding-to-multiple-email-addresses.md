@@ -1,5 +1,5 @@
 ---
-title: Настройка пересылки в несколько адресов электронной почты
+title: Настройка переадресации на несколько адресов электронной почты
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 81205bed-e32a-468d-9d4c-9e881622908b
-ms.openlocfilehash: 10787624ae8d6d590afac531e87a54b644cf4451
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 56aab96dddff0a5f3aa6c3256ca564a6533c5448
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935077"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404436"
 ---
-# <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Настройка пересылки в несколько адресов электронной почты
+# <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Настройка переадресации на несколько адресов электронной почты
 
-Во-первых перейдите в [Управление группами](https://portal.office.com/adminportal/home#/groups)
+Если необходимо настроить переадресацию электронной почты для группы пользователей, создайте список рассылки, добавьте к нему нескольких пользователей, а затем настройте перенаправление на этот список. Сначала перейдите к разделу [Управление группами](https://portal.office.com/adminportal/home#/groups)
   
 1. Создание *списка рассылки* 
     
-2. Добавить несколько пользователей
+2. Добавление в него нескольких пользователей
     
-3. Затем настроить переадресацию почтовых ящиков в группу
+3. Затем настройте переадресацию почтовых ящиков в эту группу.
     
 

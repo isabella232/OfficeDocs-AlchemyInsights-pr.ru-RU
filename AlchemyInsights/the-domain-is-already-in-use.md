@@ -6,18 +6,18 @@ ms.date: 8/8/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
-ms.openlocfilehash: 18b1c7b76bd0c86ca48d7eb526990944c1ece80e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940441"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405408"
 ---
 # <a name="the-domain-is-already-in-use"></a>Домен уже используется
 
-Домен, который вы пытаетесь добавить, уже относится к другой организации. Прежде чем можно добавить к данной организации, необходимо удалить домен из этой организации. Перечисленные ниже статьи поможет этих процессов.
+Домен, который вы пытаетесь добавить, уже принадлежит другой организации. Сначала необходимо удалить домен из этой Организации, прежде чем добавлять его в эту организацию. В следующих статьях вы узнаете о процессах.
   
 - [Удаление домена из Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
     

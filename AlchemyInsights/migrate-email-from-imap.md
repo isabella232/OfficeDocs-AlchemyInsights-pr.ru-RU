@@ -1,26 +1,26 @@
 ---
-title: Выполните миграцию электронной почты с IMAP
+title: Перенос электронной почты с IMAP
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 470a504498f1f62a774a404f136f306b4cd1e93f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 075c0aef5ce46fdd25926cee7aaf1a45794423b6
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911281"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404904"
 ---
-# <a name="when-you-get-a-not-an-accepted-domain-error"></a>Когда вы получаете «Не обслуживаемый домен» ошибка
+# <a name="when-you-get-a-not-an-accepted-domain-error"></a>При получении сообщения об ошибке "не является обслуживаемым доменом"
 
-При попытке добавить адрес электронной почты пользователя или группы или во время миграции почтовых ящиков, могут начало следующее сообщение об ошибке: **нельзя использовать домен, так как она еще не является обслуживаемым доменом в системе Exchange.**
+При попытке добавить адрес электронной почты для пользователя или группы или при миграции почтовых ящиков может возникнуть следующая ошибка: **невозможно использовать домен, так как он еще не является обслуживаемым доменом для системы Exchange.**
   
-В большинстве случаев эта ошибка — это имя домена в результате * (например, contoso.com) * не задан полностью для вашей организации. 
+В большинстве случаев эта ошибка является следствием того, что доменное имя * (например, contoso.com) * не полностью настроено для вашей организации. 
   
-Убедитесь, что домен является полностью программы установки, следуйте инструкциям в разделе [Добавление домена в Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+Убедитесь, что домен полностью настроен, следуя инструкциям в статье [Добавление домена в Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
   
 

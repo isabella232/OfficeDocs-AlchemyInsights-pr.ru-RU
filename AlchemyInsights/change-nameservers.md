@@ -1,5 +1,5 @@
 ---
-title: Изменение NameServers
+title: Изменение серверов доменных имен
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -7,20 +7,20 @@ ms.date: 4/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 1b49321d3bcc066136080da09be6d534ec3c3bbb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912839"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405336"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>Обновление серверов доменных имен для Office 365
 
-Примечание: Изменениям имен в некоторых случаях может потребоваться до 48 часов для распространения.
+Примечание: изменения серверов доменных имен иногда могут занять до 48 часов.
   
 Чтобы настроить домен в Office 365, необходимо обновить серверы доменных имен у регистратора. Создайте или измените записи серверов доменных имен у своего регистратора.
   
@@ -28,7 +28,7 @@ ms.locfileid: "29912839"
     
 2. Настройте две записи серверов доменных имен с приведенными ниже значениями.
     
-  - ns1.BDM.microsoftonline.com
+  - NS1.BDM.microsoftonline.com
     
   - NS2.BDM.microsoftonline.com
     

@@ -9,25 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 384104963a98e07a77dbfaba64787ef30fb4be29
-ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
+ms.openlocfilehash: 7d8b0d2a98f71dbc973c3e46783c01d09bdab259
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30244162"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376121"
 ---
 # <a name="how-to-create-an-email-signature"></a>Создание подписи электронной почты
 
-Если вы используете бета-версию Outlook.com:
+Перейдите к [параметрам создания и ответа](https://go.microsoft.com/fwlink/?linkid=2006164) (в представлении**Параметры** \> **отображаются все параметры** \> Outlook: **Создание и ответ**). 
   
-- В верхней части страницы выберите **Параметры** \> **Просмотр полных параметров** \> **Создание и ответ**. 
-    
-Если вы используете классическое Outlook.com:
-  
-- В верхней части страницы выберите параметры **параметров** \> **** \> для **подписи электронной почты** **Макет** \> **почты** \> . 
-    
  **Примечание:** Для каждой учетной записи можно использовать только одну подпись. 
   
 Узнайте больше о том, как [создать и добавить подпись электронной почты в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409).
-  
-
