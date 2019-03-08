@@ -1,5 +1,5 @@
 ---
-title: Восстановление удаленных пользователей
+title: Восстановление удаленного пользователя
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: c2d6117c0cbb84a2812179ce4af35a5382359b82
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 02930690acf5abea6673123f2f95631280faaeae
+ms.sourcegitcommit: ed5d2fdfd9e2622e3cce192a80402f32d3a8ca78
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936193"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30475467"
 ---
 # <a name="restore-a-user-in-office-365"></a>Восстановление пользователя в Office 365.
 
-Восстановление пользователя в Office 365, выполнив следующие действия:
+ВосСтановите пользователя в Office 365, выполнив указанные ниже действия.
   
-1. Последовательно выберите пункты [Пользователи \> удаленных пользователей](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Перейдите к [пользователям \> , удаленным пользователям](https://admin.microsoft.com/adminportal/home#/deletedusers).
     
-2. Выберите пользователя, а затем **Восстановление**.
+2. Выберите пользователя, а затем нажмите кнопку **восстановить**.
     
 3. Следуя инструкциям, задайте пароль.
     
-4. Выберите **адрес электронной почты и закройте**и готова!
+4. Нажмите кнопку **отправить электронную почту и закрыть**, а все готово.
     
-Не был так просто? Дополнительные сведения и инструкции со снимки экрана извлечь в этой статье: [Восстановление пользователя в Office 365](https://support.office.com/article/Restore-a-user-in-Office-365-2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)
-  
 
+Не так просто? Для получения дополнительных сведений и действий с снимками экрана ознакомьтесь со статьей " [Восстановление пользователя в Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)". Если вы не хотите восстановить почтовый ящик пользователя, ознакомьтесь со статьей: [Удаление или восстановление почтовых ящиков пользователей в Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
