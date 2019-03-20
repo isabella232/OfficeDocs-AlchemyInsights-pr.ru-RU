@@ -1,5 +1,5 @@
 ---
-title: Подготовка проекта
+title: Настройка проекта
 ms.author: pebaum
 author: pebaum
 ms.date: 6/12/2018
@@ -8,20 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Распределение не более 500 слов для статьи.
-ms.openlocfilehash: dd256212cc85298c62124e9311ede856ee695977
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+description: Не более 500 слов для статьи.
+ms.openlocfilehash: fed43928bcf8a232901c0679376fed3f43705265
+ms.sourcegitcommit: b3cf5130ac8118f0fed66abe5286aa80ee91af52
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940369"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30683826"
 ---
-# <a name="setting-up-project"></a>Подготовка проекта
+# <a name="setting-up-project"></a>Настройка проекта
 
-Похоже, вам требуется помощь настройке проекта подписки Office 365.
+Похоже, вам нужна помощь в настройке Project с подпиской на Office 365.
+Примечание для пользователей Mac: продукт Project в настоящее время недоступен для MacOS. Если у вас есть компьютер, вы можете установить программное обеспечение, выполнив указанные ниже действия.
   
-Уведомление о для пользователей Mac: продукта Project недоступен для MacOS в данный момент. Если у вас есть ПК должна появиться возможность установки программного обеспечения, используя описанные ниже действия.
+Вы можете выполнить действия, описанные в [этой статье](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx), чтобы завершить настройку.
   
-Необходимо выполнить действия, описанные в [этой статье ](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx), чтобы получить Установка завершена.
-  
-
+Если во время установки выполняются ошибки, [установите Project с помощью помощника по поддержке и восстановлению](https://aka.ms/SaRA-ProjectSetupScenario)
