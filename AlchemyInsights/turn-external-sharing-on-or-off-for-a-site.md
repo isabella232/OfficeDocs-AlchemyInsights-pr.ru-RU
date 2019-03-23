@@ -1,5 +1,5 @@
 ---
-title: Включить внешний общий доступ к включено или отключено для сайта
+title: Включение и отключение внешнего общего доступа для сайта
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: fde0fd14432a44891106f152dbc8c91faf4d7b36
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: af9b6c50430814a356a08e661a0bc4e237f4616e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900625"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758479"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a><span data-ttu-id="36cba-102">Включить внешний общий доступ к включено или отключено для сайта SharePoint</span><span class="sxs-lookup"><span data-stu-id="36cba-102">Turn external sharing on or off for a SharePoint site</span></span>
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a><span data-ttu-id="64f12-102">Включение и выключение внешнего общего доступа для сайта SharePoint</span><span class="sxs-lookup"><span data-stu-id="64f12-102">Turn external sharing on or off for a SharePoint site</span></span>
 
-<span data-ttu-id="36cba-103">Для семейства сайтов классический:</span><span class="sxs-lookup"><span data-stu-id="36cba-103">For a classic site collection:</span></span>
+<span data-ttu-id="64f12-103">Для классического семейства веб-сайтов:</span><span class="sxs-lookup"><span data-stu-id="64f12-103">For a classic site collection:</span></span>
   
-1. <span data-ttu-id="36cba-104">В классический центра администрирования SharePoint в области слева щелкните **семейств веб-сайтов**.</span><span class="sxs-lookup"><span data-stu-id="36cba-104">In the classic SharePoint admin center, in the left pane, click **site collections**.</span></span>
+1. <span data-ttu-id="64f12-104">В панели слева центра администрирования SharePoint выберите пункт **семейства веб-сайтов**.</span><span class="sxs-lookup"><span data-stu-id="64f12-104">In the classic SharePoint admin center, in the left pane, click **site collections**.</span></span>
     
-2. <span data-ttu-id="36cba-105">Выберите веб-сайта или сайтов и на ленте нажмите кнопку **общий доступ**.</span><span class="sxs-lookup"><span data-stu-id="36cba-105">Select the site or sites, and on the ribbon, click **Sharing**.</span></span>
+2. <span data-ttu-id="64f12-105">Выберите сайт или сайты, а затем на ленте щелкните **общий доступ**.</span><span class="sxs-lookup"><span data-stu-id="64f12-105">Select the site or sites, and on the ribbon, click **Sharing**.</span></span>
     
-<span data-ttu-id="36cba-p101">По умолчанию новые веб-сайты, создаваемые пользователями как (сайты рабочих групп, относящихся к Office 365 группы) и связи сайтов имеют же общего доступа установка в качестве параметра вашей организации, если политика организации не разрешает совместное использование файлов с помощью ссылок, которые не требуют входа. В этом случае сайты разрешить общий доступ для новых и существующих внешние пользователи, зарегистрированные как. Чтобы изменить параметр для конкретных сайтов, используйте новый центр администрирования SharePoint (Предварительная версия).</span><span class="sxs-lookup"><span data-stu-id="36cba-p101">By default, new sites that users create (both team sites that belong to Office 365 groups and communication sites) have the same sharing setting as your organization-wide setting, unless the organization-wide setting allows sharing files using links that don't require sign-in. In this case, the sites allow sharing with new and existing external users who sign in. To change the setting for specific sites, use the new SharePoint admin center (preview).</span></span>
+<span data-ttu-id="64f12-106">По умолчанию новые сайты, создаваемые пользователями (сайты группы, принадлежащие группам Office 365 и сайтам связи), имеют те же параметры общего доступа, что и настройка всей Организации, за исключением тех случаев, когда общий доступ к файлам с помощью ссылок требовать вход.</span><span class="sxs-lookup"><span data-stu-id="64f12-106">By default, new sites that users create (both team sites that belong to Office 365 groups and communication sites) have the same sharing setting as your organization-wide setting, unless the organization-wide setting allows sharing files using links that don't require sign-in.</span></span> <span data-ttu-id="64f12-107">В этом случае сайты разрешают общий доступ новым и существующим внешним пользователям, которые входят в систему.</span><span class="sxs-lookup"><span data-stu-id="64f12-107">In this case, the sites allow sharing with new and existing external users who sign in.</span></span> <span data-ttu-id="64f12-108">Чтобы изменить параметр для определенных сайтов, используйте новый центр администрирования SharePoint (Предварительная версия).</span><span class="sxs-lookup"><span data-stu-id="64f12-108">To change the setting for specific sites, use the new SharePoint admin center (preview).</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="36cba-109">Параметр внешние общего доступа для любого сайта может быть более строгий, чем настроек всей организации, но не больше возможностей, чем параметр всей организации.</span><span class="sxs-lookup"><span data-stu-id="36cba-109">The external sharing setting for any site can be more restrictive than your organization-wide setting, but not more permissive than the organization-wide setting.</span></span> 
+> <span data-ttu-id="64f12-109">Настройка внешнего общего доступа для любого сайта может быть более строгой, чем настройка на уровне Организации, но не более, чем значение параметра для всей Организации.</span><span class="sxs-lookup"><span data-stu-id="64f12-109">The external sharing setting for any site can be more restrictive than your organization-wide setting, but not more permissive than the organization-wide setting.</span></span> 
   
 
