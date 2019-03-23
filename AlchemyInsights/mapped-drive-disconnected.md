@@ -1,5 +1,5 @@
 ---
-title: Подключенный диск соединены по сети
+title: Подключенный диск отключен
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 1fad381b10e6b78d1ae9028fd55e0b9ab00d2d74
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 36754d836cfe6525873ecdeb962efa5c2cb97a34
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907717"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760351"
 ---
-# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>Библиотеки SharePoint, сопоставленные с сетевых дисков отключены
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>Библиотеки SharePoint, сопоставленные с сетевыми дисками, отсоединяются
 
-Сопоставление сетевого диска в библиотеке документов SharePoint временной. Иногда необходимо открыть сайт SharePoint в Internet Explorer и выберите **выполнять выход** , чтобы предотвратить истечение срока действия сеанса. 
+Сопоставление библиотеки документов SharePoint с сетевым диском является временным. Необходимо иногда открыть сайт SharePoint в Internet Explorer и выбрать **оставаться** включенным, чтобы предотвратить истечение срока действия сеанса. 
   
-[Получение справки по настройке и устранении неполадок сетевых дисков](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Справка по настройке и устранению неполадок подключенных сетевых дисков](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
   
-Для работы с библиотекой в обозревателе файлов [синхронизации файлов SharePoint с помощью нового клиента синхронизации OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) которого включает в себя [Файлы по запросу](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Доступ к всех файлов в OneDrive без использования локального дискового пространства.
+Для работы с библиотекой в проводнике синхронизируйте [файлы SharePoint с помощью нового клиента синхронизации OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , который включает [файлы по требованию](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Доступ ко всем файлам в OneDrive, не используя локальное дисковое пространство.
   
 

@@ -1,5 +1,5 @@
 ---
-title: CTRL + H показывает найти, не заменить в Excel 2016
+title: CTRL + H показывает Find, не заМенять в Excel 2016
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 6c9a90b8b0cf30df3d2a45b394275ccd8d0b19a8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0a398d2d6792e9e6af33dfe0678e40f71f6928ac
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916861"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756643"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H показывает найти, не заменить в Excel
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H показывает Find, не заМенять в Excel
 
-В Excel 2016 при нажатии клавиши CTRL + H открывает диалоговое окно Найти и заменить и отображает вкладку «Поиск», вместо вкладку Заменить, нажав кнопку Заменить на вкладке Главная выполняются те же действия. Эта проблема была устранена в версии 1708 (8431.2094). Чтобы устранить эту неполадку, обновите последней версии Office. Выберите **файл** \> **учетную запись** \> **обновление параметров** \> **Обновить сейчас**.
+В Excel 2016 при нажатии клавиш CTRL + H открывается диалоговое окно Поиск и замена и отображается вкладка найти вместо вкладки заменить. нажатие кнопки заменить на вкладке Главная выполняет те же задачи. Эта проблема исправлена в версии 1708 (8431,2094). Чтобы устранить эту проблему, обновите Office до последней версии. Выберите **** \> **** \> **** параметры \> обновления учетной записи файла **Обновить**.
   
 

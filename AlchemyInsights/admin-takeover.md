@@ -1,5 +1,5 @@
 ---
-title: Захват администрирования
+title: Администратор передачи управления
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: fe57eacf1137b8ef26fbd4721eb35a443a80dd8c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 445ad25eacf5a873473bebd0e9c62fb1f81003d3
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932809"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764165"
 ---
-# <a name="become-an-admin"></a>Стать администратором
+# <a name="become-an-admin"></a>Станьте администратором
 
-Предполагается роли администратора для данной организации требуется имеют перед. Следуйте инструкциям в этом руководстве представлены подробные инструкции: [как выполнять захват администрирования ИТ с O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)
+Чтобы принять роль администратора для этой Организации, необходимо принять участие. Следуйте инструкциям в этом руководстве, чтобы получить подробные инструкции: [как выполнить ИТ администратора передачи управления с O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)
 

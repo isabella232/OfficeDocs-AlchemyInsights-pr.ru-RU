@@ -1,5 +1,5 @@
 ---
-title: Как приобрести планы Office 365 образования
+title: Приобретение планов Office 365 для образования
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: a13a7d4c765e3c4bbe41ee69df17e2a8ae19ed3e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7cd0582305e619a9277482f865fa51fb30316136
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929281"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765605"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Как приобрести планы Office 365 образования
+# <a name="how-to-purchase-office-365-education-plans"></a>Приобретение планов Office 365 для образования
 
-В разделе review — вашей квалификации Office 365 Education. Можно получить на получение уведомлений на определение возможности использования до истечения срока действия пробного периода.
+Ваша квалификация Office 365 для образовательных учреждений находится на стадии рецензирования. Вы можете ожидать получения уведомления о вашем ограничении до истечения срока действия пробной версии.
   
 

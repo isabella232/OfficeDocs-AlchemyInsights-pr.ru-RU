@@ -1,5 +1,5 @@
 ---
-title: Office 365 для государственных учреждений планы и цены
+title: Office 365 для государственных организаций и планов
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: b5cd1e39fb7c0576614568950cad423df600a941
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c7fffc223bbb89d5ab4d6a1e290b9b6f7df3bd91
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911461"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764849"
 ---
-Планы Office 365 правительства США предназначены для удовлетворения потребностей США государственных организаций. Они предоставляют все функции и возможности службы Office 365 в облако сообщества, разделенных государственных организаций, которая позволяет организациям в соответствии с США соответствия стандартам и безопасности.
+Планы Office 365 для государственных организаций США рассчитаны на уникальные потребности организаций в США. Они предоставляют все функции и возможности Office 365 Services в сегментированном облачном облаке, которое позволяет организациям соответствовать стандартам безопасности и соответствия требованиям в США.
   
-- [Просмотрите планы государственных организаций](https://products.office.com/government/compare-office-365-government-plans)
+- [Обзор планов государственных организаций](https://products.office.com/government/compare-office-365-government-plans)
     
 - [Сравнение всех планов Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
     

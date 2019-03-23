@@ -1,5 +1,5 @@
 ---
-title: Управление моей Билл
+title: Управление моими векселями
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f844501a-e575-48b8-9c1b-9f800c7b89f8
-ms.openlocfilehash: 39b7f2a566ce3f6b759c4a23cb1f602be909205e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: eff17074de4c198ec475573081a01f4288dd3ecb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906055"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759847"
 ---
-# <a name="manage-my-bill-and-payments"></a>Управление моей Билл и платежей
+# <a name="manage-my-bill-and-payments"></a>Управление моими векселями и платежами
 
-Как администратор иметь доступ к все параметры выставления счетов и платежей в центре администрирования.
+Как администратор, вы можете получить доступ ко всем параметрам выставления счетов и оплат в центре администрирования.
   
-- Просмотр Билл или создания счетов-фактур.
+- Просмотр счета или счета.
     
-- Добавить, обновить или удалить параметры оплаты.
+- Добавление, обновление или удаление параметра платежа.
     
-- Переключитесь в разных Office 365.
+- Переключитесь на другой Office 365.
     
-- Обновление подписки.
+- Продлите подписку.
     
-- Приобрести другую подписку.
+- Приобретение другой подписки.
     
-- Расширение возможностей пробного периода.
+- Расширьте пробную версию.
     
-- Отказаться от подписки.
+- Отмените подписку.
     
 
