@@ -1,5 +1,5 @@
 ---
-title: Создание элементов управления из группы
+title: Создание элементов управления для групп
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 29ccda0d9f24928adef47c7e5362ce94d7998070
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 134361cc92b86ab13a5cd3443b6fabe2df3b83bb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933565"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753331"
 ---
-# <a name="control-creation-of-o365-groups"></a>Создание элемента управления O365 групп
+# <a name="control-creation-of-o365-groups"></a>Создание элементов управления для групп Office 365
 
-По умолчанию всех пользователей в организации, могут создавать группы O365. При необходимости, имеется возможность изменить этот и назначить право на создание групп O365 с набором пользователей организации. Обратите внимание на то, что это оказывает влияние на создание групп на любой службы O365 (например, Outlook, групп, планировщик работы и т.д.).
+По умолчанию все пользователи в компании могут создавать группы Office 365. При необходимости вы можете изменить этот параметр и назначить право на создание групп O365 для пользователей в вашей компании. Обратите внимание на то, что это повлияет на создание групп из любой службы O365 (например, Outlook, Teams, планировщик и т. д.).
   
-Инструкции: [Управление, кто может создавать группы Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Инструкции: [Управление пользователями, которые могут создавать группы Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

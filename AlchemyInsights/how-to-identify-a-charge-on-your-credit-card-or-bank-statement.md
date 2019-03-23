@@ -1,5 +1,5 @@
 ---
-title: Как определить расходы на данные о банковской карте или банковской выписки
+title: Как определить плату за кредитную карту или банковскую выписку
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: d349d107642ed042c8878d3703a1def89e2906d5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c698c085fc7d1d62eb5c615061198cd5395fbbab
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936985"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758551"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Как определить расходы на данные о банковской карте или банковской выписки
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Как определить плату за кредитную карту или банковскую выписку
 
-Описание накладных для подписки на Office 365 выглядит следующим образом:
+Описание подписки на Office 365 выглядит следующим образом:
   
-MSFT \* E012345ABC 0000 - MSBILL.INFO, штат Вашингтон
+MSFT \* E012345ABC 0000 MSBILL.info, штат Вашингтон
   
-Строка буквенно цифровые 10 символов, следующая MSFT \* — издержки относятся к номер создания счетов-фактур. Чтобы найти счет, перейдите на страницу [телефонную связь](https://go.microsoft.com/fwlink/p/?linkid=848039) или выберите **выставления счетов** \> **телефонную связь** для просмотра последние счета. Номер накладной — правом углу документа создания счетов-фактур. 
+Строка из 10 символов, приведенная ниже MSFT \* , — это номер счета, к которому относится плата. Чтобы найти счет, перейдите на страницу [ведомостей](https://go.microsoft.com/fwlink/p/?linkid=848039) или выберите счета **выставления счетов** \> **** для просмотра последних счетов. Номер накладной находится в правом углу документа с накладными. 
   
 

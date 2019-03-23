@@ -1,28 +1,33 @@
 ---
-title: Начало TenantAccessBlockedException ошибка при доступе к электронной почты?
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127 при доступе к электронной почте возникла ошибка Тенантакцессблоккедексцептион?
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912037"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754267"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Начало TenantAccessBlockedException ошибка при доступе к электронной почты?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>При получении доступа к электронной почте возникла ошибка Тенантакцессблоккедексцептион?
 
-Существует несколько различных причин, почему вы получаете возникнет ошибка, сообщающая, что доступ к клиенту блокируется. Для решения проблемы можно предпринять следующие действия:
+Эта ошибка может возникать по разным причинам. Пример:
   
-- Проверьте допустимость подписки на странице [подписки](https://admin.microsoft.com/adminportal/home#/subscriptions) . 
+- убедитесь, что подписка действительна на странице **** \> **подписки** на выставление счетов в центре администрирования Microsoft 365 [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)(.
     
-- Обратитесь к странице [выставления счетов](https://admin.microsoft.com/adminportal/home#/billoverview) для каких-либо прошлые за на свою учетную запись. 
+- проверьте, не просрочены ли просроченные уведомления на странице " **выставление счетов** \> **** " в центре [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)администрирования Microsoft 365 (.
     
-- Если ваша учетная запись является в порядке, но был недавно изменен, он может занять некоторое время изменения для распространения на всех серверах. Попытайтесь еще раз в несколько минут и если проблема повторяется, свяжитесь с нами.
+- Если выставление счетов и подписка для вашей учетной записи были недавно обновлены, для распространения изменений может потребоваться некоторое время. Повторите попытку через несколько минут, а если проблема не исчезнет, свяжитесь с нами.
     
 

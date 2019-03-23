@@ -1,5 +1,5 @@
 ---
-title: Решения для ошибок 30015-4
+title: Решения для ошибки 30015-4
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -10,30 +10,30 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: ad2102b3fcd661b2229ea32914f85a4ad26da206
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: bc9f0c6f14ccacf739749545626ebd4e783ef9c1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929245"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759199"
 ---
-# <a name="solutions-for-error-30015-4"></a>Решения для ошибок 30015-4
+# <a name="solutions-for-error-30015-4"></a>Решения для ошибки 30015-4
 
 
-- Перезагрузите компьютер и попробуйте [установить Office](https://portal.office.com/OLS/MySoftware.aspx).
+- ПереЗагрузите компьютер и попытайтесь [установить Office](https://portal.office.com/OLS/MySoftware.aspx).
     
-- Загрузите и установите [поддержку и помощник по восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Скачайте и установите [Помощник по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
     
-1. При открытии, **Удалить Office продуктов** выберите версию, которую нужно удалить и нажмите кнопку **Далее**. 
+1. После **удаления продуктов Office** выберите версию, которую нужно удалить, и нажмите кнопку **Далее**. 
     
-2. Продолжение прохода через экранов и перезагрузите компьютер после появления запроса.
+2. Продолжайте переходить к экранам и перезапускать компьютер при появлении соответствующего запроса.
     
-    После перезагрузки, поддержка и помощник по восстановлению автоматически повторно открывает для завершения процесса удаления.
+    После перезапуска помощник по поддержке и восстановлению автоматически открывается для завершения процесса удаления.
     
-3. Выполните оставшиеся приглашения и [повторно установить Office](https://portal.office.com/OLS/MySoftware.aspx) или закрыть окно помощника. 
+3. Следуйте оставшимся запросам и [переустановите Office](https://portal.office.com/OLS/MySoftware.aspx) или закройте помощник. 
     
-[Исправление ошибок установки Office](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
+[Устранение ошибок установки Office](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
   
 
