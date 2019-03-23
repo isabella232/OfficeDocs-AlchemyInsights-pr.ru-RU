@@ -1,5 +1,5 @@
 ---
-title: Удалить группу сайта
+title: Удаление сайта группы
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -10,23 +10,23 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: f5ea115c0860ea698efe196ddca28755843e259b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f72c1d59dba7d742945ea5db0842f696825eb660
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911569"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762617"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Удаление сайта SharePoint, к которой принадлежит к группе Office 365
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Удаление сайта SharePoint, принадлежащего к группе Office 365
 
-Глобальные "Администраторы" и "Администраторы SharePoint" теперь можно удалить сайты, которые принадлежат к группе Office 365. Эти сайты будут при удалении группы и всех его ресурсов, включая почтовый ящик Outlook и календарь и все каналы группами.
+Глобальные администраторы и администраторы SharePoint теперь могут удалять сайты, принадлежащие к группе Office 365. При удалении этих сайтов будет удалена группа и все ее ресурсы, в том числе почтовый ящик Outlook и календарь, а также все каналы команд.
   
-Важно!
-- Для восстановления удаленных сайтов для 93 дней. Дополнительные сведения см представления и восстановления удаленных сайтов. Обратите внимание на то, что в течение 30 дней, необходимо восстанавливать удаленные группы. 
-- Если узел является частью политику хранения, не можно удалить ее, пока сайт не будет удалено из [безопасности &amp; Центр администрирования соответствия](https://protection.office.com/?rfr=AdminCenter#/retention). Дополнительные сведения в разделе [Обзор политик хранения](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+Внимание
+- Вы можете восстановить удаленные сайты в течение 93 дней. Дополнительные сведения см. в статье Просмотр и восстановление удаленных сайтов. Обратите внимание, что удаленные группы необходимо восстановить в течение 30 дней. 
+- Если сайт является частью политики хранения, его невозможно удалить, пока сайт не будет удален из [центра администрирования соответствия требованиям безопасности &amp; ](https://protection.office.com/?rfr=AdminCenter#/retention). Более подробную информацию можно узнать [в статье Обзор политик хранения](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
   
-[Просмотр и восстановления удаленных сайтов в центре администрирования SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)выберите **удаленных сайтов**. Выберите сайт, который был удален и выберите восстановление или удаление (который будут окончательно удалить сайт). Чтобы удалить активного сайта, выберите **Active** сайты, выберите сайт и выберите **Удалить**. Дополнительные сведения в разделе [Управление узлами в центре администрирования SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Для [просмотра и восстановления удаленных сайтов в новом центре администрирования SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)выберите пункт **удаленные сайты**. Выберите сайт, который был удален, и нажмите кнопку восстановить или удалить (при этом сайт будет окончательно удален). Чтобы удалить активный сайт, выберите пункт **Активные** сайты, выберите сайт и нажмите кнопку **Удалить**. Дополнительные сведения см в разделе [Управление сайтами в новом центре администрирования SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 

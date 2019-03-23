@@ -1,5 +1,5 @@
 ---
-title: Алхимия - Outlook об ошибке «Cannot start Microsoft Outlook»
+title: Алчеми — ошибка Outlook "не удается запустить Microsoft Outlook"
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: 8b22d80cbb4ebf1792555f614cec94ebe1613fd6
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: f35b769d5037b0b8dd4dec7af760124abacfd11a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969978"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756355"
 ---
-«Не удается запустить Microsoft Outlook»
+"Не удается запустить Microsoft Outlook"
 
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook об ошибке: «Не удается запустить Microsoft Outlook»
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Ошибка Outlook: "не удается запустить Microsoft Outlook"
 
-Возникли проблемы с запуском Outlook 2016, Outlook 2013 или Outlook 2010 или получение «Cannot start Microsoft Outlook. Не удается открыть окно Outlook» сообщения об ошибках?
+Возникают ли проблемы при запуске Outlook 2016, Outlook 2013 или Outlook 2010 или получении сообщения "не удается запустить Microsoft Outlook". Не удается открыть окно Outlook "сообщения об ошибке"?
   
-Во-первых используйте действия, описанные в [этой статье](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) для устранения этих проблем запуска. 
+Сначала выполните действия по устранению неполадок, приведенные в [этой статье](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) , чтобы устранить проблемы при запуске. 
   
-Также можно запустить [средство диагностики Advanced](https://aka.ms/SaRA-OutlookAdvDiagnostics) на состояние компьютера. 
+Вы также можете запустить [средство Advanced Diagnostics](https://aka.ms/SaRA-OutlookAdvDiagnostics) на затронутом компьютере. 
   
 
