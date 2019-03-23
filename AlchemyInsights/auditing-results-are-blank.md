@@ -1,5 +1,5 @@
 ---
-title: Результаты аудита являются пустыми
+title: Результаты аудита пусты
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: 30c726f81247244ae9b428bfc27d0200982fd1bc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7b17f774e0241dcb1d3226a39afb11b45a2ef37f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915133"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756319"
 ---
-# <a name="auditing-results-are-blank"></a><span data-ttu-id="b5f51-102">Результаты аудита являются пустыми</span><span class="sxs-lookup"><span data-stu-id="b5f51-102">Auditing results are blank</span></span>
+# <a name="auditing-results-are-blank"></a><span data-ttu-id="9ba26-102">Результаты аудита пусты</span><span class="sxs-lookup"><span data-stu-id="9ba26-102">Auditing results are blank</span></span>
 
- <span data-ttu-id="b5f51-103">**Отчеты аудита для классической сайтов**</span><span class="sxs-lookup"><span data-stu-id="b5f51-103">**Audit reports for classic sites**</span></span>
+ <span data-ttu-id="9ba26-103">**Отчеты аудита для классических сайтов**</span><span class="sxs-lookup"><span data-stu-id="9ba26-103">**Audit reports for classic sites**</span></span>
   
-<span data-ttu-id="b5f51-p101">Для просмотра отчета об аудите для семейства веб-сайтов SharePoint, необходимо быть администратором семейства веб-сайтов. Добавление себя в качестве администратора, видеть [Администраторы семейства сайтов добавить как глобальный или администрирования SharePoint](https://go.microsoft.com/fwlink/?linkid=869390). Сведения о работе с журнал аудита содержатся в разделе [Просмотр отчетов журнала аудита](https://go.microsoft.com/fwlink/?linkid=395237).</span><span class="sxs-lookup"><span data-stu-id="b5f51-p101">To view an audit report for a SharePoint site collection, you must be an administrator for the site collection. To add yourself as an administrator, see [Add site collection admins as a global or SharePoint admin](https://go.microsoft.com/fwlink/?linkid=869390). For info about working with the audit log, see [View audit log reports](https://go.microsoft.com/fwlink/?linkid=395237).</span></span> 
+<span data-ttu-id="9ba26-104">Чтобы просмотреть отчет аудита для семейства веб-сайтов SharePoint, необходимо быть администратором этого семейства веб-сайтов.</span><span class="sxs-lookup"><span data-stu-id="9ba26-104">To view an audit report for a SharePoint site collection, you must be an administrator for the site collection.</span></span> <span data-ttu-id="9ba26-105">Чтобы добавить себя в качестве администратора, ознакомьтесь со статьей [Добавление администраторов семейства веб-сайтов в качестве глобального или административного администратора SharePoint](https://go.microsoft.com/fwlink/?linkid=869390). Сведения о работе с журналом аудита приведены в статье [Просмотр отчетов журнала аудита](https://go.microsoft.com/fwlink/?linkid=395237).</span><span class="sxs-lookup"><span data-stu-id="9ba26-105">To add yourself as an administrator, see [Add site collection admins as a global or SharePoint admin](https://go.microsoft.com/fwlink/?linkid=869390). For info about working with the audit log, see [View audit log reports](https://go.microsoft.com/fwlink/?linkid=395237).</span></span> 
   
- <span data-ttu-id="b5f51-106">**Поиск в журнале аудита Office 365**</span><span class="sxs-lookup"><span data-stu-id="b5f51-106">**Search the Office 365 audit log**</span></span>
+ <span data-ttu-id="9ba26-106">**Поиск в журнале аудита Office 365**</span><span class="sxs-lookup"><span data-stu-id="9ba26-106">**Search the Office 365 audit log**</span></span>
   
-<span data-ttu-id="b5f51-p102">Необходимо быть глобального администратора в Office 365 для работы с журналом аудита в [безопасности &amp; центре соответствия требованиям](https://protection.office.com). Прежде чем начать, включите ведение журнала аудита. После этого можно запустить поискового запроса журнала аудита.</span><span class="sxs-lookup"><span data-stu-id="b5f51-p102">You need to be a global admin in Office 365 to work with the audit log in the [Security &amp; Compliance Center](https://protection.office.com). Before you begin, turn on audit logging. Then, you can run an audit log search.</span></span> 
+<span data-ttu-id="9ba26-107">Для работы с журналом аудита в [центре &amp; безопасности и соответствия требованиям](https://protection.office.com)необходимо быть глобальным администратором Office 365.</span><span class="sxs-lookup"><span data-stu-id="9ba26-107">You need to be a global admin in Office 365 to work with the audit log in the [Security &amp; Compliance Center](https://protection.office.com).</span></span> <span data-ttu-id="9ba26-108">Прежде чем приступать к работе, включите ведение журнала аудита.</span><span class="sxs-lookup"><span data-stu-id="9ba26-108">Before you begin, turn on audit logging.</span></span> <span data-ttu-id="9ba26-109">После этого можно выполнить поиск по журналу аудита.</span><span class="sxs-lookup"><span data-stu-id="9ba26-109">Then, you can run an audit log search.</span></span> 
   
-<span data-ttu-id="b5f51-110">[Узнайте, как поиск в журнале аудита](https://go.microsoft.com/fwlink/?linkid=708432).</span><span class="sxs-lookup"><span data-stu-id="b5f51-110">[Learn how to search the audit log](https://go.microsoft.com/fwlink/?linkid=708432).</span></span>
+<span data-ttu-id="9ba26-110">[Узнайте, как выполнять поиск в журнале аудита](https://go.microsoft.com/fwlink/?linkid=708432).</span><span class="sxs-lookup"><span data-stu-id="9ba26-110">[Learn how to search the audit log](https://go.microsoft.com/fwlink/?linkid=708432).</span></span>
   
 

@@ -1,5 +1,5 @@
 ---
-title: ConsistencyGuid / sourceAnchor поведение
+title: Поведение Консистенцигуид и Саурцеанчор
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: e1ffa9cf2b59570cb6ea3517efad7a55fd9489a8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cb1b50792b07a1b3b69607bf2f6824141a15922f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927685"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753115"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a><span data-ttu-id="3614a-102">ConsistencyGuid / sourceAnchor поведение</span><span class="sxs-lookup"><span data-stu-id="3614a-102">ConsistencyGuid / sourceAnchor behavior</span></span>
+# <a name="consistencyguid--sourceanchor-behavior"></a><span data-ttu-id="fe255-102">Поведение Консистенцигуид и Саурцеанчор</span><span class="sxs-lookup"><span data-stu-id="fe255-102">ConsistencyGuid / sourceAnchor behavior</span></span>
 
-<span data-ttu-id="3614a-p101">Подключение Azure AD (версия 1.1.524.0 и после) теперь упрощает использование msDS-ConsistencyGuid в качестве атрибута sourceAnchor. При использовании этой функции, Azure AD подключение автоматически настраивает правила синхронизации для:</span><span class="sxs-lookup"><span data-stu-id="3614a-p101">Azure AD Connect (version 1.1.524.0 and after) now facilitates the use of msDS-ConsistencyGuid as sourceAnchor attribute. When using this feature, Azure AD Connect automatically configures the synchronization rules to:</span></span>
+<span data-ttu-id="fe255-103">Azure AD Connect (версии 1.1.524.0 и After) теперь способствует использованию атрибута msDS-Консистенцигуид в качестве атрибута Саурцеанчор.</span><span class="sxs-lookup"><span data-stu-id="fe255-103">Azure AD Connect (version 1.1.524.0 and after) now facilitates the use of msDS-ConsistencyGuid as sourceAnchor attribute.</span></span> <span data-ttu-id="fe255-104">При использовании этой функции служба Azure AD Connect автоматически настраивает правила синхронизации следующим образом:</span><span class="sxs-lookup"><span data-stu-id="fe255-104">When using this feature, Azure AD Connect automatically configures the synchronization rules to:</span></span>
   
-- <span data-ttu-id="3614a-p102">Используйте msDS-ConsistencyGuid в качестве атрибута sourceAnchor для объектов-пользователей. ObjectGUID используется для других типов объектов.</span><span class="sxs-lookup"><span data-stu-id="3614a-p102">Use msDS-ConsistencyGuid as the sourceAnchor attribute for User objects. ObjectGUID is used for other object types.</span></span>
+- <span data-ttu-id="fe255-105">Используйте msDS — Консистенцигуид в качестве атрибута Саурцеанчор для объектов User.</span><span class="sxs-lookup"><span data-stu-id="fe255-105">Use msDS-ConsistencyGuid as the sourceAnchor attribute for User objects.</span></span> <span data-ttu-id="fe255-106">ObjectGUID используется для других типов объектов.</span><span class="sxs-lookup"><span data-stu-id="fe255-106">ObjectGUID is used for other object types.</span></span>
     
-- <span data-ttu-id="3614a-p103">Для любой заданной локального пользователя AD объект, чьи атрибута msDS-ConsistencyGuid не заполненной, Azure операций записи AD подключить его значение objectGUID обратно атрибута msDS-ConsistencyGuid в локальной службе Active Directory. После заполнения атрибута msDS-ConsistencyGuid Azure AD подключение выберите Экспорт объекта Azure AD.</span><span class="sxs-lookup"><span data-stu-id="3614a-p103">For any given on-premises AD User object whose msDS-ConsistencyGuid attribute isn't populated, Azure AD Connect writes its objectGUID value back to the msDS-ConsistencyGuid attribute in on-premises Active Directory. After the msDS-ConsistencyGuid attribute is populated, Azure AD Connect then exports the object to Azure AD.</span></span>
+- <span data-ttu-id="fe255-107">Для любого объекта локального пользователя AD, чей атрибут msDS — Консистенцигуид не заполнен, Azure AD Connect записывает значение objectGUID обратно в атрибут msDS – Консистенцигуид в локальной службе Active Directory.</span><span class="sxs-lookup"><span data-stu-id="fe255-107">For any given on-premises AD User object whose msDS-ConsistencyGuid attribute isn't populated, Azure AD Connect writes its objectGUID value back to the msDS-ConsistencyGuid attribute in on-premises Active Directory.</span></span> <span data-ttu-id="fe255-108">После заполнения атрибута msDS-Консистенцигуид Azure AD Connect затем экспортирует объект в Azure AD.</span><span class="sxs-lookup"><span data-stu-id="fe255-108">After the msDS-ConsistencyGuid attribute is populated, Azure AD Connect then exports the object to Azure AD.</span></span>
     
- <span data-ttu-id="3614a-p104">**Примечание:** Один раз локальный объект AD, импортированные в Azure AD подключение (то есть импортированные в пространство соединителя AD и проекции в метавселенной), не может изменить его значение sourceAnchor больше. Чтобы указать значение sourceAnchor для присвоенное локальной AD, следует настроить его атрибута msDS-ConsistencyGuid до его импорта в Azure AD подключение.</span><span class="sxs-lookup"><span data-stu-id="3614a-p104">**Note:** Once an on-premises AD object is imported into Azure AD Connect (that is, imported into the AD Connector Space and projected into the Metaverse), you cannot change its sourceAnchor value anymore. To specify the sourceAnchor value for a given on-premises AD object, configure its msDS-ConsistencyGuid attribute before it is imported into Azure AD Connect.</span></span> 
+ <span data-ttu-id="fe255-109">**Примечание:** После того как локальный объект AD импортируется в Azure AD Connect (то есть импортируется в пространство AD Connector и проецируется в метавселенной), его значение Саурцеанчор больше нельзя изменить.</span><span class="sxs-lookup"><span data-stu-id="fe255-109">**Note:** Once an on-premises AD object is imported into Azure AD Connect (that is, imported into the AD Connector Space and projected into the Metaverse), you cannot change its sourceAnchor value anymore.</span></span> <span data-ttu-id="fe255-110">Чтобы указать значение Саурцеанчор для данного локального объекта AD, настройте его атрибут msDS-Консистенцигуид перед его импортом в Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="fe255-110">To specify the sourceAnchor value for a given on-premises AD object, configure its msDS-ConsistencyGuid attribute before it is imported into Azure AD Connect.</span></span> 
   
-<span data-ttu-id="3614a-111">Дополнительные сведения о SourceAnchor и ConsistencyGuid см: [Azure AD Connect: Разработка концепции](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)</span><span class="sxs-lookup"><span data-stu-id="3614a-111">For more information on SourceAnchor and ConsistencyGuid, refer to the following: [Azure AD Connect: Design concepts](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)</span></span>
+<span data-ttu-id="fe255-111">Дополнительные сведения о Саурцеанчор и Консистенцигуид можно найти в следующих статьях: [Azure AD Connect: концепции дизайна](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)</span><span class="sxs-lookup"><span data-stu-id="fe255-111">For more information on SourceAnchor and ConsistencyGuid, refer to the following: [Azure AD Connect: Design concepts](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)</span></span>
   
 

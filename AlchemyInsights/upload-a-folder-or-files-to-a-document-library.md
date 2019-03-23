@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 66462dff344d0b6ad5ae6eabf78bede2e3335356
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 32e3c4016f3c2ef5d6477e3593c4717802bd62b5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940153"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752971"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="4e77d-102">Загрузите папки или файлы в библиотеке документов SharePoint</span><span class="sxs-lookup"><span data-stu-id="4e77d-102">Upload a folder or files to a SharePoint document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="51561-102">Отправка папки или файлов в библиотеку документов SharePoint</span><span class="sxs-lookup"><span data-stu-id="51561-102">Upload a folder or files to a SharePoint document library</span></span>
 
-<span data-ttu-id="4e77d-p101">Отправка в папку, необходимо использовать Microsoft пограничного сервера, Google Chrome или Mozilla FireFox. Не удается загрузить папки в работу классический библиотеки или с помощью Internet Explorer 10 или 11.</span><span class="sxs-lookup"><span data-stu-id="4e77d-p101">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox. You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
+<span data-ttu-id="51561-103">Чтобы отправить папку, необходимо использовать Microsoft EDGE, Google Chrome или Mozilla FireFox.</span><span class="sxs-lookup"><span data-stu-id="51561-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="51561-104">Вы не можете отправлять папки в классического интерфейса библиотеки или с помощью Internet Explorer 10 или 11.</span><span class="sxs-lookup"><span data-stu-id="51561-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
   
-1. <span data-ttu-id="4e77d-105">Откройте библиотеку документов, где требуется передать папки или файлы.</span><span class="sxs-lookup"><span data-stu-id="4e77d-105">Open the document library where you want to upload a folder or files.</span></span>
+1. <span data-ttu-id="51561-105">Откройте библиотеку документов, в которую вы хотите отправить папку или файлы.</span><span class="sxs-lookup"><span data-stu-id="51561-105">Open the document library where you want to upload a folder or files.</span></span>
     
-2. <span data-ttu-id="4e77d-106">Откройте проводник, в котором на компьютере и перейдите по папок или файлов, которые вы хотите загрузить.</span><span class="sxs-lookup"><span data-stu-id="4e77d-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
+2. <span data-ttu-id="51561-106">Откройте обозреватель файлов на своем компьютере и перейдите к папке или файлам, которые требуется отправить.</span><span class="sxs-lookup"><span data-stu-id="51561-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
     
-3. <span data-ttu-id="4e77d-p102">Перетащите папок или файлов в библиотеку документов. Если не отображаются элементы, загруженный отображаются в библиотеке, обновить страницу.</span><span class="sxs-lookup"><span data-stu-id="4e77d-p102">Drag the folder or files to the document library. If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
+3. <span data-ttu-id="51561-107">Перетащите папку или файлы в библиотеку документов.</span><span class="sxs-lookup"><span data-stu-id="51561-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="51561-108">Если вы не видите элементы, которые вы перегрузили, появятся в библиотеке, обновите страницу.</span><span class="sxs-lookup"><span data-stu-id="51561-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
     
-<span data-ttu-id="4e77d-109">Если не требуется отправить, перетащив элементы между windows, можно использовать кнопку **Отправить** в библиотеке документов для выбора папки или файлы, которые вы хотите загрузить.</span><span class="sxs-lookup"><span data-stu-id="4e77d-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
+<span data-ttu-id="51561-109">Если вы не хотите отправлять элементы, перетаскивая элементы между окнами, можно также воспользоваться кнопкой " **Отправить** " в библиотеке документов, чтобы выбрать папку или файлы, которые требуется отправить.</span><span class="sxs-lookup"><span data-stu-id="51561-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
   
 
