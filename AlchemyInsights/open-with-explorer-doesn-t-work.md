@@ -1,5 +1,5 @@
 ---
-title: Открыть в проводнике не работает
+title: Открытие с помощью проводника не работает
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: f788c3c626cdeb19970edb59563c59eea60e2992
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 73d33e50449345c312abdd39afcc36e0c95fd1c4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906817"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764921"
 ---
-# <a name="open-with-explorer-isnt-working"></a><span data-ttu-id="67be3-102">Открыть в проводнике не работает</span><span class="sxs-lookup"><span data-stu-id="67be3-102">Open with Explorer isn't working</span></span>
+# <a name="open-with-explorer-isnt-working"></a><span data-ttu-id="49481-102">Открытие с помощью проводника не работает</span><span class="sxs-lookup"><span data-stu-id="49481-102">Open with Explorer isn't working</span></span>
 
-<span data-ttu-id="67be3-p101">Если не удается **Открыть в проводнике** или **представления в обозревателе файла** убедитесь, что служба веб-клиента задано значение **под управлением** , выполнив следующие действия. Например он может занять много времени, чтобы открыть библиотеку SharePoint или OneDrive, если служба не запущена.</span><span class="sxs-lookup"><span data-stu-id="67be3-p101">If **Open with Explorer** or **View in File Explorer** doesn't work make sure the WebClient service is set to **Running** by following the steps below. For example, it might take a long time to open a SharePoint or OneDrive library when the service is not running.</span></span> 
+<span data-ttu-id="49481-103">Если **окно Открыть в проводнике** или **Просмотреть в проводнике** не работает, убедитесь, что служба WebClient настроена на **Запуск** , выполнив указанные ниже действия.</span><span class="sxs-lookup"><span data-stu-id="49481-103">If **Open with Explorer** or **View in File Explorer** doesn't work make sure the WebClient service is set to **Running** by following the steps below.</span></span> <span data-ttu-id="49481-104">Например, для открытия библиотеки SharePoint или OneDrive может потребоваться много времени, если служба не запущена.</span><span class="sxs-lookup"><span data-stu-id="49481-104">For example, it might take a long time to open a SharePoint or OneDrive library when the service is not running.</span></span> 
   
-1. <span data-ttu-id="67be3-105">В поле поиска Windows тип запуска, выберите выполнить классического приложения, введите services.msc и выберите **Ввод**.</span><span class="sxs-lookup"><span data-stu-id="67be3-105">In the Windows search box, type run, select the Run desktop app, type services.msc, and then select **Enter**.</span></span>
+1. <span data-ttu-id="49481-105">В поле поиска Windows введите выполнить, выберите классическое приложение Run. msc, введите Services. msc и нажмите клавишу **Ввод**.</span><span class="sxs-lookup"><span data-stu-id="49481-105">In the Windows search box, type run, select the Run desktop app, type services.msc, and then select **Enter**.</span></span>
     
-2. <span data-ttu-id="67be3-p102">Прокрутите список вниз до службу веб-клиента и установить флажок в столбце **состояние** . Если состояние службы веб-клиента не **под управлением**, дважды щелкните имя службы, нажмите кнопку **Пуск**и затем нажмите **кнопку ОК**. Включите службу, при необходимости, выбрав в списке **Тип запуска** **вручную** или **автоматически** .</span><span class="sxs-lookup"><span data-stu-id="67be3-p102">Scroll down to the WebClient service and check the **Status** column. If the WebClient service status is not **Running**, double-click the service, click **Start**, and then click **OK**. Enable the service, if needed, by selecting either **Manual** or **Automatic** in the **Startup type** box.</span></span> 
+2. <span data-ttu-id="49481-106">ПроКрутите список вниз до службы WebClient и проверьте столбец **состояние** .</span><span class="sxs-lookup"><span data-stu-id="49481-106">Scroll down to the WebClient service and check the **Status** column.</span></span> <span data-ttu-id="49481-107">Если служба WebClient не **запущена**, дважды щелкните службу, нажмите кнопку **Пуск**, а затем нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="49481-107">If the WebClient service status is not **Running**, double-click the service, click **Start**, and then click **OK**.</span></span> <span data-ttu-id="49481-108">Включите службу (при необходимости), выбрав в поле **Тип запуска** значение **вручную** или **автоматически** .</span><span class="sxs-lookup"><span data-stu-id="49481-108">Enable the service, if needed, by selecting either **Manual** or **Automatic** in the **Startup type** box.</span></span> 
     
 > [!NOTE]
-> <span data-ttu-id="67be3-p103">Для устранения неполадок, открыв в File Explorer, видеть [Открыть в проводнике](https://go.microsoft.com/fwlink/?linkid=871665). Изучите синхронизации как лучший вариант: [файлы синхронизации SharePoint с помощью нового клиента синхронизации OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).</span><span class="sxs-lookup"><span data-stu-id="67be3-p103">To troubleshoot issues opening in File Explorer, see [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Explore sync as a better alternative: [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=871666).</span></span> 
+> <span data-ttu-id="49481-109">Устранение неполадок, возникающих при открытии в проводнике, представлено в разделе [Открыть в проводнике](https://go.microsoft.com/fwlink/?linkid=871665).</span><span class="sxs-lookup"><span data-stu-id="49481-109">To troubleshoot issues opening in File Explorer, see [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665).</span></span> <span data-ttu-id="49481-110">Узнайте, как лучше всего синхронизировать [файлы SharePoint с помощью нового клиента синхронизации OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).</span><span class="sxs-lookup"><span data-stu-id="49481-110">Explore sync as a better alternative: [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=871666).</span></span> 
   
 

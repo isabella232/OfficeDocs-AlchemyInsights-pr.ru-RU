@@ -1,5 +1,5 @@
 ---
-title: Прекращается SharePoint Online общедоступных веб-сайтов
+title: Общие веб-сайты SharePoint Online не поддерживаются
 ms.author: clake
 author: spowriter
 manager: scotv
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 44bbef0b4df8d504c6a1039691f9a3207a5a387d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1c63fd905448d48bb8823ebcfcb4900c4aab86ff
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913437"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761322"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a><span data-ttu-id="59340-102">Прекращается SharePoint Online общедоступных веб-сайтов</span><span class="sxs-lookup"><span data-stu-id="59340-102">SharePoint Online public websites are being discontinued</span></span>
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a><span data-ttu-id="7f25a-102">Общие веб-сайты SharePoint Online не поддерживаются</span><span class="sxs-lookup"><span data-stu-id="7f25a-102">SharePoint Online public websites are being discontinued</span></span>
 
-<span data-ttu-id="59340-p101">Если вы создали SharePoint Online общедоступного веб-сайта, можно продолжить использование до 31 марта 2018. Если вы хотите продолжить общедоступного веб-сайта, необходимо создать новый с помощью нового поставщика. Поэтому необходимо скопировать все содержимое, которое вы хотите сохранить содержимое на вашей SharePoint Online общедоступного веб-сайта будут удалены.</span><span class="sxs-lookup"><span data-stu-id="59340-p101">If you created a SharePoint Online public website, you can continue using it until March 31, 2018. If you want to continue having a public website, you need to create a new one with a new provider. The content on your SharePoint Online public website will be deleted, so you need to copy any content you want to keep.</span></span>
+<span data-ttu-id="7f25a-103">Если вы создали общедоступный веб-сайт SharePoint Online, вы можете продолжить его использование до 31 марта 2018 г.</span><span class="sxs-lookup"><span data-stu-id="7f25a-103">If you created a SharePoint Online public website, you can continue using it until March 31, 2018.</span></span> <span data-ttu-id="7f25a-104">Если вы хотите продолжить работу с общедоступным веб-сайтом, необходимо создать новый поставщик с новым поставщиком.</span><span class="sxs-lookup"><span data-stu-id="7f25a-104">If you want to continue having a public website, you need to create a new one with a new provider.</span></span> <span data-ttu-id="7f25a-105">Содержимое общедоступного веб-сайта SharePoint Online будет удалено, поэтому необходимо скопировать контент, который вы хотите сохранить.</span><span class="sxs-lookup"><span data-stu-id="7f25a-105">The content on your SharePoint Online public website will be deleted, so you need to copy any content you want to keep.</span></span>
   
-<span data-ttu-id="59340-p102">Заголовок теперь отображается в верхней части вашего SharePoint Online общедоступного веб-сайта в виде уведомление о том, что сайт удаляется. Невозможно отключить этот заголовок. Сведения о сохранении и копирование содержимого веб-сайта, партнера ознакомиться с [подробными сведениями о прекращении поддержки процесс компонента](https://go.microsoft.com/fwlink/?linkid=866980).</span><span class="sxs-lookup"><span data-stu-id="59340-p102">A banner now appears at the top of your SharePoint Online public website as notification that the site will be removed. You can't turn off this banner. For info about saving and copying content to a partner website, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span> 
+<span data-ttu-id="7f25a-106">Теперь баннер отображается в верхней части общедоступного веб-сайта SharePoint Online в качестве уведомления о том, что сайт будет удален.</span><span class="sxs-lookup"><span data-stu-id="7f25a-106">A banner now appears at the top of your SharePoint Online public website as notification that the site will be removed.</span></span> <span data-ttu-id="7f25a-107">Вы не можете отключить этот баннер.</span><span class="sxs-lookup"><span data-stu-id="7f25a-107">You can't turn off this banner.</span></span> <span data-ttu-id="7f25a-108">Сведения о сохранении и копировании контента на веб-сайт партнера можно узнать [в статье сведения о процессе](https://go.microsoft.com/fwlink/?linkid=866980)прекращения работы компонента.</span><span class="sxs-lookup"><span data-stu-id="7f25a-108">For info about saving and copying content to a partner website, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span> 
   
 

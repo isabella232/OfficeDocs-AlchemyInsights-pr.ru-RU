@@ -1,5 +1,5 @@
 ---
-title: Вопрос о лицензиях
+title: Вопросы о лицензиях
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: a2d5a988ac0eb01bb15a57a2a018c21b8861f147
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a5d701f61b0987978c759aa27d8e4f06e4be2b92
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938353"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760315"
 ---
-# <a name="question-about-licenses"></a><span data-ttu-id="8a677-102">Вопрос о лицензиях</span><span class="sxs-lookup"><span data-stu-id="8a677-102">Question about licenses</span></span>
+# <a name="question-about-licenses"></a><span data-ttu-id="c899f-102">Вопросы о лицензиях</span><span class="sxs-lookup"><span data-stu-id="c899f-102">Question about licenses</span></span>
 
-<span data-ttu-id="8a677-103">Если вы хотите узнать, требуемое количество лицензий, вы приобрели или сколько лицензий назначенных по подписке:</span><span class="sxs-lookup"><span data-stu-id="8a677-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
+<span data-ttu-id="c899f-103">Если вы хотите узнать, сколько приобретенных лицензий было приобретено, или сколько лицензий назначено из подписки:</span><span class="sxs-lookup"><span data-stu-id="c899f-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
   
-1. <span data-ttu-id="8a677-104">В Центре администрирования откройте страницу [Подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) или выберите **Выставление счетов** \> **Подписки**.</span><span class="sxs-lookup"><span data-stu-id="8a677-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="c899f-104">В Центре администрирования откройте страницу [Подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) или выберите **Выставление счетов** \> **Подписки**.</span><span class="sxs-lookup"><span data-stu-id="c899f-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="8a677-105">Выберите подписку, чтобы получить дополнительные сведения.</span><span class="sxs-lookup"><span data-stu-id="8a677-105">Choose the subscription you want to know more about.</span></span>
+2. <span data-ttu-id="c899f-105">Выберите подписку, о которой вы хотите узнать больше.</span><span class="sxs-lookup"><span data-stu-id="c899f-105">Choose the subscription you want to know more about.</span></span>
     
-3. <span data-ttu-id="8a677-106">В левой части карточки подписки, сведения о лицензии:</span><span class="sxs-lookup"><span data-stu-id="8a677-106">On the left side of the subscription card is information about your licenses:</span></span>
+3. <span data-ttu-id="c899f-106">В левой части карточки подписки сведения о лицензиях:</span><span class="sxs-lookup"><span data-stu-id="c899f-106">On the left side of the subscription card is information about your licenses:</span></span>
     
-  - <span data-ttu-id="8a677-107">Номер **Куплено** — число лицензий, которые вы оплаты.</span><span class="sxs-lookup"><span data-stu-id="8a677-107">The **Purchased** number is the number of licenses you are paying for.</span></span> 
+  - <span data-ttu-id="c899f-107">**Приобретенный** номер — это количество лицензий, за которые вы оплачиваете.</span><span class="sxs-lookup"><span data-stu-id="c899f-107">The **Purchased** number is the number of licenses you are paying for.</span></span> 
     
-  - <span data-ttu-id="8a677-108">**Назначенный** номер — число лицензий назначенных пользователю.</span><span class="sxs-lookup"><span data-stu-id="8a677-108">The **Assigned** number is the number of licenses assigned to a user.</span></span> 
+  - <span data-ttu-id="c899f-108">**Назначенный** номер это количество лицензий, назначенных пользователю.</span><span class="sxs-lookup"><span data-stu-id="c899f-108">The **Assigned** number is the number of licenses assigned to a user.</span></span> 
     
-4. <span data-ttu-id="8a677-109">Если вы хотите добавить дополнительные лицензии, есть ли у вас есть слишком многих, нажмите кнопку **Добавить или удалить лицензии** для настройки приобрести отдельно.</span><span class="sxs-lookup"><span data-stu-id="8a677-109">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span> 
+4. <span data-ttu-id="c899f-109">Если вы хотите добавить дополнительные лицензии, или если у вас слишком много, нажмите кнопку **Добавить/удалить лицензии** , чтобы скорректировать приобретенную сумму.</span><span class="sxs-lookup"><span data-stu-id="c899f-109">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span> 
     
 
