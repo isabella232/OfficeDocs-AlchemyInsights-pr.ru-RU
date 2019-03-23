@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: c68bb4cf7f4fde185839cf3f29ac596781b81ec4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2d3d05214e6217568125f8b426aa952176f74fa1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941377"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752791"
 ---
 # <a name="access-services"></a>Службы Access
 
-Компонент служб Access в SharePoint Online — это время не поддерживается. Новые доступа к веб-приложений и веб-баз данных больше не могут быть созданы и существующих веб-приложений и веб-баз данных будет закрыта с апреля, 2018. Это изменение не повлияет на настольных баз данных Access (.accdb). Мы рекомендуем PowerApps Microsoft в качестве альтернативы для доступа к веб-приложений и веб-базы данных. 
+Функция служб Access в SharePoint Online будет отменена. Новые веб-приложения на основе доступа и веб-базы данных больше не могут быть созданы, а существующие веб-приложения и веб-базы данных будут закрыты на апрель 2018. Это изменение не влияет на базы данных Access для наСтольных ПК (ACCDB). Мы рекомендуем Microsoft PowerApps в качестве альтернативы для доступа к веб-приложениям и веб-базам данных. 
   
-[Узнайте о PowerApps корпорации Майкрософт](https://powerapps.microsoft.com/)
+[Сведения о Microsoft PowerApps](https://powerapps.microsoft.com/)
   
 

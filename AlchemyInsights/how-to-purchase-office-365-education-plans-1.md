@@ -1,5 +1,5 @@
 ---
-title: Как приобрести планы Office 365 образования
+title: Приобретение планов Office 365 для образования
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 264121f762e6ec86949fcd1c2baa89d1e38f7d8c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e7320ef0d75655e89bb01c4b47326e051878a296
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934861"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765821"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Как приобрести планы Office 365 образования
+# <a name="how-to-purchase-office-365-education-plans"></a>Приобретение планов Office 365 для образования
 
-Мы просматривается запроса и определяет, что это организация не подходят для квалифицированного академический учреждение Microsoft. Вашей текущей академический пробные истекает в конце пробный период.
+Мы проверили ваш запрос и определили, что эта организация не подходит для квалифицированного учебного заВедения Майкрософт. Срок действия ознакомительной пробной версии вашего учебного задолженности истекает в конце пробного периода.
   
-Для профессиональной приобрести Office 365, ознакомьтесь с разделом [доступности предложений](https://go.microsoft.com/fwlink/p/?linkid=868433).
+Чтобы приобрести Office 365 в коммерческих целях, ознакомьтесь со статьей [Доступные предложения](https://go.microsoft.com/fwlink/p/?linkid=868433).
   
 

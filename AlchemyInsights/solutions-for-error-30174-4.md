@@ -1,5 +1,5 @@
 ---
-title: Решения для ошибок 30174-4
+title: Решения для ошибки 30174-4
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -10,24 +10,24 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: ffe51d8f6ebce4db094ad09a703f073b18ef4925
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: bf6bfc5f24ebcb1c2ec60de32eb12812a1044020
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928093"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765929"
 ---
 # <a name="error-code-30174-4-when-installing-office"></a>Код ошибки 30174-4 при установке Office
 
-Эта ошибка может появиться, если антивирусное программное обеспечение, брандмауэра, параметров прокси-сервера или подключения не позволяют установки Office. Ниже приведены некоторые факторы, можно попробовать решить проблему.
+Эта ошибка может возникнуть, если антивирусная программа, брандмауэр, параметры прокси-сервера или подключение не позволяют установить Office. Here are some things you can try to fix the problem.
   
-- Используйте проводное подключение
+- Использование проводного подключения
     
-- Временно отключить параметры прокси-сервера
+- Временное отключение параметров прокси-сервера
     
-- Временное отключение антивирусной программы
+- Временное отключение антивирусного программного обеспечения
     
 [Код ошибки 30174-4 при установке Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   

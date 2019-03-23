@@ -1,5 +1,5 @@
 ---
-title: Установка Скайп для бизнеса
+title: Установка Skype для бизнеса
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: 462aa49181340f8ca29cffedb1a4fedf3a545865
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6c452e629723b3c24a006dfd9fad72bbc248287d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899833"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758119"
 ---
-# <a name="install-skype-for-business"></a>Установка Скайп для бизнеса
+# <a name="install-skype-for-business"></a>Установка Skype для бизнеса
 
-Можно установить Скайп для бизнеса, выполнив действия, описанные в этой статье: [Установка Скайп для бизнеса](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)
+Вы можете установить Skype для бизнеса, выполнив действия, описанные в этой статье: [Установка Skype для бизнеса](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)
   
 

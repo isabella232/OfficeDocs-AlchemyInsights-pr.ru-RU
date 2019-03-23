@@ -1,5 +1,5 @@
 ---
-title: Необходимые лицензии для Microsoft задач
+title: Необходимые лицензии для Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,52 +9,52 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 7fc665d0af708f0dbcb9241de8102a976459436a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c492b46fa507c75a166eb4a8cfa48019a3ec7d4c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926977"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757867"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Необходимые лицензии для Microsoft задач
+# <a name="required-licenses-for-microsoft-todo"></a>Необходимые лицензии для Microsoft ToDo
 
-[Необходимые лицензии для Microsoft задач](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Необходимые лицензии для Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Пользователь должен иметь одно из следующих число лицензий на использование Microsoft задач:
+Для использования Microsoft ToDo у пользователя должна быть одна из следующих лицензий:
   
 - Бизнес базовый
     
 - Бизнес премиум
     
-- Microsoft 365 Firstline F1
+- Microsoft 365 задействование F1
     
-- Любой план Office 365 для предприятия
+- Любой план Office 365 корпоративный
     
-- Secure производительности бизнеса
+- Безопасная продуктивность бизнеса
     
 - Secure Productive Enterprise E3
     
 - Secure Productive Enterprise E5
     
-- Любой плана обучения Office 365
+- Любой план Office 365 для образовательных учреждений
     
 - Microsoft 365 A3
     
 - Microsoft 365 A5
     
-В дополнение к лицензии продукта один из следующих версий Exchange Online необходимо для задач, должны иметь возможность синхронизации пользовательских данных: 
+В дополнение к действительной лицензии на продукт необходимо выполнить одну из следующих версий Exchange Online, чтобы задача могла синхронизировать пользовательские данные: 
   
 - Exchange Online (план 1)
     
 - Exchange Online (план 2)
     
-- Основы Exchange
+- Основные сведения о Exchange
     
 - Базовая подписка на Exchange Online
     
-- Exchange Online POP
+- POP Exchange Online
     
 [Назначение лицензий для учетных записей пользователей с помощью PowerShell в Office 365](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   
