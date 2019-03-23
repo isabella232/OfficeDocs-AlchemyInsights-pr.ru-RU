@@ -1,39 +1,37 @@
 ---
-title: Пароли приложений
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 пароли приложений
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938245"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762545"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="8ce0f-102">Пароли приложений</span><span class="sxs-lookup"><span data-stu-id="8ce0f-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="3f7bc-102">Пароли приложений</span><span class="sxs-lookup"><span data-stu-id="3f7bc-102">App passwords</span></span>
 
-<span data-ttu-id="8ce0f-p101">Пароль, который приложение представляет собой код, который предоставляет приложение или устройство разрешение на доступ к учетной записи Office 365. Если ваш администратор включил многофакторной проверки подлинности для вашей организации, и вы используете приложения, которые подключаются к учетной записи Office 365, необходимо создать пароль приложения, чтобы приложение может подключиться к Office 365. К примеру Если вы используете Outlook 2016 или более ранних версий с Office 365, вам потребуется создать пароль, который приложение.</span><span class="sxs-lookup"><span data-stu-id="8ce0f-p101">An app password is a code that gives an app or device permission to access your Office 365 account. If your admin has turned on multi-factor authentication for your organization, and you're using apps that connect to your Office 365 account, you'll need to generate an app password so the app can connect to Office 365. For example, if you're using Outlook 2016 or earlier with Office 365, you'll need to create an app password.</span></span>
+<span data-ttu-id="3f7bc-103">Пароль приложения — это код, который предоставляет приложению или устройству разрешение на доступ к рабочей или учебной учетной записи Office 365.</span><span class="sxs-lookup"><span data-stu-id="3f7bc-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="3f7bc-104">Если для вашей учетной записи требуется многофакторная проверка подлинности (MFA), а приложение подключается к вашей учетной записи, необходимо создать пароль приложения, чтобы приложение могло подключиться к Office 365.</span><span class="sxs-lookup"><span data-stu-id="3f7bc-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="3f7bc-105">Например, для Outlook 2016 и более ранних версий Outlook требуется пароль приложения.</span><span class="sxs-lookup"><span data-stu-id="3f7bc-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
   
-1. <span data-ttu-id="8ce0f-p102">Проверьте, является ли ваш администратор Office 365 у которого включена функция многофакторной проверки подлинности для вашей учетной записи. Если они еще не, при попытке выполнить эти шаги не будут отображаться параметры в Office 365.</span><span class="sxs-lookup"><span data-stu-id="8ce0f-p102">Check whether your Office 365 admin has turned on multi-factor authentication for your account. If they haven't, when you try to do these steps you won't see the options in Office 365.</span></span>
+ <span data-ttu-id="3f7bc-106">**Примечание**. перед выполнением следующих действий проверьте наличие учетной записи для учетной записи в администраторе Office 365.</span><span class="sxs-lookup"><span data-stu-id="3f7bc-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="3f7bc-107">В противном случае параметры, описанные в этой статье, будут недоступны.</span><span class="sxs-lookup"><span data-stu-id="3f7bc-107">If it isn't, the options described in the steps won't be available to you.</span></span>
+  
+1. <span data-ttu-id="3f7bc-108">Войдите в Office 365 с помощью рабочей или учебной учетной записи и пароля.</span><span class="sxs-lookup"><span data-stu-id="3f7bc-108">Sign in to Office 365 with your work or school account and your password.</span></span>
     
-2. <span data-ttu-id="8ce0f-p103">Войдите в Office 365 с помощью учетной записи рабочего или школы с помощью пароля, как обычно. После выбора **Вход**, вы увидите страницу с несколько параметров и имя пользователя</span><span class="sxs-lookup"><span data-stu-id="8ce0f-p103">Sign in to Office 365 with your work or school account with your password like you normally do. After you choose **Sign in**, you'll see a page with your user name and a few options</span></span> 
+2. <span data-ttu-id="3f7bc-109">Нажмите кнопку **настроить**.</span><span class="sxs-lookup"><span data-stu-id="3f7bc-109">Choose **Set it up now**.</span></span>
     
-3. <span data-ttu-id="8ce0f-110">Выберите **настройку сейчас**.</span><span class="sxs-lookup"><span data-stu-id="8ce0f-110">Choose **Set it up now**.</span></span> 
+3. <span data-ttu-id="3f7bc-110">Выберите метод проверки подлинности и следуйте инструкциям.</span><span class="sxs-lookup"><span data-stu-id="3f7bc-110">Select your authentication method and follow the prompts.</span></span>
     
-4. <span data-ttu-id="8ce0f-111">Выберите метод проверки подлинности и затем следуйте инструкциям на странице.</span><span class="sxs-lookup"><span data-stu-id="8ce0f-111">Select your authentication method and then follow the prompts on the page.</span></span>
+4. <span data-ttu-id="3f7bc-111">После проверки альтернативного способа связи нажмите кнопку **Далее**.</span><span class="sxs-lookup"><span data-stu-id="3f7bc-111">After you verify your alternate contact method, choose **Next**.</span></span>
     
-5. <span data-ttu-id="8ce0f-112">После проверки вашей альтернативный способ связи, нажмите кнопку **Далее**.</span><span class="sxs-lookup"><span data-stu-id="8ce0f-112">After you verify your alternate contact method, choose **Next**.</span></span> 
-    
-6. <span data-ttu-id="8ce0f-p104">Вы получите пароль приложения, которые можно использовать с Outlook, Apple Mail, и т.д. Выберите значок копировать, чтобы скопировать его в буфер обмена. Запомните этот пароль при этом не требуется.</span><span class="sxs-lookup"><span data-stu-id="8ce0f-p104">You'll get an app password that you can use with Outlook, Apple Mail, etc. Choose the copy icon to copy the password to your clipboard. You won't need to memorize this password.</span></span> 
-    
-7. <span data-ttu-id="8ce0f-115">Когда добавить учетную запись электронной почты Office 365 в Outlook (или другого приложения) и требуется ввести пароль, прошлые приложении пароль в поле пароль вместо ввода пароля учетной записи.</span><span class="sxs-lookup"><span data-stu-id="8ce0f-115">When you add your Office 365 email account to Outlook (or another app), and you're prompted for a password, past this app password into the Password box, instead of typing your account password.</span></span> 
+5. <span data-ttu-id="3f7bc-112">Вы получите пароль приложения, который вы можете использовать в Outlook, Apple Mail и других приложениях, которым она необходима.</span><span class="sxs-lookup"><span data-stu-id="3f7bc-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="3f7bc-113">Нажмите кнопку **Копировать** , чтобы скопировать пароль, чтобы его можно было вставить в любое другое место (его не нужно запоминать).</span><span class="sxs-lookup"><span data-stu-id="3f7bc-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span> 
     
 
