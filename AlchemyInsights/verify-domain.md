@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404868"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760423"
 ---
-# <a name="trying-to-verify-your-domain"></a>Попытка проверки домена
+# <a name="trying-to-verify-your-domain"></a>Хотите подтвердить свой домен?
 
-Чтобы убедиться в том, что вы владеете доменом, необходимо добавить запись TXT в регистратор доменных имен. Следуйте инструкциям в мастере добавления доменов, щелкнув **домен** **параметров** \> , а затем **Добавить домен**. 
+Чтобы подтвердить право собственности на домен, нужно добавить запись TXT на сайте регистратора доменных имен. Следуйте указаниям мастера добавления домена, выбрав **Параметры** \> **Домен** и нажав кнопку **Добавить домен**. 
   
-Следуйте инструкциям, приведенным в статье, чтобы добавить запись TXT для проверки домена. Выберите регистратора доменных имен, чтобы получить конкретные инструкции для вашего домена.
+Выполните инструкции в указанной ниже статье по добавлению записи TXT для подтверждения домена. Чтобы получить инструкции для своего домена, выберите регистратора доменных имен.
   
-[Создание записей для Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Создание записей DNS для Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
 
