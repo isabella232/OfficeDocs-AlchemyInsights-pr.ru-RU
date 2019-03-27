@@ -1,5 +1,5 @@
 ---
-title: ОтПравитель заблокирован для отправки слишком большого количества спама
+title: Блокировка отправителя из-за отправки большого количества спама
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 10e6a94a58acd1db8a36ca99a34809c8e99ddebc
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c2226a00de806049e92cf0e1e25c75fb57adef53
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405300"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767513"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Учетная запись заблокирована для отправки слишком большого количества спама
+# <a name="account-is-blocked-for-sending-too-much-spam"></a>Учетная запись заблокирована из-за отправки большого количества спама
 
-Учетная запись для отправки может быть скомпрометирована. Необходимо выполнить следующие действия:
+Возможно, учетная запись отправителя скомпрометирована. Выполните следующие действия.
   
-1. [Определите, скомпрометирована ли учетная запись](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). В случае нарушения безопасности следуйте указаниям для [ответа на скомпрометированНую учетНую запись электронной почты в Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+1. [Определите, скомпрометирована ли учетная запись](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Если это так, следуйте инструкциям по [реагированию на компрометацию учетной записи электронной почты в Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
     
-2. Перейдите к разделу пользователи с ограниченными правами, &amp; чтобы **[разблокировать учетную запись](https://protection.office.com/?hash=/restrictedusers)** в центре соответствия требованиям безопасности. После этого вы сможете возобновить отправку сообщений *в течение 1 часа* . 
+2. В Центре безопасности и соответствия требованиям перейдите в раздел "Пользователи с ограниченным доступом", чтобы **[разблокировать учетную запись](https://protection.office.com/?hash=/restrictedusers)**. После завершения процедуры отправка сообщений должна возобновиться *в течение часа*. 
     
 3. Чтобы предотвратить эту проблему в будущем, следуйте [рекомендациям по обеспечению безопасности для Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
   
