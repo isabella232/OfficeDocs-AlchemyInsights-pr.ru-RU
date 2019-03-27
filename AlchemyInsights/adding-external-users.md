@@ -9,24 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: f06467f0fff8c4e851a01ca996186251cced35fd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cd108cabe1fd2bc0a9a3fb78f478c0a6fdb8126c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929065"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767117"
 ---
 # <a name="adding-external-users"></a>Добавление внешних пользователей
 
-Действия по добавлению внешнего / гостя пользователей может отличаться в зависимости от того, что необходимо они должны иметь доступ. Выберите один из следующих:
+Действия по добавлению внешних и гостевых пользователей могут различаться в зависимости от того, что вам необходимо для доступа. Выберите один из следующих вариантов:
   
-- 
-  [Управление внешним доступом для среды SharePoint Online](https://support.office.com/article/manage-external-sharing-for-your-sharepoint-online-environment-c8a462eb-0723-4b0b-8d0a-70feafe4be85)
+- [Управление внешним доступом для среды SharePoint Online](https://support.office.com/article/manage-external-sharing-for-your-sharepoint-online-environment-c8a462eb-0723-4b0b-8d0a-70feafe4be85)
     
-- [Гостевая доступа в Office 365 групп](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Гостевой доступ в группах Office 365](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
     
-- [Гостевой доступ в группах Майкрософт](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Гостевой доступ в Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
     
 

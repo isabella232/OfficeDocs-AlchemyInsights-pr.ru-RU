@@ -1,5 +1,5 @@
 ---
-title: Отправка документа
+title: Отправка документов
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 58339542cd1530c912c9c7e37bbc18960aa32691
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 960331625e01a4b6ec71cf09184cfdde8f9e4bde
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905737"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766217"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Отправка файлов в OneDrive или SharePoint
 
-1. В веб-браузере перейдите в расположение, в которых вы собираетесь загрузки файлов.
+1. В веб-браузере перейдите к папке, в которую вы хотите отправить файлы.
     
-2. Откройте проводник и найдите файлы, которые вы хотите загрузить.
+2. Откройте проводник и перейдите к файлам, которые вы хотите отправить.
     
-3. Выберите файлы и перетащите их расположение в OneDrive или SharePoint. Примечание: Если вы используете пограничного сервера Microsoft, Mozilla FireFox или Google Chrome, также можно передать папки и файлы в нем.
+3. Выберите файлы и перетащите их в расположение в OneDrive или SharePoint. Примечание. Если вы используете Microsoft EDGE, Mozilla FireFox или Google Chrome, вы также можете отправить папку и все файлы в ней.
     
 > [!NOTE]
->  Можно загружать файлы размером до 15 ГБ. Полный путь для файла (включая имя файла) > не может быть более 400 символов в длину. >, если требуется передавать файлы более 100, [Используйте клиента синхронизации OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+>  Вы можете отправлять файлы размером до 15 ГБ. _Гт_. полный путь к файлу (включая имя файла) не может превышать 400 символов в длину. _Гт_ если вам нужно отправить более 100 файлов, [используйте клиент синхронизации OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Оставив сотрудников
+title: Выход сотрудников
 ms.author: dianef
 author: dianef77
 manager: scotv
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: ''
-ms.openlocfilehash: d66d92afb22f65fe937316d6f799696dc481657a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3d7a1399cb1378cd6960d308d2df440310408b9d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940585"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767477"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Сотрудник покидать и нужно заблокировать доступ к данным и адрес электронной почты?
+# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Должен ли сотрудник оставлять и блокировать доступ к данным и электронным сообщениям?
   
-1. Перейдите к [Активные пользователи](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+1. Перейдите к разделу [Активные пользователи](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
     
 2. Выберите пользователя, которого нужно заблокировать. 
     
-3. Рядом с пунктом состояние входа и выберите **Изменить**. 
+3. Рядом с полем состояние входа нажмите кнопку **изменить**. 
     
-4. Выберите **заблокировать пользователя вход с** \> **Сохранить**. 
+4. Выберите **блокировать вход пользователя в систему для** \> **сохранения**. 
     
- **Примечание**: выхода для некоторых приложений не может быть интерпретации. Обратитесь к дополнительные действия в этой статье: [Удаление предыдущих версий сотрудников с Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+ **Note**: выход для некоторых приложений может быть немедленным. Дополнительные действия в этой статье: [Удаление бывшего сотрудника из Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
   
 

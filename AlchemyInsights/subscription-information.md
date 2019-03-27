@@ -1,5 +1,5 @@
 ---
-title: Сведения о подписке
+title: Сведения о подПиске
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: e8ce1a06ba230b6907e1e3cc7dfdc829ab8b49cf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a90c9b76d5ad80508d1e38fabe21eb944fe9681e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905197"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766685"
 ---
-# <a name="subscription-information"></a>Сведения о подписке
+# <a name="subscription-information"></a>Сведения о подПиске
 
-Для получения сведений о подписках владельцем, перейдите на страницу [подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) или выберите **выставления счетов** \> **подписки**.
+Чтобы получить сведения о подписках, перейдите на страницу [подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) или выберите **подписки**на **выставление счетов** \> .
   
-Основные сведения о каждой подписки:
+Ключевая информация о каждой подписке:
   
-- Состояние каждого из них
+- Состояние каждого
     
-- Приобрести лицензии
+- Приобретенные лицензии
     
-- Назначение лицензий
+- Назначенные лицензии
     
-- Повторяющееся состояние выставления счетов
+- Состояние периодического выставления счетов
     
-- Баланс
+- Равномерно
     
-- Способ оплаты
+- Метод оплаты
     
-- Следующая дата выставления счетов или истечение срока действия
+- Дата следующего выставления счета или истечения срока действия
     
 
