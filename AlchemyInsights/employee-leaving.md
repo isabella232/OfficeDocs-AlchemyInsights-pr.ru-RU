@@ -1,5 +1,5 @@
 ---
-title: Оставив сотрудников
+title: Выход сотрудников
 ms.author: dianef
 author: dianef77
 manager: scotv
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: ''
-ms.openlocfilehash: d66d92afb22f65fe937316d6f799696dc481657a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3d7a1399cb1378cd6960d308d2df440310408b9d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940585"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767477"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a><span data-ttu-id="92034-102">Сотрудник покидать и нужно заблокировать доступ к данным и адрес электронной почты?</span><span class="sxs-lookup"><span data-stu-id="92034-102">Have an employee leaving and need to block access to data and email?</span></span>
+# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a><span data-ttu-id="bf8fd-102">Должен ли сотрудник оставлять и блокировать доступ к данным и электронным сообщениям?</span><span class="sxs-lookup"><span data-stu-id="bf8fd-102">Have an employee leaving and need to block access to data and email?</span></span>
   
-1. <span data-ttu-id="92034-103">Перейдите к [Активные пользователи](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span><span class="sxs-lookup"><span data-stu-id="92034-103">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span></span>
+1. <span data-ttu-id="bf8fd-103">Перейдите к разделу [Активные пользователи](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span><span class="sxs-lookup"><span data-stu-id="bf8fd-103">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span></span>
     
-2. <span data-ttu-id="92034-104">Выберите пользователя, которого нужно заблокировать.</span><span class="sxs-lookup"><span data-stu-id="92034-104">Select the user you want to block.</span></span> 
+2. <span data-ttu-id="bf8fd-104">Выберите пользователя, которого нужно заблокировать.</span><span class="sxs-lookup"><span data-stu-id="bf8fd-104">Select the user you want to block.</span></span> 
     
-3. <span data-ttu-id="92034-105">Рядом с пунктом состояние входа и выберите **Изменить**.</span><span class="sxs-lookup"><span data-stu-id="92034-105">Next to Sign-in status, choose **Edit**.</span></span> 
+3. <span data-ttu-id="bf8fd-105">Рядом с полем состояние входа нажмите кнопку **изменить**.</span><span class="sxs-lookup"><span data-stu-id="bf8fd-105">Next to Sign-in status, choose **Edit**.</span></span> 
     
-4. <span data-ttu-id="92034-106">Выберите **заблокировать пользователя вход с** \> **Сохранить**.</span><span class="sxs-lookup"><span data-stu-id="92034-106">Choose **Block the user from signing in** \> **Save**.</span></span> 
+4. <span data-ttu-id="bf8fd-106">Выберите **блокировать вход пользователя в систему для** \> **сохранения**.</span><span class="sxs-lookup"><span data-stu-id="bf8fd-106">Choose **Block the user from signing in** \> **Save**.</span></span> 
     
- <span data-ttu-id="92034-p101">**Примечание**: выхода для некоторых приложений не может быть интерпретации. Обратитесь к дополнительные действия в этой статье: [Удаление предыдущих версий сотрудников с Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)</span><span class="sxs-lookup"><span data-stu-id="92034-p101">**Note**: Sign-out for some apps might not be immediate. Follow up with more actions in this article: [Remove a former employee from Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)</span></span>
+ <span data-ttu-id="bf8fd-107">**Note**: выход для некоторых приложений может быть немедленным.</span><span class="sxs-lookup"><span data-stu-id="bf8fd-107">**Note**: Sign-out for some apps might not be immediate.</span></span> <span data-ttu-id="bf8fd-108">Дополнительные действия в этой статье: [Удаление бывшего сотрудника из Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)</span><span class="sxs-lookup"><span data-stu-id="bf8fd-108">Follow up with more actions in this article: [Remove a former employee from Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)</span></span>
   
 

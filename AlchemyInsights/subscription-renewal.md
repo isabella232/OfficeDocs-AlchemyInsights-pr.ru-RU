@@ -1,5 +1,5 @@
 ---
-title: Возобновление подписки
+title: Обновление подписки
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 661d0d0497683fee61d39d98d8f30fdd1be9b5c4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 22831d13132fc004bd8f38218e4e598f1ab5679c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927409"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767585"
 ---
-# <a name="subscription-recurring-billing"></a><span data-ttu-id="6c979-102">Повторяющееся подписки выставления счетов</span><span class="sxs-lookup"><span data-stu-id="6c979-102">Subscription recurring billing</span></span>
+# <a name="subscription-recurring-billing"></a><span data-ttu-id="7f72c-102">Периодическая оплата подписки</span><span class="sxs-lookup"><span data-stu-id="7f72c-102">Subscription recurring billing</span></span>
 
-<span data-ttu-id="6c979-103">Необходимо знать при подписки ежемесячно или ежегодно будут международные (если **выставления счетов типовой** включен) или истечения срока действия (если **выставления счетов типовой** отключена):</span><span class="sxs-lookup"><span data-stu-id="6c979-103">If you want to know when your monthly or yearly subscription will be billed (if **Recurring billing** is turned on) or expire (if **Recurring billing** is turned off):</span></span> 
+<span data-ttu-id="7f72c-103">Если вы хотите узнать, когда выставляются счета по месячной или ежегодной подписке (если включено **периодическое выставление счетов** ) или истекает срок действия (если **периодическая оплата** отключена):</span><span class="sxs-lookup"><span data-stu-id="7f72c-103">If you want to know when your monthly or yearly subscription will be billed (if **Recurring billing** is turned on) or expire (if **Recurring billing** is turned off):</span></span> 
   
-1. <span data-ttu-id="6c979-104">В Центре администрирования откройте страницу [Подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) или выберите **Выставление счетов** \> **Подписки**.</span><span class="sxs-lookup"><span data-stu-id="6c979-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="7f72c-104">В Центре администрирования откройте страницу [Подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) или выберите **Выставление счетов** \> **Подписки**.</span><span class="sxs-lookup"><span data-stu-id="7f72c-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="6c979-105">Выберите подписки, для получения дополнительных сведений.</span><span class="sxs-lookup"><span data-stu-id="6c979-105">Choose the subscription that you want to know more about.</span></span>
+2. <span data-ttu-id="7f72c-105">Выберите подписку, о которой вы хотите узнать больше.</span><span class="sxs-lookup"><span data-stu-id="7f72c-105">Choose the subscription that you want to know more about.</span></span>
     
-3. <span data-ttu-id="6c979-106">В правой части карточки подписки, сведения о состояния подписки, параметр **Типовой выставления счетов** и следующая дата выставления счетов или истечение срока действия.</span><span class="sxs-lookup"><span data-stu-id="6c979-106">On the right side of the subscription card is information about the subscription status, the **Recurring billing** setting, and the next billing or expiration date.</span></span> 
+3. <span data-ttu-id="7f72c-106">В правой части карточки подписки сведения о состоянии подписки, параметрах периодического выставления **счетов** и следующей дате выставления счетов или истечения срока действия.</span><span class="sxs-lookup"><span data-stu-id="7f72c-106">On the right side of the subscription card is information about the subscription status, the **Recurring billing** setting, and the next billing or expiration date.</span></span> 
     
-4. <span data-ttu-id="6c979-p101">Для дальнейшего использования службы после этой даты, переключите переключателя **выставления счетов параметры типовой** **на**. Состояние отображается следующая дата выставления счетов для подписки.</span><span class="sxs-lookup"><span data-stu-id="6c979-p101">To continue using the service past this date, switch the **Recurring billing settings** toggle to **On**. The status will show the next billing date for the subscription.</span></span>
+4. <span data-ttu-id="7f72c-107">Чтобы продолжить использование службы после этой даты, переключите **параметры периодических счетов** в **вкл**.</span><span class="sxs-lookup"><span data-stu-id="7f72c-107">To continue using the service past this date, switch the **Recurring billing settings** toggle to **On**.</span></span> <span data-ttu-id="7f72c-108">В этом статусе отображается следующая дата выставления счетов для подписки.</span><span class="sxs-lookup"><span data-stu-id="7f72c-108">The status will show the next billing date for the subscription.</span></span>
     
-5. <span data-ttu-id="6c979-p102">Чтобы остановить службу на эту дату, переключитесь в переключателя **выставления счетов типовой** **Off**. Состояние будет Показать Дата истечения срока действия подписки.</span><span class="sxs-lookup"><span data-stu-id="6c979-p102">To stop service on this date, switch the **Recurring billing** toggle to **Off**. The status will show the date the subscription expires.</span></span>
+5. <span data-ttu-id="7f72c-109">Чтобы остановить службу в этот день, переключите флажок **периодический выставлен счет** . \*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="7f72c-109">To stop service on this date, switch the **Recurring billing** toggle to **Off**.</span></span> <span data-ttu-id="7f72c-110">В поле Состояние отображается дата истечения срока действия подписки.</span><span class="sxs-lookup"><span data-stu-id="7f72c-110">The status will show the date the subscription expires.</span></span>
     
 

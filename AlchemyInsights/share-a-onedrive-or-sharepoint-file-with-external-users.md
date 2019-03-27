@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
-ms.openlocfilehash: 3d11601bfae551561079e0780a8aaf2a74f92355
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 24bb0e8a1ad5b1ef33c57b1bcb5bed939009749c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938398"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766505"
 ---
-# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a><span data-ttu-id="0e3c0-102">Общий доступ к OneDrive или SharePoint файлов и папок с внешними пользователями</span><span class="sxs-lookup"><span data-stu-id="0e3c0-102">Share a OneDrive or SharePoint file or folder with external users</span></span>
+# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a><span data-ttu-id="515d4-102">Предоставление доступа к файлу или папке OneDrive или SharePoint для внешних пользователей</span><span class="sxs-lookup"><span data-stu-id="515d4-102">Share a OneDrive or SharePoint file or folder with external users</span></span>
 
-1. <span data-ttu-id="0e3c0-103">В браузере перейдите на файл или папку, которую требуется общий доступ, выберите его и нажмите кнопку **общий доступ**.</span><span class="sxs-lookup"><span data-stu-id="0e3c0-103">In a browser, go to the file or folder you want to share, select it, and then click **Share**.</span></span>
+1. <span data-ttu-id="515d4-103">В браузере перейдите к файлу или папке, к которым требуется предоставить общий доступ, выберите группу и нажмите **общий доступ**.</span><span class="sxs-lookup"><span data-stu-id="515d4-103">In a browser, go to the file or folder you want to share, select it, and then click **Share**.</span></span>
     
-2. <span data-ttu-id="0e3c0-104">В диалоговом окне Отправить ссылку щелкните стрелку вниз, чтобы изменить тип ссылки.</span><span class="sxs-lookup"><span data-stu-id="0e3c0-104">In the Send link dialog box, click the down arrow to change the type of link.</span></span>
+2. <span data-ttu-id="515d4-104">В диалоговом окне Отправить ссылку щелкните стрелку вниз, чтобы изменить тип ссылки.</span><span class="sxs-lookup"><span data-stu-id="515d4-104">In the Send link dialog box, click the down arrow to change the type of link.</span></span>
     
-3. <span data-ttu-id="0e3c0-105">В группе **пользователей, которые желаете работы для этой ссылки**выберите **любой** получатели смогут видеть ссылку или **конкретные пользователи** , чтобы предоставить доступ только для своих сотрудников укажите.</span><span class="sxs-lookup"><span data-stu-id="0e3c0-105">Under **Who would you like this link to work for**, select **Anyone** if you want the recipients to be able to share the link or **Specific people** to give access only to the people you specify.</span></span> 
+3. <span data-ttu-id="515d4-105">В разделе **кому вы хотите, чтобы эта ссылка работала**, выберите пункт **все** , если вы хотите, чтобы получатели могли предоставлять доступ к ссылке или **отдельным пользователям** , чтобы предоставить доступ только указанным пользователям.</span><span class="sxs-lookup"><span data-stu-id="515d4-105">Under **Who would you like this link to work for**, select **Anyone** if you want the recipients to be able to share the link or **Specific people** to give access only to the people you specify.</span></span> 
     
-    <span data-ttu-id="0e3c0-p101">Если эти параметры недоступны, необходимо убедитесь, что они разрешены для вашей организации и семейства веб-сайтов. Для этого видеть [Включить внешний общий доступ к включено или отключено для SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).</span><span class="sxs-lookup"><span data-stu-id="0e3c0-p101">If these options aren't available, you need to make sure they're allowed for your organization and for the site collection. To do this, see [Turn external sharing on or off for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).</span></span>
+    <span data-ttu-id="515d4-106">Если эти параметры недоступны, необходимо убедиться в том, что они разрешены для вашей организации и для семейства веб-сайтов.</span><span class="sxs-lookup"><span data-stu-id="515d4-106">If these options aren't available, you need to make sure they're allowed for your organization and for the site collection.</span></span> <span data-ttu-id="515d4-107">Для этого обратитесь к разделу [Включение или отключение внешнего общего доступа для SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).</span><span class="sxs-lookup"><span data-stu-id="515d4-107">To do this, see [Turn external sharing on or off for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).</span></span>
     
-4. <span data-ttu-id="0e3c0-108">Нажмите **Применить**.</span><span class="sxs-lookup"><span data-stu-id="0e3c0-108">Click **Apply**.</span></span>
+4. <span data-ttu-id="515d4-108">Нажмите **Применить**.</span><span class="sxs-lookup"><span data-stu-id="515d4-108">Click **Apply**.</span></span>
     
-5. <span data-ttu-id="0e3c0-109">Введите имена людей, с которыми вы хотите поделиться с и нажмите кнопку **Отправить**.</span><span class="sxs-lookup"><span data-stu-id="0e3c0-109">Enter the names of the people you want to share with, and then click **Send**.</span></span>
+5. <span data-ttu-id="515d4-109">Введите имена пользователей, которым вы хотите предоставить доступ, а затем нажмите кнопку **Отправить**.</span><span class="sxs-lookup"><span data-stu-id="515d4-109">Enter the names of the people you want to share with, and then click **Send**.</span></span>
     
 
