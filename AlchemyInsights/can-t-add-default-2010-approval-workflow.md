@@ -1,5 +1,5 @@
 ---
-title: Не удается добавить по умолчанию рабочий процесс утверждения 2010
+title: Не удается добавить рабочий процесс утверждения по умолчанию 2010
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/28/2019
@@ -9,14 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: fd630f0f3411b2c65fbd88fffedca3ec80f50c33
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8c6dabcc63ff45be8811fe109517be3098b3ecee
+ms.sourcegitcommit: b14aa00b42ce4ca9d7dc3aa1fd57e66eae115447
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936272"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30951122"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a>Не удается добавить по умолчанию рабочий процесс утверждения 2010
+# <a name="cant-add-default-2010-approval-workflow"></a>Не удается добавить рабочий процесс утверждения по умолчанию 2010
 
-В семействе сайтов Microsoft SharePoint нельзя добавить к списку или библиотеке глобального рабочего процесса (например, «утверждение – SharePoint 2010»). Рабочий процесс утверждения могут отсутствовать. Для устранения этой проблемы обратитесь к [нельзя добавлять глобального рабочего процесса для списка SharePoint или библиотеки](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library). 
+В семействе веб-сайтов Microsoft SharePoint невозможно добавить глобальный рабочий процесс для повторного использования (например, "утверждение-SharePoint 2010") в список или библиотеку. Возможно, отсутствует рабочий процесс утверждения. Чтобы устранить эту проблему, обратитесь к разделу " [невозможно добавить глобальный рабочий процесс для повторного использования" в список или библиотеку SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library). 
+
+Дополнительные сведения об утверждениях рабочих процессов приведены в разделе [все о рабочих процессахhttps://support.office.com/en-us/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742)утверждения] (. 
+ 
+Узнайте больше о [современных утверждениях в Flow] (https://flow.microsoft.com/en-us/blog/introducing-modern-approvals). 
   
