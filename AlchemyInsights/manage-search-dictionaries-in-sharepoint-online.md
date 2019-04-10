@@ -1,5 +1,5 @@
 ---
-title: Управление словари поиска в SharePoint Online
+title: Управление словарями поиска в SharePoint Online
 ms.author: kirks
 author: Techwriter40
 ms.date: 11/27/2018
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 1490255d19a6eb62403f9c923438579b6a29480b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 22da75a32e3ac0415e1196f8a6b2fd62b41f875d
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922799"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747899"
 ---
 # <a name="manage-search-dictionaries"></a>Управление словарями поиска
 
-Словари поиска в SharePoint online осуществляется в хранилище терминов SharePoint Online, который находится в классический Центр администрирования SharePoint Online. Дополнительные сведения о том, как добавить или изменить словари поиска можно [Управление словари поиска](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Управление словарями поиска в SharePoint Online осуществляется в банке терминов SharePoint Online, который находится в новом центре администрирования SharePoint. Дополнительные сведения о том, как добавлять или редактировать словари поиска, можно найти в статье [Manage Search словари](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
-Если вы не видите набора терминов словаря поиска отображаются в банке терминов, пожалуйста, подождите 24 часа. Если словаря, по-прежнему не отображаются через 24 часа войдите билетов поддержки.
+Если в банке терминов не отображается набор терминов словарь поиска, подождите 24 часа. Если словарь по-прежнему не отображается через 24 часа, запишите запрос в службу поддержки.
   
 

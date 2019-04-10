@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761214"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747323"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>Управление хранилищем SharePoint или OneDrive
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761214"
   
 Для большинства организаций Управление хранилищем SharePoint осуществляется автоматически, поэтому нет необходимости устанавливать пределы для каждого семейства веб-сайтов. Чтобы проверить, какой объем хранилища SharePoint вы используете:
   
-- В классическом центре администрирования SharePoint в правом верхнем углу страницы семейства веб-сайтов найдите доступное и общее хранилище.
+- В новом центре администрирования SharePoint в правом верхнем углу страницы "сайты" найдите доступное и общее хранилище.
     
 Для получения сведений о том, как вычисляется предельное значение, ознакомьтесь с [ограниченияМи SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Чтобы приобрести дополнительное хранилище, ознакомьтесь со статьей [изменение дискового пространства для подписки](https://go.microsoft.com/fwlink/?linkid=866428).
   

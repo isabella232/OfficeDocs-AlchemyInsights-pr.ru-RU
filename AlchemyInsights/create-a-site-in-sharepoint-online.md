@@ -1,6 +1,6 @@
 ---
 title: Создание сайта в SharePoint Online
-ms.author: clake
+ms.author: stevhord
 author: spowriter
 manager: scotv
 ms.date: 5/21/2018
@@ -11,29 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 925384f501da14aa19acc9e147123dbeb19a67fa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c6fca2bf2dd2c204d5a2101029524932e6482555
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764597"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747755"
 ---
 # <a name="create-a-site"></a>Создание сайта
 
-Вы можете создавать сайты различных типов в SharePoint Online. Чтобы создать один из новых типов сайтов, ознакомьтесь со следующими статьями.
-  
-- [Создание сайта группы с группой Office 365](https://go.microsoft.com/fwlink/?linkid=866292)
+Вы можете создавать сайты различных типов в SharePoint Online. Чтобы узнать, как это сделать, в новом центре администрирования SharePoint, ознакомьтесь со статьей [Создание сайта](https://go.microsoft.com/fwlink/?linkid=866295). Сведения о том, как разрешить пользователям создавать собственные сайты, можно найти [в статье Управление созданием сайтов в SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+ 
+Сведения о новых типах сайтов приведены в разделе [Группа подключенных сайтов групп](https://go.microsoft.com/fwlink/?linkid=866292) или [сайтов для общения](https://go.microsoft.com/fwlink/?linkid=866294).
     
-- [Создание информационного сайта в SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866294)
-    
-Вы также можете создавать эти сайты на основе нового предварительного просмотра центра администрирования SharePoint.
-  
-Чтобы создать классический сайт, выполните одно из следующих действий.
-  
-- Перейдите на [страницу сайты в центре администрирования Microsoft 365](https://portal.office.com/adminportal/home#/SitesList)и выберите **Добавить сайт**.
-    
-- В классическом центре администрирования SharePoint на странице семейства веб-сайтов выберите **создать** \> **Частное семейство веб-сайтов**.
-    
-Более подробную информацию можно узнать в статье [Создание семейства веб-сайтов](https://go.microsoft.com/fwlink/?linkid=866295). Сведения о том, как разрешить пользователям создавать собственные сайты, можно найти [в статье Управление созданием сайтов в SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
-  
+
 
