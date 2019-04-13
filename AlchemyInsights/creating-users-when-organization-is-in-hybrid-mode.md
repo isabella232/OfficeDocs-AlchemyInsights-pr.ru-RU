@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 744
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 18f417f2f8ad08d3c539dca176224f140d5815f5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: e4f4f5740491ea122f3fd10870c8a3d4c051df1f
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30783059"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857425"
 ---
 # <a name="create-users-in-hybrid-deployments"></a>Создание пользователей в гибридных развертываниях
 
 Если ваша организация является гибридным развертыванием между локальной средой и Office 365, необходимо создать все объекты пользователя в локальной службе Active Directory. Вы создадите объекты пользователя в соответствующем подразделении (OU), чтобы они синхронизировались в вашей организации Office 365.
-  
-
