@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom: 1048
-ms.openlocfilehash: 5eb42679f123fcd1b680327329721cb47e18e11a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 06be6babc524ae0d8065355218426c695f49be66
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30776514"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31856633"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="78f38-103">Клиент 5.7.750 блокировал отправку от незарегистрированного домена</span><span class="sxs-lookup"><span data-stu-id="78f38-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="5c4c7-103">Клиент 5.7.750 блокировал отправку от незарегистрированного домена</span><span class="sxs-lookup"><span data-stu-id="5c4c7-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="78f38-104">Ошибка возникает, когда большой объем сообщений отправляется из доменов, не подготовленных в Office 365 (добавленные как обслуживаемые домены и проверены).</span><span class="sxs-lookup"><span data-stu-id="78f38-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
-  
-<span data-ttu-id="78f38-105">Чтобы избежать этой ошибки, вы можете использовать соединитель почтовых ящиков на основе сертификатов, в котором домен сертификата является подготовленным доменом, или можно подготовить все отправные домены.</span><span class="sxs-lookup"><span data-stu-id="78f38-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
-  
+<span data-ttu-id="5c4c7-104">Ошибка возникает, когда большой объем сообщений отправляется из доменов, не подготовленных в Office 365 (добавленные как обслуживаемые домены и проверены).</span><span class="sxs-lookup"><span data-stu-id="5c4c7-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
 
+<span data-ttu-id="5c4c7-105">Чтобы избежать этой ошибки, вы можете использовать соединитель почтовых ящиков на основе сертификатов, в котором домен сертификата является подготовленным доменом, или можно подготовить все отправные домены.</span><span class="sxs-lookup"><span data-stu-id="5c4c7-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
