@@ -10,25 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1554
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f44ed42906b85e63f1f694813f54710906969904
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7651effc43cb0c4bc2fbbe5349bb72303943f493
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772454"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859153"
 ---
 # <a name="winsock-error-10061"></a>Ошибка Winsock 10061
 
 Этот код ошибки означает, что Office 365 не удалось установить TCP-сокет (подключение) к конечному узлу. Наиболее вероятная причина этой ошибки — проблема с настройкой брандмауэра. Чтобы устранить эту проблему, проверьте указанные ниже параметры.
-  
-- Проверьте конфигурацию брандмауэра, указав сведения в [диапазонАх адресов и IP-адресов Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) .
-    
-- Если сообщение об ошибке относится только к Exchange Online Protection (EOP), вы уже получали уведомление об изменении [IP-адресов Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
-    
-- Убедитесь, что ваш поставщик услуг Интернета (ISP) не блокирует порт.
-    
-- Проверьте параметры промежуточного узла и целевого сервера в соединителях.
-    
-Обратите внимание, что Office 365 не блокирует *Входящие* подключения таким образом. 
-  
 
+- Проверьте конфигурацию брандмауэра, указав сведения в [диапазонАх адресов и IP-адресов Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) .
+
+- Если сообщение об ошибке относится только к Exchange Online Protection (EOP), вы уже получали уведомление об изменении [IP-адресов Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+
+- Убедитесь, что ваш поставщик услуг Интернета (ISP) не блокирует порт.
+
+- Проверьте параметры промежуточного узла и целевого сервера в соединителях.
+
+Обратите внимание, что Office 365 не блокирует *Входящие* подключения таким образом.
