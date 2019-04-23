@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 210fe6b8893e8f2896e994d0d8853b485338efd2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 4b39951da279f67d4ece472277cc39c667fb0041
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788064"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903426"
 ---
 # <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Вход в Outlook.com или из него
 
-Если не удается войти в учетную запись электронной почты Outlook.com, Hotmail, Live или MSN или вы не знаете, как войти или выйти, [Ознакомьтесь](https://go.microsoft.com/fwlink/p/?linkid=2005840)с разрешениями.
+Если вы не можете войти в учетную запись электронной почты Outlook.com, Hotmail, Live или MSN, либо вы не знаете, как войти или выйти, [Ознакомьтесь](https://go.microsoft.com/fwlink/p/?linkid=2005840)с разрешениями.
   
 Если у вас по-прежнему возникают проблемы с входом, посмотрите, [когда не можете войти в свою учетную запись Майкрософт](https://go.microsoft.com/fwlink/p/?linkid=837479).
   

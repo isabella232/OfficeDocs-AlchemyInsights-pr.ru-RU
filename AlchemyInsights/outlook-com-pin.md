@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000233
-ms.openlocfilehash: 0daf711f22f325ce02dceb167f48713943f08521
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: af81ead91c865d2b36ea20476b91c51e36452690
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30784214"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903605"
 ---
 # <a name="change-your-pin"></a>Изменение ПИН-кода
 
@@ -22,6 +22,6 @@ Outlook.com не использует ПИН-код, но вы можете во
 
 1. Последовательно выберите пункты Пуск и **Параметры** > **** > **входа**учетных записей.
 2. Нажмите кнопку **изменить** в разделе **ПИН-код**.
-3. Введите текущий ПИН-код; затем введите и подтвердите новый ПИН-код под его названием.
+3. Введите текущий ПИН-код, а затем введите и подтвердите новый ПИН-код под ним.
 
 [Узнайте больше о Windows Hello.](https://support.microsoft.com/help/17215/)
