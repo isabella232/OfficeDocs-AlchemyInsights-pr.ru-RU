@@ -1,5 +1,5 @@
 ---
-title: Использование автономной установки Office
+title: Использование автономного установщика Office
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
 ms.openlocfilehash: ed1677f535f40e71811eb140874772adcccf3bd4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938281"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423340"
 ---
-# <a name="use-the-office-offline-installer"></a><span data-ttu-id="ed076-102">Использование автономной установки Office</span><span class="sxs-lookup"><span data-stu-id="ed076-102">Use the Office offline installer</span></span>
+# <a name="use-the-office-offline-installer"></a><span data-ttu-id="c450f-102">Использование автономного установщика Office</span><span class="sxs-lookup"><span data-stu-id="c450f-102">Use the Office offline installer</span></span>
 
 
 
-<span data-ttu-id="ed076-103">Необходимо подключение к Интернету для загрузки файлов установщика, но после этого, затем установки Office в автономном режиме на ПК в документе с помощью средства развертывания Office (ODT)</span><span class="sxs-lookup"><span data-stu-id="ed076-103">You need to be connected to the internet to download the installer files, but once that's done, you can then install Office offline on a PC at your convenience by using the Office Deployment Tool (ODT)</span></span>
+<span data-ttu-id="c450f-103">Чтобы скачать файлы установщика, необходимо подключиться к Интернету, но после этого вы сможете установить Office автономно на компьютер с помощью средства развертывания Office (ODT).</span><span class="sxs-lookup"><span data-stu-id="c450f-103">You need to be connected to the internet to download the installer files, but once that's done, you can then install Office offline on a PC at your convenience by using the Office Deployment Tool (ODT)</span></span>
   
-<span data-ttu-id="ed076-p101">ODT предназначен для предприятий и запускается из командной строки, поэтому намного сложнее — действия, но они по-прежнему работают для установки на одно устройство. Показано [Использование автономной установки Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="ed076-p101">The ODT is designed for enterprise environments and runs from the command line, so the steps are more complicated--but they'll still work for installation on a single device. See [Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="c450f-104">ODT предназначен для корпоративных сред и запускается из командной строки, поэтому эти действия являются более сложными, но они по-прежнему работают для установки на отдельном устройстве.</span><span class="sxs-lookup"><span data-stu-id="c450f-104">The ODT is designed for enterprise environments and runs from the command line, so the steps are more complicated--but they'll still work for installation on a single device.</span></span> <span data-ttu-id="c450f-105">Обратитесь [к разделу Использование автономного установщика Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="c450f-105">See [Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
 
