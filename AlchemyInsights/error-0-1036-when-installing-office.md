@@ -1,5 +1,5 @@
 ---
-title: Ошибка 0 1036 при установке office
+title: Ошибка 0-1036 при установке Office
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -10,29 +10,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
 ms.openlocfilehash: 6fe26f87c6108d25a28a5c55b31710d332b1ac79
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900517"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402788"
 ---
-# <a name="error-0-1036-when-installing-office"></a>Ошибка 0 1036 при установке office
+# <a name="error-0-1036-when-installing-office"></a>Ошибка 0-1036 при установке Office
 
 
-Повторите эти решения для исправления ошибки Office 0 1036:
+Воспользуйтесь этими решениями, чтобы исправить ошибку Office 0-1036:
   
-- Перезагрузите компьютер и повторите попытку [установки Office](https://portal.office.com/OLS/MySoftware.aspx) . 
+- ПереЗагрузите компьютер и снова попробуйте [установить Office](https://portal.office.com/OLS/MySoftware.aspx) . 
     
-- Загрузите и установите [поддержку и помощник по восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Скачайте и установите [Помощник по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
     
-1. При открытии, из **продуктов удалить Office** выберите версию, которую вы хотите удалить и нажмите кнопку **Далее**.
+1. Когда откроется окно **Удаление продуктов Office** , выберите версию, которую нужно удалить, и нажмите кнопку **Далее**.
     
-2. Продолжение прохода через экранов и перезагрузите компьютер после появления запроса.
+2. Продолжайте переходить к экранам и перезапускать компьютер при появлении соответствующего запроса.
     
-    После перезагрузки, поддержка и помощник по восстановлению автоматически повторно открывает для завершения процесса удаления.
+    После перезапуска помощник по поддержке и восстановлению автоматически открывается для завершения процесса удаления.
     
-3. Выполните оставшиеся приглашения и [повторно установить Office](https://portal.office.com/OLS/MySoftware.aspx) или закрыть окно помощника. 
+3. Следуйте оставшимся запросам и [переустановите Office](https://portal.office.com/OLS/MySoftware.aspx) или закройте помощник. 
     
-- [Использование автономной установки Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) для установки Office 
+- [Использование автономного установщика Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) для установки Office 
     
 

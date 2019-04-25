@@ -1,5 +1,5 @@
 ---
-title: Продукты Office, не доступен для платформы Mac - доступа
+title: Продукты Office недоступны для платформы Mac — доступ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a19e09cb-1956-4e26-98c4-243af855953b
 ms.openlocfilehash: 675350b3cefaba8ff7e50ddec33e772433a80ffc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927663"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389060"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a>Недоступно для платформы Mac продукты Office
+# <a name="office-products-not-available-for-the-mac-platform"></a>Продукты Office недоступны для платформы Mac
 
-Visio, Project, Publisher и доступа, недоступны для платформы Mac, однако [Visio Online](https://products.office.com/visio/visio-online) и [Project Online](https://products.office.com/project/project-online-premium) , доступны и работают на всех платформах. 
+Visio, Project, Publisher и Access недоступны для платформы Mac, но [Visio Online](https://products.office.com/visio/visio-online) и [Project Online](https://products.office.com/project/project-online-premium) доступны и работают на всех платформах. 
   
 

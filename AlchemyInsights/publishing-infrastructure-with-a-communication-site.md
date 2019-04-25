@@ -1,5 +1,5 @@
 ---
-title: Инфраструктура публикации с помощью связи сайтов
+title: Инфраструктура публикации с информационным сайтом
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/14/2019
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms.openlocfilehash: 228d048dba0f4b175855eebdf2b0019f7d1ed4f0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940303"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389132"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>Инфраструктура публикации с помощью связи сайтов
+# <a name="publishing-infrastructure-with-a-communication-site"></a>Инфраструктура публикации с информационным сайтом
 
 
-Включение функции инфраструктуры публикации SharePoint Server — **не поддерживаются** с помощью связи сайтов. 
+Включение функции инфраструктуры публикации SharePoint Server **не поддерживается** для сайтов для общения. 
   
-Дополнительные сведения см.в [перехода от публикации-сайтов для связи сайтов](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
+Дополнительную информацию можно узнать в статье [Перемещение с сайтов публикации на сайты для общения](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
   
 
