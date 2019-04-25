@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.openlocfilehash: 62ceeefefeac5e7cc01eb732350b0786050ad903
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933709"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417416"
 ---
 # <a name="how-to-install-office-on-an-ipad"></a>Установка Office на iPad
 
 
-- У пользователя [выберите ссылку для загрузки](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) от своих мобильных устройств для Word, Excel, PowerPoint и OneNote. 
+- ПоПросите пользователя [коснуться ссылки для скачивания](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) со своего мобильного устройства для Word, Excel, PowerPoint и OneNote. 
     
-- У пользователя запустите приложение, коснитесь **входа в** и введите свой рабочий или школе учетные данные. 
+- ПоПросите пользователя запустить приложение, нажмите **войти** и введите свои рабочие или учебные учетные данные. 
     
 
