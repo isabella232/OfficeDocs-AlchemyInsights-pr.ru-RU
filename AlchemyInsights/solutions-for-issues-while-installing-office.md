@@ -1,5 +1,5 @@
 ---
-title: Решения для устранения проблем при установке Office
+title: Решения проблем при установке Office
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -10,31 +10,31 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
 ms.openlocfilehash: 7a7148a1c2d0e812ab92a5132b8b4034031f8fc8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942385"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370142"
 ---
-# <a name="solutions-for-issues-while-installing-office"></a>Решения для устранения проблем при установке Office
+# <a name="solutions-for-issues-while-installing-office"></a>Решения проблем при установке Office
 
 
-Попробуйте выполните одно из этих решений, чтобы исправить ошибки Office:
+Попробуйте одно из следующих решений, чтобы исправить ошибку Office:
   
-- Перезагрузите компьютер и попробуйте [установить Office](https://portal.office.com/OLS/MySoftware.aspx).
+- ПереЗагрузите компьютер и попытайтесь [установить Office](https://portal.office.com/OLS/MySoftware.aspx).
     
-- Загрузите и установите [поддержку и помощник по восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Скачайте и установите [Помощник по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
     
-1. При открытии, **Удалить Office продуктов** выберите версию, которую нужно удалить и нажмите кнопку **Далее**. 
+1. После **удаления продуктов Office** выберите версию, которую нужно удалить, и нажмите кнопку **Далее**. 
     
-2. Продолжение прохода через экранов и перезагрузите компьютер после появления запроса.
+2. Продолжайте переходить к экранам и перезапускать компьютер при появлении соответствующего запроса.
     
-    После перезагрузки, поддержка и помощник по восстановлению автоматически повторно открывает для завершения процесса удаления.
+    После перезапуска помощник по поддержке и восстановлению автоматически открывается для завершения процесса удаления.
     
-3. Выполните оставшиеся приглашения и [повторно установить Office](https://portal.office.com/OLS/MySoftware.aspx) или закрыть окно помощника. 
+3. Следуйте оставшимся запросам и [переустановите Office](https://portal.office.com/OLS/MySoftware.aspx) или закройте помощник. 
     
-- [Использование автономной установки Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) для установки Office 
+- [Использование автономного установщика Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) для установки Office 
     
-Дополнительные сведения об ошибках установки можно [сообщения об ошибках при установке Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
+Дополнительные сведения об ошибках установки можно найти в [сообщениях об ошибках при установке Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
   
 
