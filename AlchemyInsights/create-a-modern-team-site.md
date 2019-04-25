@@ -1,5 +1,5 @@
 ---
-title: Создание современных группы сайта
+title: Создание современного сайта группы
 ms.author: clake
 author: spowriter
 ms.date: 11/9/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: f88df38bc286625c0b2bc20e360e4ce6391e0942
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917545"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407149"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a><span data-ttu-id="2f14e-102">Создание сайта подключенной группы группы разработчиков Office 365</span><span class="sxs-lookup"><span data-stu-id="2f14e-102">Create an Office 365 group-connected team site</span></span>
+# <a name="create-an-office-365-group-connected-team-site"></a><span data-ttu-id="fd00e-102">Создание сайта группы, подключенного к группе Office 365</span><span class="sxs-lookup"><span data-stu-id="fd00e-102">Create an Office 365 group-connected team site</span></span>
 
-1. <span data-ttu-id="2f14e-p101">Нажмите кнопку запуска приложения в левом верхнем углу и выберите **SharePoint**. Если не отображается Плитка SharePoint, выберите **все приложения**.</span><span class="sxs-lookup"><span data-stu-id="2f14e-p101">Click the app launcher in the upper-left corner and select **SharePoint**. If you don't see the SharePoint tile, click **All apps**.</span></span>
+1. <span data-ttu-id="fd00e-103">Щелкните средство запуска приложений в левом верхнем углу и выберите пункт **SharePoint**.</span><span class="sxs-lookup"><span data-stu-id="fd00e-103">Click the app launcher in the upper-left corner and select **SharePoint**.</span></span> <span data-ttu-id="fd00e-104">Если плитка SharePoint не отображается, щелкните **все приложения**.</span><span class="sxs-lookup"><span data-stu-id="fd00e-104">If you don't see the SharePoint tile, click **All apps**.</span></span>
     
-2. <span data-ttu-id="2f14e-105">В верхней части домашней страницы SharePoint выберите **Создание сайта** и выберите пункт **сайт группы** .</span><span class="sxs-lookup"><span data-stu-id="2f14e-105">At the top of the SharePoint home page, click **Create site** and choose the **Team site** option.</span></span> 
+2. <span data-ttu-id="fd00e-105">В верхней части домашней страницы SharePoint нажмите кнопку **создать сайт** и выберите пункт **сайт группы** .</span><span class="sxs-lookup"><span data-stu-id="fd00e-105">At the top of the SharePoint home page, click **Create site** and choose the **Team site** option.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="2f14e-p102">Если не отображается команда создания сайта, создания сайтов может не включена в вашей организации. Чтобы включить его, обратитесь к разделу [Управление создания сайтов](https://go.microsoft.com/fwlink/?linkid=2009644).</span><span class="sxs-lookup"><span data-stu-id="2f14e-p102">If you don't see the Create site command, site creation may not be enabled in your organization. To enable it, see [Manage site creation](https://go.microsoft.com/fwlink/?linkid=2009644).</span></span> 
+    > <span data-ttu-id="fd00e-106">Если команда создать сайт не отображается, возможно, создание сайтов не включено в вашей организации.</span><span class="sxs-lookup"><span data-stu-id="fd00e-106">If you don't see the Create site command, site creation may not be enabled in your organization.</span></span> <span data-ttu-id="fd00e-107">Чтобы включить его, ознакомьтесь со статьей [Управление созданием сайтов](https://go.microsoft.com/fwlink/?linkid=2009644).</span><span class="sxs-lookup"><span data-stu-id="fd00e-107">To enable it, see [Manage site creation](https://go.microsoft.com/fwlink/?linkid=2009644).</span></span> 
   
-3. <span data-ttu-id="2f14e-p103">Следуйте инструкциям на экране, чтобы имя сайта и создание адрес электронной почты для группы Office 365 и нажмите кнопку **Далее**. Также можно добавить другие группы владельцев и его элементы. Нажмите кнопку **Готово**.</span><span class="sxs-lookup"><span data-stu-id="2f14e-p103">Follow the steps on the screen to name the site and create an email address for the Office 365 group, and then click **Next**. You can also add other group owners and members. Click **Finish**.</span></span>
+3. <span data-ttu-id="fd00e-108">Следуйте инструкциям на экране, чтобы назвать сайт и создать адрес электронной почты для группы Office 365, а затем нажмите кнопку **Далее**.</span><span class="sxs-lookup"><span data-stu-id="fd00e-108">Follow the steps on the screen to name the site and create an email address for the Office 365 group, and then click **Next**.</span></span> <span data-ttu-id="fd00e-109">Вы также можете добавить других владельцев и участников группы.</span><span class="sxs-lookup"><span data-stu-id="fd00e-109">You can also add other group owners and members.</span></span> <span data-ttu-id="fd00e-110">Нажмите кнопку **Готово**.</span><span class="sxs-lookup"><span data-stu-id="fd00e-110">Click **Finish**.</span></span>
   
- <span data-ttu-id="2f14e-p104">**Примечание:** Чтобы создать сайт группы без подключенных группы, выполните действия, описанные выше, но вместо выбора сайта группы в шаге 2. Выберите другие параметры. Это даются рекомендации по созданию сайта группы без группы.</span><span class="sxs-lookup"><span data-stu-id="2f14e-p104">**Note:** To create a Team Site without a group connected, follow the steps above, but instead of selecting Team Site in Step 2. select Other options. This will guide you through creating a Team Site without a group.</span></span> 
+ <span data-ttu-id="fd00e-111">**Примечание:** Чтобы создать сайт группы без подключения к группе, выполните описанные выше действия, но вместо выбора сайта группы в действии 2.</span><span class="sxs-lookup"><span data-stu-id="fd00e-111">**Note:** To create a Team Site without a group connected, follow the steps above, but instead of selecting Team Site in Step 2.</span></span> <span data-ttu-id="fd00e-112">Выберите другие параметры.</span><span class="sxs-lookup"><span data-stu-id="fd00e-112">select Other options.</span></span> <span data-ttu-id="fd00e-113">Это поможет создать сайт группы без группы.</span><span class="sxs-lookup"><span data-stu-id="fd00e-113">This will guide you through creating a Team Site without a group.</span></span> 
     
 

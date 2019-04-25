@@ -1,5 +1,5 @@
 ---
-title: Вопросы о проверки и выходного файлов
+title: Вопросы по возврату и извлечению файлов
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/25/2018
@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5a5eaebc-5818-4ce8-9d2c-e0d04f8c6f7d
 ms.openlocfilehash: 1984a6859510254b4bcdb2a861df3456c253e161
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29897853"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388482"
 ---
-# <a name="questions-about-check-in-and-out-files"></a><span data-ttu-id="99022-102">Вопросы о проверки и выходного файлов</span><span class="sxs-lookup"><span data-stu-id="99022-102">Questions about check in and out files</span></span>
+# <a name="questions-about-check-in-and-out-files"></a><span data-ttu-id="b1f9d-102">Вопросы по возврату и извлечению файлов</span><span class="sxs-lookup"><span data-stu-id="b1f9d-102">Questions about check in and out files</span></span>
 
-<span data-ttu-id="99022-103">Некоторые часто задаваемые вопросы, включая возврат и извлечение файлов и отменить извлечение в SharePoint Online, содержатся [Основные вопросы о извлечение, флажок дюйма](https://go.microsoft.com/fwlink/?linkid=2018786)</span><span class="sxs-lookup"><span data-stu-id="99022-103">To review some frequently asked questions including how to check files in and out, and how to discard a check out in SharePoint Online, see [Top questions about check out, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
+<span data-ttu-id="b1f9d-103">Чтобы просмотреть некоторые часто задаваемые вопросы, в том числе извлечение и возврат файлов, а также сведения о том, как отбросить извлечение в SharePoint Online, ознакомьтесь со статьями [лучшие вопросы об извлечении, возврате.](https://go.microsoft.com/fwlink/?linkid=2018786)</span><span class="sxs-lookup"><span data-stu-id="b1f9d-103">To review some frequently asked questions including how to check files in and out, and how to discard a check out in SharePoint Online, see [Top questions about check out, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
   
 
