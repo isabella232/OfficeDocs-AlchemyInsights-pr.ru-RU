@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online регулирования
+title: Регулирование SharePoint Online
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/17/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
 ms.openlocfilehash: f333957a585d16207aabe0f9de4d4b72b9e1ce63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913333"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374085"
 ---
-# <a name="sharepoint-online-throttling"></a><span data-ttu-id="6e659-102">SharePoint Online регулирования</span><span class="sxs-lookup"><span data-stu-id="6e659-102">SharePoint Online Throttling</span></span>
+# <a name="sharepoint-online-throttling"></a><span data-ttu-id="8c2aa-102">Регулирование SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="8c2aa-102">SharePoint Online Throttling</span></span>
 
-<span data-ttu-id="6e659-p101">SharePoint Online с помощью регулирования для обеспечения оптимальной производительности и надежности службы SharePoint Online. Пределы регулирования количество пользовательских действий или одновременных звонков (с скриптах или программах) для предотвращения чрезмерного использования ресурсов. Если вы получите ограничением, 99% времени его из-за пользовательского кода.</span><span class="sxs-lookup"><span data-stu-id="6e659-p101">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service. Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources. If you do get throttled, 99% of the time it is because of custom code.</span></span>
+<span data-ttu-id="8c2aa-103">для обеспечения оптимальной производительности и надежности службы SharePoint OnlineSharePoint Online использует регулирования.</span><span class="sxs-lookup"><span data-stu-id="8c2aa-103">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="8c2aa-104">Пределы регулирования количество пользовательских действий или одновременных звонков (с скриптах или программах) для предотвращения чрезмерного использования ресурсов.</span><span class="sxs-lookup"><span data-stu-id="8c2aa-104">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> <span data-ttu-id="8c2aa-105">Если вы получите ограничением, 99% времени его из-за пользовательского кода.</span><span class="sxs-lookup"><span data-stu-id="8c2aa-105">If you do get throttled, 99% of the time it is because of custom code.</span></span>
   
-<span data-ttu-id="6e659-106">Для получения дополнительных сведений о регулирование см, [Избегайте получения регулирование и заблокированные в SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span><span class="sxs-lookup"><span data-stu-id="6e659-106">For more information on throttling see, [Avoid getting throttled or blocked in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span></span>
+<span data-ttu-id="8c2aa-106">Дополнительные сведения об регулированиях см в статье [предотвращение регулирования или блокировки в SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span><span class="sxs-lookup"><span data-stu-id="8c2aa-106">For more information on throttling see, [Avoid getting throttled or blocked in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span></span>
   
 
