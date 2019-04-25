@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom: 412
 ms.assetid: 15cd5fd8-6e4d-4e65-9507-5f605cb8db38
 ms.openlocfilehash: 42079ac56f8d804fc59de58e10560a981e085851
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857677"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372465"
 ---
-# <a name="policy-error-when-sharing-a-calendar"></a><span data-ttu-id="e91c4-102">Ошибка политики при предоставлении общего доступа к календарю</span><span class="sxs-lookup"><span data-stu-id="e91c4-102">Policy error when sharing a calendar</span></span>
+# <a name="policy-error-when-sharing-a-calendar"></a><span data-ttu-id="f13ea-102">Ошибка политики при предоставлении общего доступа к календарю</span><span class="sxs-lookup"><span data-stu-id="f13ea-102">Policy error when sharing a calendar</span></span>
 
-<span data-ttu-id="e91c4-103">Если вы пытаетесь предоставить общий доступ к календарю, и вы получили сообщение об ошибке "политика не разрешает предоставление разрешений на этом уровне одному или нескольким получателям", смотрите [Этот раздел](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).</span><span class="sxs-lookup"><span data-stu-id="e91c4-103">If you're trying to share your calendar, and you receive the error, "Policy does not allow granting permissions at this level to one or more of the recipient(s)", see [this topic](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).</span></span>
+<span data-ttu-id="f13ea-103">Если вы пытаетесь предоставить общий доступ к календарю, и вы получили сообщение об ошибке "политика не разрешает предоставление разрешений на этом уровне одному или нескольким получателям", смотрите [Этот раздел](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).</span><span class="sxs-lookup"><span data-stu-id="f13ea-103">If you're trying to share your calendar, and you receive the error, "Policy does not allow granting permissions at this level to one or more of the recipient(s)", see [this topic](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).</span></span>
