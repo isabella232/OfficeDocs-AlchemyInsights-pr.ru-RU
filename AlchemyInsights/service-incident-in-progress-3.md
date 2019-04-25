@@ -1,5 +1,5 @@
 ---
-title: Служба происшествия в процессе выполнения
+title: Идет обслуживание инцидента
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 9/19/2017
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
 ms.openlocfilehash: 80cbf08ede54fa97da4a8b8fa4365fe15ea0bae1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928525"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32378041"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="64c52-102">Служба происшествия в процессе выполнения</span><span class="sxs-lookup"><span data-stu-id="64c52-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="40602-102">Идет обслуживание инцидента</span><span class="sxs-lookup"><span data-stu-id="40602-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="64c52-p101">Могут влиять на происшествия службы или рекомендация, которая в настоящее время изучается. Последнее состояние можно проверить, перейдя на странице [Работоспособность службы](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="64c52-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span> 
+<span data-ttu-id="40602-103">Возможно, вы затронем инцидент или рекомендации службы, которые сейчас изучены.</span><span class="sxs-lookup"><span data-stu-id="40602-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="40602-104">Вы можете проверить последний статус, перейдя на страницу [работоспособНости службы](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="40602-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span> 
   
-<span data-ttu-id="64c52-105">Для удобства можно найти Сводка по этой происшествия ниже:</span><span class="sxs-lookup"><span data-stu-id="64c52-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="40602-105">Для удобства можно найти краткие сведения об этом инциденте:</span><span class="sxs-lookup"><span data-stu-id="40602-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="64c52-106">**Номер происшествия:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="64c52-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="40602-106">**Номер инцидента:** [{ИнЦидентид}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="40602-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="64c52-107">Влиять на описание: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="64c52-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="40602-107">Описание влияния: {Импактдескриптион}</span><span class="sxs-lookup"><span data-stu-id="40602-107">Impact description: {ImpactDescription}</span></span>
     
 
