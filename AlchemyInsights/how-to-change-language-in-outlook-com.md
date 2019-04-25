@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000014
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: ca05449dcda6dd857c7f81be17bb6fd6335af693
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903677"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399892"
 ---
 # <a name="change-your-language"></a>Изменение языка
 
@@ -26,7 +26,7 @@ ms.locfileid: "31903677"
     
 3. Выберите язык.
     
-4. Нажмите кнопку **сохранить**.
+4. Нажмите кнопку **Сохранить**.
     
 Дополнительные сведения см в разделе [Изменение часового пояса и языковых параметров в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
   

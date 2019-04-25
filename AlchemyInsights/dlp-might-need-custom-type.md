@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
 ms.openlocfilehash: cd5bac5efe3a16d32f9b695c8cb452a1eaa3a796
-ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2019
-ms.locfileid: "31872468"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399123"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>Для защиты от потери данных может потребоваться настраиваемый тип
 
@@ -27,7 +27,7 @@ ms.locfileid: "31872468"
   
 Если встроенный тип конфиденциальной информации соответствует вашим потребностям с помощью всего нескольких настроек, можно [настроить встроенный тип конфиденциальной информации](https://docs.microsoft.com/en-us/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Например, можно добавлять или удалять ключевые слова, а также добавлять или удалять поддерживающие их доказательства, такие как дата или адрес.
   
- **Создание пользовательского типа конфиденциальных данных**
+ **Создание специальных типов конфиденциальных данных**
   
 Но если вам нужно полностью определить и защитить конфиденциальную информацию, вы можете [создать настраиваемый тип конфиденциальной информации](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type) в пользовательском интерфейсе центра соответствия требованиям безопасности _амп_. 
   
