@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: f2cdb319e56b82c09b7a9856c81a45e69dee6759
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760999"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423736"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Обновление DNS-записей для сохранения веб-сайта у текущего поставщика услуг размещения веб-сайтов
 
@@ -44,6 +44,6 @@ ms.locfileid: "30760999"
     
   - В качестве значения **Адрес "указывает на"** введите полное доменное имя (FQDN) своего веб-сайта, например contoso.com. 
     
-2. Нажмите кнопку **сохранить**. 
+2. Нажмите кнопку **Сохранить**. 
     
 

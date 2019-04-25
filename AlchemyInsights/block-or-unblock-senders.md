@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000015
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
 ms.openlocfilehash: 2c58a22878b5d36554a17d4363303ccf6207a4ac
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903569"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396809"
 ---
 # <a name="block-or-unblock-senders"></a>Блокировка и разблокировка отправителей
 
@@ -30,7 +30,7 @@ ms.locfileid: "31903569"
     
     Чтобы разблокировать отправителя, выберите его в списке и нажмите кнопку **Удалить**.
     
-4. Нажмите кнопку **сохранить**. 
+4. Нажмите кнопку **Сохранить**. 
     
 Дополнительные сведения см. [в разделе Блокировка отправителей или разблокирования отправителей в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873133).
   

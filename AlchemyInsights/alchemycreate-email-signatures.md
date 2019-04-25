@@ -1,5 +1,5 @@
 ---
-title: Алхимия - Создание электронной почты подписей
+title: Алчеми — создание подписей электронной почты
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 563c1541-b4d3-4f7a-aaec-8b3b1477e517
 ms.openlocfilehash: 9a5654ec2ed890c1b899d779dd48578341f703fb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29921001"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398091"
 ---
 # <a name="create-email-signatures"></a>Создание подписей электронной почты
 
-Эти статьи помогут вам создавать подписи электронной почты:
+Эти разделы помогут вам создать электронные подписи:
   
-- Создайте подпись для сообщений электронной почты: [Создать и добавлять подпись в сообщения](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) или [Создать и добавьте подпись электронной почты в Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).
+- Создайте электронную подпись для собственных сообщений: [Создание и Добавление подписи к сообщениям](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) , [а также создание и Добавление подписи электронной почты в Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).
     
-- Создание глобального подпись для всех сообщений, отправляемых с вашей компании (также известной как заявление об отказе): [заявления об отказе сообщение всей организации, подписей, нижних колонтитулов или заголовки в Office 365](https://go.microsoft.com/fwlink/p/?linkid=391096).
+- Создайте глобальную подпись электронной почты для всех сообщений, отправляемых из вашей компании (также известной как заявление об отказе): [заявления об отказе в Организации, подписи, нижние колонтитулы или заголовки в Office 365](https://go.microsoft.com/fwlink/p/?linkid=391096).
     
 

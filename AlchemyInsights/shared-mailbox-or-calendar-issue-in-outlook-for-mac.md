@@ -1,5 +1,5 @@
 ---
-title: Общие проблемы почтовых ящиков или календаря в Outlook для Mac?
+title: Общая ошибка в почтовом ящике или календаре в Outlook для Mac?
 ms.author: supravee
 author: supravee
 manager: jackiesm
@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77d6f7c0-4a3b-49c6-8def-a18f4a120443
 ms.openlocfilehash: c1089784cbdcfa6ea56e509c97bcc3d6d4e98b3b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901165"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421253"
 ---
-# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Общие проблемы почтовых ящиков или календаря в Outlook для Mac?
+# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Общая ошибка в почтовом ящике или календаре в Outlook для Mac?
 
-Мы помогут вам быстрее, если вы обратитесь к нам непосредственно из приложения. **Перейдите к Mac соответствующего пользователя, откройте программу Outlook и нажмите кнопку Справка \> обращение в службу поддержки**. 
+Мы можем помочь вам быстрее, если вы свяжетесь с нами напрямую из приложения. **Перейдите к разделу Mac затронутого пользователя, откройте Outlook и щелкните ссылку Справка \> поддержка**. 
   
-Для получения дополнительных сведений об использовании Outlook для Mac-app поддержки, см. в этой статье: [новый обратитесь в службу поддержки компонент в 2016 Outlook для Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Дополнительные сведения об использовании поддержки в приложениях Outlook для Mac приведены в этой статье: [Новая функция поддержки контактов в outlook 2016 для Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 

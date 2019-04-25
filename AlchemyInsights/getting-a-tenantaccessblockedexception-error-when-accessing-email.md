@@ -14,15 +14,15 @@ ms.custom:
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
 ms.openlocfilehash: 56a7cd3f588a16883c7a49b35a825301c10e2777
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858397"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400658"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>При получении доступа к электронной почте возникла ошибка Тенантакцессблоккедексцептион?
 
-Эта ошибка может возникать по разным причинам. Например:
+Эта ошибка может возникать по разным причинам. Примеры:
 
 - убедитесь, что подписка действительна на странице **** \> **подписки** на выставление счетов в [центре администрирования Microsoft 365](https://portal.office.com/adminportal/home#/subscriptions).
 

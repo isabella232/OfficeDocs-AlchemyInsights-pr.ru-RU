@@ -9,26 +9,26 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
-description: Ниже описано, как удалить Office с помощью ПК.
+description: В приведенных ниже шагах описывается удаление Office с компьютера.
 ms.openlocfilehash: 5702f41f3c43183381608f2a2cfc8218887ba21a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940203"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423808"
 ---
 # <a name="uninstall-office"></a>Удаление Office
 
-Загрузите и установите [поддержку и помощник по восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+Скачайте и установите [Помощник по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-1. При открытии, **Удалить Office продуктов** выберите версию, которую нужно удалить и нажмите кнопку **Далее**. 
+1. После **удаления продуктов Office** выберите версию, которую нужно удалить, и нажмите кнопку **Далее**. 
     
-2. Продолжение прохода через экранов и перезагрузите компьютер после появления запроса.
+2. Продолжайте переходить к экранам и перезапускать компьютер при появлении соответствующего запроса.
     
-    После перезагрузки, поддержка и помощник по восстановлению автоматически повторно открывает для завершения процесса удаления.
+    После перезапуска помощник по поддержке и восстановлению автоматически открывается для завершения процесса удаления.
     
-3. Выполните оставшиеся приглашения и [повторно установить Office](https://portal.office.com/OLS/MySoftware.aspx) или закрыть окно помощника. 
+3. Следуйте оставшимся запросам и [переустановите Office](https://portal.office.com/OLS/MySoftware.aspx) или закройте помощник. 
     
-Список других параметров удаления выберите [Удалить Office с ПК](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
+Чтобы получить список других вариантов удаления, выберите [удалить Office с компьютера](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
   
 
