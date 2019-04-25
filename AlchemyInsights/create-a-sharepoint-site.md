@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.openlocfilehash: a4c6029c632178136396a91ba9754752dc8f7180
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932845"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407627"
 ---
 # <a name="create-a-sharepoint-site"></a>Создание сайта SharePoint
 
-См [в центре администрирования SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation ) для параметры создания веб-сайтов. Выберите для создания [сайта группы](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (которая создаст группу Office 365) или [связи сайтов](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Чтобы создать [Классический сайтов](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)или сайте группы, которая не включает группы с Office 365, выберите **другие параметры**. 
+Параметры создания сайтов перечислены [в разделе Управление сайтами в новом центре администрирования SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation ) . Выберите, чтобы создать [сайт группы](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (который будет создавать группу Office 365) или сайт для [общения](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Для создания [классического сайта](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)или нового сайта группы, не включающего группу Office 365, щелкните **другие параметры**. 
   
-Советы по:
-- *Не удается создать сайт с же URL-адрес существующего сайта. При удалении сайта и желающие повторно использовать URL-адрес, можно по-прежнему существует удаленного сайта в разделе **удаленные сайты**. Для управления удаленных сайтов см, [Удаление сайта](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Чтобы полностью удалить сайт с помощью Powershell, см в примере командлет [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .*
-- *Некоторые пользователи могут не могут создать сайт. В разделе [Управление создания сайтов в SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*
-- *Существует возможность сайта зависает на **Создание** значительно больше, чем предполагалось. Если более 24 часов, прошедших с момента видно эту проблему, войдите билетов поддержки. Во многих случаях мы уже работает на решения. Укажите менее 24 часов для завершения решения.*
+Использованию
+- *Невозможно создать сайт с таким же URL-АДРЕСом существующего сайта. Если вы удалили сайт и хотите повторно использовать URL-адрес, то удаленный сайт по-прежнему будет существовать в разделе **удаленные сайты**. Чтобы управлять удаленными сайтами, [удалите сайт](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Чтобы полностью удалить сайт с помощью PowerShell, просмотрите пример командлета [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .*
+- *Некоторые пользователи могут не иметь возможность создавать сайт. [В разделе Управление созданием сайтов в SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*
+- *Возможно, сайт зависает при **создании** дольше, чем ожидалось. Если вы пропустили эту ошибку более 24 часов, запишите запрос в службу поддержки. Во многих случаях мы уже работаем над решением. Отправьте нам по крайней мере 24 часа для завершения решения.*

@@ -10,19 +10,19 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0bae85bc-2a1f-436b-af07-82d0eb79cb8b
 ms.openlocfilehash: 1e681409ce0bf6e97b8749574c2b5710b079c6a1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936949"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32373185"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Изменение разрешений для почтового ящика
 
-Если пользователям требуется доступ к почтовым ящикам других пользователей, они должны быть предоставлены разрешения для работы с этим почтовым ящикам. Как назначить эти разрешения зависит от типа почтового ящика. Если пользователям требуется доступ к:
+Если пользователям требуется доступ к почтовым ящикам, которые не являются их собственными, им необходимо предоставить разрешения для работы с этими почтовыми ящиками. Способ назначения этих разрешений зависит от типа почтового ящика. Если пользователям требуется доступ к:
   
-- Почтовым ящикам других пользователей - можно найти в [предоставить разрешения для почтового ящика на другого пользователя в Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Почтовые ящики других пользователей — ознакомьтесь с разрешениями [предоставление доступа к почтовому ящику другому пользователю в Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
     
-- Общий почтовый ящик - можно найти [Добавьте или удалите элементы из общего почтового ящика](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Общий почтовый ящик — в разделе [Добавление или удаление участников из общего почтового ящика](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Если после выполните действия, описанные выше разрешения работает правильно, перейдите в центр администрирования Exchange и попробуйте установить разрешения из него (см. [Управление разрешениями для получателей](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Если после выполнения описанных выше действий разрешения не работают должным образом, перейдите в центр администрирования Exchange и попытайтесь установить соответствующие разрешения (см. раздел [Управление разрешениями для получателей](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

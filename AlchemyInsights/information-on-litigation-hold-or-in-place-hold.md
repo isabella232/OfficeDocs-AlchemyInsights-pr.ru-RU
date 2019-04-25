@@ -1,5 +1,5 @@
 ---
-title: Сведения о на хранение для судебного разбирательства или в месте удержания
+title: Сведения об удержании судебного разбирательства или на месте
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
 ms.openlocfilehash: 9ecfb5bb167a0c959d39d47713bbb0e64862abb8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926941"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410423"
 ---
-- Применение судебного удержания или обновление на месте удержания к почтовому ящику, [лицензии Exchange Online (план 2)](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Если у вас есть другой план, назначьте учетной записи отдельная лицензия [Архивации Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) . 
+- Чтобы применить удержание для судебного разбирательства или удержание на месте для почтового ящика, необходима [Лицензия на Exchange Online (план 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ). Если у вас есть другой план, назначьте учетной записи отдельную лицензию архивации на базе [Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) . 
     
-- **Чтобы включить хранение для судебного разбирательства** для одного пользователя, выполните шаги, описанные [ниже](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). При включении хранения для судебного разбирательства все содержимое в почтовом ящике ставится на удержание.
+- **Чтобы включить удержание** для судебного разбирательства для одного пользователя, выполните действия, описанные [здесь](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Если включено хранение для судебного разбирательства, все содержимое почтового ящика помещается на удержание.
     
-- Применение **хранения на месте на отдельных пользователей** или удержания для **всех почтовых ящиков во всей организации**, можно использовать политики хранения в центре Office 365 безопасность и соответствие требованиям, выполнив шаги структурированного [здесь](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
+- Чтобы применить **удержание на месте для отдельных пользователей** или удержание для **всех почтовых ящиков во всей Организации**, можно использовать политики хранения в центре безопасности и соответствия требованиям Office 365, выполнив действия, описанные в [этой статье](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
-    > Для политик хранения масштабе организации новые пользователи автоматически добавляются в удержание. 
+    > Для политик хранения на уровне Организации новые пользователи будут автоматически добавляться в удержание. 
   
-- Чтобы просмотреть или обнаружение содержимого почтового ящика, помещенные на удержание, выполнять **Обнаружение электронных данных и экспорт**. Сведения об использовании **Обнаружение электронных данных и экспорта**выполните шаги структурированного [здесь](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+- Для просмотра или обнаружения содержимого почтовых ящиков, размещаемого на удержании, используйте **Поиск и Экспорт обнаружения электронных**данных. Для получения сведений об использовании **поиска и экспорта электронных**данных выполните действия, описанные [здесь](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

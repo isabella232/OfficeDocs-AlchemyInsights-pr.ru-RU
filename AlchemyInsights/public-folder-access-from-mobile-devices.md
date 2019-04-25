@@ -1,5 +1,5 @@
 ---
-title: Доступ к общим папкам с помощью мобильных устройств
+title: Доступ к общедоступным папкам с мобильных устройств
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
 ms.openlocfilehash: 6e450c220b3baba5d8a3fb696348f7d58b6ab721
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942027"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388154"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a>Доступ к общим папкам с помощью мобильных устройств
+# <a name="public-folder-access-from-mobile-devices"></a>Доступ к общедоступным папкам с мобильных устройств
 
-Если вы хотите функциональные возможности, аналогичные общих папок и контент доступным на мобильных устройствах, обратитесь к [сведения об Office 365 групп](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) лучший вариант. 
+Если вы хотите иметь функциональные возможности, аналогичные общедоступным папкам и имеющие доступ к контенту на мобильных устройствах, ознакомьтесь со статьей [Office 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) , чтобы лучше. 
   
 

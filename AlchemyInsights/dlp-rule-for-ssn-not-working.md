@@ -1,5 +1,5 @@
 ---
-title: Правила защиты от потери данных для SSN не работает
+title: Правило защиты от потери данных для SSN не работает
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
 ms.openlocfilehash: d2d21fb5546d36990d69b76e3ceb72ce2edf3d80
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933493"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404430"
 ---
-Возникают проблемы с **Предотвращения потери данных (DLP)** не работает для контента, содержащий **Страховой номер (SSN)** при использовании тип конфиденциальных данных в Office 365? Если это так, убедитесь в том, что ваш контент содержит необходимые сведения для политики защиты от потери данных, которые выполняет поиск. 
+Проблемы с **предотвращением потери данных (DLP)** не работают для контента, содержащего **номер социального страхования (SSN)** при использовании типа конфиденциальной информации в Office 365? Если это так, убедитесь, что содержимое содержит необходимые сведения о том, что делает политика защиты от потери данных. 
   
-Например для политики SSN, имеющей уровень вероятности 85%, следующие вычисляются и необходимо наличие для правила для запуска:
+Например, для политики SSN, настроенной с уровнем вероятности 85%, оцениваются и должны обнаруживаться для триггера правила:
   
-- **[Формат:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 цифр, которые могут быть в шаблоне форматированный или неформатированный 
+- **[Формат:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 цифр, которые могут относиться к форматированному или неформатированному шаблону 
     
-- **[Шаблон:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Четыре функции поиск SSNs в четыре разных шаблонов: 
+- **[Шаблон:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Четыре функции ищут служб SSNs в четырех различных шаблонах: 
     
   - Func_ssn находит SSN со строгим форматированием с тире или пробелами, выданные до 2011 г. (ццц-цц-цццц ИЛИ ццц цц цццц);
     
@@ -32,16 +32,16 @@ ms.locfileid: "29933493"
     
   - Func_randomized_unformatted_ssn находит SSN без форматирования в виде девяти последовательных цифр, выданные после 2011 г. (ццццццццц).
     
-- **[Контрольная сумма:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** Нет, не контрольной суммой 
+- **[КонтрольНая сумма:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** Нет, контрольная сумма отсутствует 
     
-- **[Определение:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** Политика защиты от потери данных — это 85% уверены в том, что этот тип конфиденциальных данных обнаружил if в рамках близости 300 знаков: 
+- **[Определение:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** Политика защиты от потери данных — 85% уверенности в том, что этот тип конфиденциальной информации обнаружен, если в пределах расстояния от 300 символов: 
     
-  - [Функция Func_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) находит контент, который соответствует шаблону. 
+  - [Функция функ_ссн](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) обнаружила содержимое, соответствующее шаблону. 
     
-  - Ключевое слово из [Keyword_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) найти. Включает в себя примеры ключевых слов: *социального страхования, социального страхования #, Soc сек, SSN* . Например, следующий пример приведет к запуску для политики защиты от потери данных SSN: **SSN: 489 36 8350**
+  - Находится ключевое слово из [Keyword_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn). К примерам ключевых слов относятся: *социальное страхование, социальное страхование #, SoC sec, SSN* . Например, следующий пример вызывает срабатывание политики SSN для защиты от потери данных: **SSN: 489-36-8350**
     
-Дополнительные сведения о что является необходимым для SSNs для обнаружения для содержимого в следующем разделе в этой статье: [Что конфиденциальные сведения типов искать SSNs](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
+Дополнительные сведения о том, что требуется для обнаружения в службах Организации для контента, можно найти в следующем разделе этой статьи: [что представляют собой типы конфиденциальНой информации для служб SSNs](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
   
-С помощью типа различных встроенных конфиденциальной информации, обратитесь к следующей статье сведения на что является необходимым для других типов: [Поиск что конфиденциальные сведения типов](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Используя другой встроенный тип конфиденциальной информации, ознакомьтесь со следующей статьей, чтобы узнать, что необходимо для других типов: [какие типы конфиденциальНой информации следует искать](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
 
