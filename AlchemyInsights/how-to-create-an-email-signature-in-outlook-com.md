@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: 8000047
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
 ms.openlocfilehash: cd9b48457b2ce8a95d136719cc61cbb09ffe656d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30775534"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399657"
 ---
-# <a name="how-to-create-an-email-signature"></a><span data-ttu-id="44088-102">Создание подписи электронной почты</span><span class="sxs-lookup"><span data-stu-id="44088-102">How to create an email signature</span></span>
+# <a name="how-to-create-an-email-signature"></a><span data-ttu-id="2b9fe-102">Создание подписи электронной почты</span><span class="sxs-lookup"><span data-stu-id="2b9fe-102">How to create an email signature</span></span>
 
-<span data-ttu-id="44088-103">Перейдите к [параметрам создания и ответа](https://go.microsoft.com/fwlink/?linkid=2006164) (в представлении**Параметры** \> **отображаются все параметры** \> Outlook: **Создание и ответ**).</span><span class="sxs-lookup"><span data-stu-id="44088-103">Go to your [Compose and reply settings](https://go.microsoft.com/fwlink/?linkid=2006164) (**Settings** \> **View all Outlook settings** \> **Compose and reply**).</span></span> 
+<span data-ttu-id="2b9fe-103">Перейдите к [параметрам создания и ответа](https://go.microsoft.com/fwlink/?linkid=2006164) (в представлении**Параметры** \> **отображаются все параметры** \> Outlook: **Создание и ответ**).</span><span class="sxs-lookup"><span data-stu-id="2b9fe-103">Go to your [Compose and reply settings](https://go.microsoft.com/fwlink/?linkid=2006164) (**Settings** \> **View all Outlook settings** \> **Compose and reply**).</span></span> 
   
- <span data-ttu-id="44088-104">**Примечание:** Для каждой учетной записи можно использовать только одну подпись.</span><span class="sxs-lookup"><span data-stu-id="44088-104">**Note:** You can have only one signature per account.</span></span> 
+ <span data-ttu-id="2b9fe-104">**Примечание:** Для каждой учетной записи можно использовать только одну подпись.</span><span class="sxs-lookup"><span data-stu-id="2b9fe-104">**Note:** You can have only one signature per account.</span></span> 
   
-<span data-ttu-id="44088-105">Узнайте больше о том, как [создать и добавить подпись электронной почты в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="44088-105">Learn more about how to [create and add an email signature in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409).</span></span>
+<span data-ttu-id="2b9fe-105">Узнайте больше о том, как [создать и добавить подпись электронной почты в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="2b9fe-105">Learn more about how to [create and add an email signature in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409).</span></span>

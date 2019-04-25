@@ -1,5 +1,5 @@
 ---
-title: Изменение разрешений для общей папки
+title: Изменение разрешений для общедоступных папок
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
 ms.openlocfilehash: 16371b974c9f714a8d19432a4f8efa30bf3541e7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928309"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393769"
 ---
-# <a name="changing-public-folder-permissions"></a><span data-ttu-id="05503-102">Изменение разрешений для общей папки</span><span class="sxs-lookup"><span data-stu-id="05503-102">Changing public folder permissions</span></span>
+# <a name="changing-public-folder-permissions"></a><span data-ttu-id="66199-102">Изменение разрешений для общедоступных папок</span><span class="sxs-lookup"><span data-stu-id="66199-102">Changing public folder permissions</span></span>
 
-<span data-ttu-id="05503-p101">Разрешения общей папки можно изменить пользователями и администраторами в Outlook. Администраторы также могут управлять разрешения из Exchange центр Администрирования, выполнив следующие:</span><span class="sxs-lookup"><span data-stu-id="05503-p101">Public folder permissions can be changed by users and administrators in Outlook. Administrators can also control permissions from the Exchange Admin Center (EAC), by doing the following:</span></span>
+<span data-ttu-id="66199-103">Разрешения общеДоступных папок могут изменяться пользователями и администраторами в Outlook.</span><span class="sxs-lookup"><span data-stu-id="66199-103">Public folder permissions can be changed by users and administrators in Outlook.</span></span> <span data-ttu-id="66199-104">Администраторы также могут управлять разрешениями из центра администрирования Exchange, выполнив следующие действия:</span><span class="sxs-lookup"><span data-stu-id="66199-104">Administrators can also control permissions from the Exchange Admin Center (EAC), by doing the following:</span></span>
   
-1. <span data-ttu-id="05503-105">В портале O365 с помощью левого меню переходов, перейдите к разделу **Центры администрирования** \> **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="05503-105">In the O365 portal, using the left navigation menu, navigate to **Admin Centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="66199-105">На портале Office 365, используя левое меню навигации, перейдите в **центр** \> администрирования **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="66199-105">In the O365 portal, using the left navigation menu, navigate to **Admin Centers** \> **Exchange**.</span></span>
     
-2. <span data-ttu-id="05503-106">Перейдите к разделу **общедоступные папки**.</span><span class="sxs-lookup"><span data-stu-id="05503-106">Navigate to **Public folders**.</span></span>
+2. <span data-ttu-id="66199-106">Перейдите к разделу общеДоступные **папки**.</span><span class="sxs-lookup"><span data-stu-id="66199-106">Navigate to **Public folders**.</span></span>
     
-3. <span data-ttu-id="05503-p102">Отсюда можно изменить разрешения для отдельных общих папок, назначение группы безопасности для разрешений. Пользователь может изменить разрешениями для общих папок пользователю необходимо иметь права владельца в общей папке.</span><span class="sxs-lookup"><span data-stu-id="05503-p102">From there, you can change permissions for individual public folders by assigning security groups to permissions. For an end user to change public folder permissions, the user needs to have Owner rights on the folder.</span></span>
+3. <span data-ttu-id="66199-107">В этом случае вы можете изменить разрешения для отдельных общедоступных папок, назначив группам безопасности разрешения.</span><span class="sxs-lookup"><span data-stu-id="66199-107">From there, you can change permissions for individual public folders by assigning security groups to permissions.</span></span> <span data-ttu-id="66199-108">Чтобы конечный пользователь изменил разрешения для общедоступной папки, пользователь должен иметь права владельца папки.</span><span class="sxs-lookup"><span data-stu-id="66199-108">For an end user to change public folder permissions, the user needs to have Owner rights on the folder.</span></span>
     
 

@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: 1081
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
 ms.openlocfilehash: f2fcaac1d841a673e16c7105d98541d22506f1be
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858073"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396001"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="69806-102">Создание почтовых ящиков помещений и управление ими</span><span class="sxs-lookup"><span data-stu-id="69806-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="c5d74-102">Создание почтовых ящиков помещений и управление ими</span><span class="sxs-lookup"><span data-stu-id="c5d74-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="69806-103">Для создания и изменения почтовых ящиков комнат можно ознакомиться в статье [Создание и управление почтовыми ящиками комнаты](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)</span><span class="sxs-lookup"><span data-stu-id="69806-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="c5d74-103">Для создания и изменения почтовых ящиков комнат можно ознакомиться в статье [Создание и управление почтовыми ящиками комнаты](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)</span><span class="sxs-lookup"><span data-stu-id="c5d74-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="69806-104">Дополнительные сведения о почтовых ящиках помещений и оборудования (которые также называются почтовыми ящиками ресурсов) см. [](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx)</span><span class="sxs-lookup"><span data-stu-id="69806-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="c5d74-104">Дополнительные сведения о почтовых ящиках помещений и оборудования (которые также называются почтовыми ящиками ресурсов) см. [](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx)</span><span class="sxs-lookup"><span data-stu-id="c5d74-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
