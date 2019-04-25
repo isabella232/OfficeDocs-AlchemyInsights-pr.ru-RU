@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000198
 ms.openlocfilehash: caf40fa1eda6301f5fd7956d2322c47e82bb5551
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30784109"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419237"
 ---
 # <a name="new-calendar-experiences-coming-to-outlookcom"></a>Новые возможности работы с календарями, поступающие в Outlook.com
 

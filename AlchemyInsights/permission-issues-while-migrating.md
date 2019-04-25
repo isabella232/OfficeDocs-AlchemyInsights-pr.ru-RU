@@ -1,5 +1,5 @@
 ---
-title: Разрешение проблем во время миграции
+title: Проблемы с разРешениями при миграции
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/18/2018
@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
 ms.openlocfilehash: 3f420a0f930ccb227ad6d2b4b88a9726627bbdb7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932341"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372213"
 ---
-# <a name="permissions-issues-while-migrating"></a>Неполадки с разрешениями во время миграции
+# <a name="permissions-issues-while-migrating"></a>Проблемы с разРешениями при миграции
 
-Сведения о распространенных проблем с разрешениями во время миграции в SharePoint Online, можно [Общие сведения о разрешениях и средства миграции SharePoint.](https://go.microsoft.com/fwlink/?linkid=2019753)
+Сведения о распространенных проблемах с разрешениями во время миграции в SharePoint Online приведены в статье [Общие сведения о разрешениях и средстве миграции SharePoint.](https://go.microsoft.com/fwlink/?linkid=2019753)
   
 

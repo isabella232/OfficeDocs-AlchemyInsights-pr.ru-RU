@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
 ms.openlocfilehash: dbe6616e25fbd5cca9d5feb77239f487ca760919
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940513"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369619"
 ---
 # <a name="supported-version-of-the-sharepoint-migration-tool"></a>Поддерживаемая версия средства миграции SharePoint
 
 
 
-В настоящее время средства миграции SharePoint поддерживает только миграцию с SharePoint 2013. Версии 2010 и 2016 в настоящее время не поддерживаются.
+В настоящее время средство миграции SharePoint поддерживает только миграцию из SharePoint 2013. Версии 2010 и 2016 в настоящее время не поддерживаются.
   
-[Средство миграции SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409)для получения дополнительных сведений см.
+Для получения дополнительных сведений ознакомьтесь [со статьЕй знакомство со средством миграции SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).
   
 
