@@ -1,5 +1,5 @@
 ---
-title: Отключение доступа к сети Yammer
+title: Отключение доступа к Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
 ms.openlocfilehash: 0ffb6b6290fe49b5bb0c59c215b285c5f9901397
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905845"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404742"
 ---
-# <a name="disable-access-to-yammer"></a>Отключение доступа к сети Yammer
+# <a name="disable-access-to-yammer"></a>Отключение доступа к Yammer
 
-Решение, чтобы отключить доступ Yammer — блокировка и Отмена назначения лицензий Yammer для пользователей Office 365. Обратитесь к следующей статье для получения дополнительных сведений.
+Решение о том, как отключать доступ к Yammer, заключается в том, чтобы заблокировать и отменить назначение лицензий на Yammer пользователям Office 365. Для получения дополнительных сведений обратитесь к следующей статье.
   
-- [Отключение доступа к сети Yammer для пользователей Office 365](https://support.office.com/article/1f79bfad-f713-4143-aa5d-5584985ce53a)
+- [Отключение доступа к Yammer для пользователей Office 365](https://support.office.com/article/1f79bfad-f713-4143-aa5d-5584985ce53a)
     
 

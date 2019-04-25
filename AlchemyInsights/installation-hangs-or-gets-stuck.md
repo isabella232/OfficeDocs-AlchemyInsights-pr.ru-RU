@@ -1,5 +1,5 @@
 ---
-title: Установка зависает или обращается
+title: Установка зависа или зависла
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -10,30 +10,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
 ms.openlocfilehash: e722f6c73cc6da093498ee81dbb8ff0a898524d0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916501"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410171"
 ---
-# <a name="installation-hangs-or-gets-stuck"></a>Установка зависает или обращается
+# <a name="installation-hangs-or-gets-stuck"></a>Установка зависа или зависла
 
 
 
-Может появиться это поведение из-за подключение к сети, антивирусное программное обеспечение или параметров Центра обновления Windows на компьютере. Ниже приведены некоторые факторы, можно попробовать решить проблему.
+Это поведение может возблюдаться из-за сетевого подключения, антивирусного программного обеспечения или параметров центра обновления Windows на компьютере. Here are some things you can try to fix the problem.
   
-- Перезагрузите компьютер, а также просматривать, если установлен Office
+- ПереЗагрузите компьютер и проверьте, установлен ли Office.
     
-- Используйте проводное подключение
+- Использование проводного подключения
     
-- Если вы находитесь на медленное подключение к Интернету, установка Office [с помощью автономного установщика Microsoft Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Если вы используете медленное подключение к Интернету, установите Office, [используя автономный установщик Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
     
-- Временное отключение антивирусной программы
+- Временное отключение антивирусного программного обеспечения
     
-- Выполните восстановление по сети с помощью панели управления
+- Запуск оперативного восстановления с панели управления
     
 - Удаление и повторная установка Office
     
-[Требуется много времени для установки Office](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Установка Office длится долго.](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   
 
