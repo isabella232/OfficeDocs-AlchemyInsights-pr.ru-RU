@@ -435,7 +435,7 @@
 | 4/9/2019 | [Предоставление общего доступа к файлу или папке в SharePoint или OneDrive](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | Изменено |
 | 4/9/2019 | [Хранилище SharePoint](/AlchemyInsights/sharepoint-storage) | Изменено |
 | 4/9/2019 | [Совместное использование с внешними пользователями не работает](/AlchemyInsights/sharing-with-external-users-isn-t-working) | Изменено |
-| 4/9/2019 | [Синхронизация файлов SharePoint с помощью нового клиента синхронизации OneDrive](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client). | Изменено |
+| 4/9/2019 | [Синхронизация файлов SharePoint с помощью нового клиента синхронизации OneDrive](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | Изменено |
 | 4/9/2019 | [Включение и отключение внешнего общего доступа для сайта](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | Изменено |
 | 4/9/2019 | [Включение и выключение внешнего общего доступа для SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | Изменено |
 | 4/9/2019 | [Включение и выключение внешнего общего доступа для SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | Изменено |
