@@ -10,17 +10,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
+ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 096e98335f99a28a9d7dba215ccc5334caf9f137
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
+ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397983"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33883140"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Действия по устранению сбоев Outlook
 
-Если у вас возникли проблемы с аварийным завершением работы Outlook, начните с выполнения трех действий, приведенных ниже в этой статье: [Устранение неполадок, связанных с отказом или зависаниЕм Outlook при использовании с Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Если у вас возникли проблемы с аварийным завершением работы Outlook, начните с выполнения трех действий, приведенных ниже в этой статье: [Устранение неполадок, связанных с отказом или зависанием Outlook при использовании с Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
   
 Шаг 1: исследование возможных проблем с надстройками.
   
