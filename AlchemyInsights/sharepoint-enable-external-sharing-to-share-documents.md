@@ -8,18 +8,41 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 14b005e353b162b7c49c350ec434798009269219
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34716869"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760765"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Включение внешнего общего доступа в SharePoint Online
 
-Если ваша организация выполняет работу, включающую общий доступ к документам и совместную работу с поставщиками, клиентами или клиентами, то вы можете использовать <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview"><span style="color: blue;">функции внешнего общего доступа в SharePoint Online</span></a> для обмена контентом с пользователями, не входящими в вашу предприятии.
+Если ваша организация выполняет работу, включающую общий доступ к документам и совместную работу с поставщиками, клиентами или клиентами, то вы можете использовать [функции внешнего общего доступа в SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) для обмена контентом с пользователями, не входящими в вашу предприятии.
 
-Чтобы получить дополнительные сведения о внешнем общем доступе, перейдите по приведенным ниже ссылкам.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user"><span style="color: blue;">Что такое внешний пользователь?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document"><span style="color: blue;">Что происходит при предоставлении доступа к сайту или документу?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off"><span style="color: blue;">Включение и выключение внешнего общего доступа для SharePoint Online</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site"><span style="color: blue;">Включение и отключение внешнего общего доступа для сайта</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet"><span style="color: blue;">Использование SharePoint Online в качестве решения для экстрасети "бизнес-бизнес" (B2B)</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c"><span style="color: blue;">Совместное использование файлов и папок SharePoint</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">Прекращение общего доступа к файлам и папкам OneDrive или SharePoint, а также изменение разрешений</span></a></span></li> <li><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center">Удаление внешнего пользователя</a></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong style="mso-bidi-font-weight: normal;"><u><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">
+Чтобы получить дополнительные сведения о внешнем общем доступе, перейдите по приведенным ниже ссылкам.
 
-Получается сообщение об ошибке у внешнего пользователя? &nbsp;Проверьте приведенные ниже ссылки. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0"><span style="color: blue;">Сообщение об ошибке, когда внешний пользователь принимает приглашение на SharePoint Online с помощью другой учетной записи</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f"><span style="color: blue;">Отказ в доступе к общей папке</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message"><span style="color: blue;">Ошибки общего доступа к OSE в SharePoint и OneDrive</span></a></span></li> </ul>
+[Что такое внешний пользователь?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+
+[Что происходит при предоставлении доступа к сайту или документу?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+
+[Включение и выключение внешнего общего доступа для SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+
+[Включение и отключение внешнего общего доступа для сайта](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[Использование SharePoint Online в качестве решения для экстрасети "бизнес-бизнес" (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[Совместное использование файлов и папок SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Прекращение общего доступа к файлам и папкам OneDrive или SharePoint, а также изменение разрешений](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[Удаление внешнего пользователя](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+Получается сообщение об ошибке у внешнего пользователя? &nbsp;Проверьте приведенные ниже ссылки.
+
+- [Сообщение об ошибке, когда внешний пользователь принимает приглашение на SharePoint Online с помощью другой учетной записи](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+
+- [Отказ в доступе к общей папке](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+
+- [Ошибки общего доступа к OSE в SharePoint и OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

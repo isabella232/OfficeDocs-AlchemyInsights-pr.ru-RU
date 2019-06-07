@@ -2,7 +2,7 @@
 title: '1332 Outlook: правила папки "Входящие" не выполняются для почтового ящика.'
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 12/8/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1332
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: c0b221b5335254bd0f1eb4b258efa6946376ca12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 28b03183552e00dd2522fff51b061cc27d5032ef
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372573"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762236"
 ---
 # <a name="an-inbox-rule-doesnt-work-as-expected"></a>Правило для папки "Входящие" работает не так, как ожидалось
 
@@ -25,7 +25,7 @@ ms.locfileid: "32372573"
 
 - Правила для папки "Входящие" не работают в альтернативном почтовом ящике журналов. Дополнительные сведения о альтернативном почтовом ящике журналов можно узнать в разделе [альтернативный почтовый ящик журналов](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).
 
-Чтобы устранить эти проблемы, ознакомьтесь со [статьЕй KB 2829319](https://support.microsoft.com/kb/2829319).
+Чтобы устранить эти проблемы, ознакомьтесь со [статьей KB 2829319](https://support.microsoft.com/kb/2829319).
 
 Если предыдущие проблемы не применяются, запустите диагностический отчет о правиле папки "Входящие" перед тем, как вы передаете ошибку в службу поддержки Майкрософт:
 

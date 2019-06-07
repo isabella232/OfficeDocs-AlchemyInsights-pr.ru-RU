@@ -2,7 +2,7 @@
 title: Определение внешних переадресации электронной почты в почтовых ящиках в журналах аудита
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1369
 ms.assetid: ''
-ms.openlocfilehash: 7fb2c161c558a7eb961f86ca2b86e33750d902fd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 518e4dd485ee7c54ce83e65794152e32f4c3a836
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417224"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752032"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Определение времени настройки переадресации внешней почты для почтовых ящиков
 
-Когда пользователь настраивает внешнюю переадресацию электронной почты для почтового ящика, действие подлежит аудиту в рамках командлета **Set-Mailbox** . Вы можете просмотреть действие с помощью функции поиска в журнале аудита в центре безопасности _Амп_ соответствия требованиям.
+Когда пользователь настраивает внешнюю переадресацию электронной почты для почтового ящика, действие подлежит аудиту в рамках командлета **Set-Mailbox** . Вы можете просмотреть действие с помощью функции поиска в журнале аудита в центре безопасности & соответствия требованиям.
 
-1. Вход в [центр соответствия требованиям _Амп_ безопасности Office 365](https://protection.office.com/)
+1. Вход в [центр соответствия требованиям & безопасности Office 365](https://protection.office.com/)
 
 2. Щелкните **Поиск и исследование** , а затем выберите **Поиск в журнале аудита**.
 
