@@ -2,7 +2,7 @@
 title: Восстановление PST-файла перед импортом
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1226
 ms.assetid: ''
-ms.openlocfilehash: 66b045c04ccbeb133e1bae3b9c29e01b4820d33f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 571f7211915d637f9c193cc453db38b29fc444de
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32383776"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761915"
 ---
 # <a name="repair-pst-file-before-importing"></a>Восстановление PST-файла перед импортом
 
@@ -25,7 +25,7 @@ ms.locfileid: "32383776"
 
 2. Найдите и запустите `Scanpst.exe` папку приложения Office (c:\Program Files (x86) \Microsoft\<Оффице\рут\оффице Version\> или C:\Program Files\Microsoft оффице\рут\оффице\<Version\>).
 
-3. В **средстве восстановления папки "Входящие" Microsoft Outlook**нажмите кнопку **Обзор** , чтобы найти PST-файл (например,\\в\>C:\Users _лт_усернаме \аппдата\локал\микрософт\аутлук). Выберите PST-файл и нажмите кнопку **Открыть**.
+3. В **средстве восстановления папки "Входящие" Microsoft Outlook**нажмите кнопку **Обзор** , чтобы найти PST-файл (например,\\ в C:\Users\><username \аппдата\локал\микрософт\аутлук). Выберите PST-файл и нажмите кнопку **Открыть**.
 
 4. Нажмите кнопку **начать** , чтобы начать сканирование.
 

@@ -2,7 +2,7 @@
 title: Определение IP-адреса и клиента в журналах аудита
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1367
 ms.assetid: ''
-ms.openlocfilehash: 7e30a638de5926aa11b8ae637613a48076d7bdc9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 87e0d414fe02d5074a56cd5a77d50db1464b7faf
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417024"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752072"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Определение IP-адреса и клиента в журналах аудита
 
 IP-адрес, соответствующий действиям пользователя или администратора, отображается в журналах аудита. Сведения о клиенте также записываются в журнал. Ниже приведена процедура идентификации таких сведений.
 
-1. Вход в [центр соответствия требованиям _Амп_ безопасности Office 365](https://protection.office.com/)
+1. Вход в [центр соответствия требованиям & безопасности Office 365](https://protection.office.com/)
 
 2. Щелкните **Поиск и исследование** , а затем выберите **Поиск в журнале аудита**.
 
