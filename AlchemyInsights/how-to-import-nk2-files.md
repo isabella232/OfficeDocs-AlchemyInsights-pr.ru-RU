@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630028"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770259"
 ---
 # <a name="how-to-import-nk2-files"></a>Импорт NK2 файлов 
 
@@ -37,4 +37,4 @@ ms.locfileid: "33630028"
 
 **Note**: NK2-файл переименовывается с использованием старого расширения имени файла при следующем запуске Outlook 2013, Outlook 2016, Outlook 2019 или Outlook для Office 365. Если требуется повторно импортировать файл с расширением. nk2, сначала удалите старое расширение имени файла.
 
-Дополнительные сведения можно найти [в статье импорт или копирование списка автозавершения на другой компьютер](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%).
+Дополнительные сведения можно найти [в статье импорт или копирование списка автозавершения на другой компьютер](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

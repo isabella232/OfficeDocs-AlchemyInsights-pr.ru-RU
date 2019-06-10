@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: d3808cdee54b748abec16035ecb5c093ec6d37f3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 760587c0e58662283c3c1a647d1cc5fb81187545
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370555"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770751"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Восстановление удаленного почтового ящика
 
@@ -33,6 +33,6 @@ ms.locfileid: "32370555"
     
 3. Назначьте лицензию Exchange Online и нажмите кнопку **Save (сохранить** ).
     
-Если вы пытаетесь восстановить общий почтовый ящик, он также можно восстановить в течение 30 дней. Их можно найти в разделе **Пользователи** \> , **Удаленные** пользователями; для общих почтовых ящиков не требуется лицензия. Если вы знаете, что вам нужно восстановить удаленного пользователя, ознакомьтесь со статьей [Восстановление пользователя в Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
+Если вы пытаетесь восстановить общий почтовый ящик, он также можно восстановить в течение 30 дней. Их можно найти в разделе **Пользователи** \> , **Удаленные** пользователями; для общих почтовых ящиков не требуется лицензия. Если вы знаете, что вам нужно восстановить удаленного пользователя, ознакомьтесь со статьей [Восстановление пользователя в Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   
 

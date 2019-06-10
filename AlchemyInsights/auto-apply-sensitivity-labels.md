@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408731"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769555"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Автоматически применять метки чувствительности
 
@@ -25,7 +25,7 @@ ms.locfileid: "32408731"
 Для автоматического применения меток необходимо следующее:
 
 - Подписка на Azure Information Protection P2
-- [Скачайте и установите клиент единой метки Azure Information Protection](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Скачайте и установите клиент единой метки Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Мы работаем над встроенной поддержкой, поэтому в будущем не потребуется клиент единой метки Azure Information Protection.
 
@@ -33,5 +33,5 @@ ms.locfileid: "32408731"
 
 Дополнительные сведения о метках конфиденциальности и их автоматическом применении к содержимому можно узнать в следующих статьях:
 
-- [Обзор меток конфиденциальности](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Автоматическое применение метки конфиденциальности к содержимому](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Обзор меток конфиденциальности](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Автоматическое применение метки конфиденциальности к содержимому](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: 1703
-ms.openlocfilehash: 5741aab79cd4647f2ad2ff01c05ccbac33c62a46
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: a7514bece0f841a0df46c50a3d83012ce586bdde
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762342"
+ms.locfileid: "34771283"
 ---
 # <a name="polycom-phones-and-microsoft-teams"></a>Телефоны Polycom и Microsoft Teams
 
 Подробные сведения об использовании телефонов Polycom с Microsoft Teams см. по этой [ссылке Polycom](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf).
 
-Дополнительные сведения об использовании телефонов с Teams см. в [этой статье](https://docs.microsoft.com/ru-RU/microsoftteams/phones-for-teams).
+Дополнительные сведения об использовании телефонов с Teams см. в [этой статье](https://docs.microsoft.com/microsoftteams/phones-for-teams).

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096606"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770821"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Отзыв или замена сообщения электронной почты
 
@@ -34,9 +34,9 @@ ms.locfileid: "34096606"
 
 Дополнительные сведения о том, как проверить отзыв, можно найти в статье [отзыв или замена отправленного сообщения электронной почты](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Поиск и удаление сообщений электронной почты в Организации*** Для поиска и удаления сообщений электронной почты в организации проще всего сделать глобальным администратором. Если вы не являетесь глобальным администратором, необходимо добавить свою учетную запись в группу ролей диспетчера eDiscovery или в роль управления поиском соответствия требованиям. Чтобы удалить сообщения, необходимо присоединиться к группе ролей Управление организацией или ролью управления поиска и очистки. Разрешения для этих ролей назначаются в [центре безопасности _амп_ соответствия требованиям](https://protection.office.com/).
+***Поиск и удаление сообщений электронной почты в Организации*** Для поиска и удаления сообщений электронной почты в организации проще всего сделать глобальным администратором. Если вы не являетесь глобальным администратором, необходимо добавить свою учетную запись в группу ролей диспетчера eDiscovery или в роль управления поиском соответствия требованиям. Чтобы удалить сообщения, необходимо присоединиться к группе ролей Управление организацией или ролью управления поиска и очистки. Разрешения для этих ролей назначаются в [центре безопасности & соответствия требованиям](https://protection.office.com/).
 
-1. [Создайте поиск контента](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) , чтобы найти сообщение, которое требуется удалить.
-2. [Подключитесь к PowerShell центра безопасности _Амп_ соответствия требованиям](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Создайте поиск контента](https://docs.microsoft.com/office365/securitycompliance/content-search) , чтобы найти сообщение, которое требуется удалить.
+2. [Подключитесь к PowerShell центра безопасности & соответствия требованиям](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Если вы используете MFA, ознакомьтесь со статьей [Подключение к Office 365 Security _амп_ в PowerShell центра соответствия требованиям с использованием многофакторной проверки](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)подлинности. 
+Если вы используете MFA, ознакомьтесь со статьей [Подключение к Office 365 Security &s PowerShell центра соответствия требованиям с использованием многофакторной проверки](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)подлинности. 
