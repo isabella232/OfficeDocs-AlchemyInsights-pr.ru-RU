@@ -11,23 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 2eb86e0c2e4741ea42c1476c4b76f5d2d318126f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6c9ea9c33097b65cf577106d1781023f0e9738c0
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389821"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883712"
 ---
 # <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Устранение проблем с библиотеками SharePoint, сопоставленными с сетевыми дисками
 
 При просмотре подключенного сетевого диска может появиться одно из следующих сообщений:
   
 - **\\Путь недоступен. Возможно, у вас нет разрешения на использование этого сетевого ресурса. Обратитесь к администратору этого сервера, чтобы узнать, есть ли у вас разрешения на доступ.**
-    
+
 - **Доступ запрещен. Перед открытием файлов в этом расположении необходимо сначала добавить веб-сайт в список надежных сайтов, перейти на веб-сайт и выбрать автоматический вход.**
-    
+
 [Справка по устранению неполадок подключенных сетевых дисков](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
   
 Сопоставление библиотеки как сетевого диска является временным и поддерживается только в Internet Explorer. Вместо этого [синхронизируйте файлы SharePoint с новым клиентом синхронизации OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , который включает [файлы по требованию](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Доступ ко всем файлам в OneDrive, не используя локальное дисковое пространство.
   
-

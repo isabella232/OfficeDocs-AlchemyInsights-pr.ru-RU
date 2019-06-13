@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b7a3805d30cac44781adbbb00c0f0ed3496ff17b
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389900"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883604"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Отказано в доступе при просмотре рабочего процесса
 
@@ -21,12 +21,11 @@ ms.locfileid: "32389900"
   
  **Чтобы устранить эту проблему, выполните указанные ниже действия.**
   
- 1. Разрешить всем пользователям просматривать участников группы SharePoint. 
+ 1. Разрешить всем пользователям просматривать участников группы SharePoint.
   
- 2. Удаление группы SharePoint из строки "Кому" или "копия" сообщения электронной почты. 
+ 2. Удаление группы SharePoint из строки "Кому" или "копия" сообщения электронной почты.
   
- 3. Явно добавьте пользователей в строку "Кому" или "копия", если невозможно изменить видимость членства для группы SharePoint. 
+ 3. Явно добавьте пользователей в строку "Кому" или "копия", если невозможно изменить видимость членства для группы SharePoint.
   
-Чтобы просмотреть дополнительные сведения, обратитесь к разделу HTTP неСанкционированный доступ [к/_вти_бин/клиент.СВК/СП.утилитиес.утилити.сендемаил ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Чтобы просмотреть дополнительные сведения, обратитесь к разделу HTTP несанкционированный доступ [к/_вти_бин/клиент.СВК/СП.утилитиес.утилити.сендемаил](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
-
