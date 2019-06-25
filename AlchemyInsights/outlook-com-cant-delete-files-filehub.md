@@ -3,7 +3,7 @@ title: Не удается удалить фотографии или файлы
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/31/2019
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 4b292661c4d9c58ad1ff3bb62c6d62f871c664d2
-ms.sourcegitcommit: 6a79e457f0326c2bf1ac96006e93603d94245f8b
+ms.openlocfilehash: 6126fcc1027b34ef44160e3d13c120c179457307
+ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34669241"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35115857"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a><span data-ttu-id="17d02-102">Не удается удалить файлы или фотографии из файлов</span><span class="sxs-lookup"><span data-stu-id="17d02-102">Can't delete files or photos from Files</span></span>
+# <a name="cant-delete-files-or-photos-from-files"></a><span data-ttu-id="b699c-102">Не удается удалить файлы или фотографии из файлов</span><span class="sxs-lookup"><span data-stu-id="b699c-102">Can't delete files or photos from Files</span></span>
 
-<span data-ttu-id="17d02-103">В файлах отображаются файлы и фотографии, вложенные в сообщения в вашем почтовом ящике.</span><span class="sxs-lookup"><span data-stu-id="17d02-103">Files shows the files and photos attached to messages in your mailbox.</span></span> <span data-ttu-id="17d02-104">Вы не можете удалять файлы и фотографии непосредственно из файлов.</span><span class="sxs-lookup"><span data-stu-id="17d02-104">You can't delete files or photos directly from Files.</span></span> <span data-ttu-id="17d02-105">Чтобы удалить файлы и фотографии, необходимо удалить сообщения электронной почты, к которым они присоединены:</span><span class="sxs-lookup"><span data-stu-id="17d02-105">To delete files and photos, you'll need to delete the email messages they're attached to:</span></span>
+<span data-ttu-id="b699c-103">В **файлах** отображаются файлы и фотографии, вложенные в сообщения в вашем почтовом ящике.</span><span class="sxs-lookup"><span data-stu-id="b699c-103">**Files** shows the files and photos attached to messages in your mailbox.</span></span> <span data-ttu-id="b699c-104">Чтобы удалить файлы и фотографии из файлов, необходимо удалить сообщения электронной почты, к которым они присоединены.</span><span class="sxs-lookup"><span data-stu-id="b699c-104">To remove files and photos from Files, you need to delete the email messages they're attached to.</span></span> <span data-ttu-id="b699c-105">После удаления сообщений необходимо также удалить их из папки "Удаленные".</span><span class="sxs-lookup"><span data-stu-id="b699c-105">After deleting the messages, you also need to delete them from your Deleted Items folder.</span></span>
 
-<span data-ttu-id="17d02-106">Для получения дополнительных сведений прочитайте сведения [об удалении файлов и фотографий в Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).</span><span class="sxs-lookup"><span data-stu-id="17d02-106">For more information, read [How to delete files or photos in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).</span></span>
+<span data-ttu-id="b699c-106">Чтобы узнать больше, прочитайте, [как удалять файлы и фотографии в Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="b699c-106">To learn more, read [How to delete files or photos in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
