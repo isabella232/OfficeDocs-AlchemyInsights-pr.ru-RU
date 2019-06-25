@@ -14,19 +14,19 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: db963210d99ad41fe69eeae11baac9590f429448
-ms.sourcegitcommit: 03af2db31b45958e5f541d7740078cf65e0589ce
+ms.openlocfilehash: 81da5338117b49a21c95de2beae8319c55c83c4a
+ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34709029"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34957393"
 ---
 # <a name="print-email-and-calendars"></a>Печать электронной почты и календарей
 
 Чтобы напечатать сообщение электронной почты, выполните указанные ниже действия.
   
 1. Выберите сообщение, которое требуется напечатать.
-1. Над областью чтения выберите три точки и нажмите кнопку **Печать**.
+1. В правом верхнем углу сообщения выберите три точки и нажмите кнопку **Печать**.
 
 Чтобы напечатать календарь, выполните следующие действия.
 
