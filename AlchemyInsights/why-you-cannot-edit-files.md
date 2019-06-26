@@ -1,5 +1,5 @@
 ---
-title: Файл открыт только для чтения
+title: Файлы заблокированы для редактирования
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757111"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222681"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Почему вы не можете редактировать файлы?
 
@@ -24,9 +24,9 @@ Note: библиотеки с извлечением, обязательными
 
 Для библиотек OneDrive в OneDrive будет отображаться значок блокировки рядом со статусом синхронизации, и пользователь не сможет синхронизировать библиотеку до тех пор, пока не будут удалены указанные параметры.
 
-Для получения дополнительных сведений о заблокированных файлах для Word/Excel, ознакомьтесь со статьями ниже.
+Для получения дополнительных сведений о заблокированных файлах для Word или Excel, ознакомьтесь со статьями ниже.
 
-[Файл Excel заблокирован для редактирования другим пользователем](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Файл Excel заблокирован для редактирования другим пользователем](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[Файл Word заблокирован для редактирования другим пользователем](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Файл Word заблокирован для редактирования другим пользователем](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

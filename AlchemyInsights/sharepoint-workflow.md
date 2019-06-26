@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 299a31719696778d66afc4f1c4f9b7c3ff3970f3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e083431df1a86aad3d428901754f8150f5059b45
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758078"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223185"
 ---
 # <a name="workflows-in-sharepoint"></a>Рабочие процессы в SharePoint
 
 Рабочие процессы SharePoint — это предварительно запрограммированные мини-приложения, которые ускоряют и автоматизируют разнообразные бизнес-процессы. Рабочие процессы могут варьироваться от сбора подписей, отзывов или утверждений для плана или документа для отслеживания текущего состояния процедуры процедуры.
 
-Начало работы: Если вы только начинаете работать с рабочими процессами SharePoint, ознакомьтесь со статьей [Введение в рабочие процессы SharePoint для получения дополнительных сведений](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+Начало **работы:** Если вы только начинаете работать с рабочими процессами SharePoint, ознакомьтесь со статьей [Введение в рабочие процессы SharePoint для получения дополнительных сведений](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
 **Microsoft Flow**: рассмотрите использование Microsoft Flow вместо классических решений рабочих процессов SharePoint. Дополнительные сведения см. [в статье Создание последовательности для списка или библиотеки в SharePoint Online или OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
 

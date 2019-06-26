@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119771"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222753"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Отслеживание и Отмена подписки на сайт SharePoint
 
@@ -23,4 +23,4 @@ ms.locfileid: "35119771"
 
 Если вы не можете следовать или отменить подписку на сайт и считаете, что результаты не отображаются, проверьте, связана ли эта неполадка с одним пользователем или всеми пользователями в вашей организации. Если все пользователи сталкиваются с этой ошибкой, может возникнуть временная ошибка службы. 
 
-Просмотрите [панель мониторинга работоспособности службы](https://admin.microsoft.com/AdminPortal/Home#/servicehealth), чтобы проверить, влияет ли ваша организация на работу.
+Просмотрите [панель мониторинга работоспособности службы](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , чтобы проверить, влияет ли ваша организация на работу.
