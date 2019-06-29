@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000084
-ms.openlocfilehash: 8f314b20f6095b83cb12b340f10aa04eb8f6dbc9
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1350"
+- "8000084"
+ms.openlocfilehash: d86f039cb0dba7cb7e4d21c0e43c1a3448265146
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33632092"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373678"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>Квота электронной почты и хранилища в Outlook.com
 
@@ -24,4 +26,6 @@ ms.locfileid: "33632092"
 
 **Ограничения хранилища**
 
-Если папка "Входящие" заполнена, вы не сможете отправлять и получать сообщения, а пользователи, которые отправляют вам сообщение об ошибке, получат сообщение об ошибке, когда папка "Входящие" заполнена. Вы можете узнать, сколько места [хранения использовалось](https://go.microsoft.com/fwlink/?linkid=2052089), или вы можете [узнать, как создать место в почтовом ящике](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+Если папка "Входящие" заполнена, вы не сможете отправлять и получать сообщения, а пользователи, которые отправляют вам сообщение об ошибке, получат сообщение об ошибке, когда папка "Входящие" заполнена. Вы можете узнать, сколько места у вас доступно, перейдя к разделу [ **Параметры** > , чтобы**Просмотреть все** > **Общие**> хранилища параметров Outlook](https://outlook.live.com/mail/options/general/storage), или [узнать, как создать место в почтовом ящике](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+
+Если у вас есть Расширенная учетная запись, вы можете просмотреть ее, перейдя на страницу [ **Параметры** > , чтобы**Просмотреть все параметры** > Outlook**Premium**> ](https://outlook.live.com/mail/options/premium/features).

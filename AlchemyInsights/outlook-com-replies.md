@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392561"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372562"
 ---
 # <a name="replying-in-outlookcom"></a>Ответ в Outlook.com
 
 Чтобы ответить на одно сообщение за раз:
 
-1. В списке сообщений выберите сообщение, которое необходимо переслать.
+1. В списке сообщений выберите сообщение, на которое необходимо ответить.
 2. В правом верхнем углу области сообщений выберите стрелку **ответить** или **все стрелки ответить** .
 3. Введите сообщение и нажмите кнопку **Отправить**.
 
 Чтобы автоматически отвечать на все сообщения:
 
-1. Откройте [Параметры автоматических ответов](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Перейдите к разделу **Параметры** > **. Просмотр всех** > **ответов** на**сообщения электронной почты** > в параметрах Outlook, чтобы открыть [Параметры автоматических ответов](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. Установите флажок **включить автоматические ответы** .
 3. Установка флажка **отправлять ответы только в течение периода времени** позволяет:
     - Отправляйте ответы только при выборе. Если вы не настроили период времени, автоматический ответ будет оставаться включенным, пока вы не выключите его.

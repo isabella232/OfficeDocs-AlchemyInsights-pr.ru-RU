@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1951
+ms.custom:
+- "1951"
+- "9000241"
 ms.assetid: ''
-ms.openlocfilehash: 18a2bbba398ed5e693df080254ec7a0c1b24f941
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 5b256edb711d194584871c8072af9a266479e1bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096607"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390058"
 ---
 # <a name="outlook-not-synching-folders"></a>Outlook не синхронизирует папки
 
@@ -25,5 +27,5 @@ ms.locfileid: "34096607"
 1. Уменьшите количество папок в основном или общем почтовом ящике. [При наличии слишком большого количества элементов или папок в папке OST или PST в режиме кэширования можно увидеть проблемы с производительностью Outlook](https://support.microsoft.com/help/2768656).
 2. Отключение кэширования всех общих папок.
 3. Измените конфигурацию вспомогательного почтового ящика Exchange на вторую учетную запись Exchange в своем профиле.
- 
+
 Дополнительные сведения см. [в статье проблемы с производительностью и синхронизацией при работе с папками во вторичном почтовом ящике в Outlook](https://support.microsoft.com/help/3115602).
