@@ -9,13 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "1639"
+- "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a3534000b8b8f3d8c2a2cd9b5b3cf1eb278d3c85
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372645"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360786"
 ---
 # <a name="payment-options"></a>Варианты оплаты
 
@@ -27,7 +30,7 @@ ms.locfileid: "32372645"
   
 При оплате с помощью кредитной карты или банковского счета с вас автоматически будет взиматься сбор за подписку в день, следующий за датой выставления счета, вплоть до завершения ее срока. Вы можете в любой момент [обновить реквизиты своей карты или банковского счета](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide). Вы также можете [Получение копии выписки по счету по электронной почте](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
-Если ваша кредитная карта была отклонена или у вас имеется просроченная задолженность, вы можете выбрать вариант **Оплатить сейчас** на странице [Подписки](https://portal.office.com/adminportal/home#/subscriptions) в разделе **Выставление счетов** \>. 
+Если ваша кредитная карта была отклонена или у вас имеется просроченная задолженность, вы можете выбрать вариант **Оплатить сейчас** на странице [Подписки](https://portal.office.com/adminportal/home#/subscriptions) в разделе **Выставление счетов** \>.
   
  **Оплата по счету (чек или банковский перевод)**
   
@@ -43,4 +46,3 @@ ms.locfileid: "32372645"
   
 [Оплата подписки на Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
-
