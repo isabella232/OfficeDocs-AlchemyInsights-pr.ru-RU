@@ -6,22 +6,24 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000252
+ms.custom:
+- "1842"
+- "9000252"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: f5464f01bd33dd7cc34f02829dd50c377569cbd9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5a6d2d14f410f4934e9f6b0766a0883925009653
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419307"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376846"
 ---
 # <a name="cant-receive-email"></a>Не удается получить электронную почту
 
 Если у вас возникли проблемы с Outlook.com, сначала проверьте [состояние службы](https://go.microsoft.com/fwlink/p/?linkid=837482).
 
 1. Если включена сортировка почты, проверьте другие папки "Входящие". Сведения о том, как отключить сортировку почты, см в разделе [Отключение сортировки](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2)почты.
-1. Просмотрите [папку нежелательной почты](https://outlook.live.com/mail/junkemail). Если папка "Входящие" заполнена, вы не будете получать новые сообщения. Чтобы сделать место в папке "Входящие", попробуйте очистить папку "неЖелательная почта", щелкнув правой кнопкой мыши папку неЖелательной почты и выбрав **пустую папку**.
+1. Просмотрите [папку нежелательной почты](https://outlook.live.com/mail/junkemail). Если папка "Входящие" заполнена, вы не будете получать новые сообщения. Чтобы сделать место в папке "Входящие", попробуйте очистить папку "Нежелательная почта", щелкнув правой кнопкой мыши папку нежелательной почты и выбрав **пустую папку**.
 1. Проверьте фильтры папки "Входящие". Чтобы изменить фильтрацию и сортировку, выберите пункт **Фильтр** в верхней части списка сообщений.
 1. Проверьте [список заблокированных отправителей и списков надежных отправителей](https://outlook.live.com/mail/options/mail/junkEmail).
 1. Проверьте [правила для папки "Входящие"](https://outlook.live.com/mail/options/mail/rules).

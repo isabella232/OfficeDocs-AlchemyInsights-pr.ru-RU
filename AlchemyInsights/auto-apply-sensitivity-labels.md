@@ -9,16 +9,19 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1737"
+- "9000181"
+ms.openlocfilehash: 58c6768a5285247273b55eeb0f3df2a797c88086
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769555"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360506"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Автоматически применять метки чувствительности
 
-Метки конфиденциальности могут быть маннуалли применены к контенту пользователями, или их можно настроить для автоматического применения к содержимому.
+Метки конфиденциальности могут быть вручную применены к контенту пользователями, или их можно настроить для автоматического применения к содержимому.
 
 Автоматическое применение меток конфиденциальности устраняет необходимость в обучении пользователей по классификации контента и необходимости уведомлять их о конфигурациях политик.
 

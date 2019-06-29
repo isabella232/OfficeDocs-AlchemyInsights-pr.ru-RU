@@ -6,18 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 97a1191e3d90e4709135be95a6346a3557cc70fe
-ms.sourcegitcommit: 03258ec4f5476a1ea6dd3a31d17bda815bc5a18a
+ms.custom:
+- "1977"
+- "9000343"
+ms.openlocfilehash: a78ef48aa92cbcfa27f14aa755e4810e410dddc1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/24/2019
-ms.locfileid: "33243633"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367244"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>Устранение неполадок производительности OneDrive
 
 Если в OneDrive возникают медленные проблемы или аналогичные проблемы с производительностью, выполните указанные ниже действия.
 
-- Убедитесь, что в [панели мониторинга работоспособНости службы](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fportal.office.com%2Fadminportal%2Fhome%23%2Fservicehealth&data=02%7C01%7CHunter.Donald%40microsoft.com%7Cc12aea2d6a5043ee79d908d6c75354db%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636915558051385661&sdata=z3OU7adaVjJorTGK8v7Ipo35E5vkk35lVCEzgGYQoNo%3D&reserved=0)нет известных проблем.
+- Убедитесь, что в [панели мониторинга работоспособности службы](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fportal.office.com%2Fadminportal%2Fhome%23%2Fservicehealth&data=02%7C01%7CHunter.Donald%40microsoft.com%7Cc12aea2d6a5043ee79d908d6c75354db%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636915558051385661&sdata=z3OU7adaVjJorTGK8v7Ipo35E5vkk35lVCEzgGYQoNo%3D&reserved=0)нет известных проблем.
 
 - [Разрешите файлы по требованию](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fsave-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e&data=02%7C01%7CHunter.Donald%40microsoft.com%7Cc12aea2d6a5043ee79d908d6c75354db%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636915558051395670&sdata=QN1F4v1q6pNV2hIZ5LCZTtIbuv%2FR7lH5C5g%2FAFJQhrM%3D&reserved=0) , чтобы получить доступ ко всем файлам в OneDrive без необходимости загружать их и использовать место на устройстве.
 

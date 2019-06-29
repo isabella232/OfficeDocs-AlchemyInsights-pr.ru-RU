@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "443"
+- "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: ce624516e0fc34245f23a066276ce0e1d2dd99fb
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: acd84c9d7de2887170b40431954b3cf791b479de
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405953"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360066"
 ---
 # <a name="declined-credit-card"></a>Отклоненная кредитная карта
 
@@ -24,6 +26,5 @@ ms.locfileid: "32405953"
   
 Если кредитная карта все равно отклоняется, обратитесь в банк. Возможно, ваша карта еще не активна: например, если вы недавно получили ее по почте после перевыпуска, вам может потребоваться ее активировать. Вы также можете уточнить в своем банке, разрешены ли для вашей кредитной карты платежи в Интернете, а также международные и повторяющиеся платежи.  
   
-Дополнительную информацию можно узнать в [статье устраненИе неполадок кредитных карт и банковских счетов](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Дополнительную информацию можно узнать в [статье Устранение неполадок кредитных карт и банковских счетов](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
-

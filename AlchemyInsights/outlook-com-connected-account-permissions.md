@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417978"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375802"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Как устранить проблему "он выглядит, как не имеет разрешений"
 
 Если отображается сообщение об ошибке "похоже, у вас нет разрешения на получение электронной почты для...." выполните следующие действия:
 
-1. Откройте [Параметры подключенНой учетНой записи](https://outlook.live.com/mail/options/mail/accounts) , а затем удалите или удалите подключенную учетную запись, указанную в сообщении об ошибке. 
+1. Откройте [Параметры подключенной учетной записи](https://outlook.live.com/mail/options/mail/accounts) , а затем удалите или удалите подключенную учетную запись, указанную в сообщении об ошибке.
 2. Снова добавьте подключенную учетную запись.
 3. Вернитесь [к почтовому ящику](https://outlook.live.com/mail/inbox).
 
