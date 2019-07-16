@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 5816d85596560dfa016fc2ed622192f68ec4e818
-ms.sourcegitcommit: 187bd764267e502224fa30ea8b04d071aaae73a4
+ms.openlocfilehash: 4a68140db3117f0ad33bf2ebee94601397376c26
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33546258"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701408"
 ---
 # <a name="encrypt-messages-using-smime"></a>Шифрование сообщений с использованием S/MIME
 
@@ -28,4 +28,4 @@ ms.locfileid: "33546258"
 1. Перейдите к разделу **Параметры** > , чтобы**Просмотреть все параметры Outlook**.
 2. Выберите пункт **почта** > **S/MIME**.
 
-Чтение [зашифрованных сообщений с помощью S/MIME в Outlook в Интернете](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480) для получения дополнительных сведений.
+Read [зашифруйте сообщения с помощью S/MIME в Outlook в Интернете] (https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480 ? WT. Мк_ид = оффице_аутлук_ком_алчеми) для получения дополнительных сведений.

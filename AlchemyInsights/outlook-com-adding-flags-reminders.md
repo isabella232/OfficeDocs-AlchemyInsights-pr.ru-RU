@@ -11,12 +11,12 @@ ms.custom:
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4b3626cb02284e3527cc85142621febd5380a888
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ed89ac0381760d7396d5920329c9eee6335ddd0
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377422"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697060"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Добавление флагов и напоминаний в Outlook.com
 
@@ -32,4 +32,4 @@ ms.locfileid: "35377422"
 1. В списке сообщений наведите указатель мыши на сообщение, чтобы увидеть параметр флага.
 1. Выберите значок флага, чтобы пометить сообщение. Чтобы просмотреть все помеченные сообщения, установите флажок в левом нижнем углу страницы, чтобы перейти к разделу "задачи".
  
-Чтобы узнать больше, прочитайте [пометить или закрепить сообщение в Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a).
+Чтобы узнать больше, прочитайте [пометить или закрепить сообщение в Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy).
