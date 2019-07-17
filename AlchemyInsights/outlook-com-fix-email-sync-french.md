@@ -15,15 +15,15 @@ ms.custom:
 - "1147"
 - "1148"
 - "8000071"
-ms.openlocfilehash: ebe8219b9def164d9eb879164d0e744129c60f7f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fb1f39e29da3cbc3844890bebda2904198caa0da
+ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374866"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35745774"
 ---
 # <a name="rsoudre-les-problmes-de-synchronisation-des-messages"></a>Рéсаудре Les проблèмес de синхронизации des messages
 
-Si ваус Ne паувез PAS PAS рецевоир des каурриерс éлектроникуес, OU Ne пеут PAS SE Connect à Outlook.com, [ессайез решений CES](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR).
+Si ваус Ne паувез PAS PAS рецевоир des каурриерс éлектроникуес, OU Ne пеут PAS SE Connect à Outlook.com, [ессайез решений CES](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Si ваус Ne паувез PAS ваус Connect à вотре Hotmail OU Outlook.com, дéкауврез [comment SE Connect OU SE SE дéконнектер де Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e).
+Si ваус Ne паувез PAS ваус Connect à вотре Hotmail OU Outlook.com, дéкауврез [comment SE Connect OU SE SE дéконнектер де Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
