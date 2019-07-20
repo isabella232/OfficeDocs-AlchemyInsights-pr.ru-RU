@@ -7,19 +7,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: c1d8635346cbc260d5191878879f1120e6a3a602
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: cb2afc4cacf4c45b7643ebce7b6e8ca6f92c9e03
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760213"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35803087"
 ---
-# <a name="modernize-classic-sharepoint-site"></a>Классический сайт SharePoint модернизация
+# <a name="modernize-your-classic-sharepoint-site"></a>Модернизация классического сайта SharePoint
 
-Пошаговое руководство по модернизации к классическим сайтам SharePoint на современном опыте можно узнать в статье [модернизация The Classic сайты SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Ознакомьтесь со следующими сведениями об использовании нового современного интерфейса:
 
-Чтобы по максимуму использовать современный пользовательский интерфейс для страниц сайта, а также страниц списков и библиотек, ознакомьтесь со статьей [Модернизация пользовательского интерфейса](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+- Пошаговое руководство по модернизации к классическим сайтам SharePoint на современном опыте можно узнать в статье [модернизация The Classic сайты SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
 
-Дополнительные сведения о разблокировании списков и библиотек при использовании современного пользовательского интерфейса приведены в разделе [максимально использование современных списков и библиотек](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+- Чтобы по максимуму использовать современный пользовательский интерфейс для страниц сайта, а также страниц списков и библиотек, ознакомьтесь со статьей [Модернизация пользовательского интерфейса](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
 
-Дополнительные сведения о подключении к группе Office 365 и выполнении подключения группы см. в статье [Подключение к группе Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+- Дополнительные сведения о разблокировании списков и библиотек при использовании современного пользовательского интерфейса приведены в разделе [максимально использование современных списков и библиотек](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+
+- Дополнительные сведения о подключении к группе Office 365 и выполнении подключения группы см. в статье [Подключение к группе Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
