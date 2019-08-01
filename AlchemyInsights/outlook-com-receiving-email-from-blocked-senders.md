@@ -13,18 +13,19 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: f827cb6b55aa7ea0eee27b85786c6fced933e621
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cc352670c7604e83dc3a0742c2caea334182303c
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372958"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36049153"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>Получение электронной почты от заблокированных отправителей
 
 Если сообщение электронной почты от заблокированного отправителя по-прежнему отображается в папке "Входящие", отправитель может скрыть свой реальный адрес электронной почты. Чтобы проверить реальный адрес электронной почты отправителя:
   
-1. В верхней части окна сообщения щелкните три точки и выберите **Просмотр источника сообщения**.
+1. Выбор трех точек <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ в верхней части окна сообщения и выберите **Просмотр источника сообщения**.
 2. В окне **Источник сообщения** прокрутите вниз, пока не найдете поле **от** .
 3. Выделите адрес электронной почты, заключенный в \< \> , и щелкните его правой кнопкой мыши, чтобы **скопировать**
 4. Используйте скопированный адрес, чтобы заблокировать отправителя. Чтобы узнать, как заблокировать отправители, прочитайте [сообщение пометить как нежелательные или заблокировать отправители в Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
