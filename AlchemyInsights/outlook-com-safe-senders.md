@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: db98a0cdeb2654f1c29929b6bcb109567aac8ae2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
+ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372382"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35602012"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Прекращение отправки сообщений в папку "Нежелательная почта"
 
@@ -27,4 +27,4 @@ ms.locfileid: "35372382"
 3. Чтобы добавить список рассылки в список надежных отправителей, введите список рассылки в разделе **безопасные списки рассылки** и нажмите кнопку **Добавить**.
 4. Нажмите кнопку **Сохранить**.
 
-Узнайте больше о том [, как заблокировать или разблокировать отправители в Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e).
+Узнайте больше о том [, как заблокировать или разблокировать отправители в Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
