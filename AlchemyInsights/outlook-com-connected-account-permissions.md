@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4daff733a29dacfb55e1d8502d18d52355af8d46
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375802"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "35602156"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Как устранить проблему "он выглядит, как не имеет разрешений"
 
@@ -28,4 +28,4 @@ ms.locfileid: "35375802"
 
 Для повторной синхронизации всех сообщений с подключенной учетной записью может потребоваться некоторое время.
 
-Узнайте больше об [удалении](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8) и [добавлении](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) подключенных учетных записей.
+Узнайте больше об [удалении](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) и [добавлении](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) подключенных учетных записей.

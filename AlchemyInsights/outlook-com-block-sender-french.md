@@ -12,12 +12,12 @@ ms.custom:
 - "1156"
 - "1157"
 - "8000076"
-ms.openlocfilehash: 0dd85fd339cf381e455d79aa0e0035c44835d363
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8454a729d2dbcd131a651ffbc0de8eae2709b023
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377062"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "35745832"
 ---
 # <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Блокуер OU дéблокуер експéдитеурс данс Outlook.com
 
@@ -27,4 +27,4 @@ Si ваус рецевез du каурриер индéсирабле, ваус 
 1. Саус **Domains et експéдитеурс блокуéс** сéлектионнез **ажаутер**.
 1. Ентрез л'адрессе де мессажерие et сéлектионнез **енрегистрер**.
 
-Бетонирование + д'информатионс, лисез [блокуер OU дéблокуер експéдитеурс данс Outlook.com](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e).
+Бетонирование + д'информатионс, лисез [блокуер OU дéблокуер експéдитеурс данс Outlook.com](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).

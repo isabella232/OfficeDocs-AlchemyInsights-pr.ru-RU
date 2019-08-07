@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 95e338e0b5ba49f82286580a74a450efb7f00b31
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: 8749b365638a2c5441743cd6d58f2728a36914ef
+ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34683271"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "36204145"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Прекращение отправки сообщений в папку "Нежелательная почта"
 
@@ -26,7 +26,8 @@ ms.locfileid: "34683271"
 
 Если вы хотите запретить сообщения от отправителя к папке "Нежелательная почта", добавьте отправителя в список надежных отправителей:
 
-1. Выберите значок шестеренки, чтобы открыть область параметров.
+1. Выберите значок шестеренки <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ , чтобы открыть область параметров.
 1. Выберите **Просмотреть все** > **нежелательные сообщения**в параметрах Outlook.
 1. В разделе **Надежные отправители и домены**нажмите кнопку **Добавить**.
 1. Введите электронный адрес или домен, который вы хотите добавить, и нажмите кнопку **сохранить**.

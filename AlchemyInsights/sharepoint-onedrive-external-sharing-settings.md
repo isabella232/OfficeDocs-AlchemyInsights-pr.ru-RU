@@ -10,31 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: f467ac76f91b1a43787cadff6b225a24400a2249
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 6417ff45a94c7b8fb50c8a1f9f84873714e3eaaf
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759513"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36059193"
 ---
 # <a name="external-sharing-settings-for-sharepoint--onedrive"></a>Параметры внешнего общего доступа для SharePoint & OneDrive
 
 Пользователи могут столкнуться с предупреждением при попытке предоставить доступ внешним пользователям организации. Сообщение является **политиками вашей организации, не позволяющей предоставлять доступ этим пользователям. Перейдите к разделу внешний общий доступ в центре администрирования Office 365, чтобы включить его**. Это часто происходит при первой попытке предоставить доступ внешним пользователям или при совместном использовании с новыми внешними пользователями.
 
-Проверьте параметры внешнего общего доступа в SharePoint и OneDrive для вашей организации.
+Проверьте **Параметры внешнего общего доступа в SharePoint и OneDrive** для вашей организации.
 
-- [Admin](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)
-- Выберите элемент Администратор
-- Выбор центра администрирования SharePoint
-- Выберите общий доступ, чтобы увидеть параметры внешнего общего доступа
+1. В [центре администрирования Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)выберите **SharePoint**.
+3. Выберите **общий доступ** , чтобы увидеть параметры внешнего общего доступа.
 
-Проверьте параметры внешнего общего доступа для определенного сайта.
+Проверьте **Параметры внешнего общего доступа** для определенного сайта.
 
-- Выберите элемент Администратор
+1. В [центре администрирования Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)выберите **SharePoint**.
+2. Выберите пункт **активные сайты** , чтобы просмотреть доступные сайты.
+3. Выберите сайт, который нужно проверить, а затем нажмите кнопку **общий доступ** , которая отображается в строке меню, чтобы проверить параметры сайта.
 
-- Выбор [центра администрирования SharePoint](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)
-
-- Выберите пункт активные сайты, чтобы просмотреть доступные сайты.
-- Выберите нужный сайт и нажмите кнопку " **общий доступ** " в меню, чтобы проверить настройку сайта.
-
-Более подробную информацию можно узнать в статье [Общие сведения о внешнем общем доступе](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Дополнительные сведения [: Обзор внешнего общего доступа](https://docs.microsoft.com/sharepoint/external-sharing-overview).
