@@ -1,27 +1,37 @@
 ---
 title: Сведения о хранении и удалении OneDrive
-ms.author: kirks
-author: Techwriter40
-ms.date: 6/20/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: a98e7740fb6c921252da6f36bc9e20d7a2be0099
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.custom:
+- "2440"
+- "9000596"
+ms.openlocfilehash: 5e67d280b26512613dbe9ecc0cf8f18134f92686
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119701"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232627"
 ---
-# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="f0353-102">Хранение и удаление OneDrive</span><span class="sxs-lookup"><span data-stu-id="f0353-102">OneDrive retention and deletion</span></span>
+# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="2a382-102">Хранение и удаление OneDrive</span><span class="sxs-lookup"><span data-stu-id="2a382-102">OneDrive retention and deletion</span></span>
 
-<span data-ttu-id="f0353-103">В [этой статье](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) описывается, что происходит с OneDrive пользователя при удалении учетной записи пользователя Office 365 для вашей организации.</span><span class="sxs-lookup"><span data-stu-id="f0353-103">[This article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) describes what happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
+- <span data-ttu-id="2a382-103">Вы можете [восстановить удаленную службу OneDrive для пользователей](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) .</span><span class="sxs-lookup"><span data-stu-id="2a382-103">You can [restore a deleted users OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) yourself.</span></span> <span data-ttu-id="2a382-104">Они находятся в корзине в течение 93 дней.</span><span class="sxs-lookup"><span data-stu-id="2a382-104">They are in recycle bin for 93 Days.</span></span> 
 
-<span data-ttu-id="f0353-104">Более подробную информацию об использовании и удалении OneDrive можно узнать в следующих статьях:</span><span class="sxs-lookup"><span data-stu-id="f0353-104">For more information about OneDrive retention and deletion, see:</span></span>
+- <span data-ttu-id="2a382-105">В [этой статье](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) представлены следующие сведения:</span><span class="sxs-lookup"><span data-stu-id="2a382-105">See [this article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) to learn:</span></span>
+    - <span data-ttu-id="2a382-106">Предоставление другому пользователю доступа к OneDrive удаленного пользователя.</span><span class="sxs-lookup"><span data-stu-id="2a382-106">How to give another user access to a deleted user's OneDrive.</span></span>
+    - <span data-ttu-id="2a382-107">Что происходит с OneDrive пользователя при удалении учетной записи пользователя Office 365 для вашей организации.</span><span class="sxs-lookup"><span data-stu-id="2a382-107">What happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
+    - <span data-ttu-id="2a382-108">Настройка автоматического делегирования доступа.</span><span class="sxs-lookup"><span data-stu-id="2a382-108">How to configure automatic access delegation.</span></span>
+    - <span data-ttu-id="2a382-109">Как работает процесс удаления OneDrive.</span><span class="sxs-lookup"><span data-stu-id="2a382-109">How OneDrive deletion process works.</span></span>
 
-- [<span data-ttu-id="f0353-105">Предоставление другому пользователю доступа к OneDrive удаленного пользователя</span><span class="sxs-lookup"><span data-stu-id="f0353-105">Give another user access to a deleted user's OneDrive</span></span>](https://docs.microsoft.com/onedrive/retention-and-deletion#give-another-user-access-to-a-deleted-users-onedrive)
-- [<span data-ttu-id="f0353-106">Настройка автоматического делегирования доступа</span><span class="sxs-lookup"><span data-stu-id="f0353-106">Configure automatic access delegation</span></span>](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
-- [<span data-ttu-id="f0353-107">Описание процесса удаления OneDrive</span><span class="sxs-lookup"><span data-stu-id="f0353-107">A description of the OneDrive deletion process</span></span>](https://docs.microsoft.com/onedrive/retention-and-deletion#the-onedrive-deletion-process)
-- [<span data-ttu-id="f0353-108">Восстановление удаленного хранилища OneDrive</span><span class="sxs-lookup"><span data-stu-id="f0353-108">Restore a deleted OneDrive</span></span>](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
+- <span data-ttu-id="2a382-110">Заинтересовать хранение и удержание центра безопасности и соответствия требованиям?:</span><span class="sxs-lookup"><span data-stu-id="2a382-110">Interested in Security and Compliance Center retention and hold?:</span></span>
+    - [<span data-ttu-id="2a382-111">Политики хранения для сайтов OneDrive и SharePoint</span><span class="sxs-lookup"><span data-stu-id="2a382-111">Retention policies for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [<span data-ttu-id="2a382-112">удержание обнаружения электронных данных для сайтов OneDrive и SharePoint</span><span class="sxs-lookup"><span data-stu-id="2a382-112">eDiscovery hold for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+
+
+
