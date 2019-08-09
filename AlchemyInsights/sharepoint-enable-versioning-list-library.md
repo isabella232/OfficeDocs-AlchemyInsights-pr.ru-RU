@@ -2,6 +2,7 @@
 title: Управление версиями в SharePoint и OneDrive
 ms.author: efrene
 author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232671"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270433"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Управление версиями в SharePoint и OneDrive 
 
@@ -37,6 +38,7 @@ ms.locfileid: "36232671"
 
 - [Пределы управления версиями](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**Примечание:** Если вы являетесь клиентом Office 365, управление версиями теперь включено по умолчанию при создании новых библиотек OneDrive для бизнеса и автоматически сохраняет последние версии документа 500. Это позволит предотвратить потерю важных документов и данных. Если у вас есть библиотеки на сайте OneDrive для бизнеса или на сайте группы, для которых не включена поддержка управления версиями, вы можете включить для них отслеживание версий в любое время.
+>[!Note] 
+>Если вы являетесь клиентом Office 365, управление версиями теперь включено по умолчанию при создании новых библиотек OneDrive для бизнеса и автоматически сохраняет последние версии документа 500. Это позволит предотвратить потерю важных документов и данных. Если у вас есть библиотеки на сайте OneDrive для бизнеса или на сайте группы, для которых не включена поддержка управления версиями, вы можете включить для них отслеживание версий в любое время.
 
 

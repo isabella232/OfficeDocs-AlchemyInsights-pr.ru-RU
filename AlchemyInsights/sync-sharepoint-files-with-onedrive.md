@@ -1,9 +1,9 @@
 ---
 title: Устранение проблем команды "Открыть в проводнике" в SharePoint Online
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803051"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270721"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Устранение проблем команды "Открыть в проводнике" в SharePoint Online
 
@@ -31,9 +31,9 @@ ms.locfileid: "35803051"
 
 > [!Note]  
 > Кнопка **Открыть в проводнике** не отображается в новом интерфейсе библиотеки. Выберите раскрывающийся список **Вид** справа вверху (имя списка может меняться в зависимости от текущего представления), а затем выберите команду **Просмотреть в проводнике**.
-
+>
  >Команда "Открыть в проводнике" для SharePoint использует элементы ActiveX, поэтому поддерживается только в Internet Explorer 10 или 11. Она не работает в Windows с браузером Microsoft Edge, Google Chrome, Mozilla Firefox или на платформе Mac. По этой причине возможность просмотра в проводнике может быть недоступна.
-
+>
 > - [Почему кнопки на ленте SharePoint недоступны или неактивны?](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca)
   
 
