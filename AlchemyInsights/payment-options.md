@@ -13,36 +13,35 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: a3534000b8b8f3d8c2a2cd9b5b3cf1eb278d3c85
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360786"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388685"
 ---
 # <a name="payment-options"></a>Варианты оплаты
 
- **Варианты оплаты**
+**Варианты оплаты**
   
 Кредитная карта, банковский счет (прямой дебет) или оплата по счету (чек или банковский перевод)
   
- **Оплата с помощью кредитной карты или банковского счета**
+**Оплата с помощью кредитной карты или банковского счета**
   
-При оплате с помощью кредитной карты или банковского счета с вас автоматически будет взиматься сбор за подписку в день, следующий за датой выставления счета, вплоть до завершения ее срока. Вы можете в любой момент [обновить реквизиты своей карты или банковского счета](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide). Вы также можете [Получение копии выписки по счету по электронной почте](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
+При оплате с помощью кредитной карты или банковского счета с вас автоматически будет взиматься сбор за подписку в день, следующий за датой выставления счета, вплоть до завершения ее срока. Вы можете в любой момент [обновить реквизиты своей карты или банковского счета](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account). Вы также можете [Получение копии выписки по счету по электронной почте](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
 Если ваша кредитная карта была отклонена или у вас имеется просроченная задолженность, вы можете выбрать вариант **Оплатить сейчас** на странице [Подписки](https://portal.office.com/adminportal/home#/subscriptions) в разделе **Выставление счетов** \>.
   
- **Оплата по счету (чек или банковский перевод)**
+**Оплата по счету (чек или банковский перевод)**
   
 Если стоимость подписки выше определенной суммы (она зависит от региона), вы можете выбрать оплату по счету с помощью банковского перевода или чека. Для оплаты крупных счетов может потребоваться проверить вашу кредитоспособность. Вы будете уведомлены об этом в процессе оформления подписки. Если вы согласитесь на эту процедуру, вы получите сообщение электронной почты с более подробными сведениями об условиях предоставления финансового кредита. Обычно проверка кредитоспособности выполняется в течение двух рабочих дней.
   
-Если вы оплачиваете подписку по счету, вы получите сообщение о том, что выписка по счету готова к просмотру. Это сообщение не содержит копию выписки. Однако вы также можете [получить копию выписки по электронной почте](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Выписка содержит сведения о возможных способах оплаты. Если при покупке подписки вы указали номер заказа на покупку, он будет указан в выписке. Сведения о доступе к выпискам по счету см. в статье [Просмотр счета или выписки по счету](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
+Если вы оплачиваете подписку по счету, вы получите сообщение о том, что выписка по счету готова к просмотру. Это сообщение не содержит копию выписки. Однако вы также можете [получить копию выписки по электронной почте](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email). Выписка содержит сведения о возможных способах оплаты. Если при покупке подписки вы указали номер заказа на покупку, он будет указан в выписке. Сведения о доступе к выпискам по счету см. в статье [Просмотр счета или выписки по счету](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
   
- **Изменение способа оплаты**
+**Изменение способа оплаты**
   
-Если вы хотите изменить способ оплаты текущей подписки, следуйте инструкциям [здесь](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
+Если вы хотите изменить способ оплаты текущей подписки, следуйте инструкциям [здесь](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method).
   
- **Дополнительные сведения**
+**Дополнительные сведения**
   
-[Оплата подписки на Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
-  
+[Оплата подписки на Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)
