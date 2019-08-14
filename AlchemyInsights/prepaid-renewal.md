@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 156b1b9563f2996dd4c9303ea1506e4c5e74917c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371222"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388613"
 ---
 # <a name="prepaid-renewal"></a>Предоплаченное продление
 
-1. В Центре администрирования откройте страницу [Подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) или выберите **Выставление счетов** \> **Подписки**.
+1. В центре администрирования перейдите на страницу [подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) на **выставление счетов** \> .
 
 2. Выберите предоплаченную подписку, а затем нажмите кнопку **расширить**.
 
@@ -33,3 +33,5 @@ ms.locfileid: "35371222"
 5. Убедитесь, что указаны правильные сведения, а затем нажмите кнопку **Далее**.
 
 6. Выберите переключатель, чтобы продлить дату окончания существующих лицензий, а затем нажмите кнопку **Далее**.
+
+Вы используете новый центр администрирования? Для получения дополнительных сведений в статье [Добавление лицензий или расширение подписки с помощью ключа продукта](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
