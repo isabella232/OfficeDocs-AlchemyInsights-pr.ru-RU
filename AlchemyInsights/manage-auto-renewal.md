@@ -13,21 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389805"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542451"
 ---
 # <a name="manage-recurring-billing"></a>Управление периодической выставлением счетов
 
-Чтобы управлять периодической выставлением счетов, можно включить или отключить **периодическое выставление счетов** .
+Вы можете включать или отключать периодические выставления счетов в центре администрирования Microsoft 365.
   
-1. В центре администрирования перейдите на страницу [подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) на **выставление счетов** \> .
+1. Перейдите на страницу **** > [& услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) выставления счетов.
 
-2. Выберите подписку, для которой необходимо управлять периодической выставлением счетов.
+2. В разделе выставление **счетов**нажмите кнопку изменить, **** а затем нажмите кнопку **изменить**. ****
 
-3. Переключите флажок **периодический выставлен счет** . **** ****
+3. В области **периодические выставление счетов** установите флажок **повторять выставление счетов** , чтобы отключить его. Если **периодическое выставление счетов** уже отключено, установите **** флажок ежемесячно или **один раз** , чтобы включить его.
 
-Дополнительную информацию можно узнать [в статье Включение периодического выставления счетов](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+4. Нажмите кнопку **послать изменение**.
+
+Дополнительную информацию можно узнать [в статье Включение периодического выставления счетов](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

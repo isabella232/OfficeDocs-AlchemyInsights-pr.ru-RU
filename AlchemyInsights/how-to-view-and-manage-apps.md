@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: f3b429dc9d5007c139ff292fae6649696fc42b81
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389877"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539510"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Просмотр приложений и управление ими
 
-Для просмотра приложений необходимо находиться в новом центре администрирования.  Вы можете переключиться на домашней странице центра администрирования.  
+Вы можете просматривать свои приложения в центре администрирования Microsoft 365. 
 
-1. Когда включен новый центр администрирования, перейдите на страницу **выставления счетов** > [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. В центре администрирования откройте страницу "Услуги по **выставлению счетов** > [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
 
 2. На странице " **продукты & службы** " выберите вкладку **приложения** .
