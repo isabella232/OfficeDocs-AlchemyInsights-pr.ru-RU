@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: cd40d53606d857eee3a02277b7c1266e0e15f28e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 80582bdcc38a92f85282826aa63822ddf0cb1994
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422440"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509338"
 ---
 # <a name="restore-a-deleted-onedrive"></a>Восстановление удаленного хранилища OneDrive
 
-После удаления пользователя вы можете получить доступ к OneDrive пользователя через центр администрирования Microsoft 365 в течение 30 дней. Другие пользователи могут продолжать получать доступ к общему контенту в OneDrive в течение времени, установленного в центре администрирования OneDrive. (Чтобы узнать, как это сделать, ознакомьтесь [со статьЕй Настройка хранения файлов по умолчанию для удаленных пользователей OneDrive](https://go.microsoft.com/fwlink/?linkid=874267).) По исТечении этого времени OneDrive перемещается в корзину в течение 93 дней, а затем удаляется.
+После удаления пользователя вы можете получить доступ к OneDrive пользователя через центр администрирования Microsoft 365 в течение 30 дней. Другие пользователи могут продолжать получать доступ к общему контенту в OneDrive в течение времени, установленного в центре администрирования OneDrive. (Чтобы узнать, как это сделать, ознакомьтесь [со статьей Настройка хранения файлов по умолчанию для удаленных пользователей OneDrive](https://go.microsoft.com/fwlink/?linkid=874267).) По истечении этого времени OneDrive перемещается в корзину в течение 93 дней, а затем удаляется.
   
-По исТечении 30 дней, когда удаленный пользователь больше не отображается в центре администрирования Microsoft 365, вы можете открыть OneDrive пользователя с помощью PowerShell. Сведения см. [в статье Restore a Deleted OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).
+По истечении 30 дней, когда удаленный пользователь больше не отображается в центре администрирования Microsoft 365, вы можете открыть OneDrive пользователя с помощью PowerShell. Сведения см. [в статье Restore a Deleted OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).
   
 

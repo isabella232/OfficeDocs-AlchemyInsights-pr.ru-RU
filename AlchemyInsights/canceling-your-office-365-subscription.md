@@ -13,12 +13,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: eddf21bfa9e891baf054ac53abe9affb95305688
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 548fef4d13a466e82c98d40fb25e546e45a871f5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387268"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519699"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Отменяя свою подписку на Office 365?
 
@@ -30,4 +30,4 @@ ms.locfileid: "36387268"
 
 - Если у вас больше 25 назначенных лицензий, вы можете либо удалить пользователей, пока не истечет меньше 25, либо использовать параметр "придать нам Звонок", чтобы поговорить с инженером службы поддержки.
 
-- Чтобы узнать больше об отмене подписки или пошаговых инструкциях, ознакомьтесь со статьей [Отмена подписки](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Чтобы узнать больше об отмене подписки или пошаговых инструкциях, ознакомьтесь со статьей [Отмена подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

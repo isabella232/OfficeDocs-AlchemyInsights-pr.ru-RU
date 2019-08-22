@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "8000002"
 - "1990"
-ms.openlocfilehash: d350f2292f759cb5a0e4674110e92036160f8985
-ms.sourcegitcommit: 8e4126e64eca48be458242d744650878b8bb89e5
+ms.openlocfilehash: 18aef4096e936138c85f22f343500f5f233f903f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33663961"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510492"
 ---
-# <a name="change-your-password"></a>Изменение пароля
+# <a name="change-your-office-365-password"></a>Изменение пароля Office 365
 
-[Сброс пароля Office 365](https://go.microsoft.com/fwlink/p/?linkid=841910)
+Если вам нужно изменить или сбросить пароль Office 365, перейдите на эту страницу и перейдите к этой странице: [сбросьте свой пароль Майкрософт](https://go.microsoft.com/fwlink/p/?linkid=841910) .

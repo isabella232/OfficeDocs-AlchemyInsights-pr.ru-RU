@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 385865b4ff8827a2f26dac5ba61af9a12a555f5c
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: b7cd4910bea61f438e23dd2a520570d58d42bc22
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36166093"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511527"
 ---
-# <a name="see-your-own-email-address"></a>Просмотр собственного адреса электронной почты
+# <a name="see-your-own-outlookcom-email-address"></a>Просмотр собственного адреса электронной почты Outlook.com
 
 Чтобы просмотреть адрес электронной почты по умолчанию, который вы используете при отправке электронной почты, перейдите к [параметрам синхронизации электронной почты](https://outlook.live.com/mail/options/mail/accounts) и просмотрите раздел **задать адрес по умолчанию**.
 

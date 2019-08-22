@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: b2333a51f0cc0061351bc441d47444db52b262aa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dfe6c90d0c370037c92df3a8ed01dcbec6ae9d50
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390584"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559350"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Устранение неполадок, связанных с параметрами регистрации Microsoft Intune
 
 Просмотрите перечисленные ниже ресурсы, чтобы устранить проблему. Если эти ресурсы не помогают, обратитесь в службу поддержки, щелкнув [здесь](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) и выбрав пункт "создать запрос в службу поддержки". 
   
-- [Ознакомьтесь с разрешенияМи Intune TechNet, чтобы найти ответы и решения распространенных проблем](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Ознакомьтесь с разрешениями Intune TechNet, чтобы найти ответы и решения распространенных проблем](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
 - Использование [портала устранения неполадок Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) для диагностики и устранения распространенных ошибок регистрации. Просмотрите [этот документ](https://docs.microsoft.com/intune/help-desk-operators) , чтобы получить дополнительные сведения. 
     

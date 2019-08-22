@@ -13,12 +13,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3963f9627da61e6b49f00593094084af3c2db5ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389045"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526152"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Продление пробной версии Office 365 для бизнеса
 
@@ -32,4 +32,4 @@ ms.locfileid: "36389045"
 
 4. Для продления пробной версии необходимо предоставить сведения о кредитных картах. Мы не будем взимать кредитную карту для пробного расширения.
 
-Чтобы узнать больше о расширении пробных версий или пошаговых инструкциях, ознакомьтесь со статьей [продление пробной версии для Office 365 для бизнеса](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial).
+Чтобы узнать больше о расширении пробных версий или пошаговых инструкциях, ознакомьтесь со статьей [продление пробной версии для Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

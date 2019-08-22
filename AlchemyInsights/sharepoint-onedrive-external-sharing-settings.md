@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 6417ff45a94c7b8fb50c8a1f9f84873714e3eaaf
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059193"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507896"
 ---
-# <a name="external-sharing-settings-for-sharepoint--onedrive"></a>Параметры внешнего общего доступа для SharePoint & OneDrive
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Предупреждающее сообщение: политики вашей организации не разрешают предоставлять доступ этим пользователям
 
 Пользователи могут столкнуться с предупреждением при попытке предоставить доступ внешним пользователям организации. Сообщение является **политиками вашей организации, не позволяющей предоставлять доступ этим пользователям. Перейдите к разделу внешний общий доступ в центре администрирования Office 365, чтобы включить его**. Это часто происходит при первой попытке предоставить доступ внешним пользователям или при совместном использовании с новыми внешними пользователями.
 

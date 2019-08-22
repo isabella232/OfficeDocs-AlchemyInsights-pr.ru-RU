@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 682fa0950a0816fec0c3989dc92a10137e7e7b11
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7addbbe8aa0eea80d063601c8e2b0be73e2aded2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697452"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526224"
 ---
 # <a name="export-user-account-information"></a>Экспорт данных учетной записи пользователя
 
-Для экспорта данных учетных записей пользователей, включая сведения о лицензиях, политике паролей, заблокированных учетных записях, состоянии синхронизации AAD и многом другим, перейдите на страницу **Пользователи** > [Активные пользователи](https://go.microsoft.com/fwlink/p/?linkid=834822) , а затем выберите пункт **Экспорт пользователей**.
+Чтобы экспортировать сведения учетной записи пользователя в центре администрирования Microsoft 365, в том числе сведения о лицензиях, политике паролей, заблокированных учетных записях, состоянии синхронизации **** > AAD и т. д., перейдите на страницу[Активные пользователи](https://go.microsoft.com/fwlink/p/?linkid=834822) пользователей и нажмите кнопку **экспорт. Пользователи**.

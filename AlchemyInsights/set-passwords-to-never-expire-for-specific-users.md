@@ -15,16 +15,16 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 38f75e82fe7174f6ad118e82532589adc00f0b0a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369066"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509121"
 ---
 # <a name="set-passwords-to-never-expire"></a>Установка срока действия паролей не ограничена
 
-Чтобы задать срок действия всех паролей без ограничений, перейдите в [раздел &amp; конфиденциальность безопасности](https://portal.office.com/adminportal/home#/settings/security). Нажмите кнопку **изменить** рядом с полем **Политика паролей**и установите ползунок в положение **вкл**.
+Чтобы задать срок действия всех паролей без ограничений, в центре администрирования Microsoft 365 перейдите на страницу **Параметры** > [конфиденциальности безопасности &amp; ](https://portal.office.com/adminportal/home#/settings/security) . Установите флажок **изменить** рядом с **параметром политика паролей**и установите ползунок в положение **вкл**.
   
 Более подробную информацию можно узнать [в статье Установка политики срока действия паролей для Организации.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
   
