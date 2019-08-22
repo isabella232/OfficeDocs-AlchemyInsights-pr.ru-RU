@@ -13,16 +13,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 81890c6dce8e72ef30a12bd7fa9c68979fce1e0f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a3a5ca84f6e7e0173bdaef5222033d25abbced8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360354"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516180"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="06465-102">Преобразование почтового ящика пользователя в общий почтовый ящик</span><span class="sxs-lookup"><span data-stu-id="06465-102">Convert a user mailbox to a shared mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="4b5ed-102">Преобразование почтового ящика пользователя в общий почтовый ящик</span><span class="sxs-lookup"><span data-stu-id="4b5ed-102">Convert a user mailbox to a shared mailbox</span></span>
 
-<span data-ttu-id="06465-103">При преобразовании почтового ящика пользователя в общий почтовый ящик все сообщения и элементы календаря сохраняются.</span><span class="sxs-lookup"><span data-stu-id="06465-103">When you convert a user's mailbox to a shared mailbox, all of the existing email and calendar is retained.</span></span> <span data-ttu-id="06465-104">Однако теперь к ним могут иметь доступ несколько человек.</span><span class="sxs-lookup"><span data-stu-id="06465-104">Only now it's in a shared mailbox where several people will be able to access it instead of one person.</span></span> <span data-ttu-id="06465-105">Позднее вы можете преобразовать общий почтовый ящик обратно в почтовый ящик пользователя (частный).</span><span class="sxs-lookup"><span data-stu-id="06465-105">At a later date, you can convert a shared mailbox back to a user (private) mailbox.</span></span>
+<span data-ttu-id="4b5ed-103">При преобразовании почтового ящика отдельного пользователя в общий почтовый ящик все существующие элементы электронной почты и календаря сохраняются в общем почтовом ящике, к которому у нескольких людей есть доступ.</span><span class="sxs-lookup"><span data-stu-id="4b5ed-103">When you convert an individual user's mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="4b5ed-104">Вы также можете преобразовать общий почтовый ящик обратно в почтовый ящик пользователя (частный).</span><span class="sxs-lookup"><span data-stu-id="4b5ed-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
   
-[<span data-ttu-id="06465-106">Дополнительные сведения</span><span class="sxs-lookup"><span data-stu-id="06465-106">Read more...</span></span>](https://support.office.com/article/2e122487-e1f5-4f26-ba41-5689249d93ba)
+[<span data-ttu-id="4b5ed-105">Подробнее...</span><span class="sxs-lookup"><span data-stu-id="4b5ed-105">Learn more...</span></span>](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)
   
