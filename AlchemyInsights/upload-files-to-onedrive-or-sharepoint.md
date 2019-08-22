@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: d6ce8f93afc11414e0c77b0e852f4647378d5067
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423638"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532524"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Отправка файлов в OneDrive или SharePoint
 
@@ -27,6 +27,6 @@ ms.locfileid: "32423638"
 3. Выберите файлы и перетащите их в расположение в OneDrive или SharePoint. Примечание. Если вы используете Microsoft EDGE, Mozilla FireFox или Google Chrome, вы также можете отправить папку и все файлы в ней.
     
 > [!NOTE]
->  Вы можете отправлять файлы размером до 15 ГБ. _Гт_. полный путь к файлу (включая имя файла) не может превышать 400 символов в длину. _Гт_ если вам нужно отправить более 100 файлов, [используйте клиент синхронизации OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+>  Вы можете отправлять файлы размером до 15 ГБ. > полный путь к файлу (включая имя файла) не может превышать 400 символов в длину. > если необходимо отправить более 100 файлов, [используйте клиент синхронизации OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 756c5e98ed3e9cedd0152b5747ea6bf1ed31778e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418482"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538779"
 ---
-# <a name="monitoring-conditional-access"></a>Мониторинг условного доступа
+# <a name="monitoring-conditional-access-for-exchange"></a>Мониторинг условного доступа для Exchange
 
 Пользователи, которым назначен условный доступ, получат уведомление по электронной почте, если они не отвечают требованиям вашей организации. Для решения этой проблемы рекомендуется одно или несколько из следующих решений:
   
@@ -35,6 +35,6 @@ ms.locfileid: "32418482"
     
 4. Чтобы назначить определенную политику другому пользователю, добавьте ее в список **включаемых** файлов. Чтобы убедиться, что пользователь отсутствует в политике, добавьте его в список **исключений** . 
     
-Дополнительные сведения: [мониторинг устройств с условНым доступом](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Дополнительные сведения: [мониторинг устройств с условным доступом](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

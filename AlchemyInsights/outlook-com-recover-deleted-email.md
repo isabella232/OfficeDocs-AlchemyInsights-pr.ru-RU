@@ -13,14 +13,14 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 116ba085b87c75eab3235a66e33aefdd93896f60
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372886"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545403"
 ---
-# <a name="recover-deleted-email"></a>Восстановление удаленной почты
+# <a name="recover-deleted-email-outlookcom"></a>Восстановление удаленных сообщений электронной почты Outlook.com
 
 1. В левой области выберите пункт **Удаленные элементы**.
 2. Выберите элемент, который необходимо восстановить, и нажмите кнопку **восстановить**.
