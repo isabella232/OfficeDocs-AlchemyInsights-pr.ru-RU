@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3bed6ed-48c1-47af-9e6f-29f716aa8d6b
-ms.openlocfilehash: c463a1f4f7936ff5fb14365a7723bed37003f448
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3a96a8a58672c6fb3f9d34c525a3734a48daf8de
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406571"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514476"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>Превышен ежедневный лимит электронной почты. Ошибка "Рабочий процесс приостановлен"
 
- **Превышен ежедневный лимит электронной почты. Рабочий процесс приОстанавливается** . сообщение об ошибке может появиться, если у вас есть один из следующих элементов: 
+ **Превышен ежедневный лимит электронной почты. Рабочий процесс приостанавливается** . сообщение об ошибке может появиться, если у вас есть один из следующих элементов: 
   
 - В SharePoint Online есть рабочий процесс, в котором используется тип платформы рабочих процессов SharePoint 2010 или SharePoint 2013.
     

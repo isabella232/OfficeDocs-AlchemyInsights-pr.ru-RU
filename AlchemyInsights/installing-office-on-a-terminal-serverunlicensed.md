@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381742"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498428"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Установка Office на сервере терминалов
 
@@ -26,7 +26,7 @@ ms.locfileid: "35381742"
 
 - Необходимо включить активацию на [общем компьютере](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Если вы хотите установить Office 365 профессиональный плюс для RDS на портале Office 365, * *, *где используются параметры установки по умолчанию* * *, выполните указанные ниже действия.
+Если вы хотите установить Office 365 профессиональный плюс в RDS с портала Office 365, ***который использует параметры установки по умолчанию***, выполните указанные ниже действия.
   
 1. Проверьте, какой план Office 365 у вас есть. [Узнайте, как](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ ms.locfileid: "35381742"
 
 4. На сервере RDS Войдите на портал Office 365 с помощью учетной записи администратора и [установите Office 365 профессиональный плюс](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. После установки Office * * *не открывайте и не входите в* приложение Office * *.
+5. После установки Office ***не открывайте и не входите*** в приложения Office.
 
 6. На сервере RDS Включите активацию на общем компьютере, отредактировав реестр, выполнив указанные ниже действия.
 
@@ -44,9 +44,9 @@ ms.locfileid: "35381742"
 
 2. Выберите Да, если будет предложено разрешить редактору реестра вносить изменения на устройстве.
 
-3. В редакторе реестра добавьте строковое значение **SharedComputerLicensing** с параметром 1 в разделе хкэй_локал_мачине\софтваре\микрософт \оффице\кликкторун\конфигуратион.
+3. В редакторе реестра добавьте строковое значение **SharedComputerLicensing** с параметром 1 в разделе HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \оффице\кликкторун\конфигуратион.
 
-7. На сервере RDS * * *выполните вход в качестве конечного пользователя* * * и [Убедитесь, что активация на общем компьютере включена для Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. На сервере RDS ***выполните вход в качестве конечного пользователя*** и [Убедитесь, что активация на общем компьютере включена для Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Для получения дополнительных сведений о предварительных требованиях и инструкциях по настройке для настраиваемых установок с помощью средства развертывания Office, ознакомьтесь со статьей [развертывание office 365 профессиональный плюс с помощью служб удаленных рабочих столов](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   

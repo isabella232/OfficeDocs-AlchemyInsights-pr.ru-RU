@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406325"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514070"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Удаление сайтов, принадлежащих группе Office 365:
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Удаление сайтов, принадлежащих группе Office 365
 
 Когда пользователи создают новый сайт группы из SharePoint Home или создает новый сайт группы из нового центра администрирования SharePoint, автоматически создается соответствующая группа Office 365. Сайты групп, подключенные к Office 365, также создаются при создании группы или группы Office 365 в Microsoft Teams. Чтобы удалить сайт SharePoint, принадлежащий к группе Office 365, необходимо удалить саму группу Office 365. 
   
@@ -34,7 +34,7 @@ ms.locfileid: "32406325"
 
 1. Перейдите на сайт.
   
-2. Щелкните значок * * Параметры * * в правом верхнем углу. 
+2. Щелкните значок **Параметры** в правом верхнем углу. 
   
 3. Щелкните **Параметры сайта**. В разделе **сведения о сайте** или **действия сайта**выберите **удалить этот сайт**, а затем нажмите кнопку **Удалить**.
   
@@ -48,6 +48,6 @@ ms.locfileid: "32406325"
     
 **Случайно удалили сайт?**
 
-Ознакомьтесь [со статьЕй восстановление удаленного семейства веб-сайтов](https://go.microsoft.com/fwlink/?linkid=867660).
+Ознакомьтесь [со статьей восстановление удаленного семейства веб-сайтов](https://go.microsoft.com/fwlink/?linkid=867660).
   
 
