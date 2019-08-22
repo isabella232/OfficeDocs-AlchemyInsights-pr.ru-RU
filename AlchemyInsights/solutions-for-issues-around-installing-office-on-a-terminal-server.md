@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: 6e877493f44b4636e1293582b5baf6bf98d1d251
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373725"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501488"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Решения проблем, связанных с установкой Office на сервере терминалов
 
@@ -38,6 +38,6 @@ ms.locfileid: "32373725"
     
   - Убедитесь, что общедоступный компьютер подключен к Интернету.
     
-Дополнительные советы по устранению неполадок: [устраненИе неполадок с активацией на общедоступном компьютере для Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Дополнительные советы по устранению неполадок: [Устранение неполадок с активацией на общедоступном компьютере для Office 365 профессиональный плюс](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 

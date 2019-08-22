@@ -12,13 +12,15 @@ ms.custom:
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
 description: Если вы получаете сообщение об ошибке при активации Office 2013 для развертываний служб удаленных рабочих столов, рассмотрите возможность включения ADAL, изменив реестр.
-ms.openlocfilehash: e2249d8ebbd2313c64dda5656a3243fa76d97a9a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4ef2943e5a529368fa2c614e4431cf180924fbb8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388258"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527050"
 ---
+# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Ошибка при активации Office 2013 в службах удаленных рабочих столов
+
 Если вы получаете сообщение об ошибке при активации Office 2013 для развертываний служб удаленных рабочих столов, рассмотрите возможность включения ADAL, изменив реестр.
   
 |**Раздел реестра**|**Тип**|**Значение**|
@@ -28,5 +30,5 @@ ms.locfileid: "35388258"
 Дополнительную информацию можно узнать [в статье Включение современной проверки подлинности для Office 2013 на устройствах с Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
   
 > [!NOTE]
->  ADAL включается по умолчанию в Office 365 профессиональный плюс и Office 2016. Службы удаленных рабочих столов (RDS) > ранее назывались службами терминалов.
+>  ADAL включается по умолчанию в Office 365 профессиональный плюс и Office 2016. Службы удаленных рабочих столов (RDS) ранее назывались службами терминалов.
   

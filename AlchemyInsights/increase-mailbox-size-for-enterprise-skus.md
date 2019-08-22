@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 49d2b7655cd086fd56f5a6fc45ac437b6ca95970
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2092a4a1f45d5edf99471c88a0556721b5a1f38e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412496"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499436"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Что делать, если размер почтового ящика уже равен 100 ГБ
 
@@ -24,9 +24,9 @@ ms.locfileid: "32412496"
   
 Чтобы включить архивацию электронной почты, выполните указанные ниже действия.
   
-1. в центре администрирования Microsoft 365 перейдите в центр **администрирования** \> **Exchange**. 
+1. В центре администрирования Microsoft 365 перейдите в центр **администрирования** \> **Exchange**. 
     
-2. Выберите **получатели** \> * * почтовые ящики * * и выберите почтовый ящик. 
+2. Выберите пункт Почтовые ящики **получателей** \> **** и выберите почтовый ящик. 
     
 3. В области сведений в разделе **Архив на месте**нажмите кнопку **включить**. 
     

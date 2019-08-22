@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397947"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505844"
 ---
 # <a name="outlook-search-not-indexing"></a>Поиск в Outlook не индексирован
 
 Мы осведомлены о проблемах поиска в Outlook, связанных с последними обновлениями для системы безопасности для Windows.
   
-При поиске в Outlook может возникнуть следующая ошибка: * * что-то пошло не так, и не удалось выполнить поиск * *, или **Результаты поиска могут быть неполными, так как элементы по-прежнему индексируются**. Исправление было выпущено как дополнительное обновление Windows. Установите ту, которая соответствует версии Windows, на которую вы видите эту ошибку: 
+При поиске в Outlook может возникать одна из следующих ошибок: **что-то пошло не так, и не удалось выполнить поиск**, или **Результаты поиска могут быть неполными, так как элементы по-прежнему индексируются**. Исправление было выпущено как дополнительное обновление Windows. Установите ту, которая соответствует версии Windows, на которую вы видите эту ошибку: 
   
 > [Windows 7 — 27 июня, 2017 обновление](https://support.microsoft.com/kb/4022168.aspx)
     
