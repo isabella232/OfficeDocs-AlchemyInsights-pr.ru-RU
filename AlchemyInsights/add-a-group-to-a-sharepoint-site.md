@@ -11,39 +11,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 5bab5dae1b98fd2de57f07d5321b01dbec974b60
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398831"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495224"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a><span data-ttu-id="02f6f-102">Добавление группы на сайт SharePoint</span><span class="sxs-lookup"><span data-stu-id="02f6f-102">Add a group to a SharePoint site</span></span>
+# <a name="add-a-group-to-a-sharepoint-site"></a><span data-ttu-id="7cbb9-102">Добавление группы на сайт SharePoint</span><span class="sxs-lookup"><span data-stu-id="7cbb9-102">Add a group to a SharePoint site</span></span>
 
-<span data-ttu-id="02f6f-103">Некоторые сайты группы SharePoint (в том числе созданные в Microsoft Teams) управляются владельцами группы Office 365.</span><span class="sxs-lookup"><span data-stu-id="02f6f-103">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Office 365 group owners.</span></span> <span data-ttu-id="02f6f-104">Сайты и контент SharePoint также могут быть общими с группами Office 365 и группами SharePoint.</span><span class="sxs-lookup"><span data-stu-id="02f6f-104">SharePoint sites and content can also be shared with Office 365 groups, and with SharePoint groups.</span></span> <span data-ttu-id="02f6f-105">Группа SharePoint — это коллекция пользователей, имеющих одинаковый набор разрешений для сайтов и контента.</span><span class="sxs-lookup"><span data-stu-id="02f6f-105">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="02f6f-106">Для классических сайтов рекомендуется использовать группы для удобного назначения одного и того же уровня разрешений сразу нескольким людям, а не одновременно назначать разрешения для одного пользователя.</span><span class="sxs-lookup"><span data-stu-id="02f6f-106">For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span></span>
+<span data-ttu-id="7cbb9-103">Некоторые сайты группы SharePoint (в том числе созданные в Microsoft Teams) управляются владельцами группы Office 365.</span><span class="sxs-lookup"><span data-stu-id="7cbb9-103">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Office 365 group owners.</span></span> <span data-ttu-id="7cbb9-104">Сайты и контент SharePoint также могут быть общими с группами Office 365 и группами SharePoint.</span><span class="sxs-lookup"><span data-stu-id="7cbb9-104">SharePoint sites and content can also be shared with Office 365 groups, and with SharePoint groups.</span></span> <span data-ttu-id="7cbb9-105">Группа SharePoint — это коллекция пользователей, имеющих одинаковый набор разрешений для сайтов и контента.</span><span class="sxs-lookup"><span data-stu-id="7cbb9-105">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="7cbb9-106">Для классических сайтов рекомендуется использовать группы для удобного назначения одного и того же уровня разрешений сразу нескольким людям, а не одновременно назначать разрешения для одного пользователя.</span><span class="sxs-lookup"><span data-stu-id="7cbb9-106">For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span></span>
   
-<span data-ttu-id="02f6f-107">Управление участниками группы Office 365:</span><span class="sxs-lookup"><span data-stu-id="02f6f-107">Manage Office 365 group members:</span></span>
+<span data-ttu-id="7cbb9-107">Управление участниками группы Office 365:</span><span class="sxs-lookup"><span data-stu-id="7cbb9-107">Manage Office 365 group members:</span></span>
   
-1. <span data-ttu-id="02f6f-108">Перейдите на [страницу "группы" в центре администрирования Microsoft 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="02f6f-108">Go to the [Groups page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="7cbb9-108">Перейдите на [страницу "группы" в центре администрирования Microsoft 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="7cbb9-108">Go to the [Groups page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="02f6f-109">Выберите группу, чтобы просмотреть ее владельцев и участников.</span><span class="sxs-lookup"><span data-stu-id="02f6f-109">Select a group to see its owners and members.</span></span> <span data-ttu-id="02f6f-110">Чтобы добавить или удалить пользователей, щелкните ссылку **изменить** в строке **владельцы** или **члены** .</span><span class="sxs-lookup"><span data-stu-id="02f6f-110">To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span></span> 
+2. <span data-ttu-id="7cbb9-109">Выберите группу, чтобы просмотреть ее владельцев и участников.</span><span class="sxs-lookup"><span data-stu-id="7cbb9-109">Select a group to see its owners and members.</span></span> <span data-ttu-id="7cbb9-110">Чтобы добавить или удалить пользователей, щелкните ссылку **изменить** в строке **владельцы** или **члены** .</span><span class="sxs-lookup"><span data-stu-id="7cbb9-110">To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span></span> 
     
-<span data-ttu-id="02f6f-111">Совместное использование сайта для общения с группой Office 365:</span><span class="sxs-lookup"><span data-stu-id="02f6f-111">Share a communication site with an Office 365 group:</span></span>
+<span data-ttu-id="7cbb9-111">Совместное использование сайта для общения с группой Office 365:</span><span class="sxs-lookup"><span data-stu-id="7cbb9-111">Share a communication site with an Office 365 group:</span></span>
   
-1. <span data-ttu-id="02f6f-112">Перейдите на сайт в браузере и щелкните **общий доступ к сайту** в правом верхнем углу.</span><span class="sxs-lookup"><span data-stu-id="02f6f-112">Go to the site in a browser and click **Share site** in the upper right.</span></span> 
+1. <span data-ttu-id="7cbb9-112">Перейдите на сайт в браузере и щелкните **общий доступ к сайту** в правом верхнем углу.</span><span class="sxs-lookup"><span data-stu-id="7cbb9-112">Go to the site in a browser and click **Share site** in the upper right.</span></span> 
     
-2. <span data-ttu-id="02f6f-113">Введите имя группы, а затем выберите уровень разрешений (чтение, редактирование или полный доступ).</span><span class="sxs-lookup"><span data-stu-id="02f6f-113">Enter the group name, and then select the permission level (Read, Edit, or Full Control).</span></span>
+2. <span data-ttu-id="7cbb9-113">Введите имя группы, а затем выберите уровень разрешений (чтение, редактирование или полный доступ).</span><span class="sxs-lookup"><span data-stu-id="7cbb9-113">Enter the group name, and then select the permission level (Read, Edit, or Full Control).</span></span>
     
-<span data-ttu-id="02f6f-114">Создайте группу SharePoint для использования со классическим сайтом:</span><span class="sxs-lookup"><span data-stu-id="02f6f-114">Create a SharePoint group to use with a classic site:</span></span>
+<span data-ttu-id="7cbb9-114">Создайте группу SharePoint для использования со классическим сайтом:</span><span class="sxs-lookup"><span data-stu-id="7cbb9-114">Create a SharePoint group to use with a classic site:</span></span>
   
-1. <span data-ttu-id="02f6f-115">Перейдите на сайт в браузере и щелкните значок Параметры в правом верхнем углу.</span><span class="sxs-lookup"><span data-stu-id="02f6f-115">Go to the site in a browser and click the Settings icon in the upper right.</span></span>
+1. <span data-ttu-id="7cbb9-115">Перейдите на сайт в браузере и щелкните значок Параметры в правом верхнем углу.</span><span class="sxs-lookup"><span data-stu-id="7cbb9-115">Go to the site in a browser and click the Settings icon in the upper right.</span></span>
     
-2. <span data-ttu-id="02f6f-116">Щелкните **Параметры сайта**, а затем в разделе **Пользователи и разрешения**щелкните **разрешения сайта**.</span><span class="sxs-lookup"><span data-stu-id="02f6f-116">Click **Site settings**, and then under **Users and Permissions**, click **Site permissions**.</span></span>
+2. <span data-ttu-id="7cbb9-116">Щелкните **Параметры сайта**, а затем в разделе **Пользователи и разрешения**щелкните **разрешения сайта**.</span><span class="sxs-lookup"><span data-stu-id="7cbb9-116">Click **Site settings**, and then under **Users and Permissions**, click **Site permissions**.</span></span>
     
-3. <span data-ttu-id="02f6f-117">На вкладке Разрешения нажмите кнопку **создать группу**.</span><span class="sxs-lookup"><span data-stu-id="02f6f-117">On the Permissions tab, click **Create Group**.</span></span>
+3. <span data-ttu-id="7cbb9-117">На вкладке Разрешения нажмите кнопку **создать группу**.</span><span class="sxs-lookup"><span data-stu-id="7cbb9-117">On the Permissions tab, click **Create Group**.</span></span>
     
-[<span data-ttu-id="02f6f-118">Подключение классического сайта группы к новой группе Office 365</span><span class="sxs-lookup"><span data-stu-id="02f6f-118">Connect a classic team site to a new Office 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=2008654)
+[<span data-ttu-id="7cbb9-118">Подключение классического сайта группы к новой группе Office 365</span><span class="sxs-lookup"><span data-stu-id="7cbb9-118">Connect a classic team site to a new Office 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[<span data-ttu-id="02f6f-119">Дополнительные сведения о работе с группами SharePoint</span><span class="sxs-lookup"><span data-stu-id="02f6f-119">Learn more about working with SharePoint groups</span></span>](https://go.microsoft.com/fwlink/?linkid=874658)
+[<span data-ttu-id="7cbb9-119">Дополнительные сведения о работе с группами SharePoint</span><span class="sxs-lookup"><span data-stu-id="7cbb9-119">Learn more about working with SharePoint groups</span></span>](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

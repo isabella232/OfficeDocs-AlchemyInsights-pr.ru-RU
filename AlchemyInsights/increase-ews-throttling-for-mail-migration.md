@@ -12,13 +12,13 @@ ms.custom:
 - "1900"
 - "3500008"
 ms.assetid: ''
-ms.openlocfilehash: f030f601d3cf0f8d603cea774e59eb29fe4b932c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2898711c4b97e947e660af593e59518de905b405
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382534"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499593"
 ---
-# <a name="increase-ews-throttling-limits-for-mail-migration"></a><span data-ttu-id="21338-102">Повышение ограничений регулирования EWS для миграции почты</span><span class="sxs-lookup"><span data-stu-id="21338-102">Increase EWS throttling limits for mail migration</span></span>
+# <a name="increase-ews-throttling-limits-for-mail-migration"></a><span data-ttu-id="96e46-102">Повышение ограничений регулирования EWS для миграции почты</span><span class="sxs-lookup"><span data-stu-id="96e46-102">Increase EWS throttling limits for mail migration</span></span>
 
-<span data-ttu-id="21338-103">Чтобы увеличить ограничения на регулирование для клиента для миграции электронной почты, перейдите к билету поддержки и откройте его.</span><span class="sxs-lookup"><span data-stu-id="21338-103">To increase your tenant's EWS throttling limits for an email migration, please proceed and open a support ticket.</span></span>
+<span data-ttu-id="96e46-103">Чтобы увеличить ограничения на регулирование для клиента для миграции электронной почты, перейдите к билету поддержки и откройте его.</span><span class="sxs-lookup"><span data-stu-id="96e46-103">To increase your tenant's EWS throttling limits for an email migration, please proceed and open a support ticket.</span></span>

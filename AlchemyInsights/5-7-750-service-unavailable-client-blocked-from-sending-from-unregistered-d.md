@@ -12,15 +12,15 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: b94fcc697bb7ac065cef57f3e3eb0b515c3094a0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7126b4de7f7d8861afdb22af2540d6910c1d014f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35352866"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494468"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="9e2e5-103">Клиент 5.7.750 блокировал отправку от незарегистрированного домена</span><span class="sxs-lookup"><span data-stu-id="9e2e5-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="faf46-103">Клиент 5.7.750 блокировал отправку от незарегистрированного домена</span><span class="sxs-lookup"><span data-stu-id="faf46-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="9e2e5-104">Ошибка возникает, когда большой объем сообщений отправляется из доменов, не подготовленных в Office 365 (добавленные как обслуживаемые домены и проверены).</span><span class="sxs-lookup"><span data-stu-id="9e2e5-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
+<span data-ttu-id="faf46-104">Ошибка возникает, когда большой объем сообщений отправляется из доменов, не подготовленных в Office 365 (добавленные как обслуживаемые домены и проверены).</span><span class="sxs-lookup"><span data-stu-id="faf46-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
 
-<span data-ttu-id="9e2e5-105">Чтобы избежать этой ошибки, вы можете использовать соединитель почтовых ящиков на основе сертификатов, в котором домен сертификата является подготовленным доменом, или можно подготовить все отправные домены.</span><span class="sxs-lookup"><span data-stu-id="9e2e5-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+<span data-ttu-id="faf46-105">Чтобы избежать этой ошибки, вы можете использовать соединитель почтовых ящиков на основе сертификатов, в котором домен сертификата является подготовленным доменом, или можно подготовить все отправные домены.</span><span class="sxs-lookup"><span data-stu-id="faf46-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
