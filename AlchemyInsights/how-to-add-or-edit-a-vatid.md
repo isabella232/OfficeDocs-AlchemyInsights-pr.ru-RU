@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386417"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522624"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Добавление и изменение Ватид
 
-- В центре администрирования перейдите на страницу [подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) на **выставление счетов** \> .
+1.  В центре администрирования Microsoft 365 перейдите на страницу продукты для **выставления счетов** \> [& сервикцес](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-- На странице " **подписки** " выберите подписку, которую нужно изменить, а затем нажмите кнопку **Дополнительные действия** \> **изменить номер НДС**.
+2. Найдите карточку подписки, которую вы хотите обновить.
 
-- В нижней части области **изменить адрес для использования службы** введите или измените свой идентификатор НДС в поле **номер НДС** , а затем нажмите кнопку **послать**.
+3. В разделе **параметры & действий** выберите **изменить адрес использования службы**.
+
+4. На странице **изменение адреса использования службы** введите свой идентификатор НДС в поле **номер НДС** , а затем нажмите кнопку **сохранить**.
 
     По завершении НДС не будет взиматься со следующего счета.
 
-Для получения дополнительных сведений посмотрите, [какой налог будет взиматься в Office 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-Вы используете новый центр администрирования? В разделе [Добавление идентификатора НДС](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)для новых шагов.
+Для получения дополнительных сведений посмотрите, [какой налог будет взиматься в Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) или [добавьте свой идентификатор НДС](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

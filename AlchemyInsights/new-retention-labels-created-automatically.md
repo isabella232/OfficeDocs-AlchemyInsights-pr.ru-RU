@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 8b54e5449ed0726170393916df58722bfabc1129
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2df788f74e7e6464d4a51653709e983046dd2f8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379078"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522192"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Новые метки хранения автоматически созданы
 
-В разделе **метки хранения** в центре администрирования безопасности или соответствия могут отображаться [три метки хранения](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) , автоматически создаваемые в вашей организации. Имена меток:
+В центре администрирования безопасности или соответствия требованиям могут отображаться [три метки хранения Office 365](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) , которые автоматически создаются в Организации в разделе **метки хранения** . Имена меток:
 
 - Рабочая процедура
 - Общие для предприятия
