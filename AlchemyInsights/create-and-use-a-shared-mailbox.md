@@ -11,18 +11,18 @@ ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
 ms.common:
 - "358"
 - "3500003"
-ms.openlocfilehash: 98d2eea2dc48e1b78784e6fe7857e75703c1c7a8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a90da38059c9ce37f60b1addb622a1b56116d9c9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364638"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515640"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="08de0-102">Создание и использование общего почтового ящика</span><span class="sxs-lookup"><span data-stu-id="08de0-102">Create and use a shared mailbox</span></span>
+# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="8ef8e-102">Создание и использование общего почтового ящика</span><span class="sxs-lookup"><span data-stu-id="8ef8e-102">Create and use a shared mailbox</span></span>
 
-<span data-ttu-id="08de0-103">Общий почтовый ящик позволяет нескольким пользователям отправлять и получать почту, пользуясь одним и тем же адресом, например sales@contoso.com. Назначать лицензию каждому пользователю не нужно.</span><span class="sxs-lookup"><span data-stu-id="08de0-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span>
+<span data-ttu-id="8ef8e-103">Общий почтовый ящик позволяет нескольким пользователям отправлять и получать почту, пользуясь одним и тем же адресом, например sales@contoso.com. Назначать лицензию каждому пользователю не нужно.</span><span class="sxs-lookup"><span data-stu-id="8ef8e-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span>
   
-- [<span data-ttu-id="08de0-104">Чтобы приступить к работе, перейдите сюда</span><span class="sxs-lookup"><span data-stu-id="08de0-104">Go here to get started</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [<span data-ttu-id="8ef8e-104">Чтобы приступить к работе, перейдите сюда</span><span class="sxs-lookup"><span data-stu-id="8ef8e-104">Go here to get started</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-<span data-ttu-id="08de0-105">Кроме того, вы можете ознакомиться со статьей [Создание общего почтового ящика](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) , в которой вы найдете все, что вам нужно знать о общих почтовых ящиках, в том числе как их использовать.</span><span class="sxs-lookup"><span data-stu-id="08de0-105">You can also read the [Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
+<span data-ttu-id="8ef8e-105">Кроме того, вы можете ознакомиться со статьей [Создание общего почтового ящика](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) , в которой вы найдете все, что вам нужно знать о общих почтовых ящиках, в том числе как их использовать.</span><span class="sxs-lookup"><span data-stu-id="8ef8e-105">You can also read the [Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
   
