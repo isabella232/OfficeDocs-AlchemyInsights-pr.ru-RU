@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1964"
 - "9000336"
-ms.openlocfilehash: ce74fa1ae968daf98d8bc9fbdf914d948ee7770b
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: b97c6eaaece5958e3c043551584625d365e59c24
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36048901"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535885"
 ---
-# <a name="permanently-delete-email"></a>Окончательное удаление электронной почты
+# <a name="permanently-delete-email-in-outlookcom"></a>Окончательное удаление электронной почты в Outlook.com
 
 Если вы хотите удалить электронную почту или очистить папку "Входящие", выполните следующие действия:
 
