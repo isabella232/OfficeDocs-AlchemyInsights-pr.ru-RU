@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 4cc07cf2bbbf72a6ef52ef94b87ea13cfd954791
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 7c1a870c8dff53c937e98bc3f690b237762b1638
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753344"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533352"
 ---
-# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="2eb84-102">Управление лицензиями Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="2eb84-102">Managing Microsoft Stream licenses</span></span>
+# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="a3a7e-102">Управление лицензиями Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="a3a7e-102">Managing Microsoft Stream licenses</span></span>
 
-<span data-ttu-id="2eb84-103">**Важно!** Для выполнения операций, описанных в этом разделе, необходимо быть членом роли администратора клиента.</span><span class="sxs-lookup"><span data-stu-id="2eb84-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
+<span data-ttu-id="a3a7e-103">**Важно!** Для выполнения операций, описанных в этом разделе, необходимо быть членом роли администратора клиента.</span><span class="sxs-lookup"><span data-stu-id="a3a7e-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
 
-<span data-ttu-id="2eb84-104">Необходимо быть глобальным администратором или администратором управления пользователями. Дополнительные сведения см. в статье [About Office 365 Admin Roles](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).</span><span class="sxs-lookup"><span data-stu-id="2eb84-104">You need to be either a Global admin or a User Management admin. For more information, see [About Office 365 admin roles](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).</span></span>
+<span data-ttu-id="a3a7e-104">Необходимо быть глобальным администратором или администратором управления пользователями. Дополнительные сведения см. в статье [About Office 365 Admin Roles](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).</span><span class="sxs-lookup"><span data-stu-id="a3a7e-104">You need to be either a Global admin or a User Management admin. For more information, see [About Office 365 admin roles](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).</span></span>
 
-<span data-ttu-id="2eb84-105">Вы можете назначить [лицензии учетным записям пользователей с помощью Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span><span class="sxs-lookup"><span data-stu-id="2eb84-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>
+<span data-ttu-id="a3a7e-105">Вы можете назначить [лицензии учетным записям пользователей с помощью Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span><span class="sxs-lookup"><span data-stu-id="a3a7e-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>
