@@ -13,31 +13,23 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3d4a30dc8b27be8fbb428addb867f89965a4cb12
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390993"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540302"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Как сделать покупку Office 365
 
 Покупки в Office 365 можно выполнить в центре администрирования.
   
-- Чтобы приобрести подписку на Office 365, перейдите на страницу **выставления счетов** \> в [службы покупок](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+- Чтобы приобрести подписки на Office 365, перейдите на страницу Услуги по **выставлению счетов** \> [покупки](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-- Чтобы приобрести дополнительные лицензии, перейдите на страницу **** \> [подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) на выставление счетов. На странице " **подписки** " выберите подписку, в которую вы хотите добавить лицензии, а затем нажмите **Добавить/удалить лицензии**.
-
-- Чтобы переключиться на другой план, выполните следующие действия.
-
-  - Выберите **Переключатель переключение планов** , чтобы просмотреть список доступных новых планов.
-
-  - Выберите план, чтобы просмотреть новые общие затраты в месяц. Обязательно ознакомьтесь с ключевыми сведениями, а затем нажмите кнопку **Далее** , чтобы извлечь.
-
-Вы используете новый центр администрирования? Для выполнения новых действий выполните [обновление до другой схемы](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+- Чтобы приобрести дополнительные лицензии, перейдите на страницу **выставления счетов** \> [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) . Выберите подписку, в которую вы хотите добавить лицензии, а затем выберите **Добавить или удалить лицензии**.
   
  **Дополнительные ресурсы**
   
-- [Назначение лицензий пользователям в Office 365 для бизнеса](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Назначение лицензий пользователям в Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Отмена Office 365 для бизнеса](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Отмена Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
