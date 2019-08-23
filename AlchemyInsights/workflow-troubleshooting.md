@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: cc01e0cef157ad41f5a972f434c69fa3af208c9b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36272033"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558090"
 ---
 # <a name="workflow-troubleshooting"></a>Устранение неполадок рабочих процессов
 
-Устранение неполадок и Отладка рабочих процессов:
+Для получения сведений об отладке рабочих процессов SharePoint ознакомьтесь со следующими разработкой:
 - Отладка рабочих процессов похожа на предыдущие версии.  Более подробную информацию можно узнать в статье [Отладка рабочих процессов SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 - Более подробную информацию об устранении неполадок можно найти в статье [Устранение ошибок проверки рабочих процессов SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  

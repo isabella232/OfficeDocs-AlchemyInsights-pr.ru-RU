@@ -12,14 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 6a40c421d89d1caf89007ff25ed51712773e073e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3b6c15fccd375324583bf8249ad42879306a258c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369570"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551608"
 ---
-При включении архивного почтового ящика можно использовать **Поиск и Экспорт обнаружения электронных** данных для обнаружения контента в основном и архивном почтовом ящике. Для получения сведений об использовании **экспорта поиска eDiscovery** для поиска содержимого выполните действия, описанные [здесь](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+# <a name="search-for-email-in-the-archive-mailbox"></a>Поиск электронной почты в архивном почтовом ящике
+
+Если архивный почтовый ящик включен для Office 365, можно использовать **Поиск и Экспорт обнаружения электронных** данных для обнаружения контента в основном и архивном почтовом ящике. Для получения сведений об использовании **экспорта поиска eDiscovery** для поиска содержимого выполните действия, описанные [здесь](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   
 Вы также можете сохранить это содержимое, добавив почтовый ящик в политику хранения. При этом содержимое будет размещено в основном и архивном почтовых ящиках на удержании. Дополнительные сведения о создании политик хранения для сохранения электронной почты приведены в действиях, описанных в [этой статье](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
   

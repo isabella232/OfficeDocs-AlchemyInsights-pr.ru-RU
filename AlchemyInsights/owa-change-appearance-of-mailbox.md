@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171371"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557514"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Изменение внешнего вида почтового ящика
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Изменение внешнего вида почтового ящика Outlook
 
 Вы можете изменить внешний вид списка сообщений и области чтения, чтобы он отображался и построился нужным образом. Укажите, следует ли отображать сообщения по отдельности или в виде бесед, если новые сообщения появляются в верхней или нижней части списка сообщений и больше.
 
