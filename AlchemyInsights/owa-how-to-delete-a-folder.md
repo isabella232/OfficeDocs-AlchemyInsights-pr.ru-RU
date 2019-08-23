@@ -13,18 +13,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: d6ae972c6d95b33612290b4ee20464e53f60327f
-ms.sourcegitcommit: 3ddd01d693d306d47509da7a2fd44737b3059dd0
+ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34423065"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556542"
 ---
-# <a name="how-to-delete-a-folder"></a><span data-ttu-id="3e04f-102">Удаление папки</span><span class="sxs-lookup"><span data-stu-id="3e04f-102">How to delete a folder</span></span>
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a><span data-ttu-id="78e3e-102">Удаление папки в Outlook в Интернете</span><span class="sxs-lookup"><span data-stu-id="78e3e-102">How to delete a folder in Outlook on the web</span></span>
 
-1. <span data-ttu-id="3e04f-103">В области папок щелкните правой кнопкой мыши папку или подпапку, которую нужно удалить.</span><span class="sxs-lookup"><span data-stu-id="3e04f-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
-2. <span data-ttu-id="3e04f-104">Выберите пункт **Удалить папку**.</span><span class="sxs-lookup"><span data-stu-id="3e04f-104">Select **Delete folder**.</span></span>
-3. <span data-ttu-id="3e04f-105">Нажмите кнопку **ОК** , чтобы подтвердить.</span><span class="sxs-lookup"><span data-stu-id="3e04f-105">Select **OK** to confirm.</span></span>
+1. <span data-ttu-id="78e3e-103">В области папок щелкните правой кнопкой мыши папку или подпапку, которую нужно удалить.</span><span class="sxs-lookup"><span data-stu-id="78e3e-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
+2. <span data-ttu-id="78e3e-104">Выберите пункт **Удалить папку**.</span><span class="sxs-lookup"><span data-stu-id="78e3e-104">Select **Delete folder**.</span></span>
+3. <span data-ttu-id="78e3e-105">Нажмите кнопку **ОК** , чтобы подтвердить.</span><span class="sxs-lookup"><span data-stu-id="78e3e-105">Select **OK** to confirm.</span></span>
 
-<span data-ttu-id="3e04f-106">Чтобы узнать больше, ознакомьтесь [со статьей работа с папками сообщений в Outlook в Интернете](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="3e04f-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
+<span data-ttu-id="78e3e-106">Чтобы узнать больше, ознакомьтесь [со статьей работа с папками сообщений в Outlook в Интернете](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="78e3e-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
 
