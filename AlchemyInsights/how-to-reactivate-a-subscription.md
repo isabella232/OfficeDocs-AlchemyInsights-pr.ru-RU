@@ -13,23 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539942"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574775"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="d031a-102">Повторная активация подписки</span><span class="sxs-lookup"><span data-stu-id="d031a-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="8d7ff-102">Повторная активация подписки</span><span class="sxs-lookup"><span data-stu-id="8d7ff-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="d031a-103">Если закончился срок действия вашей подписки, она была отменена или отключена корпорацией Майкрософт, вы можете повторно активировать ее в Центре администрирования Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d031a-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="8d7ff-103">Если закончился срок действия вашей подписки, она была отменена или отключена корпорацией Майкрософт, вы можете повторно активировать ее в Центре администрирования Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="8d7ff-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="d031a-104">В Центре администрирования перейдите на страницу **Выставление счетов** \> [Продукты и службы](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="d031a-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="8d7ff-104">В Центре администрирования перейдите на страницу **Выставление счетов** \> [Продукты и службы](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="8d7ff-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="d031a-105">В разделе **Выставление счетов** рядом с пунктом **Дата возобновления** или **Срок действия истекает** нажмите **Изменить**.</span><span class="sxs-lookup"><span data-stu-id="d031a-105">Under **Billing**, next to **Renews on** or **Expiring on**, select **Edit**.</span></span>
+2. <span data-ttu-id="8d7ff-105">Найдите подписку, которую нужно повторно активировать.</span><span class="sxs-lookup"><span data-stu-id="8d7ff-105">Find the key that you want to change.</span></span> <span data-ttu-id="8d7ff-106">В разделе **Выставление счетов** выберите **Активировать повторно**.</span><span class="sxs-lookup"><span data-stu-id="8d7ff-106">In the **Billing** section, choose **Reactivate**.</span></span>
 
-3. <span data-ttu-id="d031a-106">В области **Параметры автоматического продления** выберите подходящий вариант.</span><span class="sxs-lookup"><span data-stu-id="d031a-106">In the **Recurring billing settings** pane, select the option you want.</span></span> <span data-ttu-id="d031a-107">Если автоматическое продление подписки отключено, выберите **Ежемесячно** или **Один раз**, чтобы включить ее.</span><span class="sxs-lookup"><span data-stu-id="d031a-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
+    <span data-ttu-id="8d7ff-107">Если действие **Активировать повторно** не отображается, обратитесь в службу поддержки, чтобы повторно активировать свою подписку.</span><span class="sxs-lookup"><span data-stu-id="8d7ff-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
 
-4. <span data-ttu-id="d031a-108">Выберите **Отправка изменения**.</span><span class="sxs-lookup"><span data-stu-id="d031a-108">Select **Submit change**.</span></span>
+3. <span data-ttu-id="8d7ff-108">Подтвердите сведения об оплате.</span><span class="sxs-lookup"><span data-stu-id="8d7ff-108">Confirm your payment details.</span></span> <span data-ttu-id="8d7ff-109">Здесь вы можете обновить существующие сведения об оплате.</span><span class="sxs-lookup"><span data-stu-id="8d7ff-109">You can update your existing payment information here.</span></span> <span data-ttu-id="8d7ff-110">Закончив ввод метода оплаты, нажмите кнопку **Активировать повторно**.</span><span class="sxs-lookup"><span data-stu-id="8d7ff-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
 
-<span data-ttu-id="d031a-109">Дополнительные сведения см. в статье [Возобновление подписки на Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="d031a-109">For more information, see: [Renew Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)</span></span>
+<span data-ttu-id="8d7ff-111">Вы используете старый Центр администрирования?</span><span class="sxs-lookup"><span data-stu-id="8d7ff-111">Are you using the old admin center?</span></span> <span data-ttu-id="8d7ff-112">Инструкции для старой версии см. в статье [Повторная активация подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="8d7ff-112">For old steps, or to learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
