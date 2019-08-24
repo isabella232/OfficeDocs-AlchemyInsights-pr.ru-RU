@@ -13,12 +13,12 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522444"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574955"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Как добавить или уменьшить лицензии
 
@@ -39,7 +39,7 @@ ms.locfileid: "36522444"
 > [!NOTE]
 > Любой новый расход (повышение лицензии) или кредит (уменьшение лицензии) будет отображаться на следующем счете.
 
-Дополнительные сведения можно найти [в статье Покупка лицензий для подписки на Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Вы используете старый центр администрирования? Для получения более подробных инструкций или дополнительных сведений ознакомьтесь со статьей [купить лицензии для подписки на Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **Дополнительные ресурсы**
   

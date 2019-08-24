@@ -12,16 +12,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ff90ca14e4036b9a3b470e08cf749fd437ba6d78
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522624"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575011"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Добавление и изменение Ватид
 
-1.  В центре администрирования Microsoft 365 перейдите на страницу продукты для **выставления счетов** \> [& сервикцес](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1.  В центре администрирования Microsoft 365 откройте страницу "Услуги по **выставлению счетов** \> [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
 
 2. Найдите карточку подписки, которую вы хотите обновить.
 
@@ -31,4 +31,8 @@ ms.locfileid: "36522624"
 
     По завершении НДС не будет взиматься со следующего счета.
 
-Для получения дополнительных сведений посмотрите, [какой налог будет взиматься в Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) или [добавьте свой идентификатор НДС](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Вы используете старый центр администрирования? Для получения дополнительных сведений о [том, какой налог будет взиматься в Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+
+**Дополнительные ресурсы**
+
+[Добавление идентификатора НДС](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 19f21e93419a208229c64c874748f5f94acfe8b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494159"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576069"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Отменяя свою подписку на Office 365?
 
@@ -24,8 +24,8 @@ ms.locfileid: "36494159"
   
 - Если вы пробная версия клиента, отмена нечего недоступна. Пробные подписки автоматически истекает, если не предоставить метод оплаты.
 
-- Если у вас менее 25 назначенных лицензий, вы можете отменить подписку в Интернете. Перейдите к разделу [подписки](https://go.microsoft.com/fwlink/p/?linkid=842054)на **выставление счетов** \> , а затем выберите **Дополнительные действия** \> **Отмена подписки**.
+- Если у вас менее 25 назначенных лицензий, вы можете отменить подписку в Интернете. Перейдите в раздел продукты для **выставления счетов** \> [& службы](https://go.microsoft.com/fwlink/p/?linkid=842054). В разделе **параметры & действий** выберите **Отменить подписку**.
 
 - Если у вас больше 25 назначенных лицензий, вы можете либо удалить пользователей, пока не истечет меньше 25, либо использовать параметр "придать нам Звонок", чтобы поговорить с инженером службы поддержки.
 
-- Чтобы узнать больше об отмене подписки или пошаговых инструкциях, ознакомьтесь со статьей [Отмена подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Вы используете старый центр администрирования? Действия по старым действиям или дополнительные сведения см. в разделе [Отмена подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
