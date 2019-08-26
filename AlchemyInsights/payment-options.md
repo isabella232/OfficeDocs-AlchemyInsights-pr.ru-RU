@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388685"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555282"
 ---
-# <a name="payment-options"></a>Варианты оплаты
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Варианты оплаты подписок Office 365 для бизнеса
 
 **Варианты оплаты**
   
@@ -30,7 +30,7 @@ ms.locfileid: "36388685"
   
 При оплате с помощью кредитной карты или банковского счета с вас автоматически будет взиматься сбор за подписку в день, следующий за датой выставления счета, вплоть до завершения ее срока. Вы можете в любой момент [обновить реквизиты своей карты или банковского счета](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account). Вы также можете [Получение копии выписки по счету по электронной почте](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Если ваша кредитная карта была отклонена или у вас имеется просроченная задолженность, вы можете выбрать вариант **Оплатить сейчас** на странице [Подписки](https://portal.office.com/adminportal/home#/subscriptions) в разделе **Выставление счетов** \>.
+Если ваша кредитная карта была отклонена или у вас имеется просроченная задолженность, вы можете выбрать вариант **Покрыть задолженность** на странице **Выставление счетов** \> [Продукты и службы](https://portal.office.com/adminportal/home#/subscriptions).
   
 **Оплата по счету (чек или банковский перевод)**
   
