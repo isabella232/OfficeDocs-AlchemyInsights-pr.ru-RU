@@ -12,18 +12,18 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: f4b85ebd2ced927a5cd0d7c79c9df6fe93fa9e8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514884"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631839"
 ---
 # <a name="creating-public-folders"></a>Создание общедоступных папок
 
 Прежде чем пользователи смогут использовать общедоступные папки в Office 365, необходимо создать хотя бы один почтовый ящик общедоступной папки. Для создания:
   
-1. На портале Office 365, используя левое меню навигации, перейдите в **центр** \> администрирования **Exchange**.
+1. В центре администрирования Microsoft 365 перейдите в центр **администрирования** \> **Exchange**.
 
 2. Перейдите в **** \> **папку**почтовые ящики общедоступных папок и нажмите кнопку **Добавить**.
 
