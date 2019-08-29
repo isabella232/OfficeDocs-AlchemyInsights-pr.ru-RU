@@ -13,17 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575781"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665557"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="5ce5e-102">Отменяя свою подписку на Office 365?</span><span class="sxs-lookup"><span data-stu-id="5ce5e-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="0d18f-102">Отменяя свою подписку на Office 365?</span><span class="sxs-lookup"><span data-stu-id="0d18f-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="5ce5e-103">Приносим извинения!</span><span class="sxs-lookup"><span data-stu-id="5ce5e-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="0d18f-103">Приносим извинения!</span><span class="sxs-lookup"><span data-stu-id="0d18f-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="5ce5e-104">На основе данных Организации мы считаем, что все текущие подписки имеют менее 25 рабочих мест.</span><span class="sxs-lookup"><span data-stu-id="5ce5e-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="5ce5e-105">Чтобы отказаться от подписки в Интернете, перейдите на страницу **выставления счетов** \> [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="5ce5e-105">To cancel your subscription online, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="5ce5e-106">В разделе **параметры & действий** выберите **Отменить подписку**.</span><span class="sxs-lookup"><span data-stu-id="5ce5e-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
+<span data-ttu-id="0d18f-104">На основе данных Организации мы считаем, что все текущие подписки имеют менее 25 рабочих мест.</span><span class="sxs-lookup"><span data-stu-id="0d18f-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="0d18f-105">Чтобы отказаться от подписки в Интернете, перейдите на страницу **выставления счетов** \> [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="0d18f-105">To cancel your subscription online, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="0d18f-106">В разделе **параметры & действий** выберите **Отменить подписку**.</span><span class="sxs-lookup"><span data-stu-id="0d18f-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="5ce5e-107">Вы используете старый центр администрирования?</span><span class="sxs-lookup"><span data-stu-id="5ce5e-107">Are you using the old admin center?</span></span> <span data-ttu-id="5ce5e-108">Действия по старым действиям или дополнительные сведения см. в разделе [Отмена подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="5ce5e-108">For old steps, or to learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
+<span data-ttu-id="0d18f-107">Чтобы узнать больше, ознакомьтесь со статьей [Отмена подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="0d18f-107">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
