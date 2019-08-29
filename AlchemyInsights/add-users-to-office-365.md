@@ -12,22 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903086"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660697"
 ---
 # <a name="add-a-user-to-office-365"></a>Добавление пользователя в Office 365
 
-Чтобы добавить пользователя в Office 365, сделайте следующее:
-  
-1. Перейдите в раздел [Активные пользователи](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (или на панели навигации слева выберите **Пользователи** \> **Активные пользователи**).
+1. В Центре администрирования Microsoft 365 выберите **Пользователи** >  [Активные пользователи](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
 
 2. Щелкните **Добавить пользователя**.
 
-3. Заполните сведения о пользователе. По завершении нажмите кнопку **Добавить**.
+3. Заполните сведения о пользователе. После завершения нажмите кнопку **Завершить добавление**.
 
-[Дополнительные сведения](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+Вы используете старый Центр администрирования? Инструкции для старой версии и дополнительные сведения см. в статье [Добавление пользователей по одному или массово в Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).
   

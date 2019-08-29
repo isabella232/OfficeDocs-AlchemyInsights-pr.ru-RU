@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: da09215ca846e34fa3f75fead99537c4808ec65a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575355"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664405"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Как обновить данные моей кредитной карты?
 
@@ -33,4 +33,4 @@ ms.locfileid: "36575355"
 
 4. Измените реквизиты кредитной карты или банковского счета (имя владельца, адрес выставления счета, номер телефона или дату окончания срока действия) и нажмите **Сохранить** > **Готово**.
 
-Вы используете старый Центр администрирования? Инструкции для старой версии и дополнительные сведения см. в статье [Добавление, удаление и обновление данных кредитной карты или банковского счета в Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Дополнительные сведения см. в статье [Добавление, удаление и обновление данных кредитной карты или банковского счета в Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
