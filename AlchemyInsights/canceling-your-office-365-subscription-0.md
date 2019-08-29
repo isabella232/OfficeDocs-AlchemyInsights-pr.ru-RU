@@ -13,12 +13,12 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575781"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665557"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Отменяя свою подписку на Office 365?
 
@@ -26,4 +26,4 @@ ms.locfileid: "36575781"
   
 На основе данных Организации мы считаем, что все текущие подписки имеют менее 25 рабочих мест. Чтобы отказаться от подписки в Интернете, перейдите на страницу **выставления счетов** \> [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) . В разделе **параметры & действий** выберите **Отменить подписку**.
   
-Вы используете старый центр администрирования? Действия по старым действиям или дополнительные сведения см. в разделе [Отмена подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Чтобы узнать больше, ознакомьтесь со статьей [Отмена подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
