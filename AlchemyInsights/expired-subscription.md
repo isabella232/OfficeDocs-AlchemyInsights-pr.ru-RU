@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575601"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665053"
 ---
 # <a name="expired-subscription"></a>Подписка с истекшим сроком действия
 
@@ -34,7 +34,7 @@ ms.locfileid: "36575601"
 
 3. Подтвердите сведения об оплате. Вы можете обновить имеющиеся сведения об оплате здесь. Завершив ввод способа оплаты, нажмите кнопку **повторно активировать**.
 
-Вы используете старый центр администрирования? Действия по старым действиям, а также дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Создание новой покупки**
   
@@ -46,4 +46,4 @@ ms.locfileid: "36575601"
 
 4. Выполните оставшиеся действия, чтобы завершить извлечение.
 
-Вы используете старый центр администрирования? Действия по старым действиям или дополнительные сведения можно найти в статье [Покупка другой подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Чтобы узнать больше, ознакомьтесь с статьей [приобрести другую подписку](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574555"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663973"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Повторная активация и управление периодической выставления счетов
 
@@ -32,7 +32,7 @@ ms.locfileid: "36574555"
 
 3. Подтвердите сведения об оплате. Вы можете обновить имеющиеся сведения об оплате здесь. Завершив ввод способа оплаты, нажмите кнопку **повторно активировать**.
 
-Вы используете старый центр администрирования? Действия по старым действиям, а также дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Для управления ежемесячными или ежегодными выписками можно включить или отключить **периодическое выставление счетов** .
   
@@ -46,4 +46,4 @@ ms.locfileid: "36574555"
 
 5. Нажмите кнопку **послать изменение**.
 
-Вы используете старый центр администрирования? Для выполнения старых действий или для получения дополнительных сведений обратитесь к разделу [Включение периодической выставления счетов](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Чтобы узнать больше, ознакомьтесь со статьей [Включение периодической выписки или вкл](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

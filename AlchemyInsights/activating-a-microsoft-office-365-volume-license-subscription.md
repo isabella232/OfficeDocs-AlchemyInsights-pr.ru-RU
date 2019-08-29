@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574483"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661201"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Активация подписки Microsoft Office 365 на корпоративную лицензию
 
@@ -30,6 +30,6 @@ ms.locfileid: "36574483"
 
 4. Электронная почта для активации предоставляет два варианта: **Регистрация**или **Вход**. Если вы ранее создали пробную версию, нажмите кнопку **войти**. Если у вас еще нет клиента Office 365, нажмите кнопку **зарегистрироваться**.
 
-5. Войдите в Office 365 ([https://portal.office.com](https://portal.office.com)), используя существующие учетные данные администратора Office 365. После успешного входа вы получите еще одно сообщение с подтверждением покупки.
+5. Войдите в центр администрирования Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)), используя существующие учетные данные администратора Office 365. После успешного входа вы получите еще одно сообщение с подтверждением покупки.
 
 6. После входа вы можете перейти на страницу Услуги по выставлению **счетов** \> [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) , чтобы убедиться, что приобретенные подписки на Office 365 активированы в вашем клиенте. (Вы также можете выбрать вкладку **Подписка** в VLSC, чтобы просмотреть сведения о том, что ваша подписка была внесена в депозит.)
