@@ -2,7 +2,6 @@
 title: Рекомендованные действия при компрометации учетной записи
 ms.author: pebaum
 author: pebaum
-ms.date: 10/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +9,12 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 71ccb6c4bd3c9f3d229a391f820df72e2d01ee37
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 6c18059616c0900f330e0cdb5d1076ff28a5b76c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904203"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666565"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Рекомендованные действия при компрометации учетной записи
 
@@ -27,7 +26,7 @@ ms.locfileid: "35904203"
 
 3. Удалите все подозрительные [правила для папки "Входящие"](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED), заданные для почтового ящика.
 
-4. Если отправка сообщений заблокирована для пользователя, [перейдите в раздел "Пользователи с ограниченным доступом", чтобы разблокировать учетную запись](https://protection.office.com/?hash=/restrictedusers). После завершения процедуры отправка сообщений должна возобновиться в течение часа.
+4. Если пользователю запрещено отправлять электронную почту, [перейдите на страницу "Пользователи с ограниченным доступом", чтобы разблокировать учетную запись](https://protection.office.com/?hash=/restrictedusers). После завершения процедуры отправка сообщений должна возобновиться в течение часа.
 
 5. Удалите учетную запись этого пользователя из всех [групп с административными ролями](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) до тех пор, пока вы не убедитесь в том, что его учетная запись больше не скомпрометирована.
 
