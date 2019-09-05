@@ -12,12 +12,12 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: baefa04a536e71358f1a6cd143c4c727c290e28c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664657"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737382"
 ---
 # <a name="creating-email-signatures"></a>Создание подписей электронной почты
 
@@ -29,7 +29,7 @@ ms.locfileid: "36664657"
 
 - Я хочу создать подпись электронной почты с помощью Outlook.com: [Создание и Добавление подписи электронной почты в Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Я хочу создать глобальную подпись для всех сообщений электронной почты, отправляемых из моей компании: [Создание подписей на уровне Организации и заявления об отказе в Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)
+- Я хочу создать глобальную подпись электронной почты для всех сообщений электронной почты, отправляемых из моей компании: [Создание подписей на уровне Организации и заявления об отказе](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers)
 
  **Совет:** Подписи на уровне Организации называются "заявления об отказе".
   

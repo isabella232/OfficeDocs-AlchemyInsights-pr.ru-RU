@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
-ms.openlocfilehash: 99f8efcbd35c1980091afed683e07f68e33ed611
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 36946e14703993198f5fa2f96949815059c8cc14
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525151"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740010"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Решение проблем с синхронизацией OneDrive
 
-Если вы не синхронизируете файлы в OneDrive так, как ожидалось, вы можете [устранить проблемы с синхронизацией OneDrive](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US).
+Если вы не синхронизируете файлы в OneDrive так, как ожидалось, вы можете [устранить проблемы с синхронизацией OneDrive](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90).
   

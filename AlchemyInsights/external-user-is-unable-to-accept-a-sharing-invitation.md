@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 7b5253c94a177e27745a921bcc4b478229ad4c26
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525828"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735906"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Внешний пользователь не может принять приглашение к совместному использованию
 
@@ -26,7 +26,7 @@ ms.locfileid: "36525828"
 - ["Отказано в доступе", "требуется разрешение на доступ к этому сайту" или "пользователи не найдены в каталоге" в SharePoint Online и OneDrive для бизнеса](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["При совместном использовании элемента или сайта в SharePoint Online или OneDrive для бизнеса возникает ошибка" политики вашей организации не разрешают предоставлять доступ этим пользователям ".](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 - [При совместном использовании в SharePoint Online или OneDrive параметры общего доступа серые](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Сообщение об ошибке, когда внешний пользователь принимает приглашение на SharePoint Online с помощью другой учетной записи](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
+- [Сообщение об ошибке, когда внешний пользователь принимает приглашение на SharePoint Online с помощью другой учетной записи](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 - [Ошибки общего доступа к OSE в SharePoint и OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 

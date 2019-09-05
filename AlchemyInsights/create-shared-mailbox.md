@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
-ms.openlocfilehash: 82c3d79554db65161f55486003c3299ef1e160ec
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: b6ad094a291169bfc76d4c46e8fac1f268684fe6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631841"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740946"
 ---
 # <a name="create-a-shared-mailbox"></a>Создание общего почтового ящика
 
 Общий почтовый ящик позволяет нескольким пользователям отправлять и получать почту, пользуясь одним и тем же адресом, например sales@contoso.com. Назначать лицензию каждому пользователю не нужно. 
 
-В этой статье описано, [как создать общий почтовый ящик](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) для советов и дополнительных сведений об использовании общего почтового ящика. 
+В этой статье описано, [как создать общий почтовый ящик](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) для советов и дополнительных сведений об использовании общего почтового ящика. 
   
 

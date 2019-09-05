@@ -11,16 +11,16 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497060"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734934"
 ---
 # <a name="managing-yammer-users"></a>Управление пользователями Yammer
 
-1. Для получения сведений об управлении пользователями Yammer из Office 365, ознакомьтесь [со статьей Управление пользователями Yammer в жизненном цикле office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). Сюда входят следующие сведения:
+1. Для получения сведений об управлении пользователями Yammer из Office 365, ознакомьтесь [со статьей Управление пользователями Yammer в жизненном цикле office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Сюда входят следующие сведения:
 
   - Создание пользователя
 
@@ -36,4 +36,4 @@ ms.locfileid: "36497060"
 
   - Экспорт списка пользователей
 
-3. Для получения сведений о добавлении, удалении и управлении внешними пользователями обратитесь к разделу [Добавление внешних участников обмена сообщениями в сеть Yammer](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c).
+3. Для получения сведений о добавлении, удалении и управлении внешними пользователями обратитесь к разделу [Добавление внешних участников обмена сообщениями в сеть Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

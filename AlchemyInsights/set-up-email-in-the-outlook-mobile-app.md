@@ -15,12 +15,12 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509194"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734178"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Настройка электронной почты в мобильном приложении Outlook
 
@@ -30,7 +30,7 @@ ms.locfileid: "36509194"
 
 3. Введите пароль учетной записи электронной почты и нажмите кнопку **войти** или **Далее**.
 
-4. Если включена многофакторная [Проверка](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) подлинности, проверьте, используется ли настроенный вами метод (6-значный код, телефонный звонок или приложение Microsoft Authenticator).
+4. Если включена [многофакторная проверка подлинности](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) , проверьте, используется ли настроенный вами метод (6-значный код, телефонный звонок или приложение Microsoft Authenticator).
 
 5. Если на месте имеются дополнительные политики ИТ, нажмите кнопку **активировать** , чтобы включить их.
 

@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: 641636add2069fc395df9af156d8c011493a634a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660805"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737886"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>Добавление внешних пользователей в группу рассылки
 
@@ -38,7 +38,7 @@ ms.locfileid: "36660805"
     
     5. Выберите почтовый контакт, созданный на предыдущем шаге, а затем нажмите кнопку **сохранить**.
     
-Если после выполнения этих действий внешние пользователи не смогут отправлять сообщения в группу рассылки или не получали сообщения от него, может быть, что эта рассылка помечена так, чтобы разрешать электронную почту только от внутренних пользователей. Вы можете проверить эту конфигурацию и устранить ее, следуя указаниям, приведенным [здесь](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx).
+Если после выполнения этих действий внешние пользователи не смогут отправлять сообщения в группу рассылки или не получали сообщения от него, может быть, что эта рассылка помечена так, чтобы разрешать электронную почту только от внутренних пользователей. Вы можете проверить эту конфигурацию и устранить ее, следуя указаниям, приведенным [здесь](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online).
   
  **Примечание:** Эти инструкции не применяются, если типом вашей группы является "Группа Office 365", а не "группа рассылки". В этом случае внешний пользователь можно добавить непосредственно в группу из Outlook. Подробные сведения о группах Office 365 для гостей, а также инструкции по добавлению внешних гостей можно найти в [этой статье](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 31db17a45814355f9594a340881660ba7010b1a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f8772f614b3d33c4eb73c7645c9b09971619bcc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504260"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744510"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Внешний общий доступ в SharePoint Online
 
@@ -36,7 +36,7 @@ ms.locfileid: "36504260"
 
 - [Совместное использование файлов и папок SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Прекращение общего доступа к файлам и папкам OneDrive или SharePoint, а также изменение разрешений](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Прекращение общего доступа к файлам и папкам OneDrive или SharePoint, а также изменение разрешений](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [Гостевой доступ в Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
 
@@ -46,9 +46,9 @@ ms.locfileid: "36504260"
 
 Получается сообщение об ошибке у внешнего пользователя? &nbsp;Проверьте приведенные ниже ссылки.
 
-- [Сообщение об ошибке, когда внешний пользователь принимает приглашение на SharePoint Online с помощью другой учетной записи](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+- [Сообщение об ошибке, когда внешний пользователь принимает приглашение на SharePoint Online с помощью другой учетной записи](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Отказ в доступе к общей папке](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de)
+- [Отказ в доступе к общей папке](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
 - [Ошибки общего доступа к OSE в SharePoint и OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
