@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501704"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743358"
 ---
-# <a name="solutions-for-error-30068-39"></a><span data-ttu-id="112f1-102">Решения для ошибки 30068-39</span><span class="sxs-lookup"><span data-stu-id="112f1-102">Solutions for error 30068-39</span></span>
+# <a name="solutions-for-error-30068-39"></a><span data-ttu-id="2fdb7-102">Решения для ошибки 30068-39</span><span class="sxs-lookup"><span data-stu-id="2fdb7-102">Solutions for error 30068-39</span></span>
 
-<span data-ttu-id="112f1-103">Воспользуйтесь этими решениями, чтобы исправить ошибку [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):</span><span class="sxs-lookup"><span data-stu-id="112f1-103">Try these solutions to fix error [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):</span></span>
+<span data-ttu-id="2fdb7-103">Воспользуйтесь этими решениями, чтобы исправить ошибку [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):</span><span class="sxs-lookup"><span data-stu-id="2fdb7-103">Try these solutions to fix error [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):</span></span>
   
-- <span data-ttu-id="112f1-104">Перезагрузите компьютер и попытайтесь [установить Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="112f1-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="2fdb7-104">Перезагрузите компьютер и попытайтесь [установить Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="2fdb7-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
 
-- <span data-ttu-id="112f1-105">Убедитесь, что[Служба](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) Microsoft нажми и работай отключена и отключена, и измените ее состояние на " **вручную** **"** или " **автоматически**".</span><span class="sxs-lookup"><span data-stu-id="112f1-105">Check if the **Microsoft Click-to-Run**[service is disabled](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) and if it is disabled, change the status to **Manual** or **Automatic**.</span></span>
+- <span data-ttu-id="2fdb7-105">Убедитесь, что служба Microsoft нажми и **работай** [отключена](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) и отключена, и измените ее состояние на " **вручную** " или " **автоматически**".</span><span class="sxs-lookup"><span data-stu-id="2fdb7-105">Check if the **Microsoft Click-to-Run** [service is disabled](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) and if it is disabled, change the status to **Manual** or **Automatic**.</span></span>
 
-- <span data-ttu-id="112f1-106">Скачайте и установите [Помощник по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="112f1-106">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="2fdb7-106">Скачайте и установите [Помощник по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2fdb7-106">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="112f1-107">После **удаления продуктов Office** выберите версию, которую нужно удалить, и нажмите кнопку **Далее**.</span><span class="sxs-lookup"><span data-stu-id="112f1-107">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="2fdb7-107">После **удаления продуктов Office** выберите версию, которую нужно удалить, и нажмите кнопку **Далее**.</span><span class="sxs-lookup"><span data-stu-id="2fdb7-107">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="112f1-108">Продолжайте переходить к экранам и перезапускать компьютер при появлении соответствующего запроса.</span><span class="sxs-lookup"><span data-stu-id="112f1-108">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="2fdb7-108">Продолжайте переходить к экранам и перезапускать компьютер при появлении соответствующего запроса.</span><span class="sxs-lookup"><span data-stu-id="2fdb7-108">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="112f1-109">После перезапуска помощник по поддержке и восстановлению автоматически открывается для завершения процесса удаления.</span><span class="sxs-lookup"><span data-stu-id="112f1-109">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="2fdb7-109">После перезапуска помощник по поддержке и восстановлению автоматически открывается для завершения процесса удаления.</span><span class="sxs-lookup"><span data-stu-id="2fdb7-109">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="112f1-110">Следуйте оставшимся запросам и [переустановите Office](https://portal.office.com/OLS/MySoftware.aspx) или закройте помощник.</span><span class="sxs-lookup"><span data-stu-id="112f1-110">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="2fdb7-110">Следуйте оставшимся запросам и [переустановите Office](https://portal.office.com/OLS/MySoftware.aspx) или закройте помощник.</span><span class="sxs-lookup"><span data-stu-id="2fdb7-110">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
