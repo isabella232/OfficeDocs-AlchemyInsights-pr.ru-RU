@@ -1,6 +1,6 @@
 ---
 title: Ограничение SharePoint Online на классический режим
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 3/27/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: e7ecfd8c2f1a532355bfb8c2c0a846fc0d6e88b1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551572"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752081"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Ограничение SharePoint Online на классический режим
 
@@ -34,4 +34,4 @@ ms.locfileid: "36551572"
 
 Начиная с 1 апреля 2019 г., процесс отключения отказа от использования современного списка и библиотек на уровне клиента будет начинаться и продолжаться до 31 мая 2019.  Списки и библиотеки, которые находятся в классическом режиме в результате отказа клиента, автоматически перемещаются на современные.
 
-Если вам нужен классический режим, ознакомьтесь с дополнительными сведениями и инструкциями по PnP PowerShell, в которых описываются параметры и инструменты, которые можно использовать сегодня для использования классического режима работы. [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout)
+Если вам нужен классический режим, [Ознакомьтесь с дополнительными сведениями](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) и инструкциями по PnP PowerShell, в которых описываются параметры и инструменты [, которые можно](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) использовать сегодня для использования классического режима работы.

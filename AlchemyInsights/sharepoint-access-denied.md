@@ -1,6 +1,6 @@
 ---
 title: Устранение неполадок при доступе к сообщениям
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/29/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 942374d29ca334181e5a397c88d912828f01e349
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 915476f92f150288666268f1647f3cae7e9001a4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549124"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751793"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Устранение неполадок при доступе к сообщениям
 
@@ -33,7 +33,7 @@ ms.locfileid: "36549124"
 
 **Разрешить настраиваемый скрипт может вызывать проблемы, связанные с доступом**
 
-Существует несколько сценариев, в которых функция "разрешить пользовательский сценарий" может привести к отказу в доступе. Список затронутых компонентов, рекомендации по безопасности и возможность отключения этой функции. Посетите, разрешите [или запретите использование настраиваемого скрипта](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) .
+Существует несколько сценариев, в которых функция "разрешить пользовательский сценарий" может привести к отказу в доступе. Список затронутых компонентов, рекомендации по безопасности и возможность отключения этой функции. Посетите, [разрешите или запретите использование настраиваемого скрипта](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) .
 
 Примечание. Если сайт OneDrive или SharePoint недоступен для нескольких пользователей, у которых ранее был доступ, может возникнуть временная ошибка службы. [Проверьте панель мониторинга работоспособности службы](https://portal.office.com/adminportal/home#/servicehealth).
 

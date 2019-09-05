@@ -1,6 +1,6 @@
 ---
 title: Добавление папки или файлов в библиотеку документов
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 7aa01f5190dc93382aba5c5490b9943da92de284
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8f4bbcfc0b820af5ba54dd643c0e4451964f414
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503270"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750893"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>Не удается сохранить документы Office в библиотеках документов SharePoint или OneDrive
 
