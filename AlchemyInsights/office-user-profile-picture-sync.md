@@ -1,18 +1,18 @@
 ---
 title: Синхронизация аватара профиля пользователя
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: f86606b86a4493730e68e50a6a965f1441556aed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 77b956c6239ee5d97e1358986807180055ee0525
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543707"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753701"
 ---
 # <a name="sync-a-users-profile-picture"></a>Синхронизация аватара профиля пользователя
 
@@ -30,5 +30,5 @@ ms.locfileid: "36543707"
 
 Примечание. Если вы уже загрузили фотографию, вы можете попробовать щелкнуть плитку SharePoint или OneDrive, чтобы повторно синхронизировать эту фотографию.
 
-Дополнительные сведения см. [в сведениях о синхронизации изображений профилей в Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US)
+Дополнительные сведения см. [в сведениях о синхронизации изображений профилей в Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
 

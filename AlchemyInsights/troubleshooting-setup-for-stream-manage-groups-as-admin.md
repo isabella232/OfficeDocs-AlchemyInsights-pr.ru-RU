@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 7c1a870c8dff53c937e98bc3f690b237762b1638
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533352"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742710"
 ---
 # <a name="managing-microsoft-stream-licenses"></a>Управление лицензиями Microsoft Stream
 
 **Важно!** Для выполнения операций, описанных в этом разделе, необходимо быть членом роли администратора клиента.
 
-Необходимо быть глобальным администратором или администратором управления пользователями. Дополнительные сведения см. в статье [About Office 365 Admin Roles](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).
+Необходимо быть глобальным администратором или администратором управления пользователями. Более подробную информацию можно узнать в статье [сведения о ролях администратора](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
 
 Вы можете назначить [лицензии учетным записям пользователей с помощью Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
