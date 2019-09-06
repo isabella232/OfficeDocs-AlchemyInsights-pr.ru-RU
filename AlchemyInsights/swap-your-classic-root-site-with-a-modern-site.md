@@ -12,18 +12,18 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501092"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749273"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Замена на классическом корневом сайте современного сайта
 
 Если ваша среда настроена до апреля 2019, вы можете изменить свой корневой сайт на современный сайт с помощью Microsoft PowerShell:
 
-- Если вы хотите использовать другой сайт, который вы хотите использовать в качестве корневого сайта, вы можете заменить его на корневой сайт. 
+- Если вы хотите использовать другой сайт, который вы хотите использовать в качестве корневого сайта, вы можете заменить его на [корневой сайт](https://docs.microsoft.com/sharepoint/modern-root-site) . 
     - Используйте [командлет Invoke-споситесвап](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) для замены расположения сайта на другой сайт при архивации исходного сайта. Доступно как для сайта группы (не для подключения к группе), так и для сайта для общения. 
 
 - В скором времени будут представлены дополнительные возможности, которые позволят вам продолжить использовать контент на сайте, но преобразовать существующий сайт в сайт для общения. 

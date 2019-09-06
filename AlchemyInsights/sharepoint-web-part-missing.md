@@ -1,6 +1,6 @@
 ---
 title: Project Web App отсутствует в семействе веб-сайтов SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: a68fefa2f92ee43a6e26807fe89d034589b2476b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8c749ce5f7e6a00b990ca387833fac90f4e2ce17
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502592"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749669"
 ---
 # <a name="missing-web-part-in-sharepoint-site-collection"></a>Отсутствующая веб-часть в семействе веб-сайтов SharePoint
 
@@ -24,4 +24,4 @@ ms.locfileid: "36502592"
 
 Список недоступных веб-частей представлен в статье функции, [затрагиваемые при блокировке пользовательских сценариев](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
 
- Дополнительные сведения о влиянии пользовательского скрипта на безопасность можно найти в статье [вопросы безопасности](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script), связанные с разрешающим пользовательским скриптом.
+ Дополнительные сведения о влиянии пользовательского скрипта на безопасность можно найти в статье [вопросы безопасности, связанные с разрешающим пользовательским скриптом](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).

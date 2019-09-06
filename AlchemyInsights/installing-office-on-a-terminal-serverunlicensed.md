@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498428"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735402"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Установка Office на сервере терминалов
 
@@ -24,9 +24,9 @@ ms.locfileid: "36498428"
   
 - Вы должны иметь план Office 365, включающий Office 365 профессиональный плюс, например Office 365 Enterprise E3 или Enterprise "\". Планы Office 365 для бизнеса и Office 365 бизнес премиум не включают Office 365 профессиональный плюс.
 
-- Необходимо включить активацию на [общем компьютере](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Необходимо включить [активацию на общем компьютере](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Если вы хотите установить Office 365 профессиональный плюс в RDS с портала Office 365, ***который использует параметры установки по умолчанию***, выполните указанные ниже действия.
+Если вы хотите установить Office 365 профессиональный плюс в RDS из центра администрирования Microsoft 365, ***который использует параметры установки по умолчанию***, выполните указанные ниже действия.
   
 1. Проверьте, какой план Office 365 у вас есть. [Узнайте, как](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -34,13 +34,13 @@ ms.locfileid: "36498428"
 
 3. Если Office уже установлен на сервере RDS с помощью других планов Office 365, удалите его. Например, с помощью панели \> управления удалите программу. Удаление с помощью [помощника по поддержке и восстановлению Майкрософт](https://aka.ms/SARA-OfficeUninstall-Alchemy) , если у вас возникли проблемы.
 
-4. На сервере RDS Войдите на портал Office 365 с помощью учетной записи администратора и [установите Office 365 профессиональный плюс](https://portal.office.com/OLS/MySoftware.aspx).
+4. На сервере RDS Войдите в центр администрирования Microsoft 365 с учетной записью администратора и [установите Office 365 профессиональный плюс](https://portal.office.com/OLS/MySoftware.aspx).
 
 5. После установки Office ***не открывайте и не входите*** в приложения Office.
 
 6. На сервере RDS Включите активацию на общем компьютере, отредактировав реестр, выполнив указанные ниже действия.
 
-1. Щелкните правой кнопкой мыши кнопку Windows в левом нижнем углу экрана и выберите команду выполнить. В поле Открыть введите regedit **** и нажмите кнопку ОК.
+1. Щелкните правой кнопкой мыши кнопку Windows в левом нижнем углу экрана и выберите команду выполнить. В поле Открыть введите **regedit**и нажмите кнопку ОК.
 
 2. Выберите Да, если будет предложено разрешить редактору реестра вносить изменения на устройстве.
 
