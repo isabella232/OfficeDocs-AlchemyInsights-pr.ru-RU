@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504404"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068036"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>Журналы аудита SharePoint и OneDrive
 
@@ -38,9 +38,12 @@ ms.locfileid: "36504404"
 
 **Классические журналы аудита SharePoint**
 
-- [Просмотр и включение классических журналов аудита SharePoint](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Мы перенесли прежний аудит SPO в журнал единого аудита (UAL). Это означает, что все устаревшие отчеты аудита SPO теперь будут подаваться с помощью UAL, а устаревшие сигналы аудита будут перенесены на UAL.
 
-Аудит должен быть включен для каждого семейства веб-сайтов. 
+Основные изменения:
 
-**Примечание**: Мы рекомендуем использовать современные единые журналы аудита для улучшения и расширенных параметров аудита, чем в этих классических журналах аудита.
+- Усечение в качестве возможности недоступно.
+- Раздел, в котором выбираются конкретные события для аудита, недоступен. Обратитесь к [этому документу](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) , чтобы получить полный список отслеживаемых событий, доступных по умолчанию.
+- Параметр "расположение" в разделе " **настроенные отчеты** " недоступен. 
+- События "Открытие и скачивание документов" недоступны. 
 
