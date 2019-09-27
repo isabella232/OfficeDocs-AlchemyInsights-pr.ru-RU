@@ -2,7 +2,6 @@
 title: Установка Office на сервере терминалов — Нелицензировано
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
+ms.sourcegitcommit: 5e6a805fb0b41d714ca1cf90e23b8e2daa90f90e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735402"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37205422"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Установка Office на сервере терминалов
 
@@ -26,7 +25,10 @@ ms.locfileid: "36735402"
 
 - Необходимо включить [активацию на общем компьютере](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Если вы хотите установить Office 365 профессиональный плюс в RDS из центра администрирования Microsoft 365, ***который использует параметры установки по умолчанию***, выполните указанные ниже действия.
+Если вы хотите установить Office 365 профессиональный плюс в RDS из центра администрирования Microsoft 365, ***который использует параметры установки по умолчанию***, выполните следующие действия.
+
+> [!TIP]
+> Вы также можете скачать и запустить [Помощник по поддержке и восстановлению Майкрософт](https://aka.ms/SaRA_OfficeSCA_M365Portal) , чтобы установить Office 365 профессиональный плюс в режиме активации на общем компьютере.
   
 1. Проверьте, какой план Office 365 у вас есть. [Узнайте, как](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 

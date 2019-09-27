@@ -2,7 +2,6 @@
 title: Расположение данных
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514163"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207274"
 ---
 # <a name="data-location"></a>Расположение данных
 
-Мы поддерживаем несколько копий данных в центрах обработки данных для обеспечения избыточности. [Посмотрите, где расположены ваши данные](https://office.com/datamaps). Если вы развернете расположение ваших данных в новую страну или регион, мы предоставим вам одно и то же дополнительное уведомление.
-  
-Дополнительные сведения о безопасности, конфиденциальности и совместимости Office 365 можно найти в [центре управления безопасностью office 365](https://products.office.com/business/office-365-trust-center-welcome).
-  
+Вы можете просмотреть расположение клиента Office 365 в центре администрирования или подключиться к Exchange Online с помощью PowerShell.
+
+
+**Центр администрирования:**
+1. Выполните вход в [центр администрирования](https://admin.microsoft.com/Adminportal/Home).
+2. Выберите **параметр** > **профиль организации**.
+3. В разделе **расположение данных**выберите **Просмотреть сведения**.
+
+
+**Типов**
+1. Подключитесь к Exchange Online с помощью Windows PowerShell.
+2. Выполните командлет [Get – OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) для отображения списка свойств клиента. 
+3. Просмотрите свойство Организатионид.
+
+Если у вас есть расположение данных для EXO и SPO, вы можете определить расположение данных для других служб, из которых можно использовать [данные](https://products.office.com/where-is-your-data-located).
