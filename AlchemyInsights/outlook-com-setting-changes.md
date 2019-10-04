@@ -9,12 +9,12 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b710fdd2f258b8142bb536205ce7e969c4669e2c
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
+ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752909"
+ms.lasthandoff: 10/03/2019
+ms.locfileid: "37386378"
 ---
 # <a name="settings-in-outlookcom"></a>Параметры в Outlook.com
 
@@ -23,10 +23,17 @@ ms.locfileid: "36752909"
 **Представители** пользователей, которым была отправлена защищенная электронная почта, не могут открывать защищенные сообщения. Сведения в сообщении могут просматривать только первоначальные получатели (пользователь, которому была отправлена защищенная электронная почта).
 
 - Если получатель находится в другом поставщике услуг Интернета и&nbsp;не может открыть сообщение и просмотреть вложение "рпмсг", следуйте приведенным ниже инструкциям.
+    
     - Выберите **прочитать** сообщение.
+    
     - Они перенаправлены на страницу, на которой необходимо выбрать параметр **войти с помощью одноразового секретного кода**.
+    
     - Секретный код для одноразового использования отправляется на один и тот же адрес электронной почты. Введите код в окне браузера, а затем нажмите кнопку **продолжить** , чтобы прочитать сообщение.
+
 - Если вы не можете шифровать сообщения из другой организации Office 365, выполните действия, описанные в этой [статье](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164).
+
 - Если почтовый ящик получателя находится на **Yahoo или Gmail**, следуйте инструкциям</span> , приведенным в этой [статье](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
-- Политики защиты применяются только к [известным форматам файлов](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). Вложения в формате PDF и OneDrive для бизнеса не поддерживают шифрование.
+
+- Политики защиты применяются только к [известным форматам файлов](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). Вложения в OneDrive для бизнеса не поддерживают шифрование.
+
 - Общие почтовые ящики **не могут открывать зашифрованные сообщения в данный момент через любой клиент**. 
