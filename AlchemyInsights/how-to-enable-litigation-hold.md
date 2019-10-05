@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540770"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398640"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Помещение почтового ящика на удержание по юридическим причинам
 
-- Чтобы поместить почтовый ящик на удержание для судебного разбирательства или удержание на месте, необходима лицензия на Exchange Online (план 2) Exchange Online ( [план 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ). Если почтовому ящику назначена лицензия на план 1, можно назначить отдельную лицензию на надстройку архивации [](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)на базе Exchange Online для архивации.
+- Чтобы поместить почтовый ящик на удержание для судебного разбирательства или удержание на месте, необходима лицензия на Exchange Online (план 2) Exchange Online ( [план 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ). Если почтовому ящику назначена лицензия на план 1, можно назначить отдельную [лицензию на](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)надстройку архивации на базе Exchange Online для архивации.
 
-- Чтобы включить удержание для судебного разбирательства для одного пользователя, выполните указанные ниже [действия](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Если включено удержание судебного разбирательства, все содержимое почтового ящика сохраняется.
+- Чтобы включить удержание для судебного разбирательства для одного пользователя, выполните указанные ниже [действия](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Если включено удержание судебного разбирательства, все содержимое почтового ящика сохраняется.
 
-- Чтобы заблокировать все почтовые ящики в Организации, вы можете использовать политику хранения Office 365, выполнив [указанные ниже действия](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Обратите внимание, что для политик хранения на уровне Организации новые пользователи будут автоматически назначены политике.
+- Для сохранения контента во всех почтовых ящиках в Организации можно использовать [политику хранения Office 365 на уровне всей Организации](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Обратите внимание, что для политик хранения на уровне Организации новые пользователи будут автоматически назначены политике.
