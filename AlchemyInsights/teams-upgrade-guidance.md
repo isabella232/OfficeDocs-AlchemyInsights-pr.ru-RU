@@ -11,12 +11,12 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 79c956bd01844d4234500d93d6e5458cc3bb84ad
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 7c60869897cacd688f32b2e8f28b9fcd934aa510
+ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305134"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37469113"
 ---
 # <a name="microsoft-teams-upgrade"></a>Обновление Microsoft Teams
 
@@ -32,3 +32,4 @@ ms.locfileid: "37305134"
 
 [Выполнение обновления с локального Skype для бизнеса до Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
+[Проверка состояния Skype для бизнеса Online на обновление в Teams с помощью PowerShell](https://docs.microsoft.com/en-us/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
