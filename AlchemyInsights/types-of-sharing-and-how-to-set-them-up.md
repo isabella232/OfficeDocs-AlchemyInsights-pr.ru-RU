@@ -21,14 +21,14 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36742422"
 ---
-# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="e3765-102">Разные типы общих календарей Outlook и способы их настройки</span><span class="sxs-lookup"><span data-stu-id="e3765-102">Different types of shared calendars and how to set them up</span></span>
+# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="4daaa-102">Разные типы общих календарей Outlook и способы их настройки</span><span class="sxs-lookup"><span data-stu-id="4daaa-102">Different types of shared calendars and how to set them up</span></span>
 
-- [<span data-ttu-id="e3765-103">Создание общего почтового ящика</span><span class="sxs-lookup"><span data-stu-id="e3765-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
+- [<span data-ttu-id="4daaa-103">Создание общего почтового ящика</span><span class="sxs-lookup"><span data-stu-id="4daaa-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
 
-- [<span data-ttu-id="e3765-104">Почтовые ящики помещений и оборудования</span><span class="sxs-lookup"><span data-stu-id="e3765-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
+- [<span data-ttu-id="4daaa-104">Почтовые ящики помещений и оборудования</span><span class="sxs-lookup"><span data-stu-id="4daaa-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
 
-- [<span data-ttu-id="e3765-105">Создание группы календарей</span><span class="sxs-lookup"><span data-stu-id="e3765-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
+- [<span data-ttu-id="4daaa-105">Создание группы календарей</span><span class="sxs-lookup"><span data-stu-id="4daaa-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 
-- [<span data-ttu-id="e3765-106">Предоставление общего доступа к календарю Outlook другим пользователям</span><span class="sxs-lookup"><span data-stu-id="e3765-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="4daaa-106">Предоставление общего доступа к календарю Outlook другим пользователям</span><span class="sxs-lookup"><span data-stu-id="4daaa-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-<span data-ttu-id="e3765-107">Если вы не видите сведения о доступности в чужих календарях (или такие сведения из вашего календаря не видны другим), воспользуйтесь [помощником по поддержке и восстановлению для Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="e3765-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="4daaa-107">Если вы не видите сведения о доступности в чужих календарях (или такие сведения из вашего календаря не видны другим), воспользуйтесь [помощником по поддержке и восстановлению для Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="4daaa-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
