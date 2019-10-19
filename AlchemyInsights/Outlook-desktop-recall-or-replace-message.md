@@ -10,10 +10,10 @@ ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496124"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Отзыв или замена сообщения электронной почты в Outlook
@@ -37,4 +37,4 @@ ms.locfileid: "36496124"
 - [Создайте поиск контента](https://docs.microsoft.com/office365/securitycompliance/content-search) , чтобы найти сообщение, которое требуется удалить.
 - [Подключение к PowerShell центра безопасности и соответствия требованиям](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Если вы используете многофакторную проверку подлинности, ознакомьтесь со статьей [Подключение к Office 365 Security and Security Center PowerShell с использованием многофакторной проверки](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)подлинности.
+Если вы используете многофакторную проверку подлинности, ознакомьтесь со статьей [Подключение к Office 365 Security and Security Center PowerShell с использованием многофакторной проверки подлинности](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

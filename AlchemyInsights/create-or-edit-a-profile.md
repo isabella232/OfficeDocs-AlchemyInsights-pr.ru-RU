@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
 ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515172"
 ---
 # <a name="create-or-edit-an-outlook-profile"></a>Создание или изменение профиля Outlook
 
 Чтобы создать новый профиль Outlook, изменить профиль или переименовать профиль, выполните указанные ниже действия.
   
-1. В Outlook **** \> **выберите параметры** \> учетных записей **управления профилями**.
+1. В **Outlook выберите** \> \> **Параметры учетных записей** **управления профилями**.
     
 2. В диалоговом окне **Настройка почты** выберите пункт **Показать профили**.
     

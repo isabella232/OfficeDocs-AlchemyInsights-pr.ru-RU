@@ -7,25 +7,24 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "311"
+- "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 114b6402f7b2a6f33671cf90415ec142df096f67
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0f46024ed7460579da0095f437dfccc1ffa7cdda
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666997"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37590399"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams — гостевой доступ
 
-Нужна помощь по включению и настройке функции гостевого доступа в Microsoft Teams?
+Нужна помощь по включению и настройке функции гостевого доступа в Microsoft Teams?  
 
-Вот что вам нужно будет сделать:
+Для начала убедитесь, что выполнены все действия, описанные в [контрольном списке гостевого доступа](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist). После выполнения всех этих действий необходимо [подождать до 24 часов](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies) , чтобы изменения вступили в силу.
 
-1. Авторизация гостевого доступа.
-1. Добавление гостей в команду.
-1. Настройка разрешений гостевого пользователя.
+Если вы уверены, что выполнили все действия, описанные в контрольном списке, и оно было более 24 часов, попробуйте [Добавить гостя в команду](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
 Для получения дополнительных сведений, включая видеоролики, ознакомьтесь со статьей [гостевой доступ в Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).

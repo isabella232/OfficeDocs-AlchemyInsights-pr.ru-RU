@@ -10,10 +10,10 @@ localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
 ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661813"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Увеличение размера архивного почтового ящика
@@ -24,8 +24,8 @@ Office 365 [ограничит](https://docs.microsoft.com/office365/servicedesc
 
 - Удаление элементов из архивного почтового ящика.
 
-В Office 365 предоставляется неограниченный **Архив** для лицензий на Office 365 корпоративный E3 и водосостав. Администратор должен включить эту функцию до достижения максимального размера архивного почтового ящика. При включенном неограниченном архивировании в архивный почтовый ящик может уйти до 30 дней. Поэтому мы рекомендуем администраторам проверять свободное пространство в архивном почтовом ящике, что позволяет пользователю продолжать использовать архивный почтовый ящик при его развертывании. Дополнительные сведения [: обзор неограниченного архивирования в office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) и [Включение неограниченного архивирования в Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+В Office 365 предоставляется **неограниченный Архив** для лицензий на Office 365 корпоративный E3 и водосостав. Администратор должен включить эту функцию до достижения максимального размера архивного почтового ящика. При включенном неограниченном архивировании в архивный почтовый ящик может уйти до 30 дней. Поэтому мы рекомендуем администраторам проверять свободное пространство в архивном почтовом ящике, что позволяет пользователю продолжать использовать архивный почтовый ящик при его развертывании. Дополнительные сведения [: обзор неограниченного архивирования в office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) и [Включение неограниченного архивирования в Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
 
-Дополнительные сведения о доступе к архивному почтовому ящику из Outlook можно узнать [в статье требования к Outlook для доступа к элементам в автоматически](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive)развернутом архиве. Чтобы настроить политику хранения, которая автоматически перемещает элементы в архивный почтовый ящик, обратитесь к разделу [Настройка политики архивации и удаления для почтовых ящиков в организации Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+Дополнительные сведения о доступе к архивному почтовому ящику из Outlook можно узнать [в статье требования к Outlook для доступа к элементам в автоматически развернутом архиве](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Чтобы настроить политику хранения, которая автоматически перемещает элементы в архивный почтовый ящик, обратитесь к разделу [Настройка политики архивации и удаления для почтовых ящиков в организации Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
 
 **Note**: автоматическое расширение архивов не поддерживается для основных почтовых ящиков в Exchange 2010.
