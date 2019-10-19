@@ -14,17 +14,17 @@ ms.custom:
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
 ms.openlocfilehash: c44983a73e90961835f447ef1ae9714cc29059fb
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738570"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="7dbe4-102">Изменение поведения "Отправить как" для общего почтового ящика</span><span class="sxs-lookup"><span data-stu-id="7dbe4-102">Changing shared mailbox Send As behavior</span></span>
+# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="c11ce-102">Изменение поведения "Отправить как" для общего почтового ящика</span><span class="sxs-lookup"><span data-stu-id="c11ce-102">Changing shared mailbox Send As behavior</span></span>
 
-<span data-ttu-id="7dbe4-p101">По умолчанию сообщения, отправленные с общего почтового ящика, не сохраняются в папке "Отправленные" этого почтового ящика. Вместо этого они сохраняются в папке "Отправленные" отправителя.</span><span class="sxs-lookup"><span data-stu-id="7dbe4-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
+<span data-ttu-id="c11ce-p101">По умолчанию сообщения, отправленные с общего почтового ящика, не сохраняются в папке "Отправленные" этого почтового ящика. Вместо этого они сохраняются в папке "Отправленные" отправителя.</span><span class="sxs-lookup"><span data-stu-id="c11ce-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
   
-<span data-ttu-id="7dbe4-105">Если вы хотите, чтобы все участники видели отправленные сообщения электронной почты, в центре администрирования Microsoft 365, измените сведения о общих почтовых ящиках и нажмите кнопку **изменить** **Отправленные элементы** \> .</span><span class="sxs-lookup"><span data-stu-id="7dbe4-105">If you want to all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
+<span data-ttu-id="c11ce-105">Если вы хотите, чтобы все участники видели отправленные сообщения электронной почты, в центре администрирования Microsoft 365, измените сведения о общих почтовых ящиках и нажмите кнопку **изменить** **Отправленные элементы** \> .</span><span class="sxs-lookup"><span data-stu-id="c11ce-105">If you want to all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
   
-<span data-ttu-id="7dbe4-106">Чтобы узнать больше, ознакомьтесь [со статьей Создание общего почтового ящика](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="7dbe4-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+<span data-ttu-id="c11ce-106">Чтобы узнать больше, ознакомьтесь [со статьей Создание общего почтового ящика](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="c11ce-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
   

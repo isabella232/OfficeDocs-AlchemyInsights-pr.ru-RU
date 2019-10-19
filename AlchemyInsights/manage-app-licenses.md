@@ -13,28 +13,28 @@ ms.custom:
 - "1500008"
 - "2443"
 ms.openlocfilehash: 0282917f473dbe0718953c8668c4730d8f3448fd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497384"
 ---
-# <a name="manage-office-365-app-licenses"></a><span data-ttu-id="d5e7e-102">Управление лицензиями на приложения Office 365</span><span class="sxs-lookup"><span data-stu-id="d5e7e-102">Manage Office 365 app licenses</span></span>
+# <a name="manage-office-365-app-licenses"></a><span data-ttu-id="97d7f-102">Управление лицензиями на приложения Office 365</span><span class="sxs-lookup"><span data-stu-id="97d7f-102">Manage Office 365 app licenses</span></span>
 
-## <a name="to-change-license-quantity"></a><span data-ttu-id="d5e7e-103">Изменение количества лицензий</span><span class="sxs-lookup"><span data-stu-id="d5e7e-103">To change license quantity</span></span>
+## <a name="to-change-license-quantity"></a><span data-ttu-id="97d7f-103">Изменение количества лицензий</span><span class="sxs-lookup"><span data-stu-id="97d7f-103">To change license quantity</span></span>
 
-1. <span data-ttu-id="d5e7e-104">Перейдите на страницу \*\*\*\* > [службы &](https://go.microsoft.com/fwlink/p/?linkid=842054) выставления счетов, а затем выберите вкладку **приложения** .</span><span class="sxs-lookup"><span data-stu-id="d5e7e-104">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="97d7f-104">Перейдите на страницу[службы &](https://go.microsoft.com/fwlink/p/?linkid=842054) **выставления счетов** > , а затем выберите вкладку **приложения** .</span><span class="sxs-lookup"><span data-stu-id="97d7f-104">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="d5e7e-105">Найдите и выберите приложение, которое вы хотите изменить.</span><span class="sxs-lookup"><span data-stu-id="d5e7e-105">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="97d7f-105">Найдите и выберите приложение, которое вы хотите изменить.</span><span class="sxs-lookup"><span data-stu-id="97d7f-105">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="d5e7e-106">Выберите **Добавить или удалить лицензии**.</span><span class="sxs-lookup"><span data-stu-id="d5e7e-106">Select **Add/remove licenses**.</span></span>
+3. <span data-ttu-id="97d7f-106">Выберите **Добавить или удалить лицензии**.</span><span class="sxs-lookup"><span data-stu-id="97d7f-106">Select **Add/remove licenses**.</span></span>
 
-4. <span data-ttu-id="d5e7e-107">Введите новое число необходимых лицензий.</span><span class="sxs-lookup"><span data-stu-id="d5e7e-107">Enter the new number of licenses needed.</span></span> <span data-ttu-id="d5e7e-108">Например, если у вас есть 5 лицензий и требуется 4, введите 4 в поле " **всего лицензий** ".</span><span class="sxs-lookup"><span data-stu-id="d5e7e-108">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="d5e7e-109">Если в настоящее время имеется 5 лицензий и требуется 10 лицензий, введите 10 в поле " **всего лицензий** ".</span><span class="sxs-lookup"><span data-stu-id="d5e7e-109">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
+4. <span data-ttu-id="97d7f-107">Введите новое число необходимых лицензий.</span><span class="sxs-lookup"><span data-stu-id="97d7f-107">Enter the new number of licenses needed.</span></span> <span data-ttu-id="97d7f-108">Например, если у вас есть 5 лицензий и требуется 4, введите 4 в поле " **всего лицензий** ".</span><span class="sxs-lookup"><span data-stu-id="97d7f-108">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="97d7f-109">Если в настоящее время имеется 5 лицензий и требуется 10 лицензий, введите 10 в поле " **всего лицензий** ".</span><span class="sxs-lookup"><span data-stu-id="97d7f-109">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
 
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="d5e7e-110">Назначение лицензий на приложение</span><span class="sxs-lookup"><span data-stu-id="d5e7e-110">To assign app licenses</span></span>
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="97d7f-110">Назначение лицензий на приложение</span><span class="sxs-lookup"><span data-stu-id="97d7f-110">To assign app licenses</span></span>
 
-1. <span data-ttu-id="d5e7e-111">Перейдите на страницу \*\*\*\* > [службы &](https://go.microsoft.com/fwlink/p/?linkid=842054) выставления счетов, а затем выберите вкладку **приложения** .</span><span class="sxs-lookup"><span data-stu-id="d5e7e-111">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="97d7f-111">Перейдите на страницу[службы &](https://go.microsoft.com/fwlink/p/?linkid=842054) **выставления счетов** > , а затем выберите вкладку **приложения** .</span><span class="sxs-lookup"><span data-stu-id="97d7f-111">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="d5e7e-112">Найдите и выберите приложение, которое вы хотите изменить.</span><span class="sxs-lookup"><span data-stu-id="d5e7e-112">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="97d7f-112">Найдите и выберите приложение, которое вы хотите изменить.</span><span class="sxs-lookup"><span data-stu-id="97d7f-112">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="d5e7e-113">В разделе **параметры & действий**выберите ссылку для **управления на портале издателя**.</span><span class="sxs-lookup"><span data-stu-id="d5e7e-113">Under **Settings & actions**, select the link to **Manage in publisher’s portal**.</span></span>
+3. <span data-ttu-id="97d7f-113">В разделе **параметры & действий**выберите ссылку для **управления на портале издателя**.</span><span class="sxs-lookup"><span data-stu-id="97d7f-113">Under **Settings & actions**, select the link to **Manage in publisher’s portal**.</span></span>
