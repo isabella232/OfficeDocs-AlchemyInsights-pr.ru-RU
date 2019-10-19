@@ -12,17 +12,17 @@ ms.custom:
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
 ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754853"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a><span data-ttu-id="0ad6c-102">Использование банка терминов SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="0ad6c-102">How to use the SharePoint Online Term store</span></span>
+# <a name="how-to-use-the-sharepoint-online-term-store"></a><span data-ttu-id="533c4-102">Использование банка терминов SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="533c4-102">How to use the SharePoint Online Term store</span></span>
 
-<span data-ttu-id="0ad6c-103">Банк терминов доступен для администраторов Office 365 Global Admin, Admin SharePoint и банка терминов, и их можно найти в новом центре администрирования SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="0ad6c-103">The Term Store is available to an Office 365 Global Admin, SharePoint Admin, and Term Store Admins and can be found in the new SharePoint Online admin center.</span></span>
+<span data-ttu-id="533c4-103">Банк терминов доступен для администраторов Office 365 Global Admin, Admin SharePoint и банка терминов, и их можно найти в новом центре администрирования SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="533c4-103">The Term Store is available to an Office 365 Global Admin, SharePoint Admin, and Term Store Admins and can be found in the new SharePoint Online admin center.</span></span>
   
-<span data-ttu-id="0ad6c-104">Дополнительные сведения о том, как использовать банк терминов SharePoint Online и таксономию в SharePoint Online, можно узнать в статье Общие сведения о [управляемых метаданных](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="0ad6c-104">For more information on how to use the SharePoint Online Term Store and taxonomy within SharePoint Online, see [Introduction to managed metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span></span>
+<span data-ttu-id="533c4-104">Дополнительные сведения о том, как использовать банк терминов SharePoint Online и таксономию в SharePoint Online, можно узнать в статье Общие сведения о [управляемых метаданных](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="533c4-104">For more information on how to use the SharePoint Online Term Store and taxonomy within SharePoint Online, see [Introduction to managed metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="0ad6c-105">Если у вас возникли проблемы с терминами, которые не отображаются или периодически отображаются, рекомендуем подождать 24 часа, а затем завести запрос в службу поддержки, если проблема не исчезнет.</span><span class="sxs-lookup"><span data-stu-id="0ad6c-105">If you are having an issue with terms not appearing or appearing intermittently, we recommend you wait 24 hours, and then log a support request if the issue persists.</span></span> <span data-ttu-id="0ad6c-106">Хотя 24 часа могут быть длительными, может возникнуть проблема с кэшированием, или мы уже можем придуматься к решению этой проблемы.</span><span class="sxs-lookup"><span data-stu-id="0ad6c-106">Even though 24 hours can be a long time, there could be a caching issue or we may already be working on a solution to this problem.</span></span>
+<span data-ttu-id="533c4-105">Если у вас возникли проблемы с терминами, которые не отображаются или периодически отображаются, рекомендуем подождать 24 часа, а затем завести запрос в службу поддержки, если проблема не исчезнет.</span><span class="sxs-lookup"><span data-stu-id="533c4-105">If you are having an issue with terms not appearing or appearing intermittently, we recommend you wait 24 hours, and then log a support request if the issue persists.</span></span> <span data-ttu-id="533c4-106">Хотя 24 часа могут быть длительными, может возникнуть проблема с кэшированием, или мы уже можем придуматься к решению этой проблемы.</span><span class="sxs-lookup"><span data-stu-id="533c4-106">Even though 24 hours can be a long time, there could be a caching issue or we may already be working on a solution to this problem.</span></span>
   
