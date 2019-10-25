@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637790"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654269"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Управление параметрами и уровнем участия в зале ожидания
 
@@ -24,7 +24,7 @@ ms.locfileid: "37637790"
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Для этого командлета в настоящее время требуется использование модуля PowerShell Skype для бизнеса. Чтобы запустить программу установки для использования этого командлета, изучите Управление политиками с помощью PowerShell.
+Для этого командлета в настоящее время требуется использование модуля PowerShell Skype для бизнеса. Чтобы запустить программу установки для использования этого командлета, изучите [Управление политиками с помощью PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Можно настроить новую политику, которая затем потребуется применить к пользователям. Если вы измените глобальную политику, она будет автоматически применена к пользователям. При изменении политики необходимо подождать не менее 4 часов и до 24 часов, чтобы политики вступили в силу.
 

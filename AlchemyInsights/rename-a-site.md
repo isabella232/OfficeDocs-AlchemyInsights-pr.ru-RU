@@ -2,7 +2,6 @@
 title: Переименование сайта
 ms.author: pebaum
 author: Techwriter40
-ms.date: 9/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 453b19d9a35e074a9b0e8aaae5a4256110d4a1f9
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752189"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658378"
 ---
 # <a name="rename-a-sharepoint-site"></a>Переименование сайта SharePoint
 
-Чтобы изменить имя сайта (например, с https://contoso.sharepoint.com/sites/sample1 "на https://contoso.sharepoint.com/sites/sample2"), необходимо создать новый сайт, а затем переместить весь контент из старого сайта в новый. Сведения о перемещении элементов в библиотеках документов приведены в статье [Перемещение и копирование элементов из библиотеки документов SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018691).
-  
-Note: Если вы пытаетесь изменить доменное имя (то есть часть Contoso из указанного URL-адреса выше) в URL-адресе SharePoint Online, это невозможно. [В разделе изменение доменов](https://go.microsoft.com/fwlink/?Linkid=2018696).
+Выполните действия, описанные в [этой статье](https://docs.microsoft.com/sharepoint/change-site-address) , чтобы изменить имя сайта, например, с https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2.
+
+**Примечание:** Вы не можете изменить имя домена (в примере выше, Contoso-часть URL-адреса) в URL-адресе SharePoint Online. Дополнительные сведения см. [в разделе изменение доменов](https://go.microsoft.com/fwlink/?Linkid=2018696) .
   
