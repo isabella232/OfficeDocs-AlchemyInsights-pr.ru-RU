@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661057"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658306"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="79520-102">Управление хранилищем OneDrive</span><span class="sxs-lookup"><span data-stu-id="79520-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="d1292-102">Управление хранилищем OneDrive</span><span class="sxs-lookup"><span data-stu-id="d1292-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="79520-103">Чтобы изменить хранилище по умолчанию для новых и существующих пользователей OneDrive, выполните указанные ниже действия.</span><span class="sxs-lookup"><span data-stu-id="79520-103">To change the default storage for new and existing OneDrive users:</span></span>
-  
-- <span data-ttu-id="79520-104">Перейдите на [страницу "хранение" в центре администрирования OneDrive](https://admin.onedrive.com/?v=StorageSettings)и введите новое значение в ГБ.</span><span class="sxs-lookup"><span data-stu-id="79520-104">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and then enter a new amount in GB.</span></span>
+<span data-ttu-id="d1292-103">Пространство хранилища OneDrive не учитывает общую квоту клиента.</span><span class="sxs-lookup"><span data-stu-id="d1292-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
 
-<span data-ttu-id="79520-105">Этот параметр дискового пространства применяется ко всем пользователям, для которых не были заданы определенные пределы хранилища.</span><span class="sxs-lookup"><span data-stu-id="79520-105">This storage space setting applies to all users for whom you haven't set specific storage limits.</span></span> <span data-ttu-id="79520-106">Чтобы изменить дисковое пространство для определенных пользователей, необходимо использовать Microsoft PowerShell.</span><span class="sxs-lookup"><span data-stu-id="79520-106">To change the storage space for specific users, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="79520-107">Сведения о том, как это сделать, можно найти в статье [изменение пространства для хранения пользователей в OneDrive с помощью PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span><span class="sxs-lookup"><span data-stu-id="79520-107">For information on how to do this, see [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span> <span data-ttu-id="79520-108">Чтобы узнать, сколько места для хранения вы используете в OneDrive, ознакомьтесь со статьей [Управление хранилищем в onedrive для бизнеса](https://go.microsoft.com/fwlink/?linkid=866429).</span><span class="sxs-lookup"><span data-stu-id="79520-108">To check how much storage you're using in your own OneDrive, see [Manage your OneDrive for Business storage](https://go.microsoft.com/fwlink/?linkid=866429).</span></span> <span data-ttu-id="79520-109">Сведения о хранилище, которое поставляется с каждым планом, можно узнать в статье [Описание службы OneDrive для бизнеса](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span><span class="sxs-lookup"><span data-stu-id="79520-109">For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
+<span data-ttu-id="d1292-104">Узнайте [, как выделить место в хранилище OneDrive для каждого пользователя или плана](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span><span class="sxs-lookup"><span data-stu-id="d1292-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
+
+<span data-ttu-id="d1292-105">Сведения [о том, сколько места вы используете в вашем хранилище OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span><span class="sxs-lookup"><span data-stu-id="d1292-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
+
+<span data-ttu-id="d1292-106">Узнайте [, как получить квоту хранилища OneDrive с помощью PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span><span class="sxs-lookup"><span data-stu-id="d1292-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
+
+<span data-ttu-id="d1292-107">Корпорация Майкрософт изначально предоставит 1 ТБ на пользователя, который может увеличить до 5 ТБ на одного пользователя.</span><span class="sxs-lookup"><span data-stu-id="d1292-107">Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="d1292-108">Сведения о том [, как задать пространство для хранения по умолчанию для пользователей OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).</span><span class="sxs-lookup"><span data-stu-id="d1292-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
+
+<span data-ttu-id="d1292-109">Узнайте, [как изменить место хранения в OneDrive для конкретного пользователя](https://docs.microsoft.com/onedrive/change-user-storage).</span><span class="sxs-lookup"><span data-stu-id="d1292-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
+
+<span data-ttu-id="d1292-110">Узнайте, [как глобальные администраторы могут настроить квоту хранилища OneDrive для всех пользователей с помощью PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span><span class="sxs-lookup"><span data-stu-id="d1292-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
   
