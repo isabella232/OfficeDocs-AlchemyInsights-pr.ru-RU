@@ -13,10 +13,10 @@ ms.custom:
 - "9000144"
 - "1670"
 ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36738102"
 ---
 # <a name="workflow-is-not-starting"></a>Рабочий процесс не запускается
@@ -42,7 +42,7 @@ ms.locfileid: "36738102"
         Дополнительные сведения: [Очистка журнала рабочих процессов](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
-## <a name="related-topics"></a>Статьи по теме
+## <a name="related-topics"></a>Связанные статьи
 Хотите попробовать Microsoft Flow в SharePoint Online?
 - [Создание последовательности](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint и Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
