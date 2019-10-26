@@ -13,14 +13,14 @@ ms.custom:
 - "1200022"
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
 ms.openlocfilehash: aa594ead2f48bd6b6597746588b1edc16e08a14a
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36740622"
 ---
-# <a name="create-mailboxes-that-dont-require-licenses"></a><span data-ttu-id="620a5-102">Создание почтовых ящиков, для которых не требуются лицензии</span><span class="sxs-lookup"><span data-stu-id="620a5-102">Create mailboxes that don't require licenses</span></span>
+# <a name="create-mailboxes-that-dont-require-licenses"></a><span data-ttu-id="2c32c-102">Создание почтовых ящиков, для которых не требуются лицензии</span><span class="sxs-lookup"><span data-stu-id="2c32c-102">Create mailboxes that don't require licenses</span></span>
 
-- <span data-ttu-id="620a5-103">Если вам нужен адрес электронной почты группы для нескольких людей, ознакомьтесь [со статьей Создание общего почтового ящика](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="620a5-103">If you need a group email address for multiple people, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+- <span data-ttu-id="2c32c-103">Если вам нужен адрес электронной почты группы для нескольких людей, ознакомьтесь [со статьей Создание общего почтового ящика](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="2c32c-103">If you need a group email address for multiple people, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
 
-- <span data-ttu-id="620a5-104">Чтобы группа людей работала совместно и предоставлять общий доступ к электронной почте и файлам, ознакомьтесь со статьей " [сведения о группах Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)".</span><span class="sxs-lookup"><span data-stu-id="620a5-104">To allow a team of people to work together and share email and files, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+- <span data-ttu-id="2c32c-104">Чтобы группа людей работала совместно и предоставлять общий доступ к электронной почте и файлам, ознакомьтесь со статьей " [сведения о группах Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)".</span><span class="sxs-lookup"><span data-stu-id="2c32c-104">To allow a team of people to work together and share email and files, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
