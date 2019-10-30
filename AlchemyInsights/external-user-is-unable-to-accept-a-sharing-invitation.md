@@ -2,7 +2,6 @@
 title: Внешний пользователь не может принять приглашение к совместному использованию
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735906"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769136"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Внешний пользователь не может принять приглашение к совместному использованию
 
-Если внешний пользователь не может принять приглашение к совместному использованию, попробуйте посетить приведенные ниже ссылки. 
+Если внешний пользователь не может принять приглашение к совместному использованию SharePoint или OneDrive, попробуйте посетить приведенные ниже ссылки. 
 
 - ["Отказано в доступе", "требуется разрешение на доступ к этому сайту" или "пользователи не найдены в каталоге" в SharePoint Online и OneDrive для бизнеса](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["При совместном использовании элемента или сайта в SharePoint Online или OneDrive для бизнеса возникает ошибка" политики вашей организации не разрешают предоставлять доступ этим пользователям ".](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)

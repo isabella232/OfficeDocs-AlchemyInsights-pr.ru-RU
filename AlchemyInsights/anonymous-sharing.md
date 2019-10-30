@@ -1,5 +1,5 @@
 ---
-title: Анонимный доступ
+title: Анонимный общий доступ
 ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c2b06cc64d071a80fa6cafe0f066a3885e388d6b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747844"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768309"
 ---
-# <a name="anonymous-sharing"></a>Анонимный доступ
+# <a name="anonymous-sharing"></a>Анонимный общий доступ
 
  **Разрешение анонимного доступа**
   
@@ -23,7 +23,7 @@ ms.locfileid: "36747844"
   
 - Установите следующие флажки: **Разрешить общий доступ к прошедшему проверку подлинности внешним пользователям и использовать анонимный доступ.**
   
-(при необходимости можно указать количество дней, по прошествии которых будет истекать срок действия ссылок, и выбрать способ их использования получателями).
+(При необходимости можно задать срок действия ссылок в течение определенного количества дней, а также указать, как получатели могут использовать эти ссылки.)
     
  **Анонимный доступ к файлу или папке**
   

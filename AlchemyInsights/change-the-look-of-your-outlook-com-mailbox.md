@@ -3,7 +3,6 @@ title: Изменение внешнего вида почтового ящик�
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,14 +13,14 @@ ms.custom:
 - "792"
 - "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 612f3ef22dbad3ea4b77b26bb1d2e5d38f70e33f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a537e7e2b6d78948660ad3a98e02d73bfd73a449
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520896"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769712"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Изменение внешнего вида почтового ящика
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Изменение внешнего вида почтового ящика Outlook
 
 Вы можете изменить внешний вид списка сообщений и области чтения в разделе [Параметры макета](https://outlook.live.com/mail/options/mail/layout). Выберите, следует ли отображать электронную почту как отдельные сообщения или беседы, если новые сообщения появляются в верхней или нижней части списка сообщений и больше.
   

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37654269"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768453"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Управление параметрами и уровнем участия в зале ожидания
 
-Если вы хотите разрешить всем пользователям, в том числе пользователям с телефонным подключением, внешним пользователям и анонимным пользователям обходить свое время ожидания, вы можете использовать PowerShell. Ниже приведен пример изменения глобальной политики собраний для Организации.
+Если вы хотите разрешить всем пользователям, в том числе пользователям с телефонным подключением, внешним и анонимным пользователям обходить себя в Microsoft Teams, вы можете использовать PowerShell. Ниже приведен пример изменения глобальной политики собраний для Организации.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 

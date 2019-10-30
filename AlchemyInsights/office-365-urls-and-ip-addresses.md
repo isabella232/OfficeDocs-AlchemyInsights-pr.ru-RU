@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522048"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775328"
 ---
 # <a name="office-365-urls-and-ip-address-ranges"></a>URL-адреса и диапазоны IP-адресов Office 365
 
-Для Office 365 требуется подключение к Интернету. Конечные точки в этой статье, [URL-адреса и диапазоны IP-адресов для office 365](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)должны быть достижимыми для пользователей, обращающихся к Office 365.
+Для Office 365 требуется подключение к Интернету через определенные IP-адреса, называемые *конечными точками*.
+Список конечных точек, которые должны быть достижимыми, можно найти в статье [URL-адреса и диапазоны IP-адресов Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+
+Веб-служба IP-адресов и URL-адресов в Office 365 позволяет лучше выявлять и разграничивать сетевой трафик Office 365, упрощая оценку, настройку и обновление. См.: [IP-адрес и веб-служба URL Office 365](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).
