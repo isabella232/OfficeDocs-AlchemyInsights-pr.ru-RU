@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 98713a0d9d62b6eabb857ea8391cb7dff75b4da3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664142"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921863"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Как сделать покупку Office 365
 
@@ -28,6 +28,10 @@ ms.locfileid: "36664142"
 - Чтобы приобрести дополнительные лицензии, перейдите на страницу **выставления счетов** \> [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) . Выберите подписку, в которую вы хотите добавить лицензии, а затем выберите **Добавить или удалить лицензии**.
   
 Чтобы узнать больше, ознакомьтесь со статьей [купить лицензии для подписки на Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+
+**Устранение неполадок**
+
+При возникновении проблем с загрузкой страниц попробуйте открыть веб-страницу в другом браузере или попробуйте открыть ее в частном окне браузера, например в окне InPrivate в Microsoft EDGE или в окне инкогнито в Google Chrome. 
 
 **Дополнительные ресурсы**
   
