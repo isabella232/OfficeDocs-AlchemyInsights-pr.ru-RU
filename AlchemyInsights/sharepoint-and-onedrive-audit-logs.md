@@ -12,38 +12,40 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
-ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
+ms.openlocfilehash: be95034bea3c58a4fde96cfb0f9ba525e810758e
+ms.sourcegitcommit: 24e8248b0f061a76af50bf566d7a13fc24d29d99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37068036"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37992631"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>Журналы аудита SharePoint и OneDrive
 
-**Современные Объединенные журналы аудита SharePoint и OneDrive для обеспечения соответствия требованиям**
+## <a name="sharepoint-classic-audit-logs"></a>Классические журналы аудита SharePoint
 
-- [Включение и выключение ведения журнала единого аудита](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
-
-В SharePoint или OneDrive дополнительные настройки не требуются.
-
-- Используйте поиск в журнале аудита, чтобы проверить активность файлов, папок, пользователей, разрешений:
-
-    - [Действия с файлами и страницами](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [Действия с папками](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [Общие действия и запросы на доступ](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [Действия синхронизации](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [Действия по администрированию сайта](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- Дополнительные сведения о получении этих событий можно найти [в статье Поиск в журнале аудита](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-
-**Классические журналы аудита SharePoint**
-
-Мы перенесли прежний аудит SPO в журнал единого аудита (UAL). Это означает, что все устаревшие отчеты аудита SPO теперь будут подаваться с помощью UAL, а устаревшие сигналы аудита будут перенесены на UAL.
+Прежний аудит SPO был перенесен в единый журнал аудита (UAL). Все устаревшие отчеты об аудите SPO теперь будут подаваться с помощью UAL, а устаревшие сигналы аудита будут перенесены на UAL.
 
 Основные изменения:
 
-- Усечение в качестве возможности недоступно.
-- Раздел, в котором выбираются конкретные события для аудита, недоступен. Обратитесь к [этому документу](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) , чтобы получить полный список отслеживаемых событий, доступных по умолчанию.
-- Параметр "расположение" в разделе " **настроенные отчеты** " недоступен. 
-- События "Открытие и скачивание документов" недоступны. 
+* Фильтрация недоступна в качестве возможности.
+* Выбор определенных событий для аудита недоступен. В [этом документе](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) приведен полный список событий аудита, доступных по умолчанию.
+* Параметр **Расположение** в разделе **настроенные отчеты** недоступен.
+* Параметр **Открытие или скачивание событий документов** недоступен.
 
+[Настройка параметров аудита для семейства веб-сайтов](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
+
+## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Современные Объединенные журналы аудита SharePoint и OneDrive для обеспечения соответствия требованиям
+
+* [Включение и выключение ведения журнала единого аудита](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+
+В SharePoint или OneDrive дополнительные настройки не требуются.
+
+Используйте поиск в журнале аудита, чтобы проверить активность файлов, папок, пользователей, разрешений:
+
+* [Действия с файлами и страницами](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+* [Действия с папками](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Общие действия и запросы на доступ](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Действия синхронизации](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Действия по администрированию сайта](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+
+Дополнительные сведения о получении этих событий можно найти [в статье Поиск в журнале аудита](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
