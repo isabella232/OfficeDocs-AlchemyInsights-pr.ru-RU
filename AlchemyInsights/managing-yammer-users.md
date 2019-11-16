@@ -12,10 +12,10 @@ ms.custom:
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
 ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36734934"
 ---
 # <a name="managing-yammer-users"></a>Управление пользователями Yammer
@@ -28,7 +28,7 @@ ms.locfileid: "36734934"
 
   - Управление пользователями Yammer из Office 365
 
-2. Сведения о том, как управлять пользователями в консоли администрирования Yammer, можно найти в статье [Добавление, блокировка и удаление пользователей Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) . Это включает:
+2. Сведения о том, как управлять пользователями в консоли администрирования Yammer, можно найти в статье [Добавление, блокировка и удаление пользователей Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) . К ним относятся:
 
   - Приглашение или удаление пользователей
 
