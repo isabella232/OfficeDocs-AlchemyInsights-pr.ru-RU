@@ -11,21 +11,21 @@ ms.custom:
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
 ms.openlocfilehash: b35977262d94cdd9980bb0fb64b478a64acb1a5f
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768597"
 ---
-# <a name="remove-a-hub-site"></a><span data-ttu-id="b7311-102">Удаление центрального сайта</span><span class="sxs-lookup"><span data-stu-id="b7311-102">Remove a hub site</span></span>
+# <a name="remove-a-hub-site"></a><span data-ttu-id="80e12-102">Удаление центрального сайта</span><span class="sxs-lookup"><span data-stu-id="80e12-102">Remove a hub site</span></span>
 
-<span data-ttu-id="b7311-103">Чтобы отменить регистрацию центрального сайта в новом центре администрирования SharePoint, выполните указанные ниже действия.</span><span class="sxs-lookup"><span data-stu-id="b7311-103">To unregister a hub site in the new SharePoint admin center:</span></span>
+<span data-ttu-id="80e12-103">Чтобы отменить регистрацию центрального сайта в новом центре администрирования SharePoint, выполните указанные ниже действия.</span><span class="sxs-lookup"><span data-stu-id="80e12-103">To unregister a hub site in the new SharePoint admin center:</span></span>
   
-1. <span data-ttu-id="b7311-104">В новом центре администрирования SharePoint в разделе **сайты**щелкните **активные сайты**.</span><span class="sxs-lookup"><span data-stu-id="b7311-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
+1. <span data-ttu-id="80e12-104">В новом центре администрирования SharePoint в разделе **сайты**щелкните **активные сайты**.</span><span class="sxs-lookup"><span data-stu-id="80e12-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
 
-2. <span data-ttu-id="b7311-105">Выберите сайт, щелкните **центральный сайт**, а затем выберите пункт **отменить регистрацию в качестве центрального сайта**.</span><span class="sxs-lookup"><span data-stu-id="b7311-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span>
+2. <span data-ttu-id="80e12-105">Выберите сайт, щелкните **центральный сайт**, а затем выберите пункт **отменить регистрацию в качестве центрального сайта**.</span><span class="sxs-lookup"><span data-stu-id="80e12-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span>
 
-3. <span data-ttu-id="b7311-106">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="b7311-106">Click **OK**.</span></span>
+3. <span data-ttu-id="80e12-106">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="80e12-106">Click **OK**.</span></span>
 
-<span data-ttu-id="b7311-107">[Подробнее о центральных сайтах](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f).</span><span class="sxs-lookup"><span data-stu-id="b7311-107">[Learn more about hub sites](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)</span></span>
+<span data-ttu-id="80e12-107">[Подробнее о центральных сайтах](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f).</span><span class="sxs-lookup"><span data-stu-id="80e12-107">[Learn more about hub sites](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)</span></span>
   
