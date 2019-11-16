@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
 ms.openlocfilehash: 7da849fbacbbc32272731cf5829b26437983af4e
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36526620"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a><span data-ttu-id="62069-102">В Outlook для Mac возникают повторяющиеся приглашения на пароль?</span><span class="sxs-lookup"><span data-stu-id="62069-102">Experiencing repeated password prompts in Outlook for Mac?</span></span>
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a><span data-ttu-id="9d84e-102">В Outlook для Mac возникают повторяющиеся приглашения на пароль?</span><span class="sxs-lookup"><span data-stu-id="9d84e-102">Experiencing repeated password prompts in Outlook for Mac?</span></span>
 
-<span data-ttu-id="62069-103">Вы можете предоставить более специализированную справку по Outlook для Mac непосредственно в приложении.</span><span class="sxs-lookup"><span data-stu-id="62069-103">We can help provide more specialized Outlook for Mac help directly from the application.</span></span>
+<span data-ttu-id="9d84e-103">Вы можете предоставить более специализированную справку по Outlook для Mac непосредственно в приложении.</span><span class="sxs-lookup"><span data-stu-id="9d84e-103">We can help provide more specialized Outlook for Mac help directly from the application.</span></span>
   
-<span data-ttu-id="62069-104">Перейдите к разделу Mac затронутого пользователя, откройте Outlook и щелкните ссылку **Справка** \> **Поддержка**.</span><span class="sxs-lookup"><span data-stu-id="62069-104">Please go to the affected user's Mac, open Outlook, and click on **Help** \> **Contact Support**.</span></span>
+<span data-ttu-id="9d84e-104">Перейдите к разделу Mac затронутого пользователя, откройте Outlook и щелкните ссылку **Справка** \> **Поддержка**.</span><span class="sxs-lookup"><span data-stu-id="9d84e-104">Please go to the affected user's Mac, open Outlook, and click on **Help** \> **Contact Support**.</span></span>
   
-<span data-ttu-id="62069-105">Дополнительные сведения об использовании Outlook для Mac в службе поддержки клиентов в приложениях можно найти в этой статье: [Новая функция поддержки контактов в outlook 2016 для Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="62069-105">To learn more about using Outlook for Mac in-app customer support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
+<span data-ttu-id="9d84e-105">Дополнительные сведения об использовании Outlook для Mac в службе поддержки клиентов в приложениях можно найти в этой статье: [Новая функция поддержки контактов в outlook 2016 для Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="9d84e-105">To learn more about using Outlook for Mac in-app customer support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
   
 
