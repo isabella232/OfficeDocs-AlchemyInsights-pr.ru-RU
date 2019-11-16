@@ -12,10 +12,10 @@ ms.custom:
 - "2673"
 - "9000740"
 ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768453"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Управление параметрами и уровнем участия в зале ожидания
@@ -38,6 +38,6 @@ ms.locfileid: "37768453"
 
 - [Разрешить пользователям с телефонным подключением обходить "зал ожидания"](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**скоро**) — это политика для каждого организатора, которая определяет, будут ли пользователи, подключающиеся по телефону, напрямую или в зале ожидания, независимо от параметра автоматически допустить **людей** .
 
-- [Разрешить организаторов переопределять параметры ожидания](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**ожидается в ближайшее время**) — это политика для каждого организатора, которая определяет, может ли организатор собрания переопределять параметры, заданные администратором автоматически, допустить **людей** и **Разрешить подключение по телефонной линии Пользователи могут обходить зал ожидания** при планировании нового собрания.
+- [Разрешить организаторов переопределять параметры ожидания](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**ожидается**) — это политика для каждого организатора, которая определяет, может ли организатор собрания переопределять параметры, заданные администратором **автоматически** , допустить людей и **разрешать пользователям с телефонным подключением обходить** свое время ожидания при планировании нового собрания.
 
 **Примечание:** Ознакомьтесь с разделом [Управление политиками собраний в Teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) , чтобы получить полный обзор политик собраний Microsoft Teams.
