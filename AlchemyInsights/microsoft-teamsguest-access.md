@@ -12,19 +12,19 @@ ms.custom:
 - "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 0f46024ed7460579da0095f437dfccc1ffa7cdda
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4d1210df5614901b4525ee1c8be32db61a46a179
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590399"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627515"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams — гостевой доступ
 
 Нужна помощь по включению и настройке функции гостевого доступа в Microsoft Teams?  
 
-Для начала убедитесь, что выполнены все действия, описанные в [контрольном списке гостевого доступа](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist). После выполнения всех этих действий необходимо [подождать до 24 часов](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies) , чтобы изменения вступили в силу.
+Для начала убедитесь, что выполнены все действия, описанные в [контрольном списке гостевого доступа](https://docs.microsoft.com/microsoftteams/guest-access-checklist). После выполнения всех этих действий необходимо [подождать до 24 часов](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , чтобы изменения вступили в силу.
 
-Если вы уверены, что выполнили все действия, описанные в контрольном списке, и оно было более 24 часов, попробуйте [Добавить гостя в команду](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Если вы уверены, что выполнили все действия, описанные в контрольном списке, и оно было более 24 часов, попробуйте [Добавить гостя в команду](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
 Для получения дополнительных сведений, включая видеоролики, ознакомьтесь со статьей [гостевой доступ в Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).

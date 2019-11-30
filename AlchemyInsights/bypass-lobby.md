@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768453"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626361"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Управление параметрами и уровнем участия в зале ожидания
 
@@ -24,7 +24,7 @@ ms.locfileid: "37768453"
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Для этого командлета в настоящее время требуется использование модуля PowerShell Skype для бизнеса. Чтобы запустить программу установки для использования этого командлета, изучите [Управление политиками с помощью PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Для этого командлета в настоящее время требуется использование модуля PowerShell Skype для бизнеса. Чтобы запустить программу установки для использования этого командлета, изучите [Управление политиками с помощью PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Можно настроить новую политику, которая затем потребуется применить к пользователям. Если вы измените глобальную политику, она будет автоматически применена к пользователям. При изменении политики необходимо подождать не менее 4 часов и до 24 часов, чтобы политики вступили в силу.
 
@@ -36,8 +36,8 @@ ms.locfileid: "37768453"
 
 - [Разрешить анонимным пользователям начинать собрание](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) — это политика организатора, которая определяет, могут ли анонимные пользователи, включая B2B и Федеративные пользователи, присоединиться к собранию пользователя без прошедшего проверку подлинности пользователя из Организации в присутствии.
 
-- [Разрешить пользователям с телефонным подключением обходить "зал ожидания"](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**скоро**) — это политика для каждого организатора, которая определяет, будут ли пользователи, подключающиеся по телефону, напрямую или в зале ожидания, независимо от параметра автоматически допустить **людей** .
+- [Разрешить пользователям с телефонным подключением обходить "зал ожидания"](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**скоро**) — это политика для каждого организатора, которая определяет, будут ли пользователи, подключающиеся по телефону, напрямую или в зале ожидания, независимо от параметра автоматически допустить **людей** .
 
 - [Разрешить организаторов переопределять параметры ожидания](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**ожидается**) — это политика для каждого организатора, которая определяет, может ли организатор собрания переопределять параметры, заданные администратором **автоматически** , допустить людей и **разрешать пользователям с телефонным подключением обходить** свое время ожидания при планировании нового собрания.
 
-**Примечание:** Ознакомьтесь с разделом [Управление политиками собраний в Teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) , чтобы получить полный обзор политик собраний Microsoft Teams.
+**Примечание:** Ознакомьтесь с разделом [Управление политиками собраний в Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) , чтобы получить полный обзор политик собраний Microsoft Teams.

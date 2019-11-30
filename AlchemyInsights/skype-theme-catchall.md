@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 893a37e16d9582e1dade8b5cd708dd37cb7b1036
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 2cc76aee6e904c055fdf2a18a61a9263ecd0ddc0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316972"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627335"
 ---
 # <a name="skype-for-business-common-issues-and-resolutions"></a>Распространенные проблемы и решения Skype для бизнеса 
 
@@ -34,4 +34,4 @@ ms.locfileid: "37316972"
 
 **Общайтесь с контактами Skype:** [Разрешить пользователям Skype для бизнеса добавлять контакты Skype](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).
 
-**Обновите Skype для бизнеса до Microsoft teams:** Изучите [Начало работы с Microsoft](https://docs.microsoft.com/en-us/microsoftteams/upgrade-start-here) Teams Upgrade и Узнайте больше о [сосуществовании](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) Microsoft Teams в Организации. 
+**Обновите Skype для бизнеса до Microsoft teams:** Изучите [Начало работы с Microsoft](https://docs.microsoft.com/microsoftteams/upgrade-start-here) Teams Upgrade и Узнайте больше о [сосуществовании](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) Microsoft Teams в Организации. 

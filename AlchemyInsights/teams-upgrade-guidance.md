@@ -11,18 +11,18 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 7c60869897cacd688f32b2e8f28b9fcd934aa510
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469113"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626325"
 ---
 # <a name="microsoft-teams-upgrade"></a>Обновление Microsoft Teams
 
-Если вы только начинаете работать с Teams, уже используете Teams вместе со Skype для бизнеса или готовы к обновлению, мы хотим убедиться, что у вас есть все, что нужно для успешного перемещения в Teams. Для получения дополнительных сведений перейдите по приведенным ниже ссылкам.
+Независимо от того, начинаете ли вы работу с Teams, уже используете Teams наряду со Skype для бизнеса или полностью готовы к переходу, мы стремимся, чтобы у вас было все необходимое для успешного перехода на Teams. Для получения дополнительных сведений перейдите по приведенным ниже ссылкам.
 
-[Начало работы с обновлением Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Начало перехода на Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
 [Планирование обновления](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
@@ -32,4 +32,4 @@ ms.locfileid: "37469113"
 
 [Выполнение обновления с локального Skype для бизнеса до Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Проверка состояния Skype для бизнеса Online на обновление в Teams с помощью PowerShell](https://docs.microsoft.com/en-us/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Проверка состояния Skype для бизнеса Online на обновление в Teams с помощью PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
