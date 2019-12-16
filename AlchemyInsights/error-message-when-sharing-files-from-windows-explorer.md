@@ -1,7 +1,7 @@
 ---
 title: Сообщение об ошибке при совместном использовании файлов из проводника Windows
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 9/19/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,20 +11,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: a8fe007084883b125b0ca538156a1576deb1c28e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 67cb6bb5c36868715747556f33b51812017a7c12
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756005"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052230"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a><span data-ttu-id="c600c-102">Сообщение об ошибке при совместном использовании файлов из проводника Windows</span><span class="sxs-lookup"><span data-stu-id="c600c-102">Error message when sharing files from Windows Explorer</span></span>
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a><span data-ttu-id="888cd-102">Сообщение об ошибке при совместном использовании файлов из проводника Windows</span><span class="sxs-lookup"><span data-stu-id="888cd-102">Error message when sharing files from Windows Explorer</span></span>
 
-<span data-ttu-id="c600c-103">При попытке открыть общий доступ из проводника Windows вы можете получить следующее сообщение об ошибке:</span><span class="sxs-lookup"><span data-stu-id="c600c-103">When trying to share from Windows Explorer, you may receive the following error message:</span></span>
+<span data-ttu-id="888cd-103">При попытке открыть общий доступ из проводника Windows вы можете получить следующее сообщение об ошибке:</span><span class="sxs-lookup"><span data-stu-id="888cd-103">When trying to share from Windows Explorer, you may receive the following error message:</span></span>
   
-<span data-ttu-id="c600c-104">"К сожалению, мы не можем связаться с сервером прямо сейчас.</span><span class="sxs-lookup"><span data-stu-id="c600c-104">"Sorry, we're unable to reach the server right now.</span></span> <span data-ttu-id="c600c-105">Повторите попытку позже."</span><span class="sxs-lookup"><span data-stu-id="c600c-105">Please try again later"</span></span>
+<span data-ttu-id="888cd-104">"К сожалению, мы не можем связаться с сервером прямо сейчас.</span><span class="sxs-lookup"><span data-stu-id="888cd-104">"Sorry, we're unable to reach the server right now.</span></span> <span data-ttu-id="888cd-105">Повторите попытку позже."</span><span class="sxs-lookup"><span data-stu-id="888cd-105">Please try again later"</span></span>
   
-<span data-ttu-id="c600c-106">Чтобы устранить сообщение об ошибке, в Internet Explorer перейдите в раздел **Сервис** \> **Интернет** \> , перейдите на вкладку **Дополнительно** и снимите флажок с заголовком **не сохранять зашифрованные страницы на диск**.</span><span class="sxs-lookup"><span data-stu-id="c600c-106">To resolve error message, from Internet Explorer go to **Tools** \> **Internet Options** \> click the **Advanced** tab, and then clear the checkbox titled **Do not save encrypted pages to disk**.</span></span>
+<span data-ttu-id="888cd-106">Чтобы устранить сообщение об ошибке, в Internet Explorer перейдите в раздел **Сервис** \> **Интернет** \> , перейдите на вкладку **Дополнительно** и снимите флажок с заголовком **не сохранять зашифрованные страницы на диск**.</span><span class="sxs-lookup"><span data-stu-id="888cd-106">To resolve error message, from Internet Explorer go to **Tools** \> **Internet Options** \> click the **Advanced** tab, and then clear the checkbox titled **Do not save encrypted pages to disk**.</span></span>
   
- <span data-ttu-id="c600c-107">**Примечание**. для вступления в силу этого параметра может потребоваться перезапустить браузер.</span><span class="sxs-lookup"><span data-stu-id="c600c-107">**Note**: You may need to restart your browser for the setting to take effect.</span></span> <span data-ttu-id="c600c-108">Дополнительные сведения о том, что [при совместном использовании файлов отображается сообщение об ошибке "не удается подключиться к серверу"](https://go.microsoft.com/fwlink/?linkid=2022914).</span><span class="sxs-lookup"><span data-stu-id="c600c-108">For additional information see, ["Unable to reach the server right now" error message when sharing files](https://go.microsoft.com/fwlink/?linkid=2022914).</span></span>
+ <span data-ttu-id="888cd-107">**Примечание**. для вступления в силу этого параметра может потребоваться перезапустить браузер.</span><span class="sxs-lookup"><span data-stu-id="888cd-107">**Note**: You may need to restart your browser for the setting to take effect.</span></span> <span data-ttu-id="888cd-108">Дополнительные сведения о том, что [при совместном использовании файлов отображается сообщение об ошибке "не удается подключиться к серверу"](https://go.microsoft.com/fwlink/?linkid=2022914).</span><span class="sxs-lookup"><span data-stu-id="888cd-108">For additional information see, ["Unable to reach the server right now" error message when sharing files](https://go.microsoft.com/fwlink/?linkid=2022914).</span></span>
   
