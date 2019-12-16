@@ -1,7 +1,7 @@
 ---
 title: Параметры Outlook.com
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386378"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053274"
 ---
 # <a name="settings-in-outlookcom"></a>Параметры в Outlook.com
 
-Если получатель является внутренним или внешним по отношению к Организации и использует учетную запись электронной почты Office 365 или Outlook.com, для открытия сообщения следующим клиентам не нужно ничего делать: **outlook 2016, Outlook в Интернете или Outlook Web App; Мобильное приложение Outlook**
+Если получатель является внутренним или внешним по отношению к Организации и использует учетную запись электронной почты Office 365 или Outlook.com, следующим клиентам не нужно предпринимать какие-либо специальные действия для открытия сообщения: **outlook 2016, Outlook в Интернете или Outlook Web App, приложение Outlook Mobile**
 
 **Представители** пользователей, которым была отправлена защищенная электронная почта, не могут открывать защищенные сообщения. Сведения в сообщении могут просматривать только первоначальные получатели (пользователь, которому была отправлена защищенная электронная почта).
 

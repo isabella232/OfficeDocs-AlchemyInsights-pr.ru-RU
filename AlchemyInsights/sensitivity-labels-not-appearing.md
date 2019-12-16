@@ -1,7 +1,7 @@
 ---
 title: Метки конфиденциальности не отображаются
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
-ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
+ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37207238"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048665"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Метки конфиденциальности не отображаются
 
@@ -34,8 +34,8 @@ ms.locfileid: "37207238"
 - Поддержка защиты от потери данных (DLP): в настоящее время в качестве условия в политиках защиты от потери данных можно использовать только метки хранения.  Поддержка меток конфиденциальности в политике DLP пока недоступна, но мы работаем над этим.
 
 - Если для метки конфиденциальности включено шифрование, вы можете выбрать один из следующих вариантов:
-    - Назначить разрешения сейчас
-    - Разрешить пользователям назначать разрешения
+    - Назначение разрешений сразу
+    - Предоставление пользователям возможности назначать разрешения
 
 
 Дополнительные сведения о возможных проблемах приведены в статье [Известные проблемы с метками чувствительности](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
