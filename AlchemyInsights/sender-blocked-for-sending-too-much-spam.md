@@ -12,20 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ca5dc9041bad4da9353601bdc39ecf986356f1b1
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
+ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741045"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40886414"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Учетная запись заблокирована из-за отправки большого количества спама
 
-Если учетная запись Office 365 заблокирована из-за отправки большого количества спама, учетная запись отправителя может быть скомпрометирована. Выполните следующие действия.
-  
-1. [Определите, скомпрометирована ли учетная запись](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account#symptoms-of-a-compromised-office-365-email-account). Если это так, следуйте инструкциям по [реагированию на компрометацию учетной записи электронной почты в Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+Если одному из пользователей запрещено отправлять электронную почту, администратор может [разблокировать учетную запись самостоятельно](https://protection.office.com/?hash=/restrictedusers), **не создавая обращение в службу поддержки**. Пользователь сможет отправлять электронную почту в течение часа после удаления ограничения.
 
-2. В Центре безопасности и соответствия требованиям перейдите в раздел "Пользователи с ограниченным доступом", чтобы **[разблокировать учетную запись](https://protection.office.com/?hash=/restrictedusers)**. После завершения процедуры отправка сообщений должна возобновиться *в течение часа*.
-
-3. Чтобы предотвратить эту проблему в будущем, следуйте рекомендациям из [схемы обеспечения безопасности Office 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
-  
+Служба не позволяет пользователю отправлять электронную почту после обнаружения свидетельств компрометации учетной записи и/или исходящего спама. В качестве меры предосторожности следуйте инструкциям по [реагированию на компрометацию учетной записи электронной почты в Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) для пользователя.
