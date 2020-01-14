@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e8e6d1829d60695d40036765c880533c2dfcc5b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b89f0c0e1c698137720c60900eeba562877d0d8d
+ms.sourcegitcommit: 8b3ffd019dfcaff8d2dbde9eb5320f30c135aaa3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664765"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "41104670"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Приобретение подписки на Office 365 из бесплатной пробной версии
 
@@ -25,7 +25,7 @@ ms.locfileid: "36664765"
   
  **Приобретение того же плана, что и в пробной версии**
   
-1. В центре администрирования откройте страницу "Услуги по **выставлению счетов** \> [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
+1. В Центре администрирования перейдите на страницу **Выставление счетов** \> [Продукты и службы](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Найдите подписку, которую вы хотите купить. В разделе **лицензии** выберите пункт **приобрести подписку**и выполните действия, необходимые для извлечения.
 
@@ -36,3 +36,7 @@ ms.locfileid: "36664765"
 3. Найдите подписку, которую вы хотите приобрести, нажмите кнопку **купить**и выполните действия, необходимые для извлечения.
 
 Чтобы узнать больше, ознакомьтесь со статьей [приобрести подписку на Office 365 для бизнеса из бесплатной пробной версии](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+
+**Устранение неполадок**
+
+При возникновении проблем с загрузкой страниц попробуйте открыть веб-страницу в другом браузере или в приватном окне браузера, например в окне InPrivate в Microsoft Edge или режиме инкогнито в Google Chrome.
