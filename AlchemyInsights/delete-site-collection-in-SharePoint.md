@@ -1,5 +1,5 @@
 ---
-title: Удаление семейства веб-сайтов в SharePoint
+title: Удаление сайта
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053022"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770400"
 ---
-# <a name="delete-a-site-collection"></a>Удаление семейства веб-сайтов
+# <a name="delete-a-site"></a>Удаление сайта
 
-После того как глобальный администратор или администратор SharePoint в Office 365 удалить сайт (ранее назывался "семейством веб-сайтов"), он перемещается в корзину семейства веб-сайтов и сохраняется в течение 93 дней. 
+При удалении сайта он перемещается на [удаленные сайты](https://admin.microsoft.com/sharepoint) и сохранится в течение 93 дней. Чтобы удалить сайт, перейдите на [сайты Active Sites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 При удалении сайта все его содержимое удаляется, в том числе:
 
@@ -26,6 +26,6 @@ ms.locfileid: "40053022"
 - Параметры и журнал сайта.
 - Все дочерние сайты и их содержимое.
 
-Перед удалением сайта необходимо уведомить администраторов сайта и всех его владельцев, чтобы они могли перемещать данные в другое расположение, а также сообщать пользователям о том, что сайты будут удалены. 
+Следует уведомить администраторов сайта и всех дочерних сайтов, прежде чем удалять сайт, чтобы они могли перемещать свои данные в другое расположение, а также сообщать пользователям о том, что сайты будут удалены.
 
-Дополнительные сведения см. [в статье Удаление семейства веб-сайтов](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Более подробную информацию можно узнать в статье [Удаление сайта](https://docs.microsoft.com/sharepoint/delete-site-collection).

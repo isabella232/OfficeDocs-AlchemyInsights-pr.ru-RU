@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051546"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771192"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>Общие проблемы и решения SharePoint Online
 
 Ниже приведено несколько часто запрашиваемых разделов, посвященных проблемам SharePoint Online.
+
+- Начало **работы**: используйте [книгу "Обзор SharePoint](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) ", чтобы создать привлекательную, мощную интрасеть, соединяющую рабочее место. Ознакомьтесь с [примерами](https://lookbook.microsoft.com/) и получите [рекомендации по проектированию](https://spdesign.azurewebsites.net/). Общие сведения о SharePoint Online приведены в статье [Введение в SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) .
 
 - **Разрешения**: [Построение стратегии разрешений](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) и [понимание уровней разрешений](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ ms.locfileid: "40051546"
 
 - **Модернизация SharePoint**: Ознакомьтесь с [руководством по современным интерфейсам в SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) и [модернизация классических сайтах SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) , чтобы начать перемещение.
 
-- Начало **работы**: Узнайте, как приступить к [работе с SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) с помощью стратегий управления сайтами.
+**Примечание:** Чтобы получить более конкретные сведения о проблемах с SharePoint, поменяйте свой вопрос и включите в него все возникшие ошибки или функции.

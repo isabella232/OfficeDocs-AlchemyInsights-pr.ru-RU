@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 46bb390bd89d82bab8099f15f086746800cb4261
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800557"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770328"
 ---
 # <a name="devices-are-in-awaiting-enrollment-state"></a>Устройства находятся в состоянии "Ожидается регистрация"
 
@@ -24,6 +24,6 @@ ms.locfileid: "35800557"
 
 Эта проблема может возникать из-за того, что вы недавно добавили устройство в целевую коллекцию и еще не отправили данные. Это также может означать, что устройство неправильно обменивается данными со службой, и последние диагностические данные более 28 дней устарели.
 
-Убедитесь, что устройство может связываться со службой. Более подробную информацию можно узнать в статье [конечные точки](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints).
+Убедитесь, что устройство может связываться со службой. Более подробную информацию можно узнать в статье [конечные точки](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
 
-Более подробную информацию о состоянии регистрации аваинтинг можно узнать в статье [Monitoring Connection Health](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Более подробную информацию о состоянии регистрации можно узнать в статье [мониторинг работоспособности подключения](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).

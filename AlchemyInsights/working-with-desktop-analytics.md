@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800556"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771120"
 ---
 # <a name="working-with-desktop-analytics"></a>Работа с аналитической настольной системы
 
 Похоже, вы запрашиваетесь на настольном Analytics. Мы можем получить более точный ответ, если вы передаете свой вопрос.
 
-- [Что такое аналитика настольных систем?](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [Настройка Desktop Analytics](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [Вопросы и ответы](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [Устранение неполадок аналитики настольных систем](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [Что такое аналитика настольных систем?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Настройка Desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Вопросы и ответы](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Устранение неполадок аналитики настольных систем](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
