@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611710"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855564"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="b743a-102">Отслеживание и Отмена подписки на сайт SharePoint</span><span class="sxs-lookup"><span data-stu-id="b743a-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="f9fe6-102">Отслеживание и Отмена подписки на сайт SharePoint</span><span class="sxs-lookup"><span data-stu-id="f9fe6-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="b743a-103">Существует несколько способов поиска и отслеживания сайтов, новостей и материалов, интересующих вас в SharePoint.</span><span class="sxs-lookup"><span data-stu-id="b743a-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="b743a-104">Это позволит вам легко находить информацию в списке и просматривать действия из SharePoint.</span><span class="sxs-lookup"><span data-stu-id="b743a-104">This will allow you to find the information easily in your list, and allow you to see activity from SharePoint.</span></span>
+<span data-ttu-id="f9fe6-103">Если у пользователей возникают проблемы, связанные с ресурсами SharePoint, выполните указанные ниже действия.</span><span class="sxs-lookup"><span data-stu-id="f9fe6-103">If users are experiencing issues following or unfollowing SharePoint resources, complete these steps:</span></span>
 
-<span data-ttu-id="b743a-105">Просмотрите видео, чтобы [найти и подписаться на сайты и новости](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span><span class="sxs-lookup"><span data-stu-id="b743a-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
-
-<span data-ttu-id="b743a-106">Если вы не можете следовать или отменить подписку на сайт, новости или содержимое и считаете, что результаты не являются ожидаемыми, посмотрите, связана ли эта неполадка с одним или всеми пользователями в Организации.</span><span class="sxs-lookup"><span data-stu-id="b743a-106">If you are unable to follow or un-follow a site, news or content and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="b743a-107">Если все пользователи сталкиваются с этой ошибкой, может возникнуть временная ошибка службы.</span><span class="sxs-lookup"><span data-stu-id="b743a-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
-
-<span data-ttu-id="b743a-108">Просмотрите [панель мониторинга работоспособности службы](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , чтобы проверить, влияет ли ваша организация на работу.</span><span class="sxs-lookup"><span data-stu-id="b743a-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+* <span data-ttu-id="f9fe6-104">Попросите пользователя выйти из SharePoint и войти обратно в SharePoint, а затем попробовать действия, указанные в ресурсе SharePoint.</span><span class="sxs-lookup"><span data-stu-id="f9fe6-104">Ask the user to sign-out and sign back into SharePoint and try the same steps to follow/unfollow the SharePoint resource.</span></span>
+* <span data-ttu-id="f9fe6-105">Определите, относится ли эта ошибка к определенному сайту или ко всем сайтам.</span><span class="sxs-lookup"><span data-stu-id="f9fe6-105">Determine if the issue is with a specific site or all sites.</span></span> <span data-ttu-id="f9fe6-106">Если проблема возникает с конкретными сайтами, убедитесь, что для сайта активна функция "следующее содержимое", перейдя к **параметрам сайта > управления компонентами сайта > следующем содержимом**.</span><span class="sxs-lookup"><span data-stu-id="f9fe6-106">If the issue occurs with specific sites, ensure the “Following Content” feature is active for the site by going to **Site Settings > Manage Site Features > Following Content**.</span></span> <span data-ttu-id="f9fe6-107">Если компонент имеет значение активный, попробуйте еще раз отключить и активировать компонент для сайта.</span><span class="sxs-lookup"><span data-stu-id="f9fe6-107">If the feature is set to Active, try deactivating and activating the feature again for the site.</span></span>
+* <span data-ttu-id="f9fe6-108">Попросите пользователя попробовать другой браузер в Интернете, чтобы узнать, относится ли эта ошибка к браузеру пользователя.</span><span class="sxs-lookup"><span data-stu-id="f9fe6-108">Ask the user to try a different Internet browser to see if the issue is specific to the user’s browser.</span></span>
+* <span data-ttu-id="f9fe6-109">Если все пользователи и сайты столкнулись с одной и той же проблемой, проверьте [информационную панель мониторинга работоспособности службы](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , чтобы проверить, влияет ли ваша организация на работу.</span><span class="sxs-lookup"><span data-stu-id="f9fe6-109">If all users and all sites are experiencing the same issue, check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
