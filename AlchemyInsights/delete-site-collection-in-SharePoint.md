@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770400"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042893"
 ---
 # <a name="delete-a-site"></a>Удаление сайта
 
-При удалении сайта он перемещается на [удаленные сайты](https://admin.microsoft.com/sharepoint) и сохранится в течение 93 дней. Чтобы удалить сайт, перейдите на [сайты Active Sites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+При удалении сайта он перемещается на [удаленные сайты](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) и сохранится в течение 93 дней. Чтобы удалить сайт, перейдите на [сайты Active Sites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 При удалении сайта все его содержимое удаляется, в том числе:
 
