@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: a9b6e36e8034e71b3e72c49e3cc68a126ef97aca
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091754"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158574"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Не удается задать или просмотреть политику Алловселфсервицепурчасе
 
@@ -29,11 +29,11 @@ ms.locfileid: "42091754"
 Выполните следующие действия, чтобы включить или отключить протокол TLS равным 1,2, проверить и повторить попытку.
  1. В командной командной консоли PowerShell (PS C:\) введите следующую команду, чтобы установить для протокола TLS версии 1,2:
 
-    \[NET. Сервицепоинтманажер]:: Секуритипротокол = \[NET. секуритипротоколтипе]:: Tls12
+    `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
 2. Проверьте использование протоколов TLS с помощью следующей команды:
 
-    \[NET. Сервицепоинтманажер]:: Секуритипротокол 
+    `[Net.ServicePointManager]::SecurityProtocol` 
 
 3. Повторите команды Get или Update по мере необходимости.
 
