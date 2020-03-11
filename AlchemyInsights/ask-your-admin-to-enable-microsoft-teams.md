@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962310"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573145"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Вы не можете! Попросите администратора включить Microsoft Teams.
 
-Предназначены ли для преподавателей и персонала доступ к Teams, но слушатели не могут получить доступ к Teams?
+Если у вас есть клиент EDU, необходимо включить Microsoft Teams вручную. Для этого перейдите в центр администрирования Microsoft 365 > **службы и надстройки > Microsoft Teams**. Если вы используете новый центр администрирования Teams, **Попытайтесь отключить новый центр** администрирования, чтобы найти **службы и надстройки**. 
 
-Для работы Teams необходимо явным образом включить поддержку учащихся и лицензий на F1. Более подробные инструкции по включению Teams для учебного заведения в учебном заведении можно найти в статье [Настройка Teams для образования](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**Важно!** возможно, вам придется подождать до 24 часов, чтобы изменения вступили в силу.
