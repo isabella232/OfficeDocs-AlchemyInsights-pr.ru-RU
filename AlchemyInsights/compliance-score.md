@@ -11,30 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: f220dad10c5278ff2e303dbe8e24385bfdaa9589
-ms.sourcegitcommit: 5ac1d37e2f55c5427960caa04265c244b91967ab
+ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42090060"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600380"
 ---
 # <a name="compliance-score"></a>Оценка соответствия требованиям
 
-Оценка соответствия требованиям Майкрософт (Предварительная версия) — это функция Microsoft 365, которая помогает измерять уровень соответствия требованиям в Организации. Он использует оценку на основе риска на основе хода реализации действий, связанных с соответствием.   Оценка соответствия требованиям является упрощенной версией [диспетчера соответствия требованиям](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager-overview) и предлагает более простой способ проверить соответствие требованиям станце и реализовать действия для улучшения. 
+Оценка соответствия требованиям Майкрософт (Предварительная версия) — это функция Microsoft 365, которая помогает измерять уровень соответствия требованиям в Организации. Он использует оценку на основе риска на основе хода реализации действий, связанных с соответствием.   Оценка соответствия требованиям является упрощенной версией [диспетчера соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) и предлагает более простой способ проверить соответствие требованиям станце и реализовать действия для улучшения. 
 
-Глобальному администратору потребуется настроить соответствующие [разрешения](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) в центре соответствия требованиям Майкрософт для доступа к рейтингу соответствия требованиям.  Все разрешения, ранее настроенные для диспетчера соответствия требованиям, не переносятся в оценку соответствия требованиям.
+Глобальному администратору потребуется настроить соответствующие [разрешения](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) в центре соответствия требованиям Майкрософт для доступа к рейтингу соответствия требованиям.  Все разрешения, ранее настроенные для диспетчера соответствия требованиям, не переносятся в оценку соответствия требованиям.
 
 **Чтобы получить доступ к показателю соответствия требованиям**
 
 1. Перейдите в центр соответствия требованиям Microsoft 365 и **Войдите в** систему с помощью учетной записи глобального администратора Майкрософт 365.
 
-2. Выберите **оценку соответствия** в левой области навигации. После этого вы увидите [панель мониторинга оценки соответствия требованиям](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
+2. Выберите **оценку соответствия** в левой области навигации. После этого вы увидите [панель мониторинга оценки соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
  
 
 Дополнительные **сведения**:
 
-- Настройка разрешений доступа для оценки соответствия требованиям можно узнать в статье [предоставление пользователям доступа к центру безопасности & соответствия требованиям Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- Работа с действиями по улучшению в показателе соответствия требованиям в разделе [Работа с рейтингом соответствия требованиям](https://docs.microsoft.com/en-us/microsoft-365/compliance/working-with-compliance-score).
-- Как рассчитывается Оценка соответствия требованиям, ознакомьтесь со статьей " [метод оценки соответствия требованиям](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-methodology)".
-- Сравнение оценки соответствия требованиям и диспетчера соответствия требованиям: [отношение к диспетчеру соответствия требованиям](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- Настройка разрешений доступа для оценки соответствия требованиям можно узнать в статье [предоставление пользователям доступа к центру безопасности & соответствия требованиям Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Работа с действиями по улучшению в показателе соответствия требованиям в разделе [Работа с рейтингом соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
+- Как рассчитывается Оценка соответствия требованиям, ознакомьтесь со статьей " [метод оценки соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)".
+- Сравнение оценки соответствия требованиям и диспетчера соответствия требованиям: [отношение к диспетчеру соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157692"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600395"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Выбытие средств прежних версий электронных данных
 
@@ -37,7 +37,7 @@ ms.locfileid: "42157692"
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Расширенное обнаружение электронных данных версии 1.0 для Office 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Расширенное обнаружение электронных данных версии 1.0 для Office 365](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Временная шкала для выбытия**:
 - 1 апреля 2020 г.: вы не сможете создавать новые операции поиска и удержания, но вы можете выполнять, редактировать и удалять существующие поисковые запросы на свой риск. Служба поддержки Майкрософт больше не будет поддерживать & обнаружения электронных данных на месте в центре администрирования Exchange.
@@ -46,9 +46,9 @@ ms.locfileid: "42157692"
 
 **Более подробную информацию можно узнать в**следующих статьях:
 
- - [Миграция поиска электронных данных прежних версий и удержаний в центре соответствия требованиям Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Выбытие средств прежних версий электронных данных](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Вопросы и ответы об обнаружении электронных данных на месте и удержания на месте](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Миграция поиска электронных данных прежних версий и удержаний в центре соответствия требованиям Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Выбытие средств прежних версий электронных данных](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Вопросы и ответы об обнаружении электронных данных на месте и удержания на месте](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
