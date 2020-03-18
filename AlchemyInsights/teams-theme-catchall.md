@@ -1,40 +1,49 @@
 ---
-title: Общетема Teams
+title: Стандартная тема Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
-ms.translationtype: MT
+ms.openlocfilehash: 02dacb9a6126d99c1c95637212d94c3266b230d6
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371535"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707492"
 ---
-# <a name="teams-common-issues-and-resolutions"></a>Распространенные проблемы и решения Teams
+# <a name="teams-common-issues-and-resolutions"></a>Известные проблемы Teams и способы их решения
 
-Чтобы получить более конкретные сведения о проблемах с Microsoft Teams, ненадолго запросите свой вопрос и включите в него все обнаруженные ошибки или функции.
+Чтобы получить более точный ответ, попробуйте переформулировать вопрос и включить все появляющиеся сообщения об ошибках или используемые функции Teams.
 
-Если вам нужна помощь в поддержке удаленных рабочих процессов (ВФХ) с помощью Teams, ознакомьтесь со службой [поддержки удаленных рабочих процессов с помощью Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams) .
+Если вам нужна помочь в развертывании Teams для поддержки удаленных работников (работа на дому) в связи с эпидемией вируса COVID-19, прочтите статью [Поддержка удаленных работников с помощью Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Кроме того, у вас может быть право получения помощи по развертыванию в рамках программы Microsoft 365 FastTrack. Посетите [FastTrack Center](https://www.microsoft.com/fasttrack), чтобы отправить запрос.
 
-Ниже приведены некоторые дополнительные ресурсы.
+Для всех клиентов Teams:
 
-- **Включение гостевого доступа teams:** Просмотрите [Контрольный список для гостевого доступа Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist) и убедитесь, что все действия выполнены.
-- **Устранение неполадок при входе в teams:** Сначала убедитесь, что [Служба Microsoft Teams является работоспособной](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Затем проверьте наличие типичных кодов ошибок и проверьте, [Почему возникают проблемы с входом в Microsoft Teams.](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Кроме того, вам может потребоваться проверить [модели удостоверений и проверку подлинности в Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
-- **Восстановление удаленной команды или канала:** 
-    - Ознакомьтесь с разделом [Восстановление удаленной команды в Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/).
-    - Удаленные каналы в команде можно восстановить в течение 21 дней с момента удаления канала. 
-    - Чтобы восстановить удаленный канал, обратитесь к разделу [архивирование или восстановление команды](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).
-- **Восстановление удаленных файлов:** Ознакомьтесь с разделом [Восстановление удаленных файлов в Teams](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
-- **Устранение неполадок, связанных с отсутствием набора номера:**  
-    - Убедитесь, что пользователю назначена [Лицензия Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    - Убедитесь, что у пользователя назначен [план звонков](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-    - Включите для пользователей [корпоративную голосовую связь](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
-- **Известные проблемы, связанные с teams:** Прочитайте [Известные проблемы для Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues).
+- **Используете Teams впервые?** Прочтите статью [Начало работы с Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
+
+- **Включение гостевого доступа в Teams:** прочтите статью [Контрольный список для гостевого доступа в Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist) и убедитесь, что выполнены все пункты этого контрольного списка.
+
+- **[Настройка аудиоконференций для Teams](https://docs.microsoft.com/alchemyinsights/how-do-i-set-up-audio-conferencing-for-teams)**
+
+- **Устранение проблемы с отсутствующей панелью набора номера:**  
+
+    - Убедитесь, что пользователю назначена [лицензия Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+
+    - Убедитесь, что пользователю назначен [план звонков](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).
+
+    - Включите пользователей для [корпоративной голосовой связи](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+
+- **Устранение неполадок входа в Teams:** во-первых, проверьте [работоспособность службы Microsoft Teams](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Затем проверьте наличие распространенных кодов ошибок и прочтите статью [Почему мне не удается войти в Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f).  Также может оказаться полезной статья [Модели удостоверений и проверка подлинности в Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
+
+**Для клиентов из числа образовательных учреждений:**
+
+Если у ваших пользователей отображается сообщение "Вы много теряете!". Необходимо [включить Microsoft Teams для вашего учебного заведения](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams). В клиентах для образования решение Microsoft Teams по умолчанию не включено; для использования его необходимо включить.
+
+После этого прочтите статью [Удаленное преподавание и обучение в Office 365 для образовательных учреждений](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4). В этой статье вы найдете актуальные рекомендации по настройке школы, планированию уроков, проведению виртуальных собраний и предоставлению учащимся доступа к содержимому. 
