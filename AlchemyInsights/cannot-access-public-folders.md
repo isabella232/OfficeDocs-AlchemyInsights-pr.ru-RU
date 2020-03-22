@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959507"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891762"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook не удается подключиться к общедоступным папкам
 
-Если доступ к общедоступным папкам не работает для нескольких пользователей, выполните указанные ниже действия.
+Если доступ к общедоступным папкам не работает для некоторых пользователей, попробуйте выполнить следующие действия:
 
-Подключитесь к EXO PowerShell и настройте DefaultPublicFolderMailbox учетной записи пользователя, чтобы она соотнесена с одной учетной записью пользователя.
+Подключитесь к EXO PowerShell и настройте параметр DefaultPublicFolderMailbox учетной записи пользователя, чтобы он был сопоставлен с параметром рабочей учетной записи пользователя.
 
 Пример:
 
@@ -31,3 +31,5 @@ Get/Mailbox Воркингусер | ft DefaultPublicFolderMailbox, Еффект
 Set – Mailbox Проблемусер — значение \<DefaultPublicFolderMailbox из предыдущей команды>
 
 Чтобы изменения вступили в силу, подождите хотя бы один час.
+
+Если проблема не устранена, выполните указанные ниже [действия](https://aka.ms/pfcte) , чтобы устранить проблемы с доступом к общим папкам с помощью Outlook.
