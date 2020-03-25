@@ -12,24 +12,30 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7e12c74d33e3cee7c626ad899a4e7f2f0a409bca
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054066"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931671"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a><span data-ttu-id="e0ed5-102">Регулирование миграции SharePoint с ошибками 503</span><span class="sxs-lookup"><span data-stu-id="e0ed5-102">SharePoint migration throttling with 503 errors</span></span>
+# <a name="sharepoint-migration-throttling-with-503-errors"></a><span data-ttu-id="57001-102">Регулирование миграции SharePoint с ошибками 503</span><span class="sxs-lookup"><span data-stu-id="57001-102">SharePoint migration throttling with 503 errors</span></span>
 
-<span data-ttu-id="e0ed5-103">Отображается сообщение о переходе на SharePoint Online и получении ошибок 503.</span><span class="sxs-lookup"><span data-stu-id="e0ed5-103">It appears you are migrating to SharePoint Online and receiving 503 errors.</span></span> <span data-ttu-id="e0ed5-104">Выполните приведенные ниже действия, чтобы можно было как можно скорее.</span><span class="sxs-lookup"><span data-stu-id="e0ed5-104">Please follow the steps below so we may assist you as soon as possible.</span></span> 
+<span data-ttu-id="57001-103">**Важно!** многие клиенты SharePoint Online и OneDrive работают с критическими бизнес-приложениями для службы, которая работает в фоновом режиме.</span><span class="sxs-lookup"><span data-stu-id="57001-103">**Important**: Many SharePoint Online and OneDrive customers run business-critical applications against the service that run in the background.</span></span> <span data-ttu-id="57001-104">В их число входят перенос контента, защита от потери данных и решения для резервного копирования.</span><span class="sxs-lookup"><span data-stu-id="57001-104">These include content migration, Data Loss Prevention (DLP), and backup solutions.</span></span> <span data-ttu-id="57001-105">В это беспрецедентное время мы работаем над тем, чтобы службы SharePoint Online и OneDrive оставались высокодоступными и надежными для пользователей, которые зависят от них более, чем когда-либо, в связи с удаленной работой.</span><span class="sxs-lookup"><span data-stu-id="57001-105">During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available and reliable for your users who depend on the service more than ever in remote work scenarios.</span></span>
 
-1. <span data-ttu-id="e0ed5-105">Щелкните **контакт поддержка**, а затем — **новый запрос на обслуживание**.</span><span class="sxs-lookup"><span data-stu-id="e0ed5-105">Click **Contact Support**, and then **New Service Request**.</span></span>
-2. <span data-ttu-id="e0ed5-106">В поле Заголовок и описание введите **регулирование миграции SharePoint с 503**.</span><span class="sxs-lookup"><span data-stu-id="e0ed5-106">For the title and description, type **SharePoint Migration Throttling with 503**.</span></span>
-3. <span data-ttu-id="e0ed5-107">После отправки билета обновите его, выполнив следующие сведения:</span><span class="sxs-lookup"><span data-stu-id="e0ed5-107">Once the ticket has been submitted, please update it with the following information:</span></span>
-    - <span data-ttu-id="e0ed5-108">Какова левая часть переноса (например, сколько TBs?).</span><span class="sxs-lookup"><span data-stu-id="e0ed5-108">How much left of migration (for example, how many TBs?).</span></span>
-    - <span data-ttu-id="e0ed5-109">Дата начала и окончания миграции.</span><span class="sxs-lookup"><span data-stu-id="e0ed5-109">Migration start and end date.</span></span>
-    - <span data-ttu-id="e0ed5-110">Опишите, откуда вы переносите содержимое, например SharePoint Server, Box, Гдриве, общие файловые ресурсы и т. д.</span><span class="sxs-lookup"><span data-stu-id="e0ed5-110">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
-    - <span data-ttu-id="e0ed5-111">Оцените количество ошибок регулирования (например, регулирование x в час?), и когда выполнялось регулирование.</span><span class="sxs-lookup"><span data-stu-id="e0ed5-111">Estimate the number of throttling errors (for example, x throttle per hour?) and when did the throttling happen.</span></span>
-    - <span data-ttu-id="e0ed5-112">Используемое средство миграции (например, SPMT или Шарегате).</span><span class="sxs-lookup"><span data-stu-id="e0ed5-112">Which migration tool you are using (for example, SPMT or ShareGate).</span></span>
+<span data-ttu-id="57001-106">Для этого мы установили более жесткие ограничения регулирования для фоновых приложений (миграция, защита от потери данных и решения для резервного копирования) в рабочие дни в дневное время.</span><span class="sxs-lookup"><span data-stu-id="57001-106">In support of this objective, we have implemented tighter throttling limits on background apps (migration, DLP and backup solutions) during weekday daytime hours.</span></span> <span data-ttu-id="57001-107">Ожидается, что теперь пропускная способность этих приложений будет очень ограничена.</span><span class="sxs-lookup"><span data-stu-id="57001-107">You should expect that these apps will achieve very limited throughput during these times.</span></span> <span data-ttu-id="57001-108">Однако в вечернее время и на выходных (для данного региона) служба будет готова обработать значительно больший объем запросов от фоновых приложений.</span><span class="sxs-lookup"><span data-stu-id="57001-108">However, during evening and weekend hours for the region, the service will be ready to process a significantly higher volume of requests from background apps.</span></span>
+
+<span data-ttu-id="57001-109">**503 ошибки при переходе на SharePoint Online**</span><span class="sxs-lookup"><span data-stu-id="57001-109">**503 errors when migrating to SharePoint Online**</span></span>
+
+<span data-ttu-id="57001-110">Отображается сообщение о переходе на SharePoint Online и получении ошибок 503.</span><span class="sxs-lookup"><span data-stu-id="57001-110">It appears you are migrating to SharePoint Online and receiving 503 errors.</span></span> <span data-ttu-id="57001-111">Выполните приведенные ниже действия, чтобы можно было как можно скорее.</span><span class="sxs-lookup"><span data-stu-id="57001-111">Please follow the steps below so we may assist you as soon as possible.</span></span> 
+
+1. <span data-ttu-id="57001-112">Щелкните **контакт поддержка**, а затем — **новый запрос на обслуживание**.</span><span class="sxs-lookup"><span data-stu-id="57001-112">Click **Contact Support**, and then **New Service Request**.</span></span>
+2. <span data-ttu-id="57001-113">В поле Заголовок и описание введите **регулирование миграции SharePoint с 503**.</span><span class="sxs-lookup"><span data-stu-id="57001-113">For the title and description, type **SharePoint Migration Throttling with 503**.</span></span>
+3. <span data-ttu-id="57001-114">После отправки билета обновите его, выполнив следующие сведения:</span><span class="sxs-lookup"><span data-stu-id="57001-114">Once the ticket has been submitted, please update it with the following information:</span></span>
+    - <span data-ttu-id="57001-115">Какова левая часть переноса (например, сколько TBs?).</span><span class="sxs-lookup"><span data-stu-id="57001-115">How much left of migration (for example, how many TBs?).</span></span>
+    - <span data-ttu-id="57001-116">Дата начала и окончания миграции.</span><span class="sxs-lookup"><span data-stu-id="57001-116">Migration start and end date.</span></span>
+    - <span data-ttu-id="57001-117">Опишите, откуда вы переносите содержимое, например SharePoint Server, Box, Гдриве, общие файловые ресурсы и т. д.</span><span class="sxs-lookup"><span data-stu-id="57001-117">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
+    - <span data-ttu-id="57001-118">Оцените количество ошибок регулирования (например, регулирование x в час?), и когда выполнялось регулирование.</span><span class="sxs-lookup"><span data-stu-id="57001-118">Estimate the number of throttling errors (for example, x throttle per hour?) and when did the throttling happen.</span></span>
+    - <span data-ttu-id="57001-119">Используемое средство миграции (например, SPMT или Шарегате).</span><span class="sxs-lookup"><span data-stu-id="57001-119">Which migration tool you are using (for example, SPMT or ShareGate).</span></span>
 
 
