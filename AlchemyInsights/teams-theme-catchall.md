@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856480"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030413"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Известные проблемы Teams и способы их решения
+
+**Важно**. Из-за недавнего увеличения использования Teams полная настройка при назначении лицензии Teams пользователям может занять около 24 часов. До этого вы не сможете назначать пользователям политики Teams, а у пользователей может не быть доступа к определенным функциям Teams, таким как звонки или аудиоконференции.
+
+**Распространенные проблемы и способы их решения**
 
 Чтобы получить более точный ответ, попробуйте переформулировать вопрос и включить все появляющиеся сообщения об ошибках или используемые функции Teams.
 
