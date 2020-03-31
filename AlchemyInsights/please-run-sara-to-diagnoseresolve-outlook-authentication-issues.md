@@ -12,13 +12,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 150a64e110a6e2e013952d97d811f0e791803d39
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752657"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059821"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Использование SaRA для диагностики и устранения проблем с проверкой подлинности Outlook
+
+**Примечание**: Проверьте, включены ли для вашей организации [Параметры безопасности по умолчанию](http://aka.ms/securitydefaults) . Если ваш клиент создан после 21 октября 2019, а Outlook будет периодически запрашивать пароль, в клиенте могут быть включены **Параметры безопасности по умолчанию** .
 
 Мы настоятельно рекомендуем использовать [Outlook для](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) устранения неполадок диагностики паролей на затронутом компьютере, чтобы устранить проблемы, в результате которых Outlook постоянно запрашивает пароль. Эта диагностика [SaRA](https://diagnostics.office.com/#/) выполняет автоматические проверки и возвращает возможные решения, которые можно использовать для устранения обнаруженных проблем.

@@ -12,14 +12,18 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664333"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059749"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Добавление и изменение Ватид
+
+**Примечание**: Если вы используете страну, в которой используется налог на добавленную сумму (НДС) (например, Великобритания), то при выставлении счетов Майкрософт рассчитывается НДС и применяется сумма к счетам. Дополнительную информацию можно узнать в статье [VIES заявление об отказе](https://go.microsoft.com/fwlink/?LinkID=841741) , опубликованном Европейской комиссией.
+
+**Добавление или изменение Ватид**
 
 1. В центре администрирования Microsoft 365 откройте страницу "Услуги по **выставлению счетов** \> [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
 
