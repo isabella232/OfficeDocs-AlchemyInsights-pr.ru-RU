@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 0775f12d3778f1f6f7a53ec47ddb8f0cd71dc1af
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376799"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105360"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Планирование собраний в Teams
+
+**Важно!** если у вас возникли проблемы с созданием собрания или в Teams не удается найти параметр собрание, убедитесь, что у затронутых пользователей [есть лицензии для почтового ящика Exchange Online, а почтовый ящик включен](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
 
 Вы можете запланировать собрание двумя способами: 
 
@@ -29,4 +31,6 @@ ms.locfileid: "37376799"
 
 В правой части формы планирования можно добавить один или несколько участников или оставить их пустыми, чтобы запланировать частную встречу.
 
-Для получения дополнительных сведений о создании и планировании собраний в Microsoft Teams ознакомьтесь с разделом [Планирование собраний в Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+- Для получения дополнительных сведений о создании и планировании собраний в Microsoft Teams ознакомьтесь с разделом [Планирование собраний в Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+- Сведения об ограничении и спецификациях для собраний приведены в [статье Limits and спецификаций для Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
