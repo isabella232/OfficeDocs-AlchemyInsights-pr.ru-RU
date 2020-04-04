@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: 665611e3fbb93a7142b8eac0c1f84208661d46d2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3397d3b195beea97dca354b7d6f23fc5e1c15d27
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534432"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43143038"
 ---
 # <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Отсутствуют рекомендации по устранению ошибок в OneNote 2016
 
-После установки Microsoft Office 2019 или Office 365 на компьютере с любой версией Windows 10, OneNote 2016 не отображается в списке установленных приложений для настольных ПК.
+Начиная с 2020 марта при установке Office 365 или Office 2019, классическое приложение OneNote будет установлено вместе с классическими приложениями Word, PowerPoint и Excel.
 
-По умолчанию Office 2019 и Office 365 не будут автоматически устанавливать версию Office 2016 для настольных ПК, но если вам все-таки нужна или вы предпочитаете использовать эту версию, ее можно загрузить отдельно и использовать вместе с новыми приложениями Office 2019.
+После установки Microsoft Office 2019 или Office 365 на компьютере с любой версией Windows 10, OneNote 2016 не отображается в списке установленных приложений для настольных ПК.
 
 Выполните [указанные ниже действия](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) , чтобы получить дополнительные сведения о том, как скачать 32/или 64 – разрядный выпуск OneNote 2016 для Windows.
