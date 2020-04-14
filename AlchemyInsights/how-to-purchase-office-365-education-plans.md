@@ -14,19 +14,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390921"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286276"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Приобретение планов Office 365 для образования
 
-Вы утверждены для Office 365 для образовательных учреждений. Для приобретения:
-  
-1. В центре администрирования перейдите на страницу Услуги по **выставлению счетов** \> [покупки](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+Ваш статус образовательного учреждения, соответствующего условиям подписки на Office 365 для образования, утвержден.  Процедура приобретения
 
-2. Выберите в списке в разделе **планы**по образованию.
+1. Перейдите в раздел **[Выставление счетов > Приобретение служб](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
-3. Наведите указатель мыши на подписку, которую вы хотите приобрести, и нажмите кнопку **купить**.
+2. Выберите план из списка в разделе **Планы для образовательных учреждений**.
+
+3. Наведите курсор на подписку, которую хотите купить, и щелкните **Приобрести**.
+
+**Дистанционное обучение**
+
+- См. Раздел [Дистанционное обучение и учеба в Microsoft Office 365 для образовательных учреждений](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), чтобы узнать самые последние рекомендации по планированию школьных уроков, виртуальной встрече и обмену контентом со студентами.
+
+- Дополнительные рекомендации в области ИТ см. в статьях [Начните с Microsoft Teams для удаленного обучения](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) и [Переход на удаленное обучение](https://www.microsoft.com/education/remote-learning).
