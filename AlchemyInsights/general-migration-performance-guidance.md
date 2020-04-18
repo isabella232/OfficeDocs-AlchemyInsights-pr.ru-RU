@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958551"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537754"
 ---
 # <a name="general-migration-performance-guidance"></a>Общие рекомендации по производительности миграции
 
+
 **Важно**. В это беспрецедентное время мы принимаем меры по сохранению высокого уровня доступности служб SharePoint Online и OneDrive. Дополнительные сведения см. в статье [Временные изменения возможностей SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Рекомендации по производительности миграции**
+**Варианты миграции**
 
-На производительность миграции может влиять сетевая инфраструктура, размер файла, время миграции и регулирование. Понимание этого поможет вам планировать миграцию и сделать ее максимально эффективной.
+Существует несколько вариантов миграции содержимого в SharePoint Online. Выбор подходящего варианта зависит от размера и количества файлов, которые нужно переместить. Список вариантов [размещен здесь](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Общие рекомендации по производительности миграции](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Дополнительные сведения о миграции содержимого можно получить, перейдя по приведенным ниже ссылкам.
+
+- [Средство миграции SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Начало работы с диспетчером переноса данных](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)
