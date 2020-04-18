@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665485"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552610"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Отменяя свою подписку на Office 365?
 
@@ -28,4 +28,8 @@ ms.locfileid: "36665485"
   
 Кроме того, выберите пункт **нужна помощь** для общения со специалистом службы поддержки.
   
+**Возмещение: любой кредит будет возвращен в следующий цикл выставления счетов.** 
+
+**Note**: Если вы не видите параметр Cancel (Отмена), щелкните подписку, чтобы просмотреть сведения, и в разделе **Параметры & действиях**будет отображаться параметр **отказаться от подписки** . 
+
 Чтобы узнать больше, ознакомьтесь со статьей [Отмена подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
