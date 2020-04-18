@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154313"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43557009"
 ---
 # <a name="pstn-calling-plans"></a>Планы звонков по ТСОП
 
-Звонки другим пользователям Skype для бизнеса и Microsoft Teams бесплатны, но если вы хотите, чтобы пользователи могли звонить на обычные телефоны, и не пользуетесь услугами оператора голосовой связи, вам потребуется приобрести план звонков. 
+Если вы хотите, чтобы ваши пользователи могли звонить на обычные телефоны, и у вас еще нет поставщика услуг для голосовых вызовов, вам нужно купить тарифный план.
 
-- Чтобы начать процесс приобретения, обратитесь к статье [Как купить план звонков](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
+- См. [Как купить тарифный план](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365), чтобы начать процесс покупки.
 
-- Дополнительные сведения см. в статье [Телефонная система и планы звонков](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page). 
+- Настройте [Кредиты на общение](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization), чтобы уберечь пользователей от **нехватки минут**. Смотрите цены [здесь](https://products.office.com/microsoft-teams/voice-calling). 
+
+- Дополнительные сведения см. в статье [Телефонные системы и планы звонков](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) или [Что такое кредиты?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
