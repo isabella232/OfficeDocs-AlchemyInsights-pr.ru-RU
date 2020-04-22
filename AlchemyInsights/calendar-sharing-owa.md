@@ -12,16 +12,16 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c0e444f0e87748aff172d3070c25e0ed02682b0a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665629"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712004"
 ---
 # <a name="isues-with-calendar-sharing-in-outlook"></a>Исуес с общим доступом к календарю в Outlook
 
-- Если вы не видите сведения о доступности в чужих календарях (или такие сведения из вашего календаря не видны другим), воспользуйтесь [помощником по поддержке и восстановлению для Office 365](https://diagnostics.office.com/).
+- Если вы не видите сведения о доступности в календаре в других календарях или если другие пользователи не видят сведения о доступности в календаре, используйте [Помощник по поддержке и восстановлению Майкрософт для microsoft 365](https://diagnostics.office.com/).
 
 **Дополнительные материалы:**
 

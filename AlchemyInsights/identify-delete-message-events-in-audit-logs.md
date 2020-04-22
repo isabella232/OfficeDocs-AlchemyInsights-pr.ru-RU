@@ -3,7 +3,7 @@ title: Определение событий удаления сообщений
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539222"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716509"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Журналы аудита для удаленных сообщений электронной почты
 
 Начиная с 2019 января Майкрософт по умолчанию отключается ведение журнала аудита почтовых ящиков. В противном случае чтобы просмотреть события удаления сообщений для определенного пользователя, необходимо вручную включить действия Delete для аудита. Если ведение журнала аудита почтовых ящиков уже включено для вашей организации или для определенного пользователя, выполните указанные ниже действия.
 
-1. Вход в [центр соответствия требованиям & безопасности Office 365](https://protection.office.com/)
+1. Вход в [центр соответствия требованиям & безопасности Microsoft 365](https://protection.office.com/)
 
 2. Щелкните **Поиск и исследование** , а затем выберите **Поиск в журнале аудита**.
 

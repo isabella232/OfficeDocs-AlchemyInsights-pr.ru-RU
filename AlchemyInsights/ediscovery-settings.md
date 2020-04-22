@@ -3,29 +3,29 @@ title: Параметры обнаружения электронных данн
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.assetid: ''
-ms.openlocfilehash: 756473fc94a4c68d5cb1f4c390ecb810c3a8cf89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528240"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714415"
 ---
 # <a name="ediscovery-settings"></a>Параметры обнаружения электронных данных
 
-Поиск с обнаружением электронных данных и контентом в Office 365 позволяет искать, хранить и экспортировать контент из почтовых ящиков Exchange Online, SharePoint Online и OneDrive для бизнеса, бесед Skype для бизнеса, Microsoft Teams и групп Office 365.
+Поиск с обнаружением электронных данных и контентом позволяет искать, хранить и экспортировать контент из почтовых ящиков Exchange Online, SharePoint Online и OneDrive для бизнеса, обсуждений Skype для бизнеса, Microsoft Teams и Office 365.
 
 - Если вы ищете параметры меню "обнаружение электронных данных" или "поиск контента", ознакомьтесь с [вопросами обнаружения электронных](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)данных.
 - Узнайте о разрешениях, необходимых для выполнения поиска eDiscovery, из [разрешений, необходимых для поиска eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
 - Если поиск не возвращает ожидаемые результаты, в статье [Поиск не возвращает ожидаемые результаты](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Дополнительные сведения об обнаружении электронных данных в Office 365 см [в статье Обнаружение электронных данных в office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+Для получения дополнительной информации об обнаружении [электронных данных см.](https://docs.microsoft.com/office365/securitycompliance/ediscovery)

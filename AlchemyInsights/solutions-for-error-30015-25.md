@@ -3,7 +3,7 @@ title: Решения для ошибки 30015-25
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 12/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "830"
 - "2000020"
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: d6e2bfd1348c01c6300044b69040142bd4489607
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ac97343823c86b9b1031b9baea6cf2ce56efc05
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501910"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712723"
 ---
 # <a name="solutions-for-error-30015-25"></a>Решения для ошибки 30015-25
 
@@ -26,11 +26,11 @@ ms.locfileid: "36501910"
   
 - Перезагрузите компьютер и попытайтесь [установить Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Скачайте и установите [Помощник по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Скачайте и установите [помощника по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
 1. После **удаления продуктов Office** выберите версию, которую нужно удалить, и нажмите кнопку **Далее**.
 
-2. Продолжайте переходить к экранам и перезапускать компьютер при появлении соответствующего запроса.
+2. Следуйте подсказкам на экране и перезагрузите компьютер при появлении соответствующего запроса.
 
     После перезапуска помощник по поддержке и восстановлению автоматически открывается для завершения процесса удаления.
 

@@ -12,18 +12,18 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068326"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714055"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Переключить планы для увеличения размера почтового ящика
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Переключить подписки для увеличения размера почтового ящика
 
-Если размер почтового ящика Office 365 уже равен 100 ГБ, его невозможно увеличить.
+Если размер почтового ящика уже 100 ГБ, его невозможно увеличить.
   
-Если размер почтового ящика составляет 50 ГБ, его можно увеличить до 100 ГБ, перейдя на [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) или [Office 365 Enterprise](https://products.office.com/business/office-365-enterprise-e5-business-software)~. Ниже описаны действия, которые необходимо выполнить для переключения на другой план Office 365:
+Если размер почтового ящика составляет 50 ГБ, его можно увеличить до 100 ГБ, перейдя на [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) или [Office 365 Enterprise](https://products.office.com/business/office-365-enterprise-e5-business-software)~. Чтобы переключиться на другую подписку, выполните указанные ниже действия.
   
 1. В центре администрирования Microsoft 365 откройте страницу "Услуги по **выставлению счетов** \> [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
 
@@ -37,4 +37,4 @@ ms.locfileid: "40068326"
 
 Более подробную информацию можно узнать [в статье обновление до другой схемы](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-Если у вас есть [план Office 365, поддерживающий Архив на месте](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), вы также можете получить дополнительное хранилище электронной почты, добавив архивный почтовый ящик. Архивный почтовый ящик предоставляет дополнительное хранилище и позволяет перемещать, копировать и искать сообщения в основном и архивном почтовом ящике. Действия по включению архивного почтового ящика приведены в разделе [Включение архивного почтового ящика](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Если у вас есть [Подписка, поддерживающая Архив на месте](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), вы также можете получить дополнительное хранилище электронной почты, добавив архивный почтовый ящик. Архивный почтовый ящик предоставляет дополнительное хранилище и позволяет перемещать, копировать и искать сообщения в основном и архивном почтовом ящике. Действия по включению архивного почтового ящика приведены в разделе [Включение архивного почтового ящика](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

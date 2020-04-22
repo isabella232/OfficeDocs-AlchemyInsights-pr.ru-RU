@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 84e3a7700558ad8a5fad5b7ded6354fe8736e0f7
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628255"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716185"
 ---
 # <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Устранение неполадок в приложениях Office "сообщение не удается подключиться прямо сейчас"
 
 Если вы получили это сообщение, попробуйте следующее:
 
-1. Проверьте брандмауэр, антивирусное программное обеспечение и параметры прокси-сервера, чтобы убедиться, что они не блокируют доступ к приложениям Office через Интернет. См.: [URL-адреса и диапазоны IP-адресов для Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Проверьте брандмауэр, антивирусное программное обеспечение и параметры прокси-сервера, чтобы убедиться, что они не блокируют доступ к приложениям Office через Интернет. См.: [URL-адреса и диапазоны IP-адресов](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. В меню **** > **"** Пуск" выберите команду **Services. msc**. Убедитесь, что запущены следующие службы:
+2. В меню **Start** > **"** Пуск" выберите команду **Services. msc**. Убедитесь, что запущены следующие службы:
     - Автоматическая установка подключенных к сети устройств
     - Служба списка сетей
     - Служба сетевого расположения
@@ -36,4 +36,4 @@ ms.locfileid: "39628255"
 
 После завершения этой команды перезапустите компьютер.
 
-Подробные сведения см [. в разделе "Извините, не удается подключиться к вашей учетной записи. Повторите попытку позже "при активации Office из Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Подробные сведения см [. в разделе "Извините, не удается подключиться к вашей учетной записи. Повторите попытку позже "при активации Office из Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

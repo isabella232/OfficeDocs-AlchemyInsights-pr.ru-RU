@@ -3,7 +3,7 @@ title: Новые метки хранения автоматически соз�
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054679"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713515"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Новые метки хранения автоматически созданы
 
-В центре администрирования безопасности или соответствия требованиям могут отображаться [три метки хранения Office 365](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) , которые автоматически создаются в Организации в разделе **метки хранения** . Имена меток:
+В разделе **метки хранения** в центре администрирования безопасности или соответствия могут отображаться [три метки хранения](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) , автоматически создаваемые в вашей организации. Имена меток:
 
 - Рабочая процедура
 - Общие для предприятия

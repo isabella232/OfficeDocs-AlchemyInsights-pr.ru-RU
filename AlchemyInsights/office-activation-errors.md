@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: acd99c8f4ed9ea25bd5e15b161e8c3fae083112b
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118482"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713335"
 ---
 # <a name="office-activation-errors"></a>Ошибки активации Office
 
@@ -26,6 +26,6 @@ ms.locfileid: "43118482"
 
 3. Если Office по-прежнему не лицензирован, скачайте и запустите [средство устранения неполадок активации](https://aka.ms/SARA-OfficeActivation-Alchemy) на затронутом компьютере, чтобы устранить проблемы с активацией. 
 
-4. Если Office по-прежнему не лицензирован, [сбросьте состояние активации Office](https://docs.microsoft.com/ru-RU/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Затем перезапустите Office и войдите с помощью своей рабочей или учебной учетной записи при появлении запроса.  
+4. Если Office по-прежнему не лицензирован, [сбросьте состояние активации Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Затем перезапустите Office и войдите с помощью своей рабочей или учебной учетной записи при появлении запроса.  
 
 5. Действия по устранению неполадок см. в статье [Ошибки, связанные с нелицензированным продуктом и активацией Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).

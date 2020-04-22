@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: 7c3e9f99f0132f3fffa492c995cd8c45959749ea
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b708df774bbcb71a5ba8051fb857bcdd4ca99a0c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768489"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711860"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>Проблемы с просмотром сведений о доступности в календаре
 
-Если вы не можете просматривать сведения о доступности в календаре в других календарях Outlook, или если другие пользователи не видят сведения о доступности в календаре, используйте [Помощник по поддержке и восстановлению Майкрософт для Office 365](https://diagnostics.office.com/).
+Если вы не можете просматривать сведения о доступности в календаре в других календарях Outlook, или если другие пользователи не видят сведения о доступности в календаре, используйте [Помощник по поддержке и восстановлению Майкрософт для microsoft 365](https://diagnostics.office.com/).

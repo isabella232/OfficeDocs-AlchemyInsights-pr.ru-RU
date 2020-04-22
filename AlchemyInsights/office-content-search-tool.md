@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053490"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713299"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Средство поиска контента для поиска нужных сведений
 
@@ -26,6 +26,6 @@ ms.locfileid: "40053490"
 
 Узнайте больше о поиске контента, изучив [требования и ограничения](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [изучая частично индексированные элементы](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) и другие результаты, о которых следует знать.
 
-После просмотра параметров конфигурации и ограничений по поиску контента, используйте [Поиск</a> контента для поиска элементов на месте, таких как электронная почта, документы и беседы с мгновенными сообщениями в организации Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
+После просмотра параметров конфигурации и ограничений по поиску контента обратитесь к разделу [Использование поиска</a> контента для поиска элементов на месте, таких как электронная почта, документы и беседы с мгновенными сообщениями в Организации](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 За дополнительными сведениями по поиску контента обратитесь к разделу [Поиск содержимого в Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) .

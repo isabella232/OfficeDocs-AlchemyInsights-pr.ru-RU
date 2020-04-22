@@ -3,7 +3,7 @@ title: Перемещение элементов в библиотеке док�
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: 1f8ebd035511775dc355a5efd548b331fc6797c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38711733"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713587"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Перемещение элементов в библиотеке документов SharePoint
 
@@ -37,7 +37,7 @@ ms.locfileid: "38711733"
 
  При перемещении файла он по-прежнему будет отображаться в исходном каталоге, пока он не будет полностью перемещен в место назначения, а затем будет удален. Файл останется в корзине исходного сайта после завершения перемещения и будет подчиняться нормальному расписанию повторного запуска, если пользователь не восстанавливает его из корзины.
 
-Подробнее:
+Дополнительные сведения см. в указанных ниже статьях.
 
  - [Перемещение и копирование файлов в SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (статья о службе поддержки Office)
- - [Перемещение файлов из любой папки в Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (статья блог технического сообщества Майкрософт) 
+ - [Перемещение файлов из любой папки в Microsoft 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (статья блог технического сообщества Майкрософт) 

@@ -1,5 +1,5 @@
 ---
-title: Приобретение подписки на Office 365 для бизнеса
+title: Приобретение подписки на Microsoft 365 для бизнеса из бесплатной пробной версии
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218193"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712220"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>Приобретение подписки на Office 365 для бизнеса
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Приобретение подписки на Microsoft 365 из бесплатной пробной версии
 
-После ознакомления с пробной версией Office 365 вы решили купить полную версию. У вас есть два варианта приобретения Office 365 с пробной версии:
+Вы пробовали Microsoft 365, и теперь готовы к приобретению. У вас есть два варианта приобретения Microsoft 365 из пробной версии:
   
  **Приобретение того же плана, что и в пробной версии**
   
@@ -35,7 +35,7 @@ ms.locfileid: "43218193"
 
 3. Найдите подписку, которую вы хотите приобрести, нажмите кнопку **купить**и выполните действия, необходимые для извлечения.
 
-Чтобы узнать больше, ознакомьтесь со статьей [приобрести подписку на Office 365 для бизнеса из бесплатной пробной версии](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Чтобы узнать больше, ознакомьтесь со статьей [приобрести подписку на Microsoft 365 для бизнеса из бесплатной пробной версии](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
 
 **Устранение неполадок**
 

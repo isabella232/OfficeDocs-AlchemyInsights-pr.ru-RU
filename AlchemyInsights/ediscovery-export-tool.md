@@ -14,16 +14,16 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769316"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714783"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Не удается установить или запустить средство экспорта обнаружения электронных данных?
 
-Если вы не можете установить или запустить средство экспорта eDiscovery Office 365 для загрузки результатов поиска, проверьте следующие моменты.
+Если вы не можете установить или запустить средство экспорта eDiscovery для загрузки результатов поиска, проверьте следующие моменты.
   
 - Компьютер, который вы используете, соответствует этим предварительным требованиям:
 
@@ -46,7 +46,7 @@ ms.locfileid: "37769316"
 
 - Ваша организация может подключаться к конечной точке в Azure, т ** \*. е. BLOB.Core.Windows.NET** (подстановочный знак представляет уникальный идентификатор задания экспорта).
 
-- Роль экспорта назначена в центре безопасности &amp; и соответствия требованиям Office 365. По умолчанию эта роль назначается только группе ролей диспетчера обнаружения электронных данных. См. [Назначение разрешений на обнаружение электронных](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)данных.
+- Вы назначили роль экспорт в центре безопасности &amp; Майкрософт 365. По умолчанию эта роль назначается только группе ролей диспетчера обнаружения электронных данных. См. [Назначение разрешений на обнаружение электронных](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)данных.
 
 Дополнительные сведения можно найти в статье [Экспорт результатов поиска контента](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

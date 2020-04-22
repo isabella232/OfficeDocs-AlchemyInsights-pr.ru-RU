@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 2def74d86b4c4a5e22879c568bff79b77515bccd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 63573912b4beb290a0289c53ccd543271c19a76a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769172"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714235"
 ---
 # <a name="what-is-autosave"></a>Что такое Автосохранение?
 
-Автосохранение — это функция, доступная в подписчиках Excel, Word и PowerPoint 365, которые автоматически сохраняют файл каждые несколько секунд во время работы. 
+Автосохранение — это функция, доступная в подписчиках Excel, Word и PowerPoint для Microsoft 365, которые автоматически сохраняют файл каждые несколько секунд во время работы. 
 
 Сведения о том, [что является автосохранением, можно](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) узнать в статье вопросы и ответы.
