@@ -3,7 +3,7 @@ title: Не удается установить решения для Office (64
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,12 +14,12 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: e32916d40a2cfebf71440573e5d35439ded26b5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cff7315b2a8967d99941c56ce0c62d025172895a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501245"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764202"
 ---
 # <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Не удается установить решения для Office (64-разрядный или 32-разрядный)
 
@@ -27,11 +27,11 @@ ms.locfileid: "36501245"
   
 Чтобы устранить эту ошибку и переключиться с 32 на 64 (бит), выполните следующие действия в указанном порядке.
   
-1. Скачайте и установите [Помощник по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+1. Скачайте и установите [помощника по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
 1. После **удаления продуктов Office** выберите версию, которую нужно удалить, и нажмите кнопку **Далее**.
 
-2. Продолжайте переходить к экранам и перезапускать компьютер при появлении соответствующего запроса.
+2. Следуйте подсказкам на экране и перезагрузите компьютер при появлении соответствующего запроса.
 
     После перезапуска помощник по поддержке и восстановлению автоматически открывается для завершения процесса удаления.
 
