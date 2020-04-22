@@ -2,18 +2,18 @@
 title: Возникли проблемы с подключением Outlook?
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/22/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: 1167b104ca86c4823da578b0dc9dbb708ec8b6c6
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: c68fc2381432a9681ed60dac4e8c8fde3c303b8c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739722"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710204"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Возникли проблемы с подключением Outlook?
 
@@ -21,9 +21,6 @@ ms.locfileid: "36739722"
   
 {HealthCheckString}
   
-Неправильно настроены записи NS или CNAME для параметров домена (DNS). Подробные инструкции можно найти на странице [Создание записей DNS для любого поставщика услуг хостинга DNS для Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) . 
+Неправильно настроены записи NS или CNAME для параметров домена (DNS). Для получения подробных инструкций можно обратиться к разделу [Создание DNS-записей на любом поставщике услуг хостинга DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) . 
   
 Чтобы устранить проблему, откройте страницу [Домены](https://admin.microsoft.com/adminportal/home#/Domains) в Центре администрирования Microsoft 365, и мы поможем вам. 
-
-  
-

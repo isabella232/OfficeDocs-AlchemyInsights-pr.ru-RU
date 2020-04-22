@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286672"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706214"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Общие проблемы и решения для ADFS
 
@@ -28,4 +28,4 @@ ms.locfileid: "43286672"
 
 - [2647020](https://support.microsoft.com/help/2647020)   "Извините, но у нас возникают проблемы при входе в систему" и ошибка "80041317" или "80043431", когда федеративный пользователь пытается войти в Office 365, Azure или Intune.
 
-Дополнительные сведения см. В разделе [Обновление или восстановление параметров федеративного домена в Office 365, Azure или Intune](https://docs.microsoft.com/ru-RU/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Дополнительные сведения см. В разделе [Обновление или восстановление параметров федеративного домена в Office 365, Azure или Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002348"
 - "4574"
-ms.openlocfilehash: 45936add7eb1944f4534b1dd72bb9d0f7a4bac63
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: 6481ee963ab08bbdaf4918142823c0c9cb561c13
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102674"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708736"
 ---
 # <a name="add-update-or-remove-payment-method"></a>Добавление, удаление и обновление метода оплаты
 
@@ -24,7 +24,7 @@ ms.locfileid: "43102674"
 
 - Сведения о добавлении банковского счета в качестве метода оплаты см. в разделе [Добавление метода оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#add-a-payment-method).
 
-- Сведения об обновлении информации банковского счета см. в разделе [Обновление существующего метода оплаты](https://docs.microsoft.com/en-us/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
+- Сведения об обновлении информации банковского счета см. в разделе [Обновление существующего метода оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
 
 - Сведения об изменении метода оплаты на банковский счет или с него см. в разделе [Изменение метода оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).
 

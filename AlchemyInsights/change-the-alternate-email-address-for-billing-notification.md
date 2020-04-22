@@ -3,7 +3,7 @@ title: Изменение запасного адреса электронной
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 63cdc58d6c0474c66295cc5c4547dd04b0f50ad7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738750"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706538"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>Изменение запасного адреса электронной почты, на который отправляются уведомления о выставлении счетов
 
@@ -32,5 +32,5 @@ ms.locfileid: "36738750"
 
 4. Нажмите кнопку **сохранить** , и все готово.
 
-Дополнительные сведения и пошаговые инструкции со снимками экрана см. в статье [Изменение адресов выставления счета в Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
+Дополнительные сведения и действия с снимками экрана приведены в разделе [изменение адресов для выставления счетов](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
   

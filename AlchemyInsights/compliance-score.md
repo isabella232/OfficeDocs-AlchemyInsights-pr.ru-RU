@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600380"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706106"
 ---
 # <a name="compliance-score"></a>Оценка соответствия требованиям
 
@@ -33,7 +33,7 @@ ms.locfileid: "42600380"
 
 Дополнительные **сведения**:
 
-- Настройка разрешений доступа для оценки соответствия требованиям можно узнать в статье [предоставление пользователям доступа к центру безопасности & соответствия требованиям Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Настройка разрешений доступа для оценки соответствия требованиям можно узнать в [статье предоставление пользователям доступа к центрам обеспечения безопасности & Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
 - Работа с действиями по улучшению в показателе соответствия требованиям в разделе [Работа с рейтингом соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
 - Как рассчитывается Оценка соответствия требованиям, ознакомьтесь со статьей " [метод оценки соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)".
 - Сравнение оценки соответствия требованиям и диспетчера соответствия требованиям: [отношение к диспетчеру соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).

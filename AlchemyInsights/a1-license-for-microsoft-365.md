@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530435"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687415"
 ---
 # <a name="a1-license-for-microsoft-365"></a>Лицензия А1 для Microsoft 365
 
@@ -25,9 +25,9 @@ ms.locfileid: "43530435"
 
 - Если ваше учебное заведение еще не настроило подписку Microsoft 365 для образования, но вы хотите добавить Office 365 бесплатно, вы можете [начать работу](https://www.microsoft.com/education/products/office), указав свою электронную почту. 
 
-- Если вам нужно **перейти** с другого плана для образования на план А1, см. статью [Переход на другой план](https://docs.microsoft.com/ru-RU/microsoft-365/commerce/subscriptions/switch-plans-manually). 
+- Если вам нужно **перейти** с другого плана для образования на план А1, см. статью [Переход на другой план](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually). 
 
-- Сведения о назначении пользователям плана А1 см. в статье [Назначение лицензий пользователям](https://docs.microsoft.com/ru-RU/microsoft-365/admin/manage/assign-licenses-to-users). 
+- Сведения о назначении пользователям плана А1 см. в статье [Назначение лицензий пользователям](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users). 
 
 **Важно**. Чтобы изменения вступили в силу, может потребоваться до 24 часов. 
 

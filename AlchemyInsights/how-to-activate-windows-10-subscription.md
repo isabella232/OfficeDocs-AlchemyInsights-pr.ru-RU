@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: d03f9cd62a1867619f0b7ed8f449ff638164a836
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 2e3f9b789db6d8e581440c6decc4a1ea748eabf6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744717"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709672"
 ---
-# <a name="activating-windows-10-subscriptions"></a>Активация подписки на Windows 10
+# <a name="activating-windows-10-subscriptions"></a>Активация подписок на Windows 10
 
-Microsoft 365 бизнес, Microsoft 365 для образования, Microsoft 365 и Enterprise предоставляют цифровые лицензии для Windows 10 в рамках подписки. Чтобы активировать подписку, на устройстве уже должно быть активировано приложение Windows 10 Pro (1703 или более поздней версии). Полный список требований по активации подписки на Windows 10 можно найти в статье [требования к активации подписки на Windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).
+Microsoft 365 бизнес премиум, Microsoft 365 для образования, Microsoft 365 и Enterprise предоставляют цифровые лицензии для Windows 10 в рамках подписки. Чтобы активировать подписку, на вашем устройстве уже должна быть активирована Windows 10 Pro (1703 или более поздней версии). Полный список требований по активации подписки на Windows 10 можно найти в статье [требования к активации подписки на Windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).

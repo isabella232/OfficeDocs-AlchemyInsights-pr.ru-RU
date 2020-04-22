@@ -10,18 +10,18 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 7eb6e1463b95e01554722dd4790ab334371c86d9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a1bb502f7afdbd700a6c247046dc2033a9ab065b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050250"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706912"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Изменение доменного имени в SharePoint Online
 
-К сожалению, невозможно изменить доменное имя SharePoint Online для вашей организации в Office 365. Например, если имя Организации меняется с "contoso" на "Четвертая кофе", изменить contoso.sharepoint.com на fourthcoffee.sharepoint.com невозможно.
+К сожалению, невозможно изменить доменное имя SharePoint Online для вашей организации. Например, если имя Организации меняется с "contoso" на "Четвертая кофе", изменить contoso.sharepoint.com на fourthcoffee.sharepoint.com невозможно.
   
-Чтобы использовать доменное имя fourthcoffee.sharepoint.com, необходимо приобрести новую подписку на Office 365 и переместить всю электронную почту, файлы и другие данные, которые необходимо сохранить в новой подписке.
+Чтобы использовать доменное имя fourthcoffee.sharepoint.com, необходимо приобрести новую подписку и переместить всю электронную почту, файлы и другие данные, которые необходимо сохранить в новой подписке.
   
  **Примечание**. Например, чтобы изменить имя сайта с https://contoso.sharepoint.com/sites/sample1 на https://contoso.sharepoint.com/sites/sample2, следуйте инструкциям, приведенным в [этой статье](https://docs.microsoft.com/sharepoint/change-site-address). 
   

@@ -11,18 +11,18 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: 194c03d4cb1e519b1dc72737fa92a1fcfadc5e26
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 56e91bf630fe234ca54ba09c3c756d9f4b71854c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664369"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709708"
 ---
 # <a name="how-to-activate-office"></a>Активация Office
 
 Для успешной установки и активации Office администратору необходимо назначить [лицензию на Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) для рабочей или учебной учетной записи пользователя.
   
-После установки Office в большинстве случаев приложения Office 365 автоматически активируются, и если пользователю не будет предложено активировать его, они могут начать использовать Office сразу же.
+После установки Office во многих случаях приложения автоматически активируются, и если пользователю не предлагается активировать его, они могут начать использовать Office сразу же.
   
 Тем не менее, если пользователю предлагается **войти для настройки Office**, он должен войти в свою рабочую или учебную учетную запись, у которой уже должна быть [назначена лицензия на Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
   
