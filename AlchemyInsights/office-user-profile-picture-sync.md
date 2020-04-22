@@ -7,28 +7,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 4af871b33d4e5f438584076891fff7a430f41b5e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8f79e1c319fcb6c776e5a2ab8db9cb3a76265f87
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053382"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761539"
 ---
-# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="b5752-102">Синхронизация аватара профиля пользователя</span><span class="sxs-lookup"><span data-stu-id="b5752-102">Sync a user's profile picture</span></span>
+# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="78e6a-102">Синхронизация аватара профиля пользователя</span><span class="sxs-lookup"><span data-stu-id="78e6a-102">Sync a user's profile picture</span></span>
 
-<span data-ttu-id="b5752-103">Вы можете добавить или изменить фотографию профиля в Office 365 с Office.com, а также с помощью приложений Office 365 на вашем компьютере или в браузере на телефоне.</span><span class="sxs-lookup"><span data-stu-id="b5752-103">You can add or change your profile photo in Office 365 from Office.com, or while using Office 365 applications on your computer or in a browser on your phone.</span></span> <span data-ttu-id="b5752-104">Фотография будет отображаться везде, где находится фотография профиля в Office 365.</span><span class="sxs-lookup"><span data-stu-id="b5752-104">Your photo will appear everywhere there's a profile photo circle in Office 365.</span></span>
+<span data-ttu-id="78e6a-103">Вы можете добавить или изменить фотографию профиля в Microsoft 365 из Office.com, а также с помощью приложений Microsoft на вашем компьютере или в браузере на телефоне.</span><span class="sxs-lookup"><span data-stu-id="78e6a-103">You can add or change your profile photo in Microsoft 365 from Office.com, or while using Microsoft applications on your computer or in a browser on your phone.</span></span> <span data-ttu-id="78e6a-104">Фотография будет отображаться везде, где есть круг фотографий профиля в Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="78e6a-104">Your photo will appear everywhere there's a profile photo circle in Microsoft 365.</span></span>
 
-<span data-ttu-id="b5752-105">Добавление фотографии профиля в Office 365 для бизнеса</span><span class="sxs-lookup"><span data-stu-id="b5752-105">To add your profile photo to Office 365 for business</span></span>
+<span data-ttu-id="78e6a-105">Добавление фотографии профиля в Microsoft 365 для бизнеса</span><span class="sxs-lookup"><span data-stu-id="78e6a-105">To add your profile photo to Microsoft 365 for business</span></span>
 
-- <span data-ttu-id="b5752-106">Найдите фотографию, которую вы хотите использовать, и сохраните ее на своем компьютере, в OneDrive или другом месте, к которой вы можете перейти.</span><span class="sxs-lookup"><span data-stu-id="b5752-106">Find a photo you want to use and store it on your computer, OneDrive, or other location you can get to.</span></span>
+- <span data-ttu-id="78e6a-106">Найдите фотографию, которую вы хотите использовать, и сохраните ее на своем компьютере, в OneDrive или другом месте, к которой вы можете перейти.</span><span class="sxs-lookup"><span data-stu-id="78e6a-106">Find a photo you want to use and store it on your computer, OneDrive, or other location you can get to.</span></span>
 
-- <span data-ttu-id="b5752-107">Войдите в Office 365 с помощью рабочей или учебной учетной записи по адресу [Office.com](http://www.office.com).</span><span class="sxs-lookup"><span data-stu-id="b5752-107">Sign into Office 365 with your work or school account at [office.com](http://www.office.com).</span></span>
+- <span data-ttu-id="78e6a-107">Войдите в Microsoft 365 с помощью рабочей или учебной учетной записи по адресу [Office.com](https://www.office.com).</span><span class="sxs-lookup"><span data-stu-id="78e6a-107">Sign into Microsoft 365 with your work or school account at [office.com](https://www.office.com).</span></span>
 
-- <span data-ttu-id="b5752-108">Выберите круг в правом верхнем углу страницы, на которой отображаются инициалы или значок человека.</span><span class="sxs-lookup"><span data-stu-id="b5752-108">Select the circle in the upper right-hand corner of the page that shows your initials or an icon of a person.</span></span>
+- <span data-ttu-id="78e6a-108">Выберите круг в правом верхнем углу страницы, на которой отображаются инициалы или значок человека.</span><span class="sxs-lookup"><span data-stu-id="78e6a-108">Select the circle in the upper right-hand corner of the page that shows your initials or an icon of a person.</span></span>
 
-<span data-ttu-id="b5752-109">В области мои учетные записи выберите круг, который показывает инициалы или значок человека.</span><span class="sxs-lookup"><span data-stu-id="b5752-109">In the My accounts pane, select the circle that shows your initials or an icon of a person.</span></span> <span data-ttu-id="b5752-110">Измените фотографию в появившемся всплывающем окне.</span><span class="sxs-lookup"><span data-stu-id="b5752-110">Change your photo in the pop-up that appears.</span></span>
+<span data-ttu-id="78e6a-109">В области мои учетные записи выберите круг, который показывает инициалы или значок человека.</span><span class="sxs-lookup"><span data-stu-id="78e6a-109">In the My accounts pane, select the circle that shows your initials or an icon of a person.</span></span> <span data-ttu-id="78e6a-110">Измените фотографию в появившемся всплывающем окне.</span><span class="sxs-lookup"><span data-stu-id="78e6a-110">Change your photo in the pop-up that appears.</span></span>
 
-<span data-ttu-id="b5752-111">Примечание. Если вы уже загрузили фотографию, вы можете попробовать щелкнуть плитку SharePoint или OneDrive, чтобы повторно синхронизировать эту фотографию.</span><span class="sxs-lookup"><span data-stu-id="b5752-111">Note: If you have already uploaded a picture you may want to try clicking the SharePoint or OneDrive tile to re-sync that picture.</span></span>
+<span data-ttu-id="78e6a-111">Примечание. Если вы уже загрузили фотографию, вы можете попробовать щелкнуть плитку SharePoint или OneDrive, чтобы повторно синхронизировать эту фотографию.</span><span class="sxs-lookup"><span data-stu-id="78e6a-111">Note: If you have already uploaded a picture you may want to try clicking the SharePoint or OneDrive tile to re-sync that picture.</span></span>
 
-<span data-ttu-id="b5752-112">Дополнительные сведения см. [в сведениях о синхронизации изображений профилей в Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)</span><span class="sxs-lookup"><span data-stu-id="b5752-112">For more information, please visit [Information about profile picture synchronization in Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)</span></span>
+<span data-ttu-id="78e6a-112">Для получения дополнительных сведений обратитесь к [сведениям о синхронизации изображений профилей в Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)</span><span class="sxs-lookup"><span data-stu-id="78e6a-112">For more information, please visit [Information about profile picture synchronization in Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)</span></span>
 
