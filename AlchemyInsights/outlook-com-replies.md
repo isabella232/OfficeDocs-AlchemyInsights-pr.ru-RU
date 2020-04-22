@@ -3,7 +3,7 @@ title: 9000240 Outlook.com ответы
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1825"
 - "9000240"
-ms.openlocfilehash: 8f15b4fc8c56e14a978b60d642b5abe54b677978
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0fece3194ab9a14b8fb21123b0b92c2a9aabba62
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535224"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743790"
 ---
 # <a name="replying-in-outlookcom"></a>Ответ в Outlook.com
 
@@ -29,13 +29,13 @@ ms.locfileid: "36535224"
 Чтобы автоматически отвечать на все сообщения:
 
 1. Перейти к разделу <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
-**Параметры** > Просмотр**автоматических ответов** на**сообщения электронной почты** > **параметров** > Outlook для открытия [параметров автоматических ответов](https://outlook.live.com/mail/options/mail/automaticReplies).
-2. Установите флажок **включить автоматические ответы** .
+**Параметры** > **Просмотр** > **автоматических ответов** на**сообщения электронной почты** > параметров Outlook для открытия [параметров автоматических ответов](https://outlook.live.com/mail/options/mail/automaticReplies).
+2. Щелкните выключатель **Включить автоматические ответы**.
 3. Установка флажка **отправлять ответы только в течение периода времени** позволяет:
     - Отправляйте ответы только при выборе. Если вы не настроили период времени, автоматический ответ будет оставаться включенным, пока вы не выключите его.
     - Блокировка календаря
     - Автоматическое отклонение новых приглашений
-    - Отклонение и отмена собраний в течение этого периода
+    - Отклонить и отменить мои собрания в этот период
 4. В поле сообщение введите сообщение, которое будет отправлено пользователям в любое время.
 5. Чтобы отправлять ответы только контактам, установите флажок **отправлять ответы только на контакты** .
 6. Нажмите кнопку **Сохранить**.

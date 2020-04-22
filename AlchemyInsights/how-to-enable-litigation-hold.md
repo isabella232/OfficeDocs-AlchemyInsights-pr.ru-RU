@@ -3,7 +3,7 @@ title: 976 — инструкции по включению, судебное у
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398640"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720745"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Помещение почтового ящика на удержание по юридическим причинам
 
@@ -26,4 +26,4 @@ ms.locfileid: "37398640"
 
 - Чтобы включить удержание для судебного разбирательства для одного пользователя, выполните указанные ниже [действия](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Если включено удержание судебного разбирательства, все содержимое почтового ящика сохраняется.
 
-- Для сохранения контента во всех почтовых ящиках в Организации можно использовать [политику хранения Office 365 на уровне всей Организации](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Обратите внимание, что для политик хранения на уровне Организации новые пользователи будут автоматически назначены политике.
+- Для сохранения контента во всех почтовых ящиках в Организации можно использовать [политику хранения на уровне всей Организации](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Обратите внимание, что для политик хранения на уровне Организации новые пользователи будут автоматически назначены политике.

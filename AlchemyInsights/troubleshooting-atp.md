@@ -3,19 +3,19 @@ title: Устранение неполадок в Office 365 Advanced Threat pro
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: b4358fb55a1145833510c6063b520d822f2d1eaf
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765361"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732415"
 ---
 # <a name="troubleshooting-office-365-advanced-threat-protection"></a>Устранение неполадок в Office 365 Advanced Threat protection
 
@@ -27,7 +27,7 @@ ms.locfileid: "34765361"
 
   1. Перейдите к [https://protection.office.com](https://protection.office.com) учетной записи глобального администратора или администратора безопасности и войдите в нее.
 
-  2. В левой области навигации в разделе **Управление угрозами**выберите **** \> пункт **безопасные ссылки**.
+  2. В левой области навигации в разделе **Управление угрозами**выберите **пункт** \> **безопасные ссылки**.
 
   3. В разделе **политики, которые применяются ко всей Организации** , выберите политику и нажмите кнопку **изменить**.
 

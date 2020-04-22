@@ -2,7 +2,7 @@
 title: Использование средства развертывания Office
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: 874bb7883bca4f062e85963a6828a771cd2dad9b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531588"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726261"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Использование средства развертывания Office (ODT)
 
 Средство развертывания Office (ODT) используется для развертывания версий Office 365 для Office. Средство развертывания Office (Setup. exe) запускается из командной строки и использует XML-файл конфигурации для определения параметров, применяемых при развертывании Office.
   
-1. Скачайте последнюю версию средства развертывания Office в [центре загрузки Майкрософт](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Скачайте последнюю версию средства развертывания Office в [центре загрузки Майкрософт](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
 2. С помощью [центра развертывания Office (OCT)](https://config.office.com) выберите предпочтения развертывания и создайте XML-файл конфигурации. Экспортируйте файл конфигурации и разместите его локально в той же папке, где размещается файл Setup. exe.
 
@@ -42,4 +42,4 @@ ms.locfileid: "36531588"
 
     **Примечание:** Необходимо выполнить это действие с клиентского компьютера, на который необходимо установить Office, и у вас должны быть разрешения локального администратора на этом компьютере.
 
-Чтобы узнать больше об использовании средства развертывания Office для сценариев развертывания Office 365 профессиональный плюс, ознакомьтесь со статьей [Обзор средства развертывания Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Более подробную информацию об использовании центра развертывания Office можно узнать в статье [Обзор центра развертывания Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Чтобы узнать больше об использовании средства развертывания Office для сценариев корпоративного развертывания в приложениях Microsoft 365, ознакомьтесь со статьей [Обзор средства развертывания Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Более подробную информацию об использовании центра развертывания Office можно узнать в статье [Обзор центра развертывания Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

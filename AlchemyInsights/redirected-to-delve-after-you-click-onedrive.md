@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571237"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722823"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>Перенаправление на delve после нажатия кнопки OneDrive
 
 Ознакомьтесь с подробным [руководством по устранению неполадок](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
-Чтобы устранить эту проблему, администратор Office 365 должен предоставить пользователям право на создание сайта личных сайтов. Это связано с тем, что страница OneDrive для бизнеса создана на личных сайтах.
+Чтобы устранить эту проблему, администратор должен предоставить пользователям право на создание сайта личных сайтов. Это связано с тем, что страница OneDrive для бизнеса создана на личных сайтах.
 
 Чтобы предоставить это право, выполните указанные ниже действия.
 

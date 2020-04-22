@@ -3,7 +3,7 @@ title: Подписки на электронную почту Outlook.com
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 11/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: 9b1a3f14e6301f06daebdc4036063269055610f8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: becf4fcf93871b78ae136efeaa004f999bf0532c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38645700"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723679"
 ---
 # <a name="email-subscriptions"></a>Подписки на электронную почту
 
@@ -30,5 +30,5 @@ Outlook.com обнаружил, что сообщение электронной
 2. Откройте параметры [подписки на Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) и выберите пункт **Отменить подписку**.
 
 Примечание: Эта функция отображается только в том случае, если вы получили сообщение электронной почты от компании, отправляющей подписанные сообщения.
-Если ваш запрос относится к сведениям о оплаченных подписок[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) на Office 365, перейдите на страницу или [Узнайте больше об Office 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Если ваш запрос относится к Microsoft 365 оплаченных подписок,[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) перейдите к разделу [Microsoft 365 и Узнайте больше об](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade)этом.
   

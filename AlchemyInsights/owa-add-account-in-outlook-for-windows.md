@@ -3,18 +3,18 @@ title: Добавление Outlook в веб-учетную запись в Out
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f745546c991bae52046014dff836aeb54c779db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ffcc8ba50b98b693b48e13bb398a44289de305f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510996"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743214"
 ---
 # <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Добавление Outlook в веб-учетную запись в Outlook
 
@@ -26,4 +26,4 @@ ms.locfileid: "36510996"
     - Для **outlook 2013** и **Outlook 2010**введите свое имя, адрес электронной почты и пароль, а затем нажмите кнопку **Далее**.
 1. При появлении соответствующего запроса снова введите пароль, а затем нажмите кнопку **ОК** > **Готово** , чтобы начать использовать учетную запись электронной почты в Outlook.
 
-Дополнительные сведения см в статье [Добавление учетной записи электронной почты в Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)
+Дополнительную информацию можно узнать [в статье Добавление учетной записи электронной почты в Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b).

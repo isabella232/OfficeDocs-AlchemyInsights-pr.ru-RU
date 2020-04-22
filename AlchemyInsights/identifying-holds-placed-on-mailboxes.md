@@ -3,7 +3,7 @@ title: Определение удержаний, включенных в поч
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538811"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724789"
 ---
 # <a name="identify-holds-placed-on-mailboxes"></a>Определение удержаний, включенных в почтовые ящики
 
-Содержит ли вы содержимое Office 365, которое не **** может быть определено **удержанием** ? Нужно **узнать** , где находится удержание, в **почтовом ящике** ? Удержания (*функции хранения*) могут быть применены одним из следующих способов в Office 365:
+Есть ли у вас хранение содержимого Microsoft 365, которое не **может быть** определено **удержанием** ? Нужно **узнать** , где находится удержание, в **почтовом ящике** ? Удержания (*функции хранения*) могут быть применены одним из следующих способов:
   
 - Хранение для судебного разбирательства
 
@@ -29,12 +29,12 @@ ms.locfileid: "36538811"
 
 - Хранение на месте
 
-- Политика хранения Office 365 
+- Политика хранения Microsoft 365 
 
   - Политики хранения определенного расположения
 
   - Политики хранения на уровне Организации
 
-- Метки Office 365
+- Метки Microsoft 365
 
 Чтобы определить, какой тип удержания применяется к почтовому ящику пользователя, Узнайте, [как определить тип удержания, размещенного в почтовом ящике Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).

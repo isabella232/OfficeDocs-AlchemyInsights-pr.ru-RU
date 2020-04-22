@@ -3,26 +3,26 @@ title: Прекращение отправки сообщений в папку 
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 19873107de9450cd276253194c08cd0a84cd4a82
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c3dca146d1159ebee71c6806427700a4e8a69e15
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555750"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721987"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Прекращение отправки сообщений в папку "Нежелательная почта" в Outlook в Интернете
 
 Если вы обнаружите, что сообщение электронной почты в вашей папке нежелательной почты не является нежелательным:
 
 1. Откройте папку "Нежелательная почта" и выберите сообщение. (*Примечание:* элементы в папке "Нежелательная почта" удаляются через 30 дней.)
-1. Над списком сообщений выберите **не** > **** спам, а не Нежелательная почта.
+1. Над списком сообщений выберите **не** > **спам,** а не Нежелательная почта.
 
 Если вы хотите запретить сообщения от отправителя к папке "Нежелательная почта", добавьте отправителя в список надежных отправителей:
 
