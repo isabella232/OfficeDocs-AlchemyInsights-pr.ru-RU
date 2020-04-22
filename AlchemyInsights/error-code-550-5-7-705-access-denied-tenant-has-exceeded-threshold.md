@@ -2,7 +2,7 @@
 title: Код ошибки 550 5.7.705 отказано в доступе, превышено пороговое значение для клиента
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527232"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703003"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="e238d-102">550 5.7.705 доступ запрещен, клиент превысил пороговое значение</span><span class="sxs-lookup"><span data-stu-id="e238d-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="5bc4e-102">550 5.7.705 доступ запрещен, клиент превысил пороговое значение</span><span class="sxs-lookup"><span data-stu-id="5bc4e-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="e238d-103">Это сообщение появляется, когда ваша организация послала слишком много спама или массовая почта, и мы помещаем блокировку в исходящую почту.</span><span class="sxs-lookup"><span data-stu-id="e238d-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="e238d-104">Распространенные причины: скомпрометированные локальные серверы или скомпрометированные учетные записи администраторов, которые использовались для создания соединителей.</span><span class="sxs-lookup"><span data-stu-id="e238d-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="e238d-105">Любое из этих условий может позволить нежелательной почте проходить через организацию.</span><span class="sxs-lookup"><span data-stu-id="e238d-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="5bc4e-103">Это сообщение появляется, когда ваша организация послала слишком много спама или массовая почта, и мы помещаем блокировку в исходящую почту.</span><span class="sxs-lookup"><span data-stu-id="5bc4e-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="5bc4e-104">Чаще всего это вызвано тем, что локальные серверы или учетные записи администратора, которые использовались для создания соединителей, были скомпрометированы.</span><span class="sxs-lookup"><span data-stu-id="5bc4e-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="5bc4e-105">В любой из этих двух ситуаций через вашу организацию может передаваться спам.</span><span class="sxs-lookup"><span data-stu-id="5bc4e-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="e238d-106">Чтобы удалить этот блок, необходимо разобраться, что причина в агенте поддержки, а также исправить базовую проблему.</span><span class="sxs-lookup"><span data-stu-id="e238d-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="e238d-107">Щелкните **контакт с нами** , когда вы будете готовы.</span><span class="sxs-lookup"><span data-stu-id="e238d-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="5bc4e-106">Чтобы снять эту блокировку, вам потребуется понять и объяснить причину сотруднику службы поддержки, а также устранить вызвавшую ее проблему.</span><span class="sxs-lookup"><span data-stu-id="5bc4e-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="5bc4e-107">Щелкните **контакт с нами** , когда вы будете готовы.</span><span class="sxs-lookup"><span data-stu-id="5bc4e-107">Click **Contact us** below once you're ready.</span></span>
