@@ -12,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b4ae470e2a03509ea8a90e7fdf006eddfa4792ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766400"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707128"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a><span data-ttu-id="99e8a-102">Активация новой подписки с помощью ключа продукта</span><span class="sxs-lookup"><span data-stu-id="99e8a-102">Activate a new subscription with a product key</span></span>
+# <a name="activate-a-new-subscription-with-a-product-key"></a><span data-ttu-id="cc2cf-102">Активация новой подписки с помощью ключа продукта</span><span class="sxs-lookup"><span data-stu-id="cc2cf-102">Activate a new subscription with a product key</span></span>
 
-1. <span data-ttu-id="99e8a-103">Чтобы активировать новую подписку на Office 365 с помощью ключа продукта, перейдите [https://office.com/setupkey](https://office.com/setupkey)по адресу.</span><span class="sxs-lookup"><span data-stu-id="99e8a-103">To activate a new Office 365 subscription with your product key, go to [https://office.com/setupkey](https://office.com/setupkey).</span></span>
+1. <span data-ttu-id="cc2cf-103">Чтобы активировать новую подписку с помощью ключа продукта, перейдите на [https://office.com/setupkey](https://office.com/setupkey)страницу.</span><span class="sxs-lookup"><span data-stu-id="cc2cf-103">To activate a new subscription with your product key, go to [https://office.com/setupkey](https://office.com/setupkey).</span></span>
 
-2. <span data-ttu-id="99e8a-p101">Введите ключ продукта Office 365 и следуйте инструкциям по активации подписки. Если у вас возникают проблемы, просмотрите [список распространенных ошибок, связанных с ключом продукта, и способов их устранения](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).</span><span class="sxs-lookup"><span data-stu-id="99e8a-p101">Enter your Office 365 product key and follow the prompts to activate your subscription. If you have problems with activation, check out this [list of common product key errors and solutions](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).</span></span>
+2. <span data-ttu-id="cc2cf-104">Введите ключ продукта и следуйте инструкциям, чтобы активировать подписку.</span><span class="sxs-lookup"><span data-stu-id="cc2cf-104">Enter your product key and follow the prompts to activate your subscription.</span></span> <span data-ttu-id="cc2cf-105">Если у вас возникают проблемы, просмотрите [список распространенных ошибок, связанных с ключом продукта, и способов их устранения](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).</span><span class="sxs-lookup"><span data-stu-id="cc2cf-105">If you have problems with activation, check out this [list of common product key errors and solutions](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).</span></span>

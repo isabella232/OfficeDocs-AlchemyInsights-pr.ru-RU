@@ -3,7 +3,7 @@ title: Добавление папки или файлов в библиотек
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "5200007"
 - "3176"
 ms.assetid: ''
-ms.openlocfilehash: 3105555c0e88b72ede00045761356b6f03117594
-ms.sourcegitcommit: eeaaf0174dcad24f04f8979dfa7e78fffe1962aa
+ms.openlocfilehash: c75f1a0603a1abbc2c771b0d03499b73be70cf25
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37962495"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707164"
 ---
-# <a name="upload-a-folder-or-files-to-a-document-library"></a><span data-ttu-id="5f508-102">Добавление папки или файлов в библиотеку документов</span><span class="sxs-lookup"><span data-stu-id="5f508-102">Upload a folder or files to a document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-document-library"></a><span data-ttu-id="848dd-102">Добавление папки или файлов в библиотеку документов</span><span class="sxs-lookup"><span data-stu-id="848dd-102">Upload a folder or files to a document library</span></span>
 
-<span data-ttu-id="5f508-103">Вы можете отправить файлы в библиотеку документов в SharePoint, перетащив их с компьютера и перетащив в библиотеку документов.</span><span class="sxs-lookup"><span data-stu-id="5f508-103">You can upload files to a document library in SharePoint by dragging them from your computer and dropping them into the document library.</span></span>
+<span data-ttu-id="848dd-103">Вы можете отправить файлы в библиотеку документов в SharePoint, перетащив их с компьютера и перетащив в библиотеку документов.</span><span class="sxs-lookup"><span data-stu-id="848dd-103">You can upload files to a document library in SharePoint by dragging them from your computer and dropping them into the document library.</span></span>
 
-* [<span data-ttu-id="5f508-104">Добавление папки или файлов в библиотеку документов</span><span class="sxs-lookup"><span data-stu-id="5f508-104">Upload a folder or files to a document library</span></span>](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-* [<span data-ttu-id="5f508-105">Отправка с помощью синхронизации OneDrive</span><span class="sxs-lookup"><span data-stu-id="5f508-105">Upload using OneDrive Sync</span></span>](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+* [<span data-ttu-id="848dd-104">Добавление папки или файлов в библиотеку документов</span><span class="sxs-lookup"><span data-stu-id="848dd-104">Upload a folder or files to a document library</span></span>](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+* [<span data-ttu-id="848dd-105">Отправка с помощью синхронизации OneDrive</span><span class="sxs-lookup"><span data-stu-id="848dd-105">Upload using OneDrive Sync</span></span>](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
