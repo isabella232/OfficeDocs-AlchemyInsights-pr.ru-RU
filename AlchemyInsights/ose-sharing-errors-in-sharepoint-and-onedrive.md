@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 4322c8a106f453592e4c9660e9291704d2d8fc9a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d3da42ff51b6f2fdd7df66f18fd902eee68aa2f7
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049026"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43641797"
 ---
 # <a name="ose-sharing-errors"></a>Ошибки общего доступа OSE
 
-В этой статье рассматриваются различные ошибки, которые могут возникнуть при совместном использовании файлов или папок из SharePoint Online или OneDrive для бизнеса в Office 365. Для исправления этих ошибок нужно быть глобальным администратором или администратором SharePoint в организации. Если вы не являетесь администратором, обратитесь в службу технической поддержки и предоставьте ей код ошибки.
+В этой статье рассматриваются различные ошибки, которые могут возникнуть при совместном использовании файлов или папок из SharePoint Online или OneDrive для бизнеса в Microsoft 365. Для исправления этих ошибок нужно быть глобальным администратором или администратором SharePoint в организации. Если вы не являетесь администратором, обратитесь в службу технической поддержки и предоставьте ей код ошибки.
 
 Для получения дополнительных сведений о кодах ошибок OSE просмотрите [ошибки общего доступа в SharePoint и OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

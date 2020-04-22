@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: a171c30d9e58aeafc270e60a5a4fa4cd7db4135f
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 804ed86b45d73d17931c18ee23c7fb120c68723e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977487"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704538"
 ---
 # <a name="information-about-dlp-issues"></a>Сведения о проблемах с DLP
 
@@ -24,7 +24,7 @@ ms.locfileid: "42977487"
 
 **Сведения о политике защиты от потери данных**
 
-С помощью политики защиты от потери данных можно определять, отслеживать и автоматически защищать конфиденциальные данные в Office 365.
+С помощью политики защиты от потери данных можно определять, отслеживать и автоматически защищать конфиденциальные данные в Microsoft 365.
 
 Для получения дополнительных сведений посетите следующие ссылки:
 

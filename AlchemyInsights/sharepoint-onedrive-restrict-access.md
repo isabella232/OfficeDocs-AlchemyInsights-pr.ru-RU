@@ -2,18 +2,18 @@
 title: Ограничение доступа в SharePoint или OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053778"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692778"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Ограничение доступа в SharePoint или OneDrive
 
@@ -31,7 +31,7 @@ ms.locfileid: "40053778"
 
 - [Управление доступом с неуправляемых устройств](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-В SharePoint или глобальном администраторе в Office 365 вы можете заблокировать или ограничить доступ к контенту SharePoint и OneDrive с неуправляемых устройств (не с помощью гибридной среды AD или в Intune).
+Как SharePoint или глобальный администратор вы можете заблокировать или ограничить доступ к контенту SharePoint и OneDrive с неуправляемых устройств (не из-за гибридной службы AD или соответствующей возможности в Intune).
 
 **Ограничение расположения в сети**
 
@@ -43,5 +43,5 @@ ms.locfileid: "40053778"
 
 **Запретить пользователям создавать сайты или дочерние сайты**
 
-Администратор SharePoint или глобальный администратор Office 365 позволяют пользователям создавать собственные сайты SharePoint и администрировать их, определять, какие сайты могут создаваться, и указывать расположение сайтов. Дополнительные сведения см. в статье [Управление созданием сайтов в SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Администратор SharePoint или глобальный администратор могут позволить пользователям создавать и администрировать собственные сайты SharePoint, определять типы сайтов, которые они могут создавать, и указывать расположение сайтов. Дополнительные сведения см. в статье [Управление созданием сайтов в SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

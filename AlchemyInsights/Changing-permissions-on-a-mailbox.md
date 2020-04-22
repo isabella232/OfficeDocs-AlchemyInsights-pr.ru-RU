@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734394"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692526"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Изменение разрешений для почтового ящика
 
-Если пользователям необходим доступ к почтовым ящикам Office 365, а не к их собственным, им необходимо предоставить разрешения для работы с этими почтовыми ящиками. Способ назначения этих разрешений зависит от типа почтового ящика. Если пользователям требуется доступ к:
+Если пользователям требуется доступ к почтовым ящикам, которые не являются их собственными, им необходимо предоставить разрешения для работы с этими почтовыми ящиками. Способ назначения этих разрешений зависит от типа почтового ящика. Если пользователям требуется доступ к:
   
-- Почтовые ящики других пользователей — ознакомьтесь с [разрешениями предоставление доступа к почтовому ящику другому пользователю в Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Почтовые ящики других пользователей — откройте раздел [предоставление разрешений для почтового ящика другому пользователю](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
 - Общий почтовый ящик — в разделе [Добавление или удаление участников из общего почтового ящика](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     

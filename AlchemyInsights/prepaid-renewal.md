@@ -3,7 +3,7 @@ title: Предоплаченное продление
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666709"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666790"
 ---
-# <a name="prepaid-office-365-renewal"></a>Предоплаченное продление для Office 365
+# <a name="prepaid-microsoft-365-renewal"></a>Предоплаченное продление Microsoft 365
 
-1. В центре администрирования откройте страницу "Услуги по **выставлению счетов** \> [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
+1. В Центре администрирования перейдите на страницу **Выставление счетов** \> [Продукты и службы](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Найдите подписку, которую вы хотите расширить. В разделе **Оплата** выберите **расширить дату окончания**.
 
@@ -35,4 +35,4 @@ ms.locfileid: "36666709"
 
 5. Просмотрите сведения о заказе, а затем нажмите кнопку **активировать**.
 
-Чтобы узнать больше, ознакомьтесь с разделом [Добавление лицензий или расширение подписки, оплаченной с помощью ключа продукта](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Чтобы узнать больше, ознакомьтесь с [разделом Добавление лицензий или расширение подписки, оплаченной с помощью ключа продукта](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
