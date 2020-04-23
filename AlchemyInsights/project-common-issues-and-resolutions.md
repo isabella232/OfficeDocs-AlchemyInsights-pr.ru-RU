@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 4185077215ac3628103286ed58c396088410d868
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 61f2cb4d4d9158d8f9d90cd8a59d5a9ad109eb12
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600325"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789135"
 ---
 # <a name="project-common-issues-and-resolutions"></a>Общие проблемы и решения Project
 
@@ -28,6 +28,6 @@ ms.locfileid: "42600325"
 
 3. **Настройка производительности Project Web App (PWA) в Project Online:** Изучите [влияние на производительность и компромиссы](https://docs.microsoft.com/projectonline/tune-project-online-performance) некоторых наиболее распространенных параметров Project Web App.
 
-4. **Подключение к Project Online с помощью клиента Project Desktop:** Используйте [клиент Project Online для настольных ПК](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) для подключения к Project Online в среде Office 365. 
+4. **Подключение к Project Online с помощью клиента Project Desktop:** Используйте [клиент Project Online для настольных ПК](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) для подключения к Project Online в среде Microsoft 365. 
 
-5. **Install Project профессиональный:** [Установка и использование Project профессиональный](https://support.office.com/en-us/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) с версиями Project Online с подписками, а также версии Project 2019, 2016 или 2013, не относящихся к подпискам.
+5. **Install Project профессиональный:** [Установка и использование Project профессиональный](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) с версиями Project Online с подписками, а также версии Project 2019, 2016 или 2013, не относящихся к подпискам.
