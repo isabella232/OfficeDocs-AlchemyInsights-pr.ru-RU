@@ -3,7 +3,7 @@ title: Outlook.com Добавление флагов и напоминаний
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,12 +11,12 @@ ms.custom:
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 795c6e25bf1b9badbbf305d1daa49033d5e0ae12
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c2a87a621e1338fcefe455ebed910c47c17bb39d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542930"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760893"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Добавление флагов и напоминаний в Outlook.com
 
@@ -24,7 +24,7 @@ ms.locfileid: "36542930"
 
 1. Перейдите в раздел [Календарь](https://outlook.live.com/calendar/).
 1. Выберите событие, о котором необходимо получать напоминания, а затем нажмите стрелку в правом верхнем углу. <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gcCFAQmIj9P5wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAo0lEQVQ4jd3Uuw0DIQwG4J8oYgA2gIYKZvASDE9zbMAANE51kdBxCY+TLoolGmx9wsIgmJlxcTyuBv8cDSFACFEt731dxAuhtWYpJTvnqv3p9o0xAABr7SE3he7gtm3N/HMVVEodasTI8H874R7d7feC3egI2ESJCEQ0DQKNi8o5L4HAh/ZnwVM0xjgNnqKlFKSU3m87hDCEDs1pb/zG13cb+gIdRoJ0pVkSQgAAAABJRU5ErkJggg==' /> , чтобы развернуть его.
-1. Рядом с **** пунктом напоминание выберите время напоминания.Outlook.com автоматически сохраняет изменения.
+1. Рядом с пунктом **напоминание**выберите время напоминания.Outlook.com автоматически сохраняет изменения.
 
 Чтобы напомнить себе о дальнейших действиях с сообщением, можно добавить отметку "к исполнению":
 

@@ -2,29 +2,29 @@
 title: Проблемы с разрешениями при миграции
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 95bfbfdf002e457230479a860058c1cf7ab1f8c2
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 077b7cf29ef6a40ef7f2aebef15e39a0f5df0fc3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054427"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758983"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>Синхронизация профилей пользователей и фотографий
 
  **Profile Photo Synchronization** — пользователи могут заметить, что их фотография профиля не синхронизируется с SharePoint. Или, возможно, они попытались обновить фотографию профиля, и фотография по-прежнему отображается как старая фотография. Чтобы убедиться, что фотографии профиля отображаются должным образом, пользователю потребуется запустить синхронизацию фотографий. 
   
-Дополнительные сведения о процессе синхронизации фотографий приведены [в статье сведения о синхронизации изображений профилей в Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
+Дополнительные сведения о процессе синхронизации фотографий приведены [в статье сведения о синхронизации изображений профилей в Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2022634)
   
 - **Синхронизация профилей** — время, необходимое для выполнения синхронизации профилей, зависит от количества изменений (работа), которые должен выполнить задание импорта AD. При наличии большого количества изменений задание таймера выполняет большое количество действий, а изменения в приложении профиля пользователя требуют больше времени. Если для задания таймера требуется небольшой объем работы, изменения будут отражены в приложении профилей пользователей значительно быстрее. 
   
 Дополнительные сведения о процессе синхронизации профилей приведены [в статье сведения о синхронизации профилей пользователей в SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Обновление профиля в Office delve** пользователи delve могут управлять своим профилем Office 365. Дополнительные сведения см. [в статье Просмотр и обновление профиля в Office delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Обновление профиля в Office delve** пользователи delve могут управлять своим профилем Microsoft 365. Дополнительные сведения см. [в статье Просмотр и обновление профиля в Office delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

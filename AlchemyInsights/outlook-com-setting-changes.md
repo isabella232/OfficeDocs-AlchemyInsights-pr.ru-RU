@@ -3,18 +3,18 @@ title: Параметры Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 71e5fd3ed79619425bb797d70b1c0d872063365d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053274"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743574"
 ---
 # <a name="settings-in-outlookcom"></a>Параметры в Outlook.com
 
@@ -30,7 +30,7 @@ ms.locfileid: "40053274"
     
     - Секретный код для одноразового использования отправляется на один и тот же адрес электронной почты. Введите код в окне браузера, а затем нажмите кнопку **продолжить** , чтобы прочитать сообщение.
 
-- Если вы не можете шифровать сообщения из другой организации Office 365, выполните действия, описанные в этой [статье](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164).
+- Если вы не можете шифровать сообщения из другой организации, выполните действия, описанные в этой [статье](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164).
 
 - Если почтовый ящик получателя находится на **Yahoo или Gmail**, следуйте инструкциям</span> , приведенным в этой [статье](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
 

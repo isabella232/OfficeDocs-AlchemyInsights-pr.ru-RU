@@ -2,7 +2,7 @@
 title: Необходимо установить Office 2013
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 2acc0b82f6793c4b5a36b71b9574262c559e3aee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538718"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761863"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a>Office 2013 больше не поддерживается в подписках на Office 365
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013 больше не поддерживается в подписках на Microsoft 365
 
-С 28 февраля 2017 г. Office 2013 больше не поддерживается в подписках на Office 365.
+С 28 февраля 2017 г. Office 2013 больше не поддерживается в подписках на Microsoft 365.
   
-Чтобы обеспечить безопасность набора Office и получить все новейшие функции, установите последнюю версию Office бесплатно в рамках подписки на Office 365. Ознакомьтесь со статьей [Обновление для пользователей до последней версии клиента Office](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
+Чтобы обеспечить безопасность набора Office и получить все новейшие функции, установите последнюю версию Office бесплатно в рамках подписки Microsoft 365. Ознакомьтесь со статьей [Обновление для пользователей до последней версии клиента Office](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
   

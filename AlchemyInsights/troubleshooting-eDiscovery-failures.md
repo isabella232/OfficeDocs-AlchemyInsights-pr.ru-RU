@@ -3,7 +3,7 @@ title: 1490 — устранение неполадок с обнаружени�
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559386"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759597"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Устранение ошибок при поиске контента
 
-Возникают ли проблемы при поиске контента в Office 365 или при экспорте результатов поиска?
+Возникли ли проблемы с поиском контента или сбором сбоев при экспорте результатов поиска?
 
 Например, при выполнении поиска вы получаете следующие сведения:
 

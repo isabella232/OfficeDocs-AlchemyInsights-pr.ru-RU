@@ -3,7 +3,7 @@ title: Восстановление удаленных элементов из S
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 588c774d56ab092e7d50321ca6be9e2dd4f03f16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551896"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742528"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Восстановление удаленных элементов из SharePoint или OneDrive
 
@@ -32,7 +32,7 @@ ms.locfileid: "36551896"
   
 [Восстановление элементов в корзине семейства веб-сайтов](https://go.microsoft.com/fwlink/?linkid=867800) (Администраторы семейства веб-сайтов) 
   
-[Восстановление удаленных семейств веб-сайтов](https://go.microsoft.com/fwlink/?linkid=867660) (глобальные или административные администраторы SharePoint в Office 365) 
+[Восстановление удаленных семейств веб-сайтов](https://go.microsoft.com/fwlink/?linkid=867660) (глобальных или администраторов SharePoint в Microsoft 365) 
   
 Для сайтов, принадлежащих группе Office 365, необходимо восстановить группу для восстановления сайта. Просмотр [удаленной группы Office 365](https://go.microsoft.com/fwlink/?linkid=867802) (глобального администратора) 
   

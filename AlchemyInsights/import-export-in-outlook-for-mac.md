@@ -3,7 +3,7 @@ title: Импорт-экспорт-in-Outlook-for-Mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 5a03c5871187b07201e548295facf17df3209f74
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629958"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724743"
 ---
 # <a name="importexport-in-outlook-for-mac"></a>Импорт и экспорт в Outlook для Mac 
 
@@ -29,7 +29,7 @@ ms.locfileid: "33629958"
 
 Импортирует
 1. На вкладке **Сервис** выберите пункт **Импорт**.
-2. Установите флажок **файл архива Outlook для Windows (PST)** > ****.
+2. Установите флажок **файл архива Outlook для Windows (PST)** > **.**
 3. Найдите PST-файл на компьютере Mac, а затем выберите пункт **Импорт**.
 4. По завершении процесса импорта нажмите кнопку **Готово**.
 5. Импортированные элементы отображаются в области навигации в разделе **Мой компьютер**.

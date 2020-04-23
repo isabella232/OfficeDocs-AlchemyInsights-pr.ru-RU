@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599497"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737665"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams, установленные с обновлениями Office
 
-Microsoft Teams входит в состав ***новых установок*** Office 365 профессиональный плюс, Office 365 для бизнеса и Office для Mac. Дополнительные сведения о том, [когда будет запущено приложение Microsoft Teams, будет включено в новые установки Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams входит в состав ***новых установок*** приложений Microsoft 365 для корпоративных приложений, Майкрософт 365 для бизнеса и Office для Mac. Дополнительные сведения о том, [когда будет запущено приложение Microsoft Teams, будет включено в новые установки Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Кроме того, начиная с версии 1906 в месячном канале, Teams постепенно будет добавляться к ***существующим установкам*** Office 365 профессиональный плюс (и Office 365 бизнес) на устройствах под управлением Windows, когда вы обновите текущую установку до последней версии. Дополнительные сведения [о существующих установках Office](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Кроме того, начиная с версии 1906 в месячном канале, Teams постепенно будет добавляться к ***существующим установкам*** приложений Microsoft 365 для предприятий (и приложений Microsoft 365 для бизнеса) на устройствах под управлением Windows, когда вы обновите текущую установку до последней версии. Дополнительные сведения [о существующих установках Office](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Примечание:** Если вы не хотите ждать этого расписания развертывания, вы можете развернуть Teams как самостоятельный для пользователей, [выполнив указанные ниже инструкции](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), или пользователи смогут установить Teams самостоятельно https://teams.microsoft.com/downloads.
 
