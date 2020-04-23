@@ -3,7 +3,7 @@ title: Удаление Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: 50ad03e19b746c37949ddc85c17428d7dbd79efe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d4ef4295bda8c4845271162f8b0b591ea810eddd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506456"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43728800"
 ---
 # <a name="uninstall-visio"></a>Удаление Visio
 
-Скачайте и установите [Помощник по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+Скачайте и установите [помощника по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
 1. После **удаления продуктов Office** выберите версию Visio, которую нужно удалить, и нажмите кнопку **Далее**. 
     
-2. Продолжайте переходить к экранам и перезапускать компьютер при появлении соответствующего запроса.
+2. Следуйте подсказкам на экране и перезагрузите компьютер при появлении соответствующего запроса.
     
     После перезапуска помощник по поддержке и восстановлению автоматически открывается для завершения процесса удаления.
     
-3. Следуйте оставшимся запросам и, если у вас есть подписка на Visio Online, вы можете переустановить Visio с помощью [портала учетных записей](https://portal.office.com/account#installs)Office 365. Дополнительная справка или Справка по установке версий Visio, не являющихся подписками, таких как Visio профессиональный, приведены в [статье Установка Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
+3. Следуйте оставшимся запросам и, если у вас есть подписка на Visio Online, вы можете переустановить Visio на [портале учетных записей](https://portal.office.com/account#installs)Microsoft 365. Дополнительная справка или Справка по установке версий Visio, не являющихся подписками, таких как Visio профессиональный, приведены в [статье Установка Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
     
 Чтобы получить список других вариантов удаления, выберите [удалить Office с компьютера](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).
