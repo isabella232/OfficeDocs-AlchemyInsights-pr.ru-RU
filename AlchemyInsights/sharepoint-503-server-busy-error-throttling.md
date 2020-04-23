@@ -2,7 +2,7 @@
 title: Регулирование SharePoint Online
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958748"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742222"
 ---
-# <a name="sharepoint-online-throttling"></a><span data-ttu-id="e377e-102">Регулирование SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="e377e-102">SharePoint Online Throttling</span></span>
+# <a name="sharepoint-online-throttling"></a><span data-ttu-id="84a83-102">Регулирование SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="84a83-102">SharePoint Online Throttling</span></span>
 
-<span data-ttu-id="e377e-103">**Важно!** в это незначительное время мы предоставим вам рекомендации по включению служб SharePoint Online и OneDrive, чтобы получить дополнительные сведения о [временных функциях SharePoint](https://aka.ms/ODSPAdjustments) Online.</span><span class="sxs-lookup"><span data-stu-id="e377e-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="84a83-103">**Важно**. В это беспрецедентное время мы принимаем меры по сохранению высокого уровня доступности служб SharePoint Online и OneDrive. Дополнительные сведения см. в статье [Временные изменения возможностей SharePoint Online](https://aka.ms/ODSPAdjustments).</span><span class="sxs-lookup"><span data-stu-id="84a83-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
 
-<span data-ttu-id="e377e-104">**503 Сервер занят**</span><span class="sxs-lookup"><span data-stu-id="e377e-104">**503 server is busy error**</span></span>
+<span data-ttu-id="84a83-104">**503 Сервер занят**</span><span class="sxs-lookup"><span data-stu-id="84a83-104">**503 server is busy error**</span></span>
 
-<span data-ttu-id="e377e-105">При попытке перейти к сайтам SharePoint или OneDrive пользователи могут получить сообщение о занятости сервера 503.</span><span class="sxs-lookup"><span data-stu-id="e377e-105">Users may receive a 503 server is busy error when attempting to navigate to SharePoint or OneDrive sites.</span></span> 
+<span data-ttu-id="84a83-105">При попытке перейти к сайтам SharePoint или OneDrive пользователи могут получить сообщение о занятости сервера 503.</span><span class="sxs-lookup"><span data-stu-id="84a83-105">Users may receive a 503 server is busy error when attempting to navigate to SharePoint or OneDrive sites.</span></span> 
 
-<span data-ttu-id="e377e-106">Эта ошибка может быть вызвана регулированием в службе SharePoint.</span><span class="sxs-lookup"><span data-stu-id="e377e-106">This error can be caused by throttling within the SharePoint service.</span></span> <span data-ttu-id="e377e-107">для обеспечения оптимальной производительности и надежности службы SharePoint OnlineSharePoint Online использует регулирования.</span><span class="sxs-lookup"><span data-stu-id="e377e-107">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="e377e-108">Пределы регулирования количество пользовательских действий или одновременных звонков (с скриптах или программах) для предотвращения чрезмерного использования ресурсов.</span><span class="sxs-lookup"><span data-stu-id="e377e-108">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> 
+<span data-ttu-id="84a83-106">Эта ошибка может быть вызвана регулированием в службе SharePoint.</span><span class="sxs-lookup"><span data-stu-id="84a83-106">This error can be caused by throttling within the SharePoint service.</span></span> <span data-ttu-id="84a83-107">для обеспечения оптимальной производительности и надежности службы SharePoint OnlineSharePoint Online использует регулирования.</span><span class="sxs-lookup"><span data-stu-id="84a83-107">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="84a83-108">Пределы регулирования количество пользовательских действий или одновременных звонков (с скриптах или программах) для предотвращения чрезмерного использования ресурсов.</span><span class="sxs-lookup"><span data-stu-id="84a83-108">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> 
 
-<span data-ttu-id="e377e-109">Для получения дополнительных сведений об регулированиях см. [Избегайте регулирования или блокировки в SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="e377e-109">For more information on throttling see, [Avoid getting throttled or blocked in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).</span></span>
+<span data-ttu-id="84a83-109">Для получения дополнительных сведений об регулированиях см. [Избегайте регулирования или блокировки в SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="84a83-109">For more information on throttling see, [Avoid getting throttled or blocked in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).</span></span>
 
-<span data-ttu-id="e377e-110">Если вы считаете, что эта ошибка не связана с регулированием, вы можете проверить, есть ли активное обслуживание клиента, перейдя в [Центр сообщений](https://portal.office.com/adminportal/home#/MessageCenter).</span><span class="sxs-lookup"><span data-stu-id="e377e-110">If you believe this error is unrelated to throttling, you can check if there is active maintenance occurring on your tenant by navigating to the [Message center](https://portal.office.com/adminportal/home#/MessageCenter).</span></span>
+<span data-ttu-id="84a83-110">Если вы считаете, что эта ошибка не связана с регулированием, вы можете проверить, есть ли активное обслуживание клиента, перейдя в [Центр сообщений](https://portal.office.com/adminportal/home#/MessageCenter).</span><span class="sxs-lookup"><span data-stu-id="84a83-110">If you believe this error is unrelated to throttling, you can check if there is active maintenance occurring on your tenant by navigating to the [Message center](https://portal.office.com/adminportal/home#/MessageCenter).</span></span>
 
- <span data-ttu-id="e377e-111">Наконец, убедитесь, что вы посещаете страницу [работоспособности службы](https://portal.office.com/adminportal/home#/servicehealth) , чтобы проверить, какие рекомендации и происшествия могут возникать.</span><span class="sxs-lookup"><span data-stu-id="e377e-111">Finally, ensure you visit the [Service Health](https://portal.office.com/adminportal/home#/servicehealth) page to check for any advisories/incidents that may be occurring.</span></span>
+ <span data-ttu-id="84a83-111">Наконец, убедитесь, что вы посещаете страницу [работоспособности службы](https://portal.office.com/adminportal/home#/servicehealth) , чтобы проверить, какие рекомендации и происшествия могут возникать.</span><span class="sxs-lookup"><span data-stu-id="84a83-111">Finally, ensure you visit the [Service Health](https://portal.office.com/adminportal/home#/servicehealth) page to check for any advisories/incidents that may be occurring.</span></span>
 
