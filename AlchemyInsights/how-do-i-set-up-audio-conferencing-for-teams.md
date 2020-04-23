@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692408"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709952"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams — аудиоконференции
 
-Нужна помощь по настройке аудиоконференций в Microsoft Teams? Этот пользователь был создан недавно?  Если это так, нужно подождать 2–24 часа, чтобы настройки вступили в силу.    
+Нужна помощь по настройке аудиоконференций в Microsoft Teams? Этот пользователь был создан недавно?  Если это так, нужно подождать 2–24 часа, чтобы настройки вступили в силу.
 
 Чтобы убедиться в наличии у пользователя лицензии на аудиоконференции и платного номера по умолчанию:
 
@@ -39,4 +39,4 @@ ms.locfileid: "42692408"
 
 7. Выберите пользователя и убедитесь, что у него есть **платный номер по умолчанию**.
 
-Для получения дополнительных сведений о лицензировании см. статью [Планы звонков для Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) или позвоните в группу выставления коммерческих счетов Майкрософт.
+Дополнительные сведения о лицензировании см. в статье [Планы звонков](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) или позвоните в группу выставления коммерческих счетов Майкрософт.

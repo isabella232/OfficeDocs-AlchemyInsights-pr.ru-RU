@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 77567abf8f7099898568db970ecedf51d9424a51
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 2b50b021c334d5b6cb18ef3b7fd1c9bc215b3a07
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736554"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687487"
 ---
 # <a name="trying-to-remove-your-domain"></a>Пытаетесь удалить домен?
 
-Следуйте инструкциям, приведенным в статье [Удаление домена из Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain).
+Следуйте инструкциям из статьи [Удаление домена](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain).
   
 Перед удалением домена необходимо обновить пользователей и группы, которые ему назначены. Другие стандартные решения см. в статье [Вопросы и ответы о доменах](https://docs.microsoft.com/office365/admin/setup/domains-faq).
   

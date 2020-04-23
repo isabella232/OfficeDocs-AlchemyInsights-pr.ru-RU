@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745446"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719317"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Рекомендованные действия при компрометации учетной записи
 
-[ВИДЕО. Устранение компрометации учетных записей Office 365](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[ВИДЕО. Устранение компрометации учетных записей](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [Немедленный сброс пароля учетной записи](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) Не сообщайте новый пароль в сообщении электронной почте конечному пользователю.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745446"
 
 5. Удалите учетную запись этого пользователя из всех [групп с административными ролями](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) до тех пор, пока вы не убедитесь в том, что его учетная запись больше не скомпрометирована.
 
-Чтобы избежать утечки данных или компрометации учетных записей, ознакомьтесь со [схемой обеспечения безопасности Office 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+Чтобы избежать утечки данных или компрометации учетных записей, ознакомьтесь со [схемой обеспечения безопасности Microsoft 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   

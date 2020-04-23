@@ -3,7 +3,7 @@ title: Проблемы с утверждением нежелательной �
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: e0c2029ce40e4c105c7a4790f15555f9cd3b1fee
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1cac908edee18c92219a46d24e38f9aed7cb2249
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36536520"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715933"
 ---
 # <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Проблемы с утверждением нежелательной почты из LinkedIn
 
