@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 178811c81775b22676a0106283be4e516d40a95b
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 87a0a2be6b222d35acbc862eed4f14fb3e3e36ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628039"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764166"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Предложения по устранению ошибок "нелицензированный продукт"
 
 Чтобы устранить ошибки, связанные с "нелицензированным продуктом", выполните указанные ниже действия.
 
 - Проверьте, не просрочено ли состояние подписки.
-- Убедитесь, что у вас есть подписка на клиентские лицензии, такие как Office 365 Business или Business Premium, и [Убедитесь, что у пользователя есть назначенная лицензия](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
+- Убедитесь, что у вас есть подписка на клиентские лицензии, такие как Microsoft 365 Apps для бизнеса или бизнес премиум, и [Убедитесь, что у пользователя есть назначенная лицензия](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
 - Убедитесь, что пользователь вошел в Office с той же учетной записью, которой назначена лицензия.
-- Проверьте [страницу работоспособности службы Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) , чтобы проверить наличие известных проблем со службой.
-- Проверьте брандмауэр, антивирусное программное обеспечение и параметры прокси-сервера, чтобы убедиться, что они не блокируют доступ приложений Office к Интернету. См.: [URL-адреса и диапазоны IP-адресов для Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Проверьте [страницу работоспособности службы](https://docs.microsoft.com/office365/enterprise/view-service-health) , чтобы проверить наличие известных проблем со службой.
+- Проверьте брандмауэр, антивирусное программное обеспечение и параметры прокси-сервера, чтобы убедиться, что они не блокируют доступ приложений Office к Интернету. Просмотр [URL-адресов и диапазонов IP-адресов](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Вы также можете попробовать выполнить следующие действия по устранению неполадок: 
 
@@ -35,7 +35,7 @@ ms.locfileid: "39628039"
 - [Сброс состояния активации Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
 - [Выполните оперативное восстановление Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-Дополнительные решения по устранению неполадок приведены в следующих статьях: 
+Дополнительные решения по устранению неполадок см. в следующих статьях: 
 
-- [Нелицензированные продукты и ошибки активации в Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
-- ["К сожалению, не удается подключиться к вашей учетной записи. Повторите попытку позже "при активации Office.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+- [Ошибки, связанные с нелицензированным продуктом и активацией Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+- [Ошибка "Не удается подключиться к вашей учетной записи. Повторите попытку позже" при активации Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

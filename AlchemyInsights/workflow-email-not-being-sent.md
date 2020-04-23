@@ -3,7 +3,7 @@ title: Не отправляется сообщение электронной �
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 391d3a2dcc2676a405065115f375c802d2492119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049386"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766146"
 ---
 # <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Не отправляется сообщение электронной почты для списка или библиотеки SharePoint
 
@@ -38,7 +38,7 @@ ms.locfileid: "40049386"
     Кроме того, убедитесь, что компонент "семейство веб-сайтов **с ограниченным доступом" не активен в режиме ограниченного доступа** .
 
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Статьи по теме
 Хотите попробовать Microsoft Flow в SharePoint Online?
 - [Создание последовательности](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint и Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

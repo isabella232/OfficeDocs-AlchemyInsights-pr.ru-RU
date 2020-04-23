@@ -1,5 +1,5 @@
 ---
-title: Роль администратора и назначение
+title: Роль администратора и ее назначение
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c734b2707003a17e6ac88f32ca28adc4e96e139a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054787"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762366"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Возникли проблемы с облачной службой?
 
@@ -23,5 +23,5 @@ ms.locfileid: "40054787"
 
 **Политика уведомлений**
 
-При возникновении инцидента службы, Майкрософт осознает, что для клиентов наиболее важна своевременная, целевая и точная информация. Корпорация Майкрософт уведомляет администраторов Office 365, обновляя [панель мониторинга работоспособности службы для конкретных клиентов (ШД)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) на портале администрирования Office 365. Обновления инцидентов служб предоставляются по почасовой ритмичности или, если требуется другая ритмичность, она будет указана в разделе ШД Communication POST. Дополнительные сведения см. [в статье Проверка работоспособности службы Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+При возникновении инцидента службы, Майкрософт осознает, что для клиентов наиболее важна своевременная, целевая и точная информация. Корпорация Майкрософт уведомляет администраторов, обновляя [панель мониторинга работоспособности служб на уровне клиента (ШД)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) на портале администрирования Microsoft 365. Обновления инцидентов служб предоставляются по почасовой ритмичности или, если требуется другая ритмичность, она будет указана в разделе ШД Communication POST. Для получения дополнительных сведений Узнайте, [как проверить работоспособность службы Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

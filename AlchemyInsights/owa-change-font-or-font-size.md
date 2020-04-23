@@ -3,7 +3,7 @@ title: Изменение шрифта или его размера в Outlook �
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: 28efa991c3449716af7453051e2cfd7ceea56467
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 266af20d0c47f328685b190562521227e01635f6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557429"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764813"
 ---
 # <a name="change-font-or-font-size-in-outlook-on-the-web"></a>Изменение шрифта или его размера в Outlook в Интернете
 

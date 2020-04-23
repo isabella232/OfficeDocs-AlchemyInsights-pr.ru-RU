@@ -14,12 +14,12 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769856"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765210"
 ---
 # <a name="where-is-power-pivot"></a>Где находится сводная таблица управления питанием?
 
@@ -41,4 +41,4 @@ ms.locfileid: "37769856"
 
 **У вас есть несколько подписок или учетных записей**
   
-Для разных учетных записей пользователей могут быть назначены разные подписки на Office 365. Убедитесь, что вы вошли в учетную запись с версией Excel, которая поддерживает Power Pivot. Проверьте список [поддерживаемых версий](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)и следуйте инструкциям, чтобы [Переключиться между различными учетными записями Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Для разных учетных записей пользователей могут быть назначены разные подписки Microsoft 365. Убедитесь, что вы вошли в учетную запись с версией Excel, которая поддерживает Power Pivot. Проверьте список [поддерживаемых версий](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)и следуйте инструкциям, чтобы [Переключиться между различными учетными записями Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

@@ -1,5 +1,5 @@
 ---
-title: Нужна помощь по работе с Microsoft 365 Business Voice?
+title: Нужна помощь по работе с Microsoft 365 Business Premium Voice?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 55490f1e04f02af83d0ce786543117aa48ecb340
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: c9bcc02a31fc9afccee46839af3665d2bdaac0cf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600469"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761971"
 ---
-# <a name="need-help-with-microsoft-365-business-voice"></a>Нужна помощь по работе с Microsoft 365 Business Voice?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Нужна помощь по работе с Microsoft 365 Business Premium Voice?
 
-Microsoft 365 Business Voice упрощает для малых и средних организаций включение Microsoft Teams в мощную и гибкую телефонную систему. Дополнительную информацию о деловой голосовой связи можно узнать в [статье что такое Microsoft 365 Business Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium Voice облегчает для малых и средних организаций возможность превратить Microsoft Teams в мощную и гибкую телефонную систему. Для получения дополнительных сведений о деловой голосовой связи посмотрите, [что такое голосовая связь: Microsoft 365 Business Premium?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Если вы уже приобрели Microsoft 365 Business Voice, [Мастер "Приступая к работе](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) " поможет вам выполнить все задачи. 
+Если вы уже приобрели голосовую связь Microsoft 365 Business Premium, [мастер начала работы](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) поможет вам выполнить все задачи. 
