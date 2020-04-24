@@ -1,5 +1,5 @@
 ---
-title: Активация подписки на Office 365
+title: Активация подписки Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191078"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784020"
 ---
-# <a name="activate-your-office-365-subscription"></a>Активация подписки на Office 365
+# <a name="activate-your-subscription"></a>Активация вашей подписки
 
 **Активация подписки**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191078"
 
 **Повторная активация подписки**
 
-Если срок действия подписки истек либо она была отключена корпорацией Майкрософт или отменена вами в середине срока действия, ее можно активировать повторно в Центре администрирования Office 365.
+Если срок действия подписки истек либо она была отключена корпорацией Майкрософт или отменена вами в середине срока действия, ее можно активировать повторно в Центре администрирования Microsoft 365.
 
-- В Центре администрирования Office 365 перейдите на страницу [Подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) (или щелкните **Выставление счетов > Подписки**).
+- В Центре администрирования Microsoft 365 перейдите на страницу [Подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) (или щелкните **Выставление счетов > Подписки**).
 
 - Выберите подписку, которую нужно повторно активировать, и щелкните **Активировать повторно**. Если действие **Активировать повторно** не отображается, [обратитесь в службу поддержки](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b), чтобы повторно активировать свою подписку.
 
@@ -42,6 +42,6 @@ ms.locfileid: "43191078"
 
 **Активация новой подписки с помощью ключа продукта**
 
-- Чтобы активировать новую подписку на Office 365 с помощью ключа продукта, перейдите [сюда](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Чтобы активировать новую подписку на Microsoft 365 с помощью ключа продукта, перейдите [сюда](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Введите ключ продукта Office 365 и следуйте инструкциям по активации подписки. Если у вас возникают проблемы с активацией, просмотрите список [распространенных ошибок, связанных с ключом продукта, и способов их устранения](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Введите ключ продукта Microsoft 365 и следуйте инструкциям по активации подписки. Если у вас возникают проблемы с активацией, просмотрите список [распространенных ошибок, связанных с ключом продукта, и способов их устранения](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
