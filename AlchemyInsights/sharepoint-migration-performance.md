@@ -1,5 +1,5 @@
 ---
-title: Производительность миграции SharePoint
+title: Руководство по производительности миграции SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537790"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789315"
 ---
-# <a name="sharepoint-migration-performance"></a>Производительность миграции SharePoint
+# <a name="sharepoint-migration-performance-guidance"></a>Руководство по производительности миграции SharePoint
 
-**Важно**. В это беспрецедентное время мы принимаем меры по сохранению высокого уровня доступности служб SharePoint Online и OneDrive. Дополнительные сведения см. в статье [Временные изменения возможностей SharePoint Online](https://aka.ms/ODSPAdjustments).
+На производительность миграции может влиять сетевая инфраструктура, размер файла, время миграции и регулирование.
 
-**Производительность миграции**
-
-На производительность миграции может влиять сетевая инфраструктура, размер файла, время миграции и регулирование. Понимание этого поможет вам планировать миграцию и сделать ее максимально эффективной.
-
-Дополнительные сведения см. по ссылкам ниже.
+Дополнительные сведения см. в следующих статьях:
 
 - [Общие рекомендации по производительности миграции](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Как избежать регулирования или блокировки в SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Скачивание и установка средства миграции SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)

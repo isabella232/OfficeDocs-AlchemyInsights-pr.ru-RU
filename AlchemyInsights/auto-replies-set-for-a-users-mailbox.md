@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509514"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788895"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Настройка автоматических ответов для почтового ящика пользователя
 
 **Метод 1**
 
-1. Войдите на портал Office 365.
+1. Войдите на портал Microsoft 365.
 
 2. Выберите **Пользователи > Активные пользователи** (или **Группы > Общие почтовые ящики**, если выполняется настройка в общем почтовом ящике).
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509514"
 
 **Метод 2**
 
-1. Войдите на портал администрирования Office 365, используя учетные данные администратора.
+1. Войдите на портал администрирования Microsoft 365, используя учетные данные администратора.
 
 2. Разверните пункт **Центры администрирования** и щелкните **Exchange**.
 
