@@ -1,5 +1,5 @@
 ---
-title: Восстановление удаленной группы Office 365
+title: Восстановление удаленной группы Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0443d51690399ea5c82ab9c2d6fc803a946161dd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758767"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912724"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Восстановление удаленной группы Office 365
+# <a name="restore-a-deleted-microsoft-365-group"></a>Восстановление удаленной группы Microsoft 365
 
 Удаленные группы хранятся в течение 30 дней. Чтобы восстановить удаленную группу, выполните указанные ниже действия.
   
@@ -28,5 +28,5 @@ ms.locfileid: "43758767"
 
 2. Выберите группу, а затем нажмите кнопку **восстановить** на панели команд или щелкните ссылку "щелкните здесь для восстановления" в области сведений.
 
-Дополнительные сведения или инструкции по восстановлению групп с помощью PowerShell приведены в статье [RESTORE a Deleted a Office 365 Group](https://go.microsoft.com/fwlink/?linkid=867802).
+Дополнительные сведения или инструкции по восстановлению групп с помощью PowerShell приведены в статье [Восстановление удаленной группы Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802).
   

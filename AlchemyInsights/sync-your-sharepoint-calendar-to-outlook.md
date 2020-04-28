@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766974"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912871"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Проблемы с синхронизацией календаря с устройствами
 
-Календари SharePoint это классические типы списков, которые иногда путают с календарями группы Office 365.
+Календари SharePoint являются классическими типами списков, которые иногда путают с Microsoft 365 Group Calendars.
 
 Чтобы синхронизировать календарь SharePoint с Outlook, выполните следующие действия:
 
@@ -33,4 +33,4 @@ ms.locfileid: "43766974"
 >[!Note]
 > При внесении изменений в синхронизированный календарь Outlook он будет отображаться в календаре SharePoint и наоборот.
 
-Дополнительные сведения о группах Office 365 приведены в этой [статье](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Дополнительные сведения о группах Microsoft 365 приведены в этой [статье](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714415"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911161"
 ---
 # <a name="ediscovery-settings"></a>Параметры обнаружения электронных данных
 
-Поиск с обнаружением электронных данных и контентом позволяет искать, хранить и экспортировать контент из почтовых ящиков Exchange Online, SharePoint Online и OneDrive для бизнеса, обсуждений Skype для бизнеса, Microsoft Teams и Office 365.
+Поиск с обнаружением электронных данных и контентом позволяет искать, хранить и экспортировать контент из почтовых ящиков Exchange Online, SharePoint Online и OneDrive для бизнеса, обсуждений Skype для бизнеса, Microsoft Teams и Microsoft 365.
 
 - Если вы ищете параметры меню "обнаружение электронных данных" или "поиск контента", ознакомьтесь с [вопросами обнаружения электронных](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)данных.
 - Узнайте о разрешениях, необходимых для выполнения поиска eDiscovery, из [разрешений, необходимых для поиска eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).

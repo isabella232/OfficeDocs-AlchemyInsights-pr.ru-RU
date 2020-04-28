@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709420"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908861"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Добавление оверлея в календарь SharePoint
 
-Календари SharePoint это классические типы списков, которые иногда путают с календарями группы Office 365.
+Календари SharePoint являются классическими типами списков, которые иногда путают с Microsoft 365 Group Calendars.
  
 Если вы используете календарь SharePoint на сайте, вы можете наложить свой календарь Exchange на этот календарь, чтобы создать комбинированное представление календаря. Кроме того, вы можете наложить другой календарь SharePoint, пока оба календаря SharePoint находятся в одном семействе веб-сайтов.
  

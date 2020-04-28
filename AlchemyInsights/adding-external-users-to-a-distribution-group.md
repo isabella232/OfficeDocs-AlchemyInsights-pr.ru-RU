@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7dbc69bced9ca800d3f95081b77dda5e49662579
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737886"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43910945"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>Добавление внешних пользователей в группу рассылки
 
@@ -40,5 +40,5 @@ ms.locfileid: "36737886"
     
 Если после выполнения этих действий внешние пользователи не смогут отправлять сообщения в группу рассылки или не получали сообщения от него, может быть, что эта рассылка помечена так, чтобы разрешать электронную почту только от внутренних пользователей. Вы можете проверить эту конфигурацию и устранить ее, следуя указаниям, приведенным [здесь](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online).
   
- **Примечание:** Эти инструкции не применяются, если типом вашей группы является "Группа Office 365", а не "группа рассылки". В этом случае внешний пользователь можно добавить непосредственно в группу из Outlook. Подробные сведения о группах Office 365 для гостей, а также инструкции по добавлению внешних гостей можно найти в [этой статье](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+ **Примечание:** Эти инструкции не применяются, если типом вашей группы является "Microsoft 365 группа", а не "группа рассылки". В этом случае внешний пользователь можно добавить непосредственно в группу из Outlook. Подробные сведения о гостевых группах Microsoft 365, а также инструкции по добавлению внешних гостей можно найти в [этой статье](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   

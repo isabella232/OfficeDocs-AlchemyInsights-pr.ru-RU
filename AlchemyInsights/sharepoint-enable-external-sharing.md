@@ -8,12 +8,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7b80c40f63fcdb3f4e37bb5333bb5dd78822bdc6
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051690"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912199"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Включение внешнего общего доступа в SharePoint Online
 
@@ -29,7 +29,7 @@ ms.locfileid: "40051690"
 
 - [Включение и отключение внешнего общего доступа для сайта](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Управление гостевым доступом в группах Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Управление гостевым доступом в группах Microsoft 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
 - [Использование SharePoint Online в качестве решения для экстрасети "бизнес-бизнес" (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
