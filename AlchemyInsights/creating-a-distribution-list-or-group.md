@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: 2ce7e4146abe272b2025132c4fc44329abc8d8a0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a7a895df16fe5c8121ae2919c71e1fdd11898771
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715465"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908645"
 ---
-# <a name="create-distribution-groups"></a><span data-ttu-id="143fd-102">Создание групп рассылки</span><span class="sxs-lookup"><span data-stu-id="143fd-102">Create distribution groups</span></span>
+# <a name="create-distribution-groups"></a><span data-ttu-id="ff5ac-102">Создание групп рассылки</span><span class="sxs-lookup"><span data-stu-id="ff5ac-102">Create distribution groups</span></span>
 
-<span data-ttu-id="143fd-103">Группы рассылки (также называемые списками рассылки) можно использовать для доставки сообщений электронной почты группам людей внутри и за пределами Организации.</span><span class="sxs-lookup"><span data-stu-id="143fd-103">You use distribution groups (also known as distribution lists) to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="143fd-104">Создавать их легко!</span><span class="sxs-lookup"><span data-stu-id="143fd-104">Creating them is easy!</span></span> <span data-ttu-id="143fd-105">Инструкции можно найти [в статье Создание списков рассылки в центре администрирования Microsoft 365](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="143fd-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span></span>
+<span data-ttu-id="ff5ac-103">Группы рассылки (также называемые списками рассылки) можно использовать для доставки сообщений электронной почты группам людей внутри и за пределами Организации.</span><span class="sxs-lookup"><span data-stu-id="ff5ac-103">You use distribution groups (also known as distribution lists) to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="ff5ac-104">Создавать их легко!</span><span class="sxs-lookup"><span data-stu-id="ff5ac-104">Creating them is easy!</span></span> <span data-ttu-id="ff5ac-105">Инструкции можно найти [в статье Создание списков рассылки в центре администрирования Microsoft 365](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="ff5ac-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span></span>
 
-<span data-ttu-id="143fd-106">**Примечание**: администратору необходимо управлять членством в группе рассылки.</span><span class="sxs-lookup"><span data-stu-id="143fd-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="143fd-107">Если вы хотите, чтобы пользователи управляли собственными списками членства в группах, вы можете использовать вместо них [группы Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .</span><span class="sxs-lookup"><span data-stu-id="143fd-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>
+<span data-ttu-id="ff5ac-106">**Примечание**: администратору необходимо управлять членством в группе рассылки.</span><span class="sxs-lookup"><span data-stu-id="ff5ac-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="ff5ac-107">Если вы хотите, чтобы пользователи управляли собственными списками членства в группах, вы можете использовать вместо них [группы Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .</span><span class="sxs-lookup"><span data-stu-id="ff5ac-107">If you want users to manage their own group membership lists, you might want to consider [Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>
