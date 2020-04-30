@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912057"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943992"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Вопросы и ответы по управлению лицензией и подпиской Microsoft 365 E3
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912057"
 - Чтобы **отменить** лицензии E3, выберите **Выставление счетов > [Продукты и службы](https://go.microsoft.com/fwlink/p/?linkid=842054)**, перейдите в **Параметры и действия** и щелкните **Отменить подписку**. Дополнительные сведения см. в статье [Отмена подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - Сведения об **активации** подписки E3 см. в статье [Активация вашей подписки](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Сведения о **повторной активации** подписки E3 см. в статье [Повторная активация подписки](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Чтобы продлить пробную версию E3, см. статью [Продление пробной версии](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Сведения о **продлении** пробной подписки E3 см. в статье [Продление пробного периода](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 Дополнительные сведения см. в статье [Управление лицензиями подписки](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
