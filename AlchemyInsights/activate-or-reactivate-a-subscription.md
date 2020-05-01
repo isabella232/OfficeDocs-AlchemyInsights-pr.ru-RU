@@ -43,6 +43,6 @@ ms.locfileid: "43788931"
 
 **Активация новой подписки с помощью ключа продукта**
 
-1. Чтобы активировать новую подписку на Microsoft 365 с помощью ключа продукта, начните [отсюда](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db). 
+1. Чтобы активировать новую подписку на Microsoft 365 с помощью ключа продукта, перейдите [сюда](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db). 
 
-2. Введите ключ продукта Microsoft 365 и следуйте инструкциям, чтобы активировать подписку. Если у вас возникают проблемы с активацией, просмотрите список [распространенных ошибок, связанных с ключом продукта, и способов их устранения](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+2. Введите ключ продукта Microsoft 365 и следуйте инструкциям по активации подписки. Если у вас возникают проблемы с активацией, просмотрите список [распространенных ошибок, связанных с ключом продукта, и способов их устранения](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

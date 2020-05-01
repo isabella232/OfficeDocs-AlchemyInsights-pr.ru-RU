@@ -28,7 +28,7 @@ ms.locfileid: "43762474"
 
   - Управление пользователями Yammer из Microsoft 365
 
-2. Сведения о том, как управлять пользователями в консоли администрирования Yammer, можно найти в статье [Добавление, блокировка и удаление пользователей Yammer](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) . В частности, импорт позволяет:
+2. Сведения о том, как управлять пользователями в консоли администрирования Yammer, можно найти в статье [Добавление, блокировка и удаление пользователей Yammer](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) . К ним относятся:
 
   - Приглашение или удаление пользователей
 

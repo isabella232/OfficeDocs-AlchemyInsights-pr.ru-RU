@@ -31,6 +31,6 @@ ms.locfileid: "43766830"
 
 Для сценариев с общими компьютерами в [статье Устранение неполадок, связанных с активацией на общем компьютере для приложений Microsoft 365 для предприятий](https://docs.microsoft.com/deployoffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
 
-Дополнительные сведения см. в указанных ниже статьях. 
-- [Уведомление о подписке отображается при открытии приложения Microsoft 365](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+Дополнительные сведения см. в статье: 
+- [Когда я открываю приложение Microsoft 365, появляется уведомление о подписке](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 - [Устранение неполадок, связанных с активацией Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)

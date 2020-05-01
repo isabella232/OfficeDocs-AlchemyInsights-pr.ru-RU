@@ -29,7 +29,7 @@ ms.locfileid: "43763014"
 - Для компьютеров Mac см. статью [Не удается войти в приложение Office 2016 для Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 - Если ошибки возникают при подключении к Microsoft 365 с помощью Office 2013, включите для клиента Office современная проверка подлинности.
 
-Дополнительные сведения см. в указанных ниже статьях.
+Дополнительные сведения см. в статье:
 - [Вы не можете войти в Microsoft 365, Azure или Intune.](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
 - [Проблемы с подключением при входе после обновления до Office 2016 сборка 16.0.7967 в Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
 - ["К сожалению, в Office уже выполнен вход с другой учетной записью из вашей организации" в Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
