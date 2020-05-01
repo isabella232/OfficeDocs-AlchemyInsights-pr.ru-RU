@@ -20,8 +20,8 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43722010"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a><span data-ttu-id="e85e5-102">Изменение языка, формата даты и времени или часового пояса в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e85e5-102">Change your language, date and time format, or time zone in Outlook.com</span></span>
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a><span data-ttu-id="f90d6-102">Изменение языка, формата даты и времени или часового пояса в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="f90d6-102">Change your language, date and time format, or time zone in Outlook.com</span></span>
 
-1. <span data-ttu-id="e85e5-103">Откройте [Параметры языка и времени](https://go.microsoft.com/fwlink/?linkid=2085505).</span><span class="sxs-lookup"><span data-stu-id="e85e5-103">Open your [Language and time settings](https://go.microsoft.com/fwlink/?linkid=2085505).</span></span>
-1. <span data-ttu-id="e85e5-104">Выберите язык, формат даты, формат времени и часовой пояс, который необходимо использовать.</span><span class="sxs-lookup"><span data-stu-id="e85e5-104">Select the language, date format, time format, and time zone you want to use.</span></span>
-1. <span data-ttu-id="e85e5-105">Нажмите кнопку **Сохранить**.</span><span class="sxs-lookup"><span data-stu-id="e85e5-105">Select **Save**.</span></span>
+1. <span data-ttu-id="f90d6-103">Откройте [Параметры языка и времени](https://go.microsoft.com/fwlink/?linkid=2085505).</span><span class="sxs-lookup"><span data-stu-id="f90d6-103">Open your [Language and time settings](https://go.microsoft.com/fwlink/?linkid=2085505).</span></span>
+1. <span data-ttu-id="f90d6-104">Выберите язык, формат даты, формат времени и часовой пояс, который необходимо использовать.</span><span class="sxs-lookup"><span data-stu-id="f90d6-104">Select the language, date format, time format, and time zone you want to use.</span></span>
+1. <span data-ttu-id="f90d6-105">Нажмите кнопку **Сохранить**.</span><span class="sxs-lookup"><span data-stu-id="f90d6-105">Select **Save**.</span></span>

@@ -15,15 +15,15 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43710168"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a><span data-ttu-id="44cab-102">Возникли проблемы с подключением Outlook?</span><span class="sxs-lookup"><span data-stu-id="44cab-102">Having issues getting Outlook to connect?</span></span>
+# <a name="having-issues-getting-outlook-to-connect"></a><span data-ttu-id="c82af-102">Возникли проблемы с подключением Outlook?</span><span class="sxs-lookup"><span data-stu-id="c82af-102">Having issues getting Outlook to connect?</span></span>
 
-<span data-ttu-id="44cab-103">Мы обнаружили, что Outlook не настроен для правильной работы в следующих доменах:</span><span class="sxs-lookup"><span data-stu-id="44cab-103">We've detected that Outlook isn't configured to work properly under the following domain(s):</span></span>
+<span data-ttu-id="c82af-103">Мы обнаружили, что Outlook не настроен для правильной работы в следующих доменах:</span><span class="sxs-lookup"><span data-stu-id="c82af-103">We've detected that Outlook isn't configured to work properly under the following domain(s):</span></span>
   
-<span data-ttu-id="44cab-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="44cab-104">{HealthCheckString}</span></span>
+<span data-ttu-id="c82af-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="c82af-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="44cab-105">Записи NS или CNAME для параметров домена (DNS) не настроены правильно.</span><span class="sxs-lookup"><span data-stu-id="44cab-105">The NS or CNAME records of the domain (DNS) settings aren't setup correctly.</span></span> <span data-ttu-id="44cab-106">Для получения подробных инструкций можно обратиться к разделу [Создание DNS-записей на любом поставщике услуг хостинга DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) .</span><span class="sxs-lookup"><span data-stu-id="44cab-106">You can refer to [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for detailed instructions.</span></span> 
+<span data-ttu-id="c82af-105">Записи NS или CNAME для параметров домена (DNS) не настроены правильно.</span><span class="sxs-lookup"><span data-stu-id="c82af-105">The NS or CNAME records of the domain (DNS) settings aren't setup correctly.</span></span> <span data-ttu-id="c82af-106">Подробные инструкции см. в статье [Создание записей DNS у любого поставщика услуг размещения DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="c82af-106">You can refer to [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for detailed instructions.</span></span> 
   
-<span data-ttu-id="44cab-107">Чтобы устранить проблему, откройте страницу [Домены](https://admin.microsoft.com/adminportal/home#/Domains) в Центре администрирования Microsoft 365, и мы поможем вам.</span><span class="sxs-lookup"><span data-stu-id="44cab-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
+<span data-ttu-id="c82af-107">Чтобы устранить проблему, откройте страницу [Домены](https://admin.microsoft.com/adminportal/home#/Domains) в Центре администрирования Microsoft 365, и мы поможем вам.</span><span class="sxs-lookup"><span data-stu-id="c82af-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
 
   
 

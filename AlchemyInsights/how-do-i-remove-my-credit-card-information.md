@@ -20,17 +20,17 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43709988"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a><span data-ttu-id="abfc2-102">Как удалить сведения о кредитной карте?</span><span class="sxs-lookup"><span data-stu-id="abfc2-102">How do I remove my credit card information?</span></span>
+# <a name="how-do-i-remove-my-credit-card-information"></a><span data-ttu-id="ea9b9-102">Как удалить сведения о кредитной карте?</span><span class="sxs-lookup"><span data-stu-id="ea9b9-102">How do I remove my credit card information?</span></span>
 
-1. <span data-ttu-id="abfc2-103">В Центре администрирования Microsoft 365 перейдите на страницу **Выставление счетов** \> [Методы оплаты](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="abfc2-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="ea9b9-103">В Центре администрирования Microsoft 365 перейдите на страницу **Выставление счетов** \> [Методы оплаты](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="ea9b9-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="abfc2-104">На странице **способы оплаты** выберите кредитную карту или банковский счет, который требуется удалить.</span><span class="sxs-lookup"><span data-stu-id="abfc2-104">On the **Payment methods** page, pick the credit card or bank account to delete.</span></span>
+2. <span data-ttu-id="ea9b9-104">На странице **способы оплаты** выберите кредитную карту или банковский счет, который требуется удалить.</span><span class="sxs-lookup"><span data-stu-id="ea9b9-104">On the **Payment methods** page, pick the credit card or bank account to delete.</span></span>
 
-3. <span data-ttu-id="abfc2-105">Чтобы удалить кредитную карту или банковский счет, выберите команду **удалить метод оплаты.**</span><span class="sxs-lookup"><span data-stu-id="abfc2-105">To remove the credit card or bank account, select **Delete payment method.**</span></span>
+3. <span data-ttu-id="ea9b9-105">Чтобы удалить кредитную карту или банковский счет, выберите команду **удалить метод оплаты.**</span><span class="sxs-lookup"><span data-stu-id="ea9b9-105">To remove the credit card or bank account, select **Delete payment method.**</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="abfc2-106">Удалить кредитную карту или банковский счет, которые используются для оплаты подписки, невозможно.</span><span class="sxs-lookup"><span data-stu-id="abfc2-106">You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.</span></span>
+> <span data-ttu-id="ea9b9-106">Удалить кредитную карту или банковский счет, которые используются для оплаты подписки, невозможно.</span><span class="sxs-lookup"><span data-stu-id="ea9b9-106">You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.</span></span>
 
-4. <span data-ttu-id="abfc2-107">На панели **Удаление метода оплаты** нажмите кнопку **Удалить**.</span><span class="sxs-lookup"><span data-stu-id="abfc2-107">In the **Delete payment method** pane, select **Delete**.</span></span>
+4. <span data-ttu-id="ea9b9-107">На панели **Удаление метода оплаты** нажмите кнопку **Удалить**.</span><span class="sxs-lookup"><span data-stu-id="ea9b9-107">In the **Delete payment method** pane, select **Delete**.</span></span>
 
-<span data-ttu-id="abfc2-108">Дополнительные сведения см. в статье [Добавление, обновление и удаление кредитной карты или банковского счета](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="abfc2-108">To learn more, see [Add, update, or remove a credit card or bank account](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="ea9b9-108">Дополнительные сведения см. в статье [Добавление, удаление и обновление данных кредитной карты или банковского счета](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="ea9b9-108">To learn more, see [Add, update, or remove a credit card or bank account](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
