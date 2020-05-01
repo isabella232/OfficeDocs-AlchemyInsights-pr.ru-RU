@@ -39,7 +39,7 @@ ms.locfileid: "43742818"
 - [ATP для SharePoint, OneDrive и Teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
 - [Представления обозревателя угроз](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
-Дополнительные сведения:
+Дополнительная информация:
 
 - [Обнаружение вирусов в SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
 - [Шифрование данных в ODB и SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>

@@ -39,7 +39,7 @@ ms.locfileid: "43715717"
 > [!NOTE]
 > Вы можете одновременно скопировать до 500 МБ файлов и папок. > при использовании **Copy to** с документами, у которых есть журнал версий, копируется только последняя версия.
   
-Дополнительные сведения см. в указанных ниже статьях.
+Дополнительные сведения см. в статье:
 
  - [Перемещение и копирование файлов в SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (статья о службе поддержки Office)
  - [Перемещение файлов из любой папки](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (статья блога технического сообщества Майкрософт)   

@@ -30,7 +30,7 @@ ms.locfileid: "43741794"
   
 Проверка истечения срока действия состояния подписки
   
-Проверьте [страницу работоспособности службы](https://docs.microsoft.com/office365/enterprise/view-service-health) , чтобы проверить наличие известных проблем со службой.
+Проверьте [страницу работоспособности служб](https://docs.microsoft.com/office365/enterprise/view-service-health) на наличие известных проблем в службе.
   
 [Выполните оперативное восстановление Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   

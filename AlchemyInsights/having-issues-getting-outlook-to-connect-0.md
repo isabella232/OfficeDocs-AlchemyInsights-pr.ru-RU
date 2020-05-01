@@ -21,6 +21,6 @@ ms.locfileid: "43710204"
   
 {HealthCheckString}
   
-Неправильно настроены записи NS или CNAME для параметров домена (DNS). Для получения подробных инструкций можно обратиться к разделу [Создание DNS-записей на любом поставщике услуг хостинга DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) . 
+Неправильно настроены записи NS или CNAME для параметров домена (DNS). Подробные инструкции см. в статье [Создание записей DNS у любого поставщика услуг размещения DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider). 
   
 Чтобы устранить проблему, откройте страницу [Домены](https://admin.microsoft.com/adminportal/home#/Domains) в Центре администрирования Microsoft 365, и мы поможем вам. 

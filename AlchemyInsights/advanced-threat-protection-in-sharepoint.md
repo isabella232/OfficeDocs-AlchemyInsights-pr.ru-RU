@@ -26,7 +26,7 @@ ms.locfileid: "43710384"
 - [Обозреватель угроз и обнаружение в режиме реального времени](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 
-Дополнительные сведения:
+Дополнительная информация:
 
 - [Обнаружение вирусов в SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
 - [Шифрование данных в ODB и SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>

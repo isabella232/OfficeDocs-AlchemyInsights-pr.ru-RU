@@ -33,4 +33,4 @@ ms.locfileid: "43709988"
 
 4. На панели **Удаление метода оплаты** нажмите кнопку **Удалить**.
 
-Дополнительные сведения см. в статье [Добавление, обновление и удаление кредитной карты или банковского счета](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Дополнительные сведения см. в статье [Добавление, удаление и обновление данных кредитной карты или банковского счета](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

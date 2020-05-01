@@ -1,5 +1,5 @@
 ---
-title: Обновление домена серверов доменных имен для направления в корпорацию Майкрософт
+title: Обновление серверов доменных имен для указания на системы Майкрософт
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -18,7 +18,7 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43720006"
 ---
-# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Обновление домена серверов доменных имен для направления в корпорацию Майкрософт
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Обновление серверов доменных имен для указания на системы Майкрософт
 
 Примечание. Распространение изменений серверов доменных имен иногда может занять до 48 часов.
   

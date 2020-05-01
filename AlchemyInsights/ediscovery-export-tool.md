@@ -38,7 +38,7 @@ ms.locfileid: "43714783"
 
   - Microsoft Edge
 
-    или
+    ИЛИ
 
   - Internet Explorer 10 и более поздние версии.
 

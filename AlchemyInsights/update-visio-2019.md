@@ -29,7 +29,7 @@ ms.locfileid: "43720042"
 
 Чтобы установить Visio параллельно с Office, ознакомьтесь со статьей [Поддерживаемые сценарии для установки различных версий Office, Project и Visio на одном компьютере](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
-Дополнительные сведения см. в указанных ниже статьях.<br>
+Дополнительные сведения см. в статье:<br>
 [Руководство по развертыванию для Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
 [Основной номер версии Visio 2019 — поддержка 16,0](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
 [Схема года в Office 2016 и клиентские приложения будут удалены из записей меню "Пуск"](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>

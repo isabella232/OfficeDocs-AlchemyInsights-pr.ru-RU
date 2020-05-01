@@ -40,6 +40,6 @@ ms.locfileid: "43742768"
 ***Поиск и удаление сообщений электронной почты в Организации*** Для поиска и удаления сообщений электронной почты в организации проще всего сделать глобальным администратором. Если вы не являетесь глобальным администратором, необходимо добавить свою учетную запись в группу ролей диспетчера eDiscovery или в роль управления поиском соответствия требованиям. Чтобы удалить сообщения, необходимо присоединиться к группе ролей Управление организацией или ролью управления поиска и очистки. Разрешения для этих ролей назначаются в [центре безопасности & соответствия требованиям](https://protection.office.com/).
 
 1. [Создайте поиск контента](https://docs.microsoft.com/office365/securitycompliance/content-search) , чтобы найти сообщение, которое требуется удалить.
-2. [Подключитесь к Центру безопасности и соответствия требованиям PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+2. [Подключитесь к PowerShell в Центре безопасности и соответствия требованиям](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
 Если вы используете MFA, ознакомьтесь со статьей [Подключение к Microsoft 365 security & PowerShell центра соответствия требованиям с использованием многофакторной проверки подлинности](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
