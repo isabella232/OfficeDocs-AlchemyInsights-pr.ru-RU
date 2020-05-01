@@ -18,6 +18,6 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 08/13/2019
 ms.locfileid: "36391487"
 ---
-# <a name="excel-opens-blank"></a><span data-ttu-id="4ed08-102">Excel открывает пустую</span><span class="sxs-lookup"><span data-stu-id="4ed08-102">Excel opens blank</span></span>
+# <a name="excel-opens-blank"></a><span data-ttu-id="2e40e-102">Excel открывает пустую</span><span class="sxs-lookup"><span data-stu-id="2e40e-102">Excel opens blank</span></span>
 
-<span data-ttu-id="4ed08-103">Если приложение Excel запускается, но отображается пустое окно, в котором предполагается, что файл отображается, ознакомьтесь со статьей [Устранение неполадок при открытии Excel, если дважды щелкнуть значок или имя файла](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).</span><span class="sxs-lookup"><span data-stu-id="4ed08-103">If Excel starts but displays a blank screen where you expect the file to appear, see [Troubleshoot Excel opening blank when you double-click a file icon or file name](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).</span></span>
+<span data-ttu-id="2e40e-103">Если приложение Excel запускается, но отображается пустое окно, в котором предполагается, что файл отображается, ознакомьтесь со статьей [Устранение неполадок при открытии Excel, если дважды щелкнуть значок или имя файла](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).</span><span class="sxs-lookup"><span data-stu-id="2e40e-103">If Excel starts but displays a blank screen where you expect the file to appear, see [Troubleshoot Excel opening blank when you double-click a file icon or file name](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).</span></span>

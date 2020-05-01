@@ -18,12 +18,12 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/05/2019
 ms.locfileid: "37976126"
 ---
-# <a name="como-pagar-com-boleto"></a><span data-ttu-id="91dad-102">Комо Пагар com Болето</span><span class="sxs-lookup"><span data-stu-id="91dad-102">Como pagar com boleto</span></span>
+# <a name="como-pagar-com-boleto"></a><span data-ttu-id="f3f0c-102">Como pagar com boleto</span><span class="sxs-lookup"><span data-stu-id="f3f0c-102">Como pagar com boleto</span></span>
 
-<span data-ttu-id="91dad-103">**Комо Пагар Минха Фатура**</span><span class="sxs-lookup"><span data-stu-id="91dad-103">**Como pagar minha fatura**</span></span>
+<span data-ttu-id="f3f0c-103">**Como pagar minha fatura**</span><span class="sxs-lookup"><span data-stu-id="f3f0c-103">**Como pagar minha fatura**</span></span>
 
-<span data-ttu-id="91dad-104">Вокê поде Пагар SUA Фатура com Болето банкáрио OU трансферêнЦиа банкáриа елетрôника.</span><span class="sxs-lookup"><span data-stu-id="91dad-104">Você pode pagar sua fatura com boleto bancário ou transferência bancária eletrônica.</span></span>
+<span data-ttu-id="f3f0c-104">Você pode pagar sua fatura com boleto bancário ou transferência bancária eletrônica.</span><span class="sxs-lookup"><span data-stu-id="f3f0c-104">Você pode pagar sua fatura com boleto bancário ou transferência bancária eletrônica.</span></span>
 
-<span data-ttu-id="91dad-105">**Комо Пагар com Болето**</span><span class="sxs-lookup"><span data-stu-id="91dad-105">**Como pagar com  boleto**</span></span>
+<span data-ttu-id="f3f0c-105">**Como pagar com  boleto**</span><span class="sxs-lookup"><span data-stu-id="f3f0c-105">**Como pagar com  boleto**</span></span>
 
-<span data-ttu-id="91dad-106">АО есколхер ЕСТА опçãо de пагаменто, вокê рецеберá o Болето EM Сеу электронной почты EM атé 10 Диас úтеис апóс данных педидо.</span><span class="sxs-lookup"><span data-stu-id="91dad-106">Ao escolher  esta opção de pagamento, você receberá o boleto em seu e-mail em até 10 dias úteis após a data do pedido.</span></span> <span data-ttu-id="91dad-107">Ессе Болето терá венЦименто de 30 Диас апóс данные делают педидо e поде SER Паго EM UM Банко, корреиос, Каса лотéрика e алгунс Supermercados.</span><span class="sxs-lookup"><span data-stu-id="91dad-107">Esse boleto terá vencimento de 30 dias após a data do pedido e pode ser pago em um banco, correios, casa lotérica e alguns supermercados.</span></span> 
+<span data-ttu-id="f3f0c-106">Ao escolher  esta opção de pagamento, você receberá o boleto em seu e-mail em até 10 dias úteis após a data do pedido.</span><span class="sxs-lookup"><span data-stu-id="f3f0c-106">Ao escolher  esta opção de pagamento, você receberá o boleto em seu e-mail em até 10 dias úteis após a data do pedido.</span></span> <span data-ttu-id="f3f0c-107">Esse boleto terá vencimento de 30 dias após a data do pedido e pode ser pago em um banco, correios, casa lotérica e alguns supermercados.</span><span class="sxs-lookup"><span data-stu-id="f3f0c-107">Esse boleto terá vencimento de 30 dias após a data do pedido e pode ser pago em um banco, correios, casa lotérica e alguns supermercados.</span></span> 

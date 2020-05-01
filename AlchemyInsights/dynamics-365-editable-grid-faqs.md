@@ -16,8 +16,8 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 07/16/2019
 ms.locfileid: "35752949"
 ---
-# <a name="dynamics-365-editable-grid-faqs"></a><span data-ttu-id="c5c94-102">Вопросы и ответы по редактируемой сетке Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="c5c94-102">Dynamics 365 editable grid FAQs</span></span>
+# <a name="dynamics-365-editable-grid-faqs"></a><span data-ttu-id="e78e4-102">Вопросы и ответы по редактируемой сетке Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="e78e4-102">Dynamics 365 editable grid FAQs</span></span>
 
-* [<span data-ttu-id="c5c94-103">Часто задаваемые вопросы по редактируемой сетке</span><span class="sxs-lookup"><span data-stu-id="c5c94-103">Editable grid frequently asked questions</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/make-grids-lists-editable-custom-control#frequently-asked-questions-faqs)
+* [<span data-ttu-id="e78e4-103">Часто задаваемые вопросы по редактируемой сетке</span><span class="sxs-lookup"><span data-stu-id="e78e4-103">Editable grid frequently asked questions</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/make-grids-lists-editable-custom-control#frequently-asked-questions-faqs)
 
-* [<span data-ttu-id="c5c94-104">Редактируемые сочетания клавиш для сетки</span><span class="sxs-lookup"><span data-stu-id="c5c94-104">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
+* [<span data-ttu-id="e78e4-104">Редактируемые сочетания клавиш для сетки</span><span class="sxs-lookup"><span data-stu-id="e78e4-104">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)

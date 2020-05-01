@@ -15,20 +15,20 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 12/15/2019
 ms.locfileid: "40044092"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a><span data-ttu-id="c7c56-102">Инфраструктура публикации SharePoint</span><span class="sxs-lookup"><span data-stu-id="c7c56-102">SharePoint Publishing Infrastructure</span></span>
+# <a name="sharepoint-publishing-infrastructure"></a><span data-ttu-id="b4081-102">Инфраструктура публикации SharePoint</span><span class="sxs-lookup"><span data-stu-id="b4081-102">SharePoint Publishing Infrastructure</span></span>
 
 
-<span data-ttu-id="c7c56-103">SharePoint включает классический набор функций, позволяющих создавать и публиковать расширенные веб-страницы для интрасети.</span><span class="sxs-lookup"><span data-stu-id="c7c56-103">SharePoint includes a classic set of features that enable you to author and publish rich webpages for your intranet.</span></span> <span data-ttu-id="c7c56-104">Активируйте инфраструктуру публикации SharePoint на уровне семейства веб-сайтов, чтобы включить их.</span><span class="sxs-lookup"><span data-stu-id="c7c56-104">Activate the SharePoint Publishing Infrastructure at the site collection level to turn them on.</span></span>
+<span data-ttu-id="b4081-103">SharePoint включает классический набор функций, позволяющих создавать и публиковать расширенные веб-страницы для интрасети.</span><span class="sxs-lookup"><span data-stu-id="b4081-103">SharePoint includes a classic set of features that enable you to author and publish rich webpages for your intranet.</span></span> <span data-ttu-id="b4081-104">Активируйте инфраструктуру публикации SharePoint на уровне семейства веб-сайтов, чтобы включить их.</span><span class="sxs-lookup"><span data-stu-id="b4081-104">Activate the SharePoint Publishing Infrastructure at the site collection level to turn them on.</span></span>
 
-<span data-ttu-id="c7c56-105">Для получения дополнительных сведений перейдите по приведенным ниже ссылкам.</span><span class="sxs-lookup"><span data-stu-id="c7c56-105">For more information please visit the links below.</span></span>
+<span data-ttu-id="b4081-105">Для получения дополнительных сведений перейдите по приведенным ниже ссылкам.</span><span class="sxs-lookup"><span data-stu-id="b4081-105">For more information please visit the links below.</span></span>
 
-[<span data-ttu-id="c7c56-106">Включение публикации</span><span class="sxs-lookup"><span data-stu-id="c7c56-106">Enable publishing features</span></span>](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
+[<span data-ttu-id="b4081-106">Включение публикации</span><span class="sxs-lookup"><span data-stu-id="b4081-106">Enable publishing features</span></span>](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
 
-[<span data-ttu-id="c7c56-107">Функции публикации</span><span class="sxs-lookup"><span data-stu-id="c7c56-107">Publishing features</span></span>](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
+[<span data-ttu-id="b4081-107">Функции публикации</span><span class="sxs-lookup"><span data-stu-id="b4081-107">Publishing features</span></span>](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
 
-<span data-ttu-id="c7c56-108">Примечания.</span><span class="sxs-lookup"><span data-stu-id="c7c56-108">Notes:</span></span>
+<span data-ttu-id="b4081-108">Примечания:</span><span class="sxs-lookup"><span data-stu-id="b4081-108">Notes:</span></span>
 
-- <span data-ttu-id="c7c56-109">Шаблоны классических сайтов публикации по умолчанию включают функции публикации.</span><span class="sxs-lookup"><span data-stu-id="c7c56-109">The classic publishing site templates include the publishing features by default.</span></span>
+- <span data-ttu-id="b4081-109">Шаблоны классических сайтов публикации по умолчанию включают функции публикации.</span><span class="sxs-lookup"><span data-stu-id="b4081-109">The classic publishing site templates include the publishing features by default.</span></span>
 
-- <span data-ttu-id="c7c56-110">Классические функции публикации недоступны на современных сайтах.</span><span class="sxs-lookup"><span data-stu-id="c7c56-110">Classic publishing features are not available on modern sites.</span></span> <span data-ttu-id="c7c56-111">Современные сайты предоставляют более новую альтернативу по умолчанию.</span><span class="sxs-lookup"><span data-stu-id="c7c56-111">Modern sites provide a newer alternative by default.</span></span>
+- <span data-ttu-id="b4081-110">Классические функции публикации недоступны на современных сайтах.</span><span class="sxs-lookup"><span data-stu-id="b4081-110">Classic publishing features are not available on modern sites.</span></span> <span data-ttu-id="b4081-111">Современные сайты предоставляют более новую альтернативу по умолчанию.</span><span class="sxs-lookup"><span data-stu-id="b4081-111">Modern sites provide a newer alternative by default.</span></span>
 

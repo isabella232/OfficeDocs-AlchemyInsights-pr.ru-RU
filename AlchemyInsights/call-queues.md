@@ -18,9 +18,9 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 09/30/2019
 ms.locfileid: "37316971"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a><span data-ttu-id="f5031-102">Очереди звонков в Microsoft Teams и Skype для бизнеса</span><span class="sxs-lookup"><span data-stu-id="f5031-102">Call queues in Microsoft Teams and Skype for Business</span></span> 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a><span data-ttu-id="c08e3-102">Очереди звонков в Microsoft Teams и Skype для бизнеса</span><span class="sxs-lookup"><span data-stu-id="c08e3-102">Call queues in Microsoft Teams and Skype for Business</span></span> 
 
-<span data-ttu-id="f5031-103">Чтобы приступить к работе с очередями звонков, обратитесь к следующим ссылкам.</span><span class="sxs-lookup"><span data-stu-id="f5031-103">To get started using call queues, refer to the following links.</span></span>
+<span data-ttu-id="c08e3-103">Чтобы приступить к работе с очередями звонков, обратитесь к следующим ссылкам.</span><span class="sxs-lookup"><span data-stu-id="c08e3-103">To get started using call queues, refer to the following links.</span></span>
 
-- [<span data-ttu-id="f5031-104">Создание очереди облачных звонков</span><span class="sxs-lookup"><span data-stu-id="f5031-104">Create a Cloud call queue</span></span>](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [<span data-ttu-id="f5031-105">Отвечать на вызовы автосекретаря и из очереди вызовов непосредственно из Teams</span><span class="sxs-lookup"><span data-stu-id="f5031-105">Answer auto attendant and call queue calls directly from Teams</span></span>](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [<span data-ttu-id="c08e3-104">Создание облачной очереди вызовов</span><span class="sxs-lookup"><span data-stu-id="c08e3-104">Create a Cloud call queue</span></span>](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
+- [<span data-ttu-id="c08e3-105">Ответ на звонки автосекретарей и очередей вызовов непосредственно из Teams</span><span class="sxs-lookup"><span data-stu-id="c08e3-105">Answer auto attendant and call queue calls directly from Teams</span></span>](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)

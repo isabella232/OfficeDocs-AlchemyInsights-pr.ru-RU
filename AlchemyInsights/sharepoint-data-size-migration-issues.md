@@ -18,16 +18,16 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 04/18/2020
 ms.locfileid: "43552934"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="773c8-102">Проблемы при переносе данных в SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="773c8-102">Issues while migrating data to SharePoint Online</span></span>
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="eee38-102">Проблемы при переносе данных в SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="eee38-102">Issues while migrating data to SharePoint Online</span></span>
 
-<span data-ttu-id="773c8-103">**Перенос данных по до 100 ТБ**</span><span class="sxs-lookup"><span data-stu-id="773c8-103">**Migrating over 100TB of data**</span></span>
+<span data-ttu-id="eee38-103">**Перенос данных по до 100 ТБ**</span><span class="sxs-lookup"><span data-stu-id="eee38-103">**Migrating over 100TB of data**</span></span>
 
-<span data-ttu-id="773c8-104">Отображается перенос данных на до 100 ТБ в SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="773c8-104">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="773c8-105">Выполните приведенные ниже действия, чтобы можно было как можно скорее.</span><span class="sxs-lookup"><span data-stu-id="773c8-105">Please follow the steps below so we may assist you as soon as possible.</span></span> 
+<span data-ttu-id="eee38-104">Отображается перенос данных на до 100 ТБ в SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="eee38-104">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="eee38-105">Выполните приведенные ниже действия, чтобы можно было как можно скорее.</span><span class="sxs-lookup"><span data-stu-id="eee38-105">Please follow the steps below so we may assist you as soon as possible.</span></span> 
 
-1. <span data-ttu-id="773c8-106">Выберите пункт **создать запрос на обслуживание**, а затем — **новый запрос на обслуживание**.</span><span class="sxs-lookup"><span data-stu-id="773c8-106">Select **New Service Request**, and then **New Service Request**.</span></span> 
-2. <span data-ttu-id="773c8-107">Не закрывайте заголовок и описание в качестве **миграции SharePoint по до 100 ТБ**.</span><span class="sxs-lookup"><span data-stu-id="773c8-107">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
-3. <span data-ttu-id="773c8-108">После отправки билета обновите его, выполнив следующие сведения:</span><span class="sxs-lookup"><span data-stu-id="773c8-108">Once the ticket has been submitted, please update it with the following information:</span></span> 
+1. <span data-ttu-id="eee38-106">Выберите пункт **создать запрос на обслуживание**, а затем — **новый запрос на обслуживание**.</span><span class="sxs-lookup"><span data-stu-id="eee38-106">Select **New Service Request**, and then **New Service Request**.</span></span> 
+2. <span data-ttu-id="eee38-107">Не закрывайте заголовок и описание в качестве **миграции SharePoint по до 100 ТБ**.</span><span class="sxs-lookup"><span data-stu-id="eee38-107">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
+3. <span data-ttu-id="eee38-108">После отправки билета обновите его, выполнив следующие сведения:</span><span class="sxs-lookup"><span data-stu-id="eee38-108">Once the ticket has been submitted, please update it with the following information:</span></span> 
 
-    - <span data-ttu-id="773c8-109">Предполагаемый размер миграции.</span><span class="sxs-lookup"><span data-stu-id="773c8-109">Estimated size of your migration.</span></span>
-    - <span data-ttu-id="773c8-110">Оценка того, когда вы хотите начать и завершить миграцию.</span><span class="sxs-lookup"><span data-stu-id="773c8-110">An estimate of when you would like to start and complete your migration.</span></span>
-    - <span data-ttu-id="773c8-111">Опишите, откуда вы переносите содержимое, например SharePoint Server, Box, Гдриве, общие файловые ресурсы и т. д.</span><span class="sxs-lookup"><span data-stu-id="773c8-111">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
+    - <span data-ttu-id="eee38-109">Предполагаемый размер переносимых данных.</span><span class="sxs-lookup"><span data-stu-id="eee38-109">Estimated size of your migration.</span></span>
+    - <span data-ttu-id="eee38-110">Предполагаемое время начала и завершения миграции.</span><span class="sxs-lookup"><span data-stu-id="eee38-110">An estimate of when you would like to start and complete your migration.</span></span>
+    - <span data-ttu-id="eee38-111">Опишите, откуда вы переносите содержимое, например SharePoint Server, Box, Гдриве, общие файловые ресурсы и т. д.</span><span class="sxs-lookup"><span data-stu-id="eee38-111">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>

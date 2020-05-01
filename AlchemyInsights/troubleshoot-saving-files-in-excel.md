@@ -18,6 +18,6 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 08/07/2019
 ms.locfileid: "36246060"
 ---
-# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a><span data-ttu-id="e3657-102">Устранение ошибок при сохранении книг Excel</span><span class="sxs-lookup"><span data-stu-id="e3657-102">How to troubleshoot errors when you save Excel workbooks</span></span>
+# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a><span data-ttu-id="c8b66-102">Устранение ошибок при сохранении книг Excel</span><span class="sxs-lookup"><span data-stu-id="c8b66-102">How to troubleshoot errors when you save Excel workbooks</span></span>
 
-<span data-ttu-id="e3657-103">Если у вас возникли проблемы с сохранением книги в Excel, Узнайте, [как устранить ошибки при сохранении книг Excel](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks).</span><span class="sxs-lookup"><span data-stu-id="e3657-103">If you're having trouble saving a workbook in Excel, see [ How to troubleshoot errors when you save Excel workbooks](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks).</span></span>
+<span data-ttu-id="c8b66-103">Если у вас возникли проблемы с сохранением книги в Excel, Узнайте, [как устранить ошибки при сохранении книг Excel](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks).</span><span class="sxs-lookup"><span data-stu-id="c8b66-103">If you're having trouble saving a workbook in Excel, see [ How to troubleshoot errors when you save Excel workbooks](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks).</span></span>

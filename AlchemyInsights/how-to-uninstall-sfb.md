@@ -18,9 +18,9 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 09/30/2019
 ms.locfileid: "37316979"
 ---
-# <a name="uninstall-skype-for-business"></a><span data-ttu-id="8989e-102">Удаление Skype для бизнеса</span><span class="sxs-lookup"><span data-stu-id="8989e-102">Uninstall Skype for Business</span></span>
+# <a name="uninstall-skype-for-business"></a><span data-ttu-id="42d45-102">Удаление Skype для бизнеса</span><span class="sxs-lookup"><span data-stu-id="42d45-102">Uninstall Skype for Business</span></span>
 
-<span data-ttu-id="8989e-103">За сведениями об удалении Skype для бизнеса обратитесь к следующим статьям:</span><span class="sxs-lookup"><span data-stu-id="8989e-103">For information about uninstalling Skype for Business, please see the following articles:</span></span>
+<span data-ttu-id="42d45-103">За сведениями об удалении Skype для бизнеса обратитесь к следующим статьям:</span><span class="sxs-lookup"><span data-stu-id="42d45-103">For information about uninstalling Skype for Business, please see the following articles:</span></span>
 
-- [<span data-ttu-id="8989e-104">Удаление Skype для бизнеса</span><span class="sxs-lookup"><span data-stu-id="8989e-104">Uninstall Skype for Business</span></span>](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)
-- [<span data-ttu-id="8989e-105">Удаление Skype для бизнеса на мобильном устройстве</span><span class="sxs-lookup"><span data-stu-id="8989e-105">Uninstall Skype for Business on a mobile device</span></span>](https://support.office.com/article/uninstall-skype-for-business-on-a-mobile-device-9c9e6270-f88e-404c-b757-3ffb6ffb897a)
+- [<span data-ttu-id="42d45-104">Удаление Skype для бизнеса</span><span class="sxs-lookup"><span data-stu-id="42d45-104">Uninstall Skype for Business</span></span>](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)
+- [<span data-ttu-id="42d45-105">Удаление Skype для бизнеса на мобильном устройстве</span><span class="sxs-lookup"><span data-stu-id="42d45-105">Uninstall Skype for Business on a mobile device</span></span>](https://support.office.com/article/uninstall-skype-for-business-on-a-mobile-device-9c9e6270-f88e-404c-b757-3ffb6ffb897a)
