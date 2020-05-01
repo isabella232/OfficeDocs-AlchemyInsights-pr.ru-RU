@@ -1,5 +1,5 @@
 ---
-title: Обсужден
+title: Mover
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,13 +18,13 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 02/20/2020
 ms.locfileid: "42157691"
 ---
-# <a name="mover"></a>Обсужден
+# <a name="mover"></a>Mover
 
 21 октября 2019 г. Корпорация Майкрософт приобретает систему **энергии**, ведущая поставщик о миграции облачных файлов.
 
 Для получения дополнительных сведений о энергии, ознакомьтесь со следующими статьями:
 
-- [Руководства по переносу энергии](https://mover.io/guides/)
+- [Руководства по миграции Mover](https://mover.io/guides/)
 - [Общие вопросы о переносе](https://mover.io/guides/general/)
 - [Соединители для перемещения](https://mover.io/connectors/)
 

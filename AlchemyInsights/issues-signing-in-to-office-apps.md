@@ -20,12 +20,12 @@ ms.locfileid: "35938317"
 ---
 # <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Устранение неполадок в приложениях Office: "сообщение уже подписано другой учетной записью из вашей организации"
 
-Чтобы устранить эту ошибку, выполните указанные ниже действия.
+Чтобы устранить эту ошибку, попробуйте выполнить следующие действия.
 
-- Удалите все рабочие учетные записи, кроме затронутой учетной записи, используя параметры Windows > **доступ к работе или учебным**заведениям.
+- Удалите все рабочие учетные записи, кроме затронутой учетной записи, используя параметры Windows > **доступ к работе или учебным заведениям**.
 - [Очистите учетные данные Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) с помощью диспетчера учетных данных Windows.<br/>
     **Примечание:** Пути реестра для Office 2016 изменились на 16,0. (Пример: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Откройте приложение Office, выберите пункт**выход из****учетной записи** >  **файла** > . Войдите в систему, используя учетную запись пользователя с действительной лицензией. Более подробную информацию можно узнать [в статье Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- В разделе Mac [не удается войти в приложение Office 2016 для Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Откройте приложение Office, выберите пункт**выход из****учетной записи** >  **файла** > . Войдите в систему, используя учетную запись пользователя с действительной лицензией. Подробные сведения см. в статье [Учетные записи в Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Для компьютеров Mac см. статью [Не удается войти в приложение Office 2016 для Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 
 Дополнительные сведения см. [в разделе "к сожалению, на этом компьютере уже выполнен вход в систему с другой учетной записью" в Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).

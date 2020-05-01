@@ -18,8 +18,8 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 09/30/2019
 ms.locfileid: "37316980"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>Добавление контактов Skype для пользователей Skype для бизнеса
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>Разрешение на добавление контактов Skype пользователям Skype для бизнеса
 
 С помощью Skype для бизнеса ваши пользователи могут выполнять поиск и обмен мгновенными сообщениями с людьми, которые используют Skype, свободное приложение! В этой статье объясняется, что нужно сделать, чтобы они могли добавлять контакты Skype.
 
-[Добавление контактов Skype для пользователей Skype для бизнеса](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[Разрешение на добавление контактов Skype пользователям Skype для бизнеса](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

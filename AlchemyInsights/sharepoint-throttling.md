@@ -16,7 +16,7 @@ ms.locfileid: "42958587"
 ---
 # <a name="sharepoint-online-throttling"></a>Регулирование SharePoint Online
 
-**Важно!** в это незначительное время мы предоставим вам рекомендации по включению служб SharePoint Online и OneDrive, чтобы получить дополнительные сведения о [временных функциях SharePoint](https://aka.ms/ODSPAdjustments) Online.
+**Важно**. В это беспрецедентное время мы принимаем меры по сохранению высокого уровня доступности служб SharePoint Online и OneDrive. Дополнительные сведения см. в статье [Временные изменения возможностей SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **Регулирование SharePoint Online**
 

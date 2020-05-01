@@ -23,7 +23,7 @@ ms.locfileid: "42891726"
 
 **Примечание:** Вы не можете изменить имя домена (в примере выше, Contoso-часть URL-адреса) в URL-адресе SharePoint Online. 
 
-Дополнительные сведения см. в указанных ниже статьях.
+Дополнительные сведения см. в статье:
 
 - [Не удается переименовать сайт группы SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018696)
 - [Ошибки при переименовании адреса сайта SharePoint](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)

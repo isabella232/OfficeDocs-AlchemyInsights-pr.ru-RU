@@ -20,7 +20,7 @@ ms.locfileid: "36540014"
 ---
 # <a name="how-to-move-a-onenote-notebook"></a>Как переместить записную книжку OneNote
 
-* Чтобы переместить записную книжку OneNote в OneDrive, **** > перейдите в раздел**Share** > **Move Notebooks** in OneNote 2016. Дополнительные сведения см. [в статье перемещение записной книжки OneNote в OneDrive](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) .
+* Чтобы переместить записную книжку OneNote в OneDrive, **перейдите в** > раздел**Share** > **Move Notebooks** in OneNote 2016. Дополнительные сведения см. [в статье перемещение записной книжки OneNote в OneDrive](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) .
 
 * Дополнительные сведения о рекомендациях по подготовке к перемещению записных книжек можно найти в статье [Синхронизация OneNote](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices): рекомендации по синхронизации.
 

@@ -26,4 +26,4 @@ ms.locfileid: "42403597"
 
 - [Разрешения группы](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
 
-- [Разрешения для канала](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
+- [Разрешения канала](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)

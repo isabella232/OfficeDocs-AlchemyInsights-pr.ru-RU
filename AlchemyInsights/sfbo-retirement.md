@@ -18,7 +18,7 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 09/30/2019
 ms.locfileid: "37316970"
 ---
-# <a name="skype-for-business-online-retirement"></a>Выход из Skype для бизнеса Online
+# <a name="skype-for-business-online-retirement"></a>Прекращение поддержки Skype для бизнеса Online
 
 Сведения о прекращении использования Skype для бизнеса Online приведены в [этой статье](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833).
 

@@ -30,5 +30,5 @@ ms.locfileid: "43676870"
 - На затронутом компьютере [Сбросьте состояние активации Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Подробные инструкции см. в статьях 
-- [Уведомление о подписке отображается при открытии приложения Microsoft 365](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+- [Когда я открываю приложение Microsoft 365, появляется уведомление о подписке](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 - [Устранение неполадок, связанных с активацией Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)

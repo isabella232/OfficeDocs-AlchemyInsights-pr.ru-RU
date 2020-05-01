@@ -22,7 +22,7 @@ ms.locfileid: "37344180"
 
 Для автосекретарей в настоящее время предъявляются определенные требования лицензирования. Узнайте [, что представляют собой облачные автосекретарей?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) для получения сведений о создании и настройке автосекретарей Teams. 
 
-Дополнительные сведения см. в следующих статьях:
+Дополнительные сведения см. в статье:
 
 - [Настройка облачного автосекретаря](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) с помощью Microsoft Teams. 
 - [Создание облачной очереди звонков](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) с помощью Microsoft Teams. 

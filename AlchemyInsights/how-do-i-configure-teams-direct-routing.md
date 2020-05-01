@@ -25,6 +25,6 @@ ms.locfileid: "37344285"
 
 - [Планирование прямой маршрутизации](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
 - [Настройка прямой маршрутизации](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
-- [Мониторинг и устранение неполадок прямой маршрутизации](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
+- [Отслеживание и устранение неполадок прямой маршрутизации](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
 
 **Примечание:** Вы также можете ознакомиться с видео о Microsoft [Teams Academy Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) YouTube.

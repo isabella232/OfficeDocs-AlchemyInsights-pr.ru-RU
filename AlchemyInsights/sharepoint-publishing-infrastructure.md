@@ -26,7 +26,7 @@ SharePoint включает классический набор функций, 
 
 [Функции публикации](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
 
-Примечания.
+Примечания:
 
 - Шаблоны классических сайтов публикации по умолчанию включают функции публикации.
 

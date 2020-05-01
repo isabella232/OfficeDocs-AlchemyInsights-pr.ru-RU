@@ -27,7 +27,7 @@ ms.locfileid: "35938319"
     1. В панели управления откройте раздел **программы**, а затем выберите пункт **Включение или отключение компонентов Windows**.
     2. Если включено Application Guard в Защитнике Windows, попробуйте отключить его.<br/>
     **Примечание:** Может потребоваться перезагрузка компьютера.
-- Убедитесь, что подключаемый модуль Microsoft. AAD. Брокерплугин [AAD вам](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) не блокируется каким-либо приложением или брандмауэром/антивирусной программой.
+- Убедитесь, что [подключаемый модуль](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) Microsoft. AAD. БРОКЕРПЛУГИН AAD вам не блокируется каким-либо приложением или брандмауэром/антивирусной программой.
 - [Очистите учетные данные Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) с помощью диспетчера учетных данных Windows.<br/>
     **Примечание:** Пути реестра для Office 2016 изменились на 16,0. (Пример: \Software\Microsoft\Office\16.0\Common\Identity\)
 

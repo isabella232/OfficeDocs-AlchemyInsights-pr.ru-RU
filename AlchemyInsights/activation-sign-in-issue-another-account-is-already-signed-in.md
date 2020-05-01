@@ -20,15 +20,15 @@ ms.locfileid: "39625857"
 ---
 # <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Устранение неполадок в приложениях Office: "сообщение уже подписано другой учетной записью из вашей организации"
 
-Чтобы устранить эту ошибку, выполните указанные ниже действия.
+Чтобы устранить эту ошибку, попробуйте выполнить следующие действия.
 
 1. Откройте приложение Office и [выйдите](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) из существующих учетных записей пользователей.   
 2. Использование > **учетных** > записей & **учетных записей Windows для****электронной почты**удалите все рабочие учетные записи, кроме затронутых учетных записей. 
-3. С помощью **** > **учетных записей** > параметров Windows**доступ к работе или учебному заведению**следует отключить от всех рабочих учетных записей, кроме затронутых 
-4. Сброс состояния активации Office. [Инструкции.](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+3. С помощью **Settings** > **учетных записей** > параметров Windows**доступ к работе или учебному заведению**следует отключить от всех рабочих учетных записей, кроме затронутых 
+4. Сбросьте состояние активации Office. [Инструкции.](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 )
 5. [Выполните вход](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) , используя затронутую учетную запись пользователя. 
 
 Дополнительные сведения: ["к сожалению, на этом компьютере уже выполнен вход в Office 2013 другой учетной записи из вашей организации"](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
 
-В разделе Mac [не удается войти в приложение Office 2016 для Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+Для компьютеров Mac см. статью [Не удается войти в приложение Office 2016 для Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).

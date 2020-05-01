@@ -20,9 +20,9 @@ ms.locfileid: "42600037"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream — это корпоративная видеослужба, в которой сотрудники Организации могут безопасно отправлять, просматривать видеоролики и делиться ими. 
+Microsoft Stream — это корпоративная служба обмена видео, которая позволяет сотрудникам вашей организации выкладывать и просматривать видеофайлы, а также безопасно делиться ими с другими пользователями. 
 
-Дополнительные сведения см. в указанных ниже статьях.
+Дополнительные сведения см. в статье:
 
 - [Что такое Microsoft Stream?](https://docs.microsoft.com/stream/overview)
 - [Обновления службы потоков](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)

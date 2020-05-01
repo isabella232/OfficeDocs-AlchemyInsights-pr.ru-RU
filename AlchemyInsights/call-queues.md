@@ -22,5 +22,5 @@ ms.locfileid: "37316971"
 
 Чтобы приступить к работе с очередями звонков, обратитесь к следующим ссылкам.
 
-- [Создание очереди облачных звонков](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Отвечать на вызовы автосекретаря и из очереди вызовов непосредственно из Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [Создание облачной очереди вызовов](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
+- [Ответ на звонки автосекретарей и очередей вызовов непосредственно из Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)

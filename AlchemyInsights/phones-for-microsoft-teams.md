@@ -20,7 +20,7 @@ ms.locfileid: "41969726"
 ---
 # <a name="are-you-looking-for-phones-that-are-compatible-with-teams"></a>Ищете телефоны, совместимые с Teams?
 
-Как администратор вы [управляете всеми устройствами](https://docs.microsoft.com/microsoftteams/device-management) , используемыми в Организации с помощью Teams в Организации, из центра администрирования Microsoft 365. Дополнительные сведения см. в следующих статьях. 
+Как администратор вы [управляете всеми устройствами](https://docs.microsoft.com/microsoftteams/device-management) , используемыми в Организации с помощью Teams в Организации, из центра администрирования Microsoft 365. Подробнее: 
 
 - Просмотрите список [телефонов для Microsoft Teams](https://docs.microsoft.com/microsoftteams/phones-for-teams). 
 - Просмотрите список [сертифицированных IP-телефонов в настоящее время](https://docs.microsoft.com/microsoftteams/teams-ip-phones#currently-certified-ip-phones). 

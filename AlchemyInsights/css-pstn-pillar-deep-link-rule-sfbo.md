@@ -20,7 +20,7 @@ ms.locfileid: "43655403"
 ---
 # <a name="pstn-calling-with-skype-for-business-online"></a>Звонки по PSTN с помощью Skype для бизнеса Online
 
-Если вы хотите совершать звонки PSTN в Microsoft 365, вам потребуется [план звонков Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) или подключение с локальной инфраструктурой телефонной связи PSTN. Дополнительные сведения см. в указанных ниже статьях.
+Если вы хотите совершать звонки PSTN в Microsoft 365, вам потребуется [план звонков Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) или подключение с локальной инфраструктурой телефонной связи PSTN. Дополнительные сведения см. в статье:
 
 - [Доступность аудиоконференций и планов звонков в различных странах и регионах](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
 - [Распространенные вопросы, связанные с конференц-связью Microsoft 365 Audio](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)

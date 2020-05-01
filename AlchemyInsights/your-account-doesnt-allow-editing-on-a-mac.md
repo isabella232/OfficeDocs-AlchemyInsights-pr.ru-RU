@@ -22,10 +22,10 @@ ms.locfileid: "39628147"
 
 Если вы получили это сообщение, попробуйте следующее:
 
-- Убедитесь, что у вас есть подписка, в которой разрешены клиентские лицензии, и [Убедитесь, что у пользователя есть назначенная лицензия](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
+- Проверьте наличие подписки, поддерживающей клиентские лицензии и [убедитесь, что пользователю назначена лицензия](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
 - Скачайте и запустите [средство удаления лицензий](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
-- Сбросьте учетные данные. См. [не удается активировать Office после установки](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).
-- Перезапустите и войдите в Office с помощью своей учетной записи.
+- Сбросьте свои учетные данные. См. статью [Не удается активировать Office после установки](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).
+- Перезапустите Office и войдите в систему с помощью своей учетной записи.
 
 Дополнительные сведения см. в указанных ниже статьях.
 - [Активация Office для Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)

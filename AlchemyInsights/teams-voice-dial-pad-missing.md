@@ -22,6 +22,6 @@ ms.locfileid: "39628291"
 
 Если в Microsoft Teams отсутствует абонентская панель, проверьте следующее:
 
-- Убедитесь, что пользователю назначена [Лицензия Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-- Убедитесь, что у пользователя назначен [план звонков](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-- Включите для пользователей [корпоративную голосовую связь](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+- Убедитесь, что пользователю назначена [лицензия Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+- Убедитесь, что пользователю назначен [план звонков](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).
+- Включите пользователей для [корпоративной голосовой связи](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).

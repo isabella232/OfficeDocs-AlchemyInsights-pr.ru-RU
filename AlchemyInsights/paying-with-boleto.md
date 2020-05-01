@@ -18,12 +18,12 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/05/2019
 ms.locfileid: "37976126"
 ---
-# <a name="como-pagar-com-boleto"></a>Комо Пагар com Болето
+# <a name="como-pagar-com-boleto"></a>Como pagar com boleto
 
-**Комо Пагар Минха Фатура**
+**Como pagar minha fatura**
 
-Вокê поде Пагар SUA Фатура com Болето банкáрио OU трансферêнЦиа банкáриа елетрôника.
+Você pode pagar sua fatura com boleto bancário ou transferência bancária eletrônica.
 
-**Комо Пагар com Болето**
+**Como pagar com  boleto**
 
-АО есколхер ЕСТА опçãо de пагаменто, вокê рецеберá o Болето EM Сеу электронной почты EM атé 10 Диас úтеис апóс данных педидо. Ессе Болето терá венЦименто de 30 Диас апóс данные делают педидо e поде SER Паго EM UM Банко, корреиос, Каса лотéрика e алгунс Supermercados. 
+Ao escolher  esta opção de pagamento, você receberá o boleto em seu e-mail em até 10 dias úteis após a data do pedido. Esse boleto terá vencimento de 30 dias após a data do pedido e pode ser pago em um banco, correios, casa lotérica e alguns supermercados. 

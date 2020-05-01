@@ -28,7 +28,7 @@ ms.locfileid: "40886574"
 - [Удаление](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8) и повторная установка Office
 
 
-Дополнительные сведения см. в указанных ниже статьях. 
+Дополнительные сведения см. в статье: 
 
 - [Ошибка при открытии приложений Microsoft Office](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [При запуске приложений Office на компьютере появляется сообщение об ошибке "остановка работы"](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)

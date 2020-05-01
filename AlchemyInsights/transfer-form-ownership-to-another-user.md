@@ -22,4 +22,4 @@ ms.locfileid: "36507212"
 
 Вы можете перемещать опрос, опрашивать или опрашивать в Microsoft Forms в группу, чтобы все участники группы могли их владельцы. Вы также можете передать владение формой другому пользователю, если он остался у предыдущего владельца.
 
-Дополнительные сведения см. [](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
+Дополнительные сведения [см.](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
