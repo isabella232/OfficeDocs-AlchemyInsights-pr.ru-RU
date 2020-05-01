@@ -11,15 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000736"
 - "3536"
-ms.openlocfilehash: d13012e5a92dd1258f6e9cfacad55fba57dc3b4b
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+- "9002573"
+- "4990"
+ms.openlocfilehash: dcfab01d7614f353bf76446c1e5c1a83e670f8d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158757"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957955"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="5a1ff-102">Надстройка Outlook для Teams</span><span class="sxs-lookup"><span data-stu-id="5a1ff-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in"></a><span data-ttu-id="bac40-102">Надстройка Outlook для Teams</span><span class="sxs-lookup"><span data-stu-id="bac40-102">Teams Outlook add-in</span></span>
 
-<span data-ttu-id="5a1ff-103">Если пользователи не видят надстройка Outlook Teams после перехода на поддерживаемый режим обновления Teams (Теамсонли, Сфбвистеамсколлабандмитингс или острова), надстройка может не загрузиться должным образом.</span><span class="sxs-lookup"><span data-stu-id="5a1ff-103">If your users do not see the Teams Outlook add-in after moving to a supported Teams Upgrade Mode (TeamsOnly, SfBWithTeamsCollabAndMeetings, or Islands) then the add-in may have failed to load properly.</span></span>  <span data-ttu-id="5a1ff-104">Чтобы устранить эту проблему, ознакомьтесь со следующей статьей:</span><span class="sxs-lookup"><span data-stu-id="5a1ff-104">Check out the following article to troubleshoot the issue:</span></span> 
+<span data-ttu-id="bac40-103">Существует несколько факторов, которые могут привести к тому, что надстройка Teams не будет отображаться и все они перечислены [здесь](https://nam06.safelinks.protection.outlook.com/?url=https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook%23teams-meeting-add-in-in-outlook-for-windows-does-not-show&data=02%7c01%7cgquintin%40microsoft.com%7cb86acfeb2d2d43efd51508d7e6194708%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637230868545082999&sdata=fShwB/PN/SC7oWo0orl4tpu/iYxKCENPYQc7SJIuemo%3D&reserved=0).</span><span class="sxs-lookup"><span data-stu-id="bac40-103">There are multiple factors that could cause your Teams add-in to not appear, and they are all listed [here](https://nam06.safelinks.protection.outlook.com/?url=https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook%23teams-meeting-add-in-in-outlook-for-windows-does-not-show&data=02%7c01%7cgquintin%40microsoft.com%7cb86acfeb2d2d43efd51508d7e6194708%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637230868545082999&sdata=fShwB/PN/SC7oWo0orl4tpu/iYxKCENPYQc7SJIuemo%3D&reserved=0).</span></span>
 
-- [<span data-ttu-id="5a1ff-105">Почему не отображается надстройка "собрание Microsoft Teams" для Outlook?</span><span class="sxs-lookup"><span data-stu-id="5a1ff-105">Why can't I see the Microsoft Teams Meeting add-in for Outlook?</span></span>](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/why-can-t-i-see-the-microsoft-teams-meeting-add-in-for-outlook/ba-p/174630) 
+<span data-ttu-id="bac40-104">**Рекомендуем сначала убедиться, что надстройка не отключена:**</span><span class="sxs-lookup"><span data-stu-id="bac40-104">**We recommend you first check that the add-in isn’t disabled:**</span></span>
+
+- <span data-ttu-id="bac40-105">В Outlook щелкните **файл** , а затем **Параметры**.</span><span class="sxs-lookup"><span data-stu-id="bac40-105">In Outlook, click **File** and then **Options**.</span></span>
+- <span data-ttu-id="bac40-106">**На вкладке "** надстройки" диалогового окна " **Параметры Outlook** ".</span><span class="sxs-lookup"><span data-stu-id="bac40-106">Select the **Add-ins** tab of **Outlook Options** dialog box.</span></span>
+- <span data-ttu-id="bac40-107">Убедитесь, что **надстройка "собрание Microsoft Teams для Microsoft Office** " указана в списке **активные приложения-надстройки** .</span><span class="sxs-lookup"><span data-stu-id="bac40-107">Confirm that **Microsoft Teams Meeting Add-in for Microsoft Office** is listed in the **Active Application Add-ins** list.</span></span>
+- <span data-ttu-id="bac40-108">Если надстройка "собрание Teams" указана в списке **Отключенные** надстройки приложений, выберите надстройки **com** в разделе **Управление** и нажмите кнопку **Перейти...**</span><span class="sxs-lookup"><span data-stu-id="bac40-108">If the Teams Meeting Add-in is listed in the **Disabled Application Add-ins** list, select **COM Add-ins** in **Manage** and then click **Go…**</span></span>
+- <span data-ttu-id="bac40-109">Установите флажок рядом с пунктом " **собрание Microsoft Teams" для Microsoft Office**.</span><span class="sxs-lookup"><span data-stu-id="bac40-109">Set the checkbox next to **Microsoft Teams Meeting Add-in for Microsoft Office**.</span></span>
+- <span data-ttu-id="bac40-110">Нажмите кнопку **ОК** в диалоговых окнах и перезапустите Outlook.</span><span class="sxs-lookup"><span data-stu-id="bac40-110">Click **OK** on all dialog boxes and restart Outlook.</span></span>

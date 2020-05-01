@@ -18,12 +18,12 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 04/22/2020
 ms.locfileid: "43761719"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a><span data-ttu-id="33edf-102">ОКМ для прекращения июня 2020</span><span class="sxs-lookup"><span data-stu-id="33edf-102">OCM to be retired June 2020</span></span>
+# <a name="ocm-to-be-retired-june-2020"></a><span data-ttu-id="3302b-102">ОКМ для прекращения июня 2020</span><span class="sxs-lookup"><span data-stu-id="3302b-102">OCM to be retired June 2020</span></span>
 
-<span data-ttu-id="33edf-103">После 2020 июня вы не сможете использовать диспетчер клиентов Outlook (ОКМ), но сможете экспортировать или удалять данные.</span><span class="sxs-lookup"><span data-stu-id="33edf-103">You won't be able to use Outlook Customer Manager (OCM) after June 2020, but you'll be able to export or delete data.</span></span> 
+<span data-ttu-id="3302b-103">После 2020 июня вы не сможете использовать диспетчер клиентов Outlook (ОКМ), но сможете экспортировать или удалять данные.</span><span class="sxs-lookup"><span data-stu-id="3302b-103">You won't be able to use Outlook Customer Manager (OCM) after June 2020, but you'll be able to export or delete data.</span></span> 
 
-<span data-ttu-id="33edf-104">Дополнительные сведения см. в указанных ниже статьях.</span><span class="sxs-lookup"><span data-stu-id="33edf-104">For more information, see:</span></span>
+<span data-ttu-id="3302b-104">Дополнительные сведения см. в статье:</span><span class="sxs-lookup"><span data-stu-id="3302b-104">For more information, see:</span></span>
 
-- [<span data-ttu-id="33edf-105">Экспорт или удаление данных диспетчера клиентов Outlook</span><span class="sxs-lookup"><span data-stu-id="33edf-105">Export or delete your Outlook Customer Manager data</span></span>](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
+- [<span data-ttu-id="3302b-105">Экспорт или удаление данных диспетчера клиентов Outlook</span><span class="sxs-lookup"><span data-stu-id="3302b-105">Export or delete your Outlook Customer Manager data</span></span>](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [<span data-ttu-id="33edf-106">Вопросы и ответы о диспетчере клиентов Outlook</span><span class="sxs-lookup"><span data-stu-id="33edf-106">Outlook Customer Manager FAQ</span></span>](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32) 
+- [<span data-ttu-id="3302b-106">Вопросы и ответы о диспетчере клиентов Outlook</span><span class="sxs-lookup"><span data-stu-id="3302b-106">Outlook Customer Manager FAQ</span></span>](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32) 
