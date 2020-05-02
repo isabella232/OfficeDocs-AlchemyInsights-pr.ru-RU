@@ -1,5 +1,5 @@
 ---
-title: Как приобрести Office 365 для не доходов
+title: Microsoft 365 для некоммерческих рассмотрений
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763554"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005235"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Как приобрести Office 365 для не доходов
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 для некоммерческих рассмотрений
 
-Ваша возможность как квалифицированная некоммерческая организация Майкрософт находится на стадии рассмотрения. Вы можете ожидать получения уведомления о вашем ограничении до истечения срока действия пробной версии. Вы можете отслеживать состояние [своего приложения.](https://eligibilityweb.azurewebsites.net/)
+Ваша возможность как квалифицированная некоммерческая организация Майкрософт находится на **стадии рассмотрения**. Вы можете ожидать получения уведомления о том, что вы можете получить уведомление о допустимости **48 часов** от времени отправки. Дождитесь получения этого уведомления по крайней мере **48 часов** перед открытием запроса на обслуживание. 
+
+Дополнительные сведения см. [в статье Microsoft 365 для некоммерческих организаций](https://www.microsoft.com/nonprofits/microsoft-365). 
