@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3418"
 - "9001424"
-ms.openlocfilehash: 5a1184201e5d9bd58837cb28072da0bf972e16dc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0500e998a457c074517b098e95acbd698c4e6b08
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766830"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010582"
 ---
 # <a name="fixing-the-office-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>Исправление приложений Office "продукты, которые мы нашли в вашей учетной записи, не могут использоваться для активации" сообщения
 
@@ -29,8 +29,8 @@ ms.locfileid: "43766830"
 - Запустите [средство устранения неполадок активации](https://aka.ms/SARA-OfficeActivation-Alchemy) и перезапустите компьютер.
 - На затронутом компьютере [Сбросьте состояние активации Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-Для сценариев с общими компьютерами в [статье Устранение неполадок, связанных с активацией на общем компьютере для приложений Microsoft 365 для предприятий](https://docs.microsoft.com/deployoffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Для сценариев с общими компьютерами в [статье Устранение неполадок, связанных с активацией на общем компьютере для приложений Microsoft 365 для предприятий](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation).
 
-Дополнительные сведения см. в статье: 
+Дополнительные сведения см. в следующих статьях: 
 - [Когда я открываю приложение Microsoft 365, появляется уведомление о подписке](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 - [Устранение неполадок, связанных с активацией Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
