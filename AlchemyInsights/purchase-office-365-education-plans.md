@@ -1,5 +1,5 @@
 ---
-title: Приобретение планов Microsoft 365 для образования
+title: Microsoft 365 для образования — утверждено
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789387"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005415"
 ---
-# <a name="purchase-microsoft-365-education-plans"></a>Приобретение планов Microsoft 365 для образования
+# <a name="microsoft-365-for-education---approved"></a>Microsoft 365 для образования — утверждено
 
 Ваш статус образовательного учреждения, соответствующего условиям подписки на Microsoft 365 для образования, утвержден.  Процедура приобретения
 
@@ -28,6 +28,8 @@ ms.locfileid: "43789387"
 2. Выберите план из списка в разделе **Планы для образовательных учреждений**.
 
 3. Наведите курсор на подписку, которую хотите купить, и щелкните **Приобрести**.
+
+4. [Настройка клиента Microsoft 365 для образования](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
 
 **Включение Teams**
 
