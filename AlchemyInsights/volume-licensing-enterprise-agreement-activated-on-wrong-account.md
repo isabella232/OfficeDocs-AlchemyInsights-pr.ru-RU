@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
+ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716221"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021547"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="1b05e-102">Корпоративное соглашение корпоративного лицензирования активировано по неверной учетной записи</span><span class="sxs-lookup"><span data-stu-id="1b05e-102">Volume licensing enterprise agreement activated on wrong account</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="94842-102">Корпоративное соглашение корпоративного лицензирования активировано по неверной учетной записи или передаче лицензий из одной учетной записи в другую</span><span class="sxs-lookup"><span data-stu-id="94842-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
 
-<span data-ttu-id="1b05e-103">Если вы настроили ваши подписки, приобретенные по корпоративному соглашению о корпоративном лицензировании, были активированы в неправильном клиенте, используйте вариант "придать нам Звонок", чтобы поговорить с инженером службы поддержки.</span><span class="sxs-lookup"><span data-stu-id="1b05e-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="94842-103">Если вы нашли подписки, приобретенные через **Корпоративное соглашение корпоративного лицензирования** , были активированы на **неправильном клиенте**или хотите **перенести лицензии** из одного клиента в другой, обратитесь в [центр обслуживания корпоративных лицензий Майкрософт](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span><span class="sxs-lookup"><span data-stu-id="94842-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please contact the [Microsoft Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span></span>
