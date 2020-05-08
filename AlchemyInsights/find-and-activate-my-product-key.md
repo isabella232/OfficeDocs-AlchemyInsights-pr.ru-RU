@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716149"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062477"
 ---
 # <a name="find-and-activate-my-product-key"></a>Поиск и активация ключа продукта
 
@@ -32,7 +32,7 @@ ms.locfileid: "43716149"
 
 **Примечание**: чтобы использовать ключ продукта для продления срока действия или добавления лицензии на существующую стандартную подписку Microsoft 365 Business Premium, вам потребуется новый и неиспользованный ключ для одной и той же подписки Microsoft 365.  Ввод исходного ключа продукта Microsoft 365 не будет работать, так как ключ, который уже был погашен, не может быть использован повторно.
 
-1. В центре администрирования откройте страницу "Услуги по **выставлению счетов** > [& услуг](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
+1. В центре администрирования перейдите на страницу **выставление счетов** > по**[продуктам](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Найдите подписку, для которой вы хотите продлить срок действия или добавить лицензии.  Щелкните [расширить дату окончания](https://go.microsoft.com/fwlink/p/?linkid=842054) или [добавить дополнительные лицензии](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

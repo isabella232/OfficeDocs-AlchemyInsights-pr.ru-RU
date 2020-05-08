@@ -3,7 +3,7 @@ title: Оплата по счету
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "492"
 - "1500024"
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: f9f9090eeb2770a8ccb82b3c34a46f2446fc4c55
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e4291e4c16b1edb68efd97ca7fbb4ae03685fa37
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555318"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062405"
 ---
 # <a name="pay-by-invoice"></a>Оплата по счету
 
-Если стоимость подписки на Office 365 выше определенной суммы (она зависит от региона), вы можете выбрать оплату по счету с помощью банковского перевода или чека. Для оплаты крупных счетов может потребоваться проверить вашу кредитоспособность. Вы будете уведомлены об этом в процессе оформления подписки. Если вы согласитесь на эту процедуру, вы получите сообщение электронной почты с более подробными сведениями об условиях предоставления финансового кредита. Обычно проверка кредитоспособности выполняется в течение двух рабочих дней.
+Если ваши подписки на Microsoft 365 используются в течение определенного количества денег (это значение зависит от местоположения службы), вы можете оплатить счет по счету, используя проверку или EFT. Для оплаты крупных счетов может потребоваться проверить вашу кредитоспособность. Вы будете уведомлены об этом в процессе оформления подписки. Если вы согласитесь на эту процедуру, вы получите сообщение электронной почты с более подробными сведениями об условиях предоставления финансового кредита. Обычно проверка кредитоспособности выполняется в течение двух рабочих дней.
   
-Если вы оплачиваете подписку по счету, вы получите сообщение о том, что выписка по счету готова к просмотру. Это сообщение не содержит копию выписки. Однако вы также можете выбрать [Получение копии выписки по счету в сообщении электронной почты](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Выписка содержит сведения о возможных способах оплаты. Если при покупке подписки вы указали номер заказа на покупку, он будет указан в выписке. Сведения о доступе к отчетам о выставлении счетов приведены [в статье Просмотр счета или счета для Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Если вы оплачиваете подписку по счету, вы получите сообщение о том, что выписка по счету готова к просмотру. Это сообщение не содержит копию выписки. Однако вы также можете [получить копию выписки по счету в виде сообщения электронной почты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email). Выписка содержит сведения о возможных способах оплаты. Если при покупке подписки вы указали номер заказа на покупку, он будет указан в выписке. Сведения о доступе к выпискам по счету см. в статье [Просмотр счета или выписки по счету](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
-Чтобы узнать больше об оплате по счету, ознакомьтесь со статьей [Оплата за вашу подписку на Office 365 Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+Чтобы узнать больше об оплате по счету, обратитесь к разделу [Оплата за подписку](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
   
-Если вы собираетесь изменить способы оплаты, ознакомьтесь со статьей [изменение способа оплаты для Office 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method).
+Если вы собираетесь изменить способы оплаты, ознакомьтесь со статьей [изменение способа оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).

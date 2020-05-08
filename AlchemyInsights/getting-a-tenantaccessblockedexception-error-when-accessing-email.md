@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 32ad81e9b1234d8adff3d2cac9c9e4b619e35688
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708916"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062225"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>При получении доступа к электронной почте возникла ошибка Тенантакцессблоккедексцептион?
 
-Эта ошибка может возникать по разным причинам. Например:
+Эта ошибка может возникать по разным причинам. Пример.
 
-- Убедитесь, что подписка действительна на странице " [службы &](https://portal.office.com/adminportal/home#/subscriptions) **выставления счетов** \> " центра администрирования Microsoft 365.
+- Убедитесь, что подписка действительна на странице " **выставление счетов** \> по **[продуктам](https://portal.office.com/adminportal/home#/subscriptions)** " в центре администрирования Microsoft 365.
 
-- Проверьте, не просрочены ли просроченные уведомления на странице **выставление счетов** \> [& платежей](https://portal.office.com/adminportal/home#/billoverview) в центре администрирования Microsoft 365.
+- Проверьте, не просрочены ли просроченные уведомления на странице **выставление счетов** \> **[& платежей](https://portal.office.com/adminportal/home#/billoverview)** в центре администрирования Microsoft 365.
 
 - Если выставление счетов и подписка для вашей учетной записи были недавно обновлены, для распространения изменений может потребоваться некоторое время. Повторите попытку через несколько минут, а если проблема не исчезнет, свяжитесь с нами.

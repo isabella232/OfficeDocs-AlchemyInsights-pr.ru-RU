@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 78f6dc6b2cc6e8d3db6a53f38bea9483ef817c2c
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549724"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062261"
 ---
 # <a name="renewing-your-subscription"></a>Продление подписки
 
@@ -26,6 +26,6 @@ ms.locfileid: "37549724"
 
 Чтобы включить периодическую выставление счетов, выполните указанные ниже действия. 
 
-1. Перейдите в раздел продукты для **выставления счетов** > **& службы**.
+1. Перейдите к разделу **выставление счетов** > по**[продуктам](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Выберите подписку, для которой требуется управлять периодической выставлением счетов.
 3. В разделе **выставление счетов**выберите **изменить** и внесите изменения в окне **периодические параметры выставления счетов** . 

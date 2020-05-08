@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703908"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062549"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Изменение профиля выставления счетов для приложений
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>Изменение профиля выставления счетов для приложений
 
-1. Перейдите на страницу[службы &](https://go.microsoft.com/fwlink/p/?linkid=842054) **выставления счетов** > , а затем выберите вкладку **приложения** .
+1. Перейдите на страницу **выставление счетов** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** , а затем выберите вкладку **приложения** .
 
 2. Найдите и выберите приложение, которое вы хотите изменить.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "43703908"
 
 ## <a name="edit-billing-profiles"></a>Изменение профилей выставления счетов
 
-1. Перейдите на страницу **выставления счетов** > [& платежей](https://go.microsoft.com/fwlink/p/?linkid=848039) , а затем выберите **Профили выставления счетов**.
+1. Перейдите на страницу **выставления счетов** > **[& платежей](https://go.microsoft.com/fwlink/p/?linkid=848039)** , а затем выберите **Профили выставления счетов**.
 
 2. Выберите из списка профиль выставления счетов, который требуется изменить.
