@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062117"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Активация или повторная активация подписки
@@ -33,7 +33,7 @@ ms.locfileid: "44062117"
 
 Если срок действия подписки истечет, он был отключен корпорацией Майкрософт или вы отменили его в середине условия подписки, его можно повторно включить в центре администрирования.
   
-1. В центре администрирования Microsoft 365 перейдите на страницу **выставление счетов** > по[продуктам](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. В центре администрирования Microsoft 365 перейдите на страницу **выставление счетов**по  >  [продуктам](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Выберите подписку, которую необходимо повторно активировать, а затем нажмите кнопку **повторно активировать**. Если действие **Активировать повторно** не отображается, [обратитесь в службу поддержки](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products), чтобы повторно активировать свою подписку.
 

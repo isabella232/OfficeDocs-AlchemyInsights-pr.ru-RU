@@ -14,17 +14,17 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 4a91b71d297edd9331d955ece8c11c2d1eb86d29
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061973"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Добавление мест к предоплаченной подписке
 
 Предоплаченные лицензии выдаются в виде 25-буквенно-буквенно-буквенной кодировки. После приобретения необходимых лицензий вы можете добавить их в подписку. 
 
-1. В центре администрирования перейдите на страницу **выставление счетов** > по**[продуктам](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. В центре администрирования перейдите на страницу **выставление счетов**по  >  **[продуктам](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Найдите подписку, в которую вы хотите добавить лицензии. В разделе **лицензии** выберите **добавить дополнительные лицензии**.
 
