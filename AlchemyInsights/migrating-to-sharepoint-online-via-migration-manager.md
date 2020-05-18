@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 54f3e3a396334b7c1640b078e2efed4d6b463ba3
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 0f4386d7981217143806c557ecac6bc40f973105
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235381"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268749"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Переход на SharePoint Online с помощью диспетчера переноса данных
-
-**Диспетчер переноса данных**
 
 Диспетчер переноса данных, расположенный в современном Центре администрирования SharePoint, помогает настраивать клиенты и создавать задачи. Можно настраивать параметры как на глобальном уровне, так и на уровне задач, просматривать ход выполнения всех задач, скачивать сводные отчеты и отчеты на уровне задач.
 
