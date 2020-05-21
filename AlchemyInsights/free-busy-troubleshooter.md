@@ -12,14 +12,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a580de2c963a53654499f1715dad7f3bb36c706
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765065"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331345"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Проблемы с просмотром сведений о доступности в календаре
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Действия по устранению неполадок с календарем (сведения о доступности)
 
-Если вы не видите сведения о доступности в календаре в других календарях, или если другие пользователи не видят сведения о доступности в календаре, используйте [Помощник по поддержке и восстановлению Майкрософт](https://diagnostics.office.com/).
-  
+Как правило, для устранения проблем со сведениями о доступности используется [анализатор удаленного подключения Exchange (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) , который позволяет определить, где происходит ошибка. С помощью RCA вы сможете получить подробные сведения о том, что работало и что не удалось выполнить с конкретными сообщениями об ошибках, которые можно найти в разделе Поиск решений. Кроме того, у него есть ссылка на [Помощник по поддержке и восстановлению Майкрософт](https://diagnostics.office.com/).
+
+Еще одно хорошее средство — [средство проверки календаря для Outlook](https://www.microsoft.com/download/details.aspx?id=28786) , если пользователь работает с Outlook.
