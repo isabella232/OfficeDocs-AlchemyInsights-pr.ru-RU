@@ -1,5 +1,5 @@
 ---
-title: Блокировка отправителя из-за отправки большого количества спама
+title: Отправителю запрещено отправлять слишком много спама
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ab49df06697f45e23e80e18b56257c45140722aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ff93b67a6a6b3eae9e94061d968c72064dd42afb
+ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709168"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44209892"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Учетная запись заблокирована из-за отправки большого количества спама
+# <a name="account-is-restricted-for-sending-too-much-spam"></a>Аккаунт ограничен для отправки слишком много спама
 
 Если одному из пользователей запрещено отправлять электронную почту, администратор может [разблокировать учетную запись самостоятельно](https://protection.office.com/?hash=/restrictedusers), **не создавая обращение в службу поддержки**. Пользователь сможет отправлять электронную почту в течение часа после удаления ограничения.
 
