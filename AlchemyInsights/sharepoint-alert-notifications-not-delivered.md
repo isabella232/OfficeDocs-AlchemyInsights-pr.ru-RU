@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742060"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343090"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Уведомления о предупреждениях SharePoint не доставляются
 
@@ -33,15 +33,6 @@ ms.locfileid: "43742060"
 
 - Невозможно отправлять оповещения в группу рассылки, поддерживаются только группы безопасности и группы Office 365.
 - Вы не можете настраивать шаблоны оповещений по электронной почте; для достижения этих целей необходимо использовать Microsoft FLOW или рабочий процесс SharePoint Designer.
-
-Подробнее:
-
-- **Настройка оповещений**: Дополнительные сведения о настройке оповещений приведены [в статье Создание оповещения для получения уведомлений при изменении файлов и папок в SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Устранение неполадок оповещений**: Дополнительные сведения об устранении неполадок см. [Пользователи не получают уведомления о SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Дополнительные сведения о политиках оповещений о соответствии требованиям в O365**: Дополнительные сведения о настройке этих оповещений см. в разделе [политики оповещений о соответствии](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **Журналы аудита SharePoint и OneDrive**: Дополнительные сведения о получении этих событий приведены [в статье Поиск в журнале аудита](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Оповещения, отправленные расширенной защитой от угроз**: Ознакомьтесь со статьей [ATP для SharePoint и OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Оповещения, отправляемые политиками защиты от потери данных**: просмотрите [уведомления по электронной почте для политик защиты от потери](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)данных.
 
 ## <a name="related-topics"></a>Статьи по теме
 
