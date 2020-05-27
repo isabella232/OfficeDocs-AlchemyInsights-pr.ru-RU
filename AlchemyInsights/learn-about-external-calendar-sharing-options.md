@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762906"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373048"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="41ee7-102">Сведения о параметрах общего доступа к внешним календарям</span><span class="sxs-lookup"><span data-stu-id="41ee7-102">Learn about external calendar sharing options</span></span>
+# <a name="exchange-online-collaboration-options"></a><span data-ttu-id="71fa5-102">Параметры совместной работы в Exchange Online</span><span class="sxs-lookup"><span data-stu-id="71fa5-102">Exchange Online collaboration options</span></span>
 
-<span data-ttu-id="41ee7-103">Если необходимо запланировать собрания для пользователей за пределами вашей организации, Microsoft 365 позволяет сделать календари доступными для внешних пользователей, которые должны просматривать сведения о занятости, но не иметь учетных записей пользователей для своей среды Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="41ee7-103">If you need to schedule meetings with people outside your organization, Microsoft 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Microsoft 365 environment.</span></span> <span data-ttu-id="41ee7-104">Для получения дополнительных сведений ознакомьтесь [со статьей общий доступ к календарям для внешних пользователей](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="41ee7-104">For more information, see [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>
+- <span data-ttu-id="71fa5-103">Чтобы получить **Обзор внешнего общего доступа к календарю**, ознакомьтесь со статьей [общий доступ в Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="71fa5-103">To get an **overview of external calendar sharing**, see [Sharing in Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="71fa5-104">Чтобы **предоставить общий доступ к календарям другой организации Office 365**, ознакомьтесь со статьей [связь организации в Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="71fa5-104">To **share calendars with another Office 365 organization**, see [Organization relationships in Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="71fa5-105">Чтобы **контролировать, как пользователи совместно используют свои календари с пользователями, не входящими в вашу организацию**, просмотрите [политики общего доступа в Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="71fa5-105">To **control how your users share their calendars with people outside your organization**, see [Sharing policies in Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="71fa5-106">Чтобы просмотреть **улучшения** , вносимые в общий доступ к календарю, ознакомьтесь со статьей [общий доступ к календарю в Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span><span class="sxs-lookup"><span data-stu-id="71fa5-106">To see **improvements** being made in calendar sharing, see [Calendar sharing in Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span></span>
