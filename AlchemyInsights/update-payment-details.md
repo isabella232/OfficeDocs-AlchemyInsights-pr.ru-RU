@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5d7ee20edb0a9d298b657c14d7a75034245427a8
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720078"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418193"
 ---
 # <a name="update-credit-card-information"></a>Обновление сведений о банковской карте
 
@@ -40,4 +40,4 @@ ms.locfileid: "43720078"
 
 При возникновении проблем с загрузкой страниц попробуйте открыть веб-страницу в другом браузере или в приватном окне браузера, например в окне InPrivate в Microsoft Edge или режиме инкогнито в Google Chrome. 
 
-Дополнительные сведения см. в статьях [Добавление, удаление и обновление данных кредитной карты или банковского счета в Microsoft 365 для бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) и [Устранение неполадок, связанных с кредитными картами и банковскими счетами](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Подробнее см. в статье [Управление способами оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
