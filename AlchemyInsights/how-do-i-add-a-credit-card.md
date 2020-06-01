@@ -13,12 +13,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 29864cd52c19a34887b52968a1a004473461dc84
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: a4d30f59410d897584fb3ef91273361d028c0034
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787959"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417330"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Как добавить кредитную карту?
 
@@ -30,4 +30,4 @@ ms.locfileid: "43787959"
 
 4. Введите данные новой кредитной карты или нового банковского счета и щелкните **Сохранить**.
 
-Дополнительные сведения см. в статье [Добавление, удаление и обновление данных кредитной карты или банковского счета](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Дополнительные сведения см. в статье [Управление методами оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
