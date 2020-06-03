@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732415"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512603"
 ---
 # <a name="troubleshooting-office-365-advanced-threat-protection"></a>Устранение неполадок в Office 365 Advanced Threat protection
 
-- Вы заметили задержки при доставке сообщений? Используйте параметр [динамической доставки](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) в политике безопасных вложений ATP. Это позволит избежать задержки сообщений при защите получателей от вредоносных файлов.
+- Вы заметили задержки при доставке сообщений? Используйте параметр [динамической доставки](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) в политике безопасных вложений ATP. Это позволит избежать задержки сообщений при защите получателей от вредоносных файлов.
 
 - Хотите ли вы сообщить о ложных срабатываниях или ложных негативах в корпорацию Майкрософт? Используйте эту [ссылку](https://www.microsoft.com/wdsi/filesubmission/) для передачи файлов для анализа.
 

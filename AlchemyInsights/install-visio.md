@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766002"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508677"
 ---
 # <a name="install-visio"></a>Установка Visio
 
@@ -25,7 +25,7 @@ ms.locfileid: "43766002"
 
 **Note**: в Visio Online (план 1) не включена версия Visio для настольных ПК, поэтому установка невозможна.
 
-Если у вас есть подписка на Visio Online (план 2), необходимо [назначить лицензию](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) пользователю или у нее нет возможности установить Visio из **моей установки** на [портале учетных записей](https://portal.office.com/account#installs). 
+Если у вас есть подписка на Visio Online (план 2), необходимо [назначить лицензию](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) пользователю или у нее нет возможности установить Visio из **моей установки** на [портале учетных записей](https://portal.office.com/account#installs). 
 
 Не являющиеся корпоративными версиями Visio Standard или Visio профессиональный связаны с учетными записями Майкрософт и не могут управляться в центре администрирования. Чтобы установить эти версии, пользователи должны войти в [Account.Microsoft.com](https://account.microsoft.com) с помощью учетной записи Майкрософт, связанной с этой версией Visio.
 

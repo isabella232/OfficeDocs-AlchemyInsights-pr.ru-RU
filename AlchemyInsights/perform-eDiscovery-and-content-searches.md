@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911844"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510189"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Как выполнять поиск контента и поиск с обнаружением электронных данных
 
@@ -32,6 +32,6 @@ ms.locfileid: "43911844"
 4. Введите необходимые условия поиска, включая ключевые слова и расположения контента.  
 5. Нажмите кнопку **сохранить & выполнить** , чтобы присвоить имя поиску, запустите его, а затем просмотрите результаты.
 
-Подробные инструкции по поиску контента, экспорту результатов и созданию дел eDiscovery для хранения данных можно узнать в разделе [Поиск контента](https://docs.microsoft.com/office365/securitycompliance/content-search) и [Обнаружение электронных](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)данных.
+Подробные инструкции по поиску контента, экспорту результатов и созданию дел eDiscovery для хранения данных можно узнать в разделе [Поиск контента](https://docs.microsoft.com/microsoft-365/compliance/content-search) и [Обнаружение электронных](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)данных.
 
-Узнайте больше о поиске контента, изучив [требования и ограничения](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) , а также [изучая частично индексированные элементы](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) и другие результаты, о которых следует знать.
+Узнайте больше о поиске контента, изучив [требования и ограничения](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) , а также [изучая частично индексированные элементы](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) и другие результаты, о которых следует знать.

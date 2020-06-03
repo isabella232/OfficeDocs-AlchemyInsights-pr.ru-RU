@@ -6,12 +6,12 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 34e3ca6f66d42c89fdf21524bff96e0b3e1534d8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1406ad5b0cef0bb2b35308177ec476e309876a55
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052266"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506895"
 ---
 # <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Ошибка 404: файл не найден в SharePoint или OneDrive
 
@@ -21,4 +21,4 @@ ms.locfileid: "40052266"
 Для устранения этой проблемы можно выполнить следующие действия:
 - [Просмотр и восстановление удаленных сайтов в новом центре администрирования SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): для современных сайтов (связи, подключения к группе или других сайтов), существующих в новой версии центра администрирования.
 - [Восстановление элементов в корзине сайта SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): чтобы разрешить переименованный, перемещенный или удаленный файл (или другой элемент), перейдите на сайт SharePoint или OneDrive и просмотрите корзину из контента сайта.
-- [Выполните поиск в журнале аудита в центре &amp; соответствия требованиям безопасности](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): выполните поиск в журнале аудита (если ведение журнала включено), если вы по-прежнему не можете найти этот элемент.
+- [Поиск в журнале аудита в безопасности &amp; Центр соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance): выполните поиск в журнале аудита (если ведение журнала включено), если вы по-прежнему не можете найти этот элемент.

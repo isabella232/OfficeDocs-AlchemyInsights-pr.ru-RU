@@ -14,12 +14,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714783"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507183"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Не удается установить или запустить средство экспорта обнаружения электронных данных?
 
@@ -44,9 +44,9 @@ ms.locfileid: "43714783"
 
     Другие браузеры, такие как Google Chrome и Mozilla Firefox, не поддерживаются.
 
-- Ваша организация может подключаться к конечной точке в Azure, т ** \*. е. BLOB.Core.Windows.NET** (подстановочный знак представляет уникальный идентификатор задания экспорта).
+- Ваша организация может подключаться к конечной точке в Azure, т ** \* . е. BLOB.Core.Windows.NET** (подстановочный знак представляет уникальный идентификатор задания экспорта).
 
-- Вы назначили роль экспорт в центре безопасности &amp; Майкрософт 365. По умолчанию эта роль назначается только группе ролей диспетчера обнаружения электронных данных. См. [Назначение разрешений на обнаружение электронных](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)данных.
+- Вы назначили роль экспорт в центре безопасности Майкрософт 365 &amp; . По умолчанию эта роль назначается только группе ролей диспетчера обнаружения электронных данных. См. [Назначение разрешений на обнаружение электронных](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)данных.
 
-Дополнительные сведения можно найти в статье [Экспорт результатов поиска контента](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Дополнительные сведения можно найти в статье [Экспорт результатов поиска контента](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   

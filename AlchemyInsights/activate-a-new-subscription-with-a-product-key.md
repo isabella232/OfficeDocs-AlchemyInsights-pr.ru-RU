@@ -12,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: b4ae470e2a03509ea8a90e7fdf006eddfa4792ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: eda14c7e8e65a087c1ed9302b66f333ceddc4f9d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707128"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504924"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>Активация новой подписки с помощью ключа продукта
 
-1. Чтобы активировать новую подписку с помощью ключа продукта, перейдите на [https://office.com/setupkey](https://office.com/setupkey)страницу.
+1. Чтобы активировать новую подписку с помощью ключа продукта, перейдите на страницу [https://office.com/setupkey](https://office.com/setupkey) .
 
-2. Введите ключ продукта и следуйте инструкциям, чтобы активировать подписку. Если у вас возникают проблемы, просмотрите [список распространенных ошибок, связанных с ключом продукта, и способов их устранения](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Введите ключ продукта и следуйте инструкциям, чтобы активировать подписку. Если у вас возникают проблемы, просмотрите [список распространенных ошибок, связанных с ключом продукта, и способов их устранения](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

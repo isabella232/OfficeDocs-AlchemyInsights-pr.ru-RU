@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767802"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509361"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Настройка подписки Office 365 бизнес Essentials
 
@@ -23,11 +23,11 @@ ms.locfileid: "43767802"
     
 - Перейдите в [центр администрирования Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Чтобы запустить мастер, нажмите кнопку **Запустите установку**. Дополнительные сведения см. в [статье Добавление домена в Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Чтобы запустить мастер, нажмите кнопку **Запустите установку**. Дополнительные сведения см. в [статье Добавление домена в Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Импорт электронной почты
   
-- Переместите существующие электронную почту и контакты из других систем электронной почты в свой почтовый ящик Microsoft 365, чтобы вы могли видеть их в одном месте. Для вариантов миграции [необходимо перенести электронную почту и контакты в Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Переместите существующие электронную почту и контакты из других систем электронной почты в свой почтовый ящик Microsoft 365, чтобы вы могли видеть их в одном месте. Для вариантов миграции [необходимо перенести электронную почту и контакты в Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - Подключение учетных записей электронной почты
     
@@ -41,6 +41,6 @@ ms.locfileid: "43767802"
   
 - Чтобы узнать, какие места хранения лучше всего подходит для вашего бизнеса, ознакомьтесь со статьей, [где можно хранить файлы в Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Пользователи получают доступ к облачному хранилищу **OneDrive** автоматически при создании учетных записей Microsoft 365 для них. OneDrive обеспечивает доступ к файлам на любых компьютерах, телефонах и планшетах. 
     
-Подробные инструкции по настройке можно найти в [этой статье](https://docs.microsoft.com/office365/admin/setup/setup).
+Подробные инструкции по настройке можно найти в [этой статье](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 

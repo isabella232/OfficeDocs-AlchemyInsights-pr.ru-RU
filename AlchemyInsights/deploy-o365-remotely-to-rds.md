@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010267"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507599"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Развертывание приложений Microsoft 365 для предприятий для совместного использования в RDS, сервере терминалов или VDI
 
@@ -38,9 +38,9 @@ ms.locfileid: "44010267"
 
 Если вы хотите установить приложения Microsoft 365 для Enterprise в RDS из центра администрирования Майкрософт 365, ***использующего параметры установки по умолчанию***, выполните указанные ниже действия.
 
-1.    Проверьте, какая подписка у вас есть. [Инструкции.](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
-2.    При необходимости переключитесь на другую подписку. [Инструкции.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
-3.    Если Office уже установлен на сервере RDS с помощью любой другой подписки Майкрософт, удалите его. Например, с помощью **панели** > управления**удалите программу**. Удаление с помощью [помощника по поддержке и восстановлению Майкрософт](https://aka.ms/SARA-OfficeUninstall-Alchemy) , если у вас возникли проблемы.
+1.    Проверьте, какая подписка у вас есть. [Инструкции.](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
+2.    При необходимости переключитесь на другую подписку. [Инструкции.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+3.    Если Office уже установлен на сервере RDS с помощью любой другой подписки Майкрософт, удалите его. Например, с помощью **панели управления**  >  **удалите программу**. Удаление с помощью [помощника по поддержке и восстановлению Майкрософт](https://aka.ms/SARA-OfficeUninstall-Alchemy) , если у вас возникли проблемы.
 4.    На сервере RDS Войдите в центр администрирования Microsoft 365 с учетной записью администратора и [установите приложения Microsoft 365 для предприятия](https://portal.office.com/OLS/MySoftware.aspx).
 5.    После установки Office ***не открывайте и не входите*** в приложения Office.
 6.    На сервере RDS Включите активацию на общем компьютере, отредактировав реестр, выполнив указанные ниже действия.

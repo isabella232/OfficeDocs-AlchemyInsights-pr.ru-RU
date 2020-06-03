@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6bbbf8722dacb8b7d5191d57ce1055a48dcb4dd0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764885"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511521"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Шифрование сообщений электронной почты в Outlook
 
@@ -24,7 +24,7 @@ Microsoft 365 шифрование сообщений основано на Micr
 
 - При использовании Outlook в Интернете **(ранее Outlook Web App**): при создании сообщения электронной почты просто нажмите кнопку **Защита** в OWA. Будет применено разрешение "не пересылать". Нажмите кнопку **изменить разрешение** и выберите **Шифрование** только для шифрования сообщения.
 
-- Если используется **клиент Outlook**: для отправки зашифрованного сообщения из Outlook 2013 или 2016 или Outlook 2016 для Mac, выберите **Параметры** > **разрешения**, а затем выберите необходимый вариант защиты.
+- Если используется **клиент Outlook**: для отправки зашифрованного сообщения из Outlook 2013 или 2016 или Outlook 2016 для Mac, выберите **Параметры**  >  **разрешения**, а затем выберите необходимый вариант защиты.
 
-- Чтобы **автоматически шифровать все сообщения** , отправленные определенным получателям или партнерским организациям, необходимо создать правило транспорта для поток обработки почты в центре администрирования Exchange. Подробные инструкции приведены в [этой статье support](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- Чтобы **автоматически шифровать все сообщения** , отправленные определенным получателям или партнерским организациям, необходимо создать правило транспорта для поток обработки почты в центре администрирования Exchange. Подробные инструкции приведены в [этой статье support](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788679"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507039"
 ---
 # <a name="enable-an-archive-mailbox"></a>Включение архивного почтового ящика
 
@@ -27,7 +27,7 @@ ms.locfileid: "43788679"
 
 2. Войдите в Microsoft 365, используя учетную запись администратора.
 
-3. В левой области &amp; центра безопасности и соответствия требованиям выберите **Архив**управления **сведениями** \> .
+3. В левой области &amp; центра безопасности и соответствия требованиям выберите архив управления **сведениями** \> **Archive**.
 
 4. Выберите пользователя, архивный почтовый ящик которого требуется включить.
 
@@ -43,14 +43,14 @@ ms.locfileid: "43788679"
 
 1. Перейдите в [центр администрирования Exchange](https://outlook.office365.com/ecp) и войдите в систему, используя свою учетную запись администратора.
 
-2. Перейдите к разделу **получатели** > , к**которым предоставлен общий доступ**.
+2. Перейдите к разделу **получатели**, к  >  **которым предоставлен общий доступ**.
 
 3. Выберите общий почтовый ящик.
 
 4. В области сведений справа в разделе **Архив на месте**щелкните **включить**, а затем нажмите кнопку **Да** , чтобы включить архивный почтовый ящик.
 
-Дополнительные сведения см. в статье:
+Дополнительные сведения см. в указанных ниже статьях.
   
-- [Включение архивных почтовых ящиков](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Включение архивных почтовых ящиков](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Настройка политики архивации и удаления](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

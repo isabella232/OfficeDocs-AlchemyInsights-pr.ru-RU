@@ -13,12 +13,12 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 43e5b15b8c4de60d7f213b6145fa1be11954a42c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724677"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508857"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Импорт и экспорт почты, контактов и элементов календаря Outlook
 
@@ -30,4 +30,4 @@ ms.locfileid: "43724677"
 
 Полный набор инструкций по импорту и экспорту для Outlook представлен в [этой статье](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Если вы являетесь администратором и хотите массово импортировать несколько PST-файлов в почтовые ящики Microsoft 365, ознакомьтесь со [статьей](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Если вы являетесь администратором и хотите массово импортировать несколько PST-файлов в почтовые ящики Microsoft 365, ознакомьтесь со [статьей](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).

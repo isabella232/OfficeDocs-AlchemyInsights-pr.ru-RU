@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713479"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506751"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Симулятор атак в Microsoft 365
 
 - Вы не используете симулятор атак? Для работы в симуляторе атак требуется **office 365 Advanced Threat Protection Plan 2 (ATP Plan 2)** или **Office 365 Enterprise**/с. Симулятор атак **не** включен в Office 365 Advanced Threat Protection Plan 1 (ATP, план 1), Office 365 корпоративный E3 или любые приложения Microsoft 365 для бизнес-подписок.
 
-- Для учетной записи, используемой для запуска имитации атак, требуются разрешения администратора глобального администратора или безопасности, а также многофакторную проверку подлинности (MFA). Дополнительные сведения о требованиях к эмулятору атак приведены в [этой статье](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
+- Для учетной записи, используемой для запуска имитации атак, требуются разрешения администратора глобального администратора или безопасности, а также многофакторную проверку подлинности (MFA). Дополнительные сведения о требованиях к эмулятору атак приведены в [этой статье](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - Важные сведения об управлении атаками **пароля методом грубой силы** :
 

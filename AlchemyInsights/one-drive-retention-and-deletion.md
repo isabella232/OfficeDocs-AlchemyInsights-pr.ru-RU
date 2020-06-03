@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: bbdfdf34ecb24189b233ceded917a03a2d07d7db
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: 5d2ae0d21ab43814235feee8cc2b60290a17ad51
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343191"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511017"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Хранение и удаление OneDrive
 
@@ -32,5 +32,5 @@ ms.locfileid: "44343191"
 - Сведения о восстановлении элементов из корзины в OneDrive приведены в статье [Восстановление удаленных файлов и папок](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
 
 - Интересуется хранением и удержанием в центре безопасности и соответствия требованиям?
-    - [Политики хранения для сайтов OneDrive и SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [Политики хранения для сайтов OneDrive и SharePoint](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     - [удержание обнаружения электронных данных для сайтов OneDrive и SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

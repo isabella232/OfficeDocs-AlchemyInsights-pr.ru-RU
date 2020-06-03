@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 40a09fdaa3b2218fc2dfacb10216f27d6440bd67
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061756"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506276"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Приобретение подписки на Microsoft 365 из бесплатной пробной версии
 
@@ -35,7 +35,7 @@ ms.locfileid: "44061756"
 
 3. Найдите подписку, которую вы хотите приобрести, нажмите кнопку **купить**и выполните действия, необходимые для извлечения.
 
-Чтобы узнать больше, ознакомьтесь со статьей [приобрести подписку на Microsoft 365 для бизнеса из бесплатной пробной версии](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Чтобы узнать больше, ознакомьтесь со статьей [приобрести подписку на Microsoft 365 для бизнеса из бесплатной пробной версии](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
 
 **Устранение неполадок**
 

@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716473"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508965"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Определение времени настройки переадресации внешней почты для почтовых ящиков
 
@@ -25,7 +25,7 @@ ms.locfileid: "43716473"
 
 1. Войдите в [центр соответствия требованиям & безопасности Microsoft 365](https://protection.office.com/).
 
-2. Перейдите на страницу **Search** > **поиска журнала аудита** поиска.
+2. Перейдите на страницу **Search**  >  **поиска журнала аудита** поиска.
 
 3. Выберите диапазон дат в полях **Дата начала** и **Дата окончания** . Указывать имя пользователя не требуется. Убедитесь, что в поле **действия** задано значение **Показать результаты для всех действий**.
 
@@ -39,4 +39,4 @@ ms.locfileid: "43716473"
 
 - **UserID**: пользователь, который настроил переадресацию электронной почты для почтового ящика в поле **ObjectID** .
 
-Дополнительную информацию можно узнать в статье [Определение того, кто настраивает переадресацию электронной почты для почтового ящика](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Дополнительную информацию можно узнать в статье [Определение того, кто настраивает переадресацию электронной почты для почтового ящика](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

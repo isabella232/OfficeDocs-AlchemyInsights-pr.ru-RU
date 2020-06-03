@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761323"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510981"
 ---
 # <a name="more-info-about-retention-policies"></a>Дополнительные сведения о политиках хранения
 
@@ -27,15 +27,15 @@ ms.locfileid: "43761323"
 ## <a name="a-from-security-and-compliance-center"></a>A) из центра безопасности и соответствия требованиям
 
 - Перейдите в раздел Безопасность и соответствие требованиям > управления данными > хранения
-  - Ознакомьтесь с [этой](https://docs.microsoft.com/office365/securitycompliance/retention-policies) статьей
+  - Ознакомьтесь с [этой](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) статьей
 
 - Перейти к разделу Безопасность и соответствие требованиям > обнаружение электронных данных> Advanced eDiscovery 
-  - Ознакомьтесь с [этой](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) статьей
+  - Ознакомьтесь с [этой](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) статьей
 
 - Перейдите в раздел Безопасность и соответствие требованиям > классификаций > хранения
   - Просмотрите эти статьи
-    - [Метки чувствительности](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Общие сведения о метках](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Метки чувствительности](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [Общие сведения о метках](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>Б) устаревшие политики обнаружения электронных данных
 

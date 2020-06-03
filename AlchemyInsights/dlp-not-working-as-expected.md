@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e96904e2f0da2fe1fafb3f8722465eaf22681b71
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704426"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507491"
 ---
 # <a name="dlp-not-working-as-expected"></a>Защита от потери данных не работает должным образом
 
@@ -36,18 +36,18 @@ ms.locfileid: "43704426"
   
 - **Встроенные типы конфиденциальной информации**
 
-    Для получения сведений о встроенных конфиденциальных типах и действиях, выполняемых политикой DLP при определении конфиденциального типа, ознакомьтесь со статьей: [какие типы конфиденциальной информации следует искать](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Для получения сведений о встроенных конфиденциальных типах и действиях, выполняемых политикой DLP при определении конфиденциального типа, ознакомьтесь со статьей: [какие типы конфиденциальной информации следует искать](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
 - **Настраиваемые типы конфиденциальной информации**
 
-    Если вы пытаетесь создать настраиваемые типы конфиденциальной информации, используйте следующую статью для получения сведений о создании настраиваемого типа конфиденциальной [информации: Создание настраиваемого типа конфиденциальной информации](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Если вы пытаетесь создать настраиваемые типы конфиденциальной информации, используйте следующую статью для получения сведений о создании настраиваемого типа конфиденциальной [информации: Создание настраиваемого типа конфиденциальной информации](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type).
 
 **Проверка политики DLP**
 
-Чтобы протестировать данные со встроенным или настраиваемым типом конфиденциальной информации, используйте параметр **тип теста** в разделе **классификация** > **типов конфиденциальной**информации. Дополнительные [сведения см.](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)
+Чтобы протестировать данные со встроенным или настраиваемым типом конфиденциальной информации, используйте параметр **тип теста** в разделе **классификация**  >  **типов конфиденциальной**информации. Дополнительные [сведения см.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)
 
  **Отчеты**
   
-- Получение конфиденциальных данных с помощью [отчетов о](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports) защите от потери данных.
+- Получение конфиденциальных данных с помощью [отчетов о](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports) защите от потери данных.
 
-- Просмотр определенных сведений о событии с [отчетом об инциденте](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
+- Просмотр определенных сведений о событии с [отчетом об инциденте](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).

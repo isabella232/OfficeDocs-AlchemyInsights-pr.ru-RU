@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3270f1ab03bacb235cbdc3d710053c858f0a5183
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0aedb549f11db54d3cd480671fb0767c60680ad3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741978"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509613"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>Журналы аудита SharePoint и OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "43741978"
 Основные изменения:
 
 * Фильтрация недоступна в качестве возможности.
-* Выбор определенных событий для аудита недоступен. В [этом документе](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) приведен полный список событий аудита, доступных по умолчанию.
+* Выбор определенных событий для аудита недоступен. В [этом документе](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) приведен полный список событий аудита, доступных по умолчанию.
 * Параметр **Расположение** в разделе **настроенные отчеты** недоступен.
 * Параметр **Открытие или скачивание событий документов** недоступен.
 
@@ -36,16 +36,16 @@ ms.locfileid: "43741978"
 
 ## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Современные Объединенные журналы аудита SharePoint и OneDrive для обеспечения соответствия требованиям
 
-* [Включение и выключение ведения журнала единого аудита](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+* [Включение и выключение ведения журнала единого аудита](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
 В SharePoint или OneDrive дополнительные настройки не требуются.
 
 Используйте поиск в журнале аудита, чтобы проверить активность файлов, папок, пользователей, разрешений:
 
-* [Действия, связанные с файлами и страницами](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-* [Действия, связанные с папками](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Действия, связанные с общим доступом и запросами на доступ](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-* [Действия, связанные с синхронизацией](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Действия, связанные с администрированием сайта](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Действия, связанные с файлами и страницами](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+* [Действия, связанные с папками](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Действия, связанные с общим доступом и запросами на доступ](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Действия, связанные с синхронизацией](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Действия, связанные с администрированием сайта](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Дополнительные сведения о получении этих событий можно найти [в статье Поиск в журнале аудита](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Дополнительные сведения о получении этих событий можно найти [в статье Поиск в журнале аудита](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).

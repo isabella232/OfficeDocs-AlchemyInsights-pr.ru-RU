@@ -11,16 +11,16 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571284"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511989"
 ---
 # <a name="unable-to-delete-items"></a>Не удается удалить элементы
 
-Это может быть вызвано политиками хранения, а также отключением или исключением соответствующих удержаний, которые приводят к возникновению этой проблемы. После удаления политики хранения или удержания может потребоваться до 24 часов, чтобы изменения вступили в силу. Убедитесь, что для элемента отсутствует настройка [политики хранения](https://docs.microsoft.com/office365/securitycompliance/retention-policies) .
+Это может быть вызвано политиками хранения, а также отключением или исключением соответствующих удержаний, которые приводят к возникновению этой проблемы. После удаления политики хранения или удержания может потребоваться до 24 часов, чтобы изменения вступили в силу. Убедитесь, что для элемента отсутствует настройка [политики хранения](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) .
 
 Возможно, на сайте превышено ограничение размера хранилища, необходимо увеличить [квоту сайта](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) и удалить элемент.
 

@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064098"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509109"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Повторная активация и управление периодической выставления счетов
 
@@ -32,7 +32,7 @@ ms.locfileid: "44064098"
 
 3. Подтвердите сведения об оплате. Здесь вы можете обновить существующие сведения об оплате. Завершив ввод способа оплаты, нажмите кнопку **повторно активировать**.
 
-Дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription). 
 
 Для управления ежемесячными или ежегодными выписками можно включить или отключить **периодическое выставление счетов** .
   
@@ -46,4 +46,4 @@ ms.locfileid: "44064098"
 
 5. Выберите **Отправить изменение**.
 
-Дополнительные сведения см. в разделе [Отключение и включение автоматического продления](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Дополнительные сведения см. в разделе [Отключение и включение автоматического продления](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
