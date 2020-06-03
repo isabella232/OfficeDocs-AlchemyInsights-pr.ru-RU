@@ -9,12 +9,12 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bb84363ae7d3c91750d5de789c091c7cebbbedc2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687523"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502332"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Отзыв или замена сообщения электронной почты в Outlook
 
@@ -26,7 +26,7 @@ ms.locfileid: "43687523"
 
 1. В области папок слева от окна Outlook выберите папку Отправленные.
 1. Дважды щелкните сообщение, которое нужно отозвать, чтобы открыть его.
-1. Перейдите на вкладку **сообщение** , а затем выберите **действия** > **отозвать это сообщение**.
+1. Перейдите на вкладку **сообщение** , а затем выберите **действия**  >  **отозвать это сообщение**.
 1. Выберите **Удалить непрочтенные копии этого сообщения** или **Удалить непрочтенные копии и замените на новое сообщение**, а затем нажмите кнопку **ОК**.
 1. Если вы отправляете заменяющее сообщение, создайте сообщение, а затем нажмите кнопку **Отправить**.
 1. Успех или неудача при отзыве сообщения зависит от параметров получателя в Outlook. Действия, которые необходимо выполнить для проверки отзыва, приведены в [этой статье](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
@@ -34,7 +34,7 @@ ms.locfileid: "43687523"
 Поиск и удаление сообщений электронной почты в вашей организации
 
 - Если вы не являетесь глобальным администратором, необходимо добавить свою учетную запись в роль диспетчера обнаружения электронных данных или роль управления поиском соответствия требованиям для поиска сообщений. Чтобы удалить сообщения, необходимо присоединиться к группе ролей Управление организацией или ролью управления поиска и очистки. Разрешения для этих ролей назначаются в [центре безопасности и соответствия требованиям](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Создайте поиск контента](https://docs.microsoft.com/office365/securitycompliance/content-search) , чтобы найти сообщение, которое требуется удалить.
+- [Создайте поиск контента](https://docs.microsoft.com/microsoft-365/compliance/content-search) , чтобы найти сообщение, которое требуется удалить.
 - [Подключение к PowerShell центра безопасности и соответствия требованиям](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
 Если вы используете многофакторную проверку подлинности, ознакомьтесь со статьей [Подключение к Microsoft 365 Security and Security Center PowerShell с использованием многофакторной проверки подлинности](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
