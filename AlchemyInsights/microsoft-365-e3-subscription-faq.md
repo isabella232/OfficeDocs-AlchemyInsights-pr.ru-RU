@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: f41fc3e02ee3fca4d49c8fac5a3b3872662a7884
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43943992"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511809"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Вопросы и ответы по управлению лицензией и подпиской Microsoft 365 E3
 
@@ -25,7 +25,7 @@ ms.locfileid: "43943992"
 - Сведения о **переключении планов** см. в разделе [Переключение планов Microsoft 365 для бизнеса вручную](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Чтобы **назначить пользователям** лицензии E3, выберите **Выставление счетов > [Лицензии](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Дополнительные сведения см. в статье [Назначение лицензий](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Чтобы **добавить или удалить** лицензии E3, выберите **Выставление счетов > [Продукты и службы](https://go.microsoft.com/fwlink/p/?linkid=842054)** и щелкните **Добавление и удаление лицензий**. Дополнительные сведения см. в статье [Добавление и удаление лицензий](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Чтобы **отменить** лицензии E3, выберите **Выставление счетов > [Продукты и службы](https://go.microsoft.com/fwlink/p/?linkid=842054)**, перейдите в **Параметры и действия** и щелкните **Отменить подписку**. Дополнительные сведения см. в статье [Отмена подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Чтобы **отменить** лицензии E3, выберите **Выставление счетов > [Продукты и службы](https://go.microsoft.com/fwlink/p/?linkid=842054)**, перейдите в **Параметры и действия** и щелкните **Отменить подписку**. Дополнительные сведения см. в статье [Отмена подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Сведения об **активации** подписки E3 см. в статье [Активация вашей подписки](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Сведения о **повторной активации** подписки E3 см. в статье [Повторная активация подписки](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Сведения о **продлении** пробной подписки E3 см. в статье [Продление пробного периода](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).

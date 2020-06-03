@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799064"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508605"
 ---
 # <a name="unlocking-an-account"></a>Разблокировка учетной записи
 
@@ -40,4 +40,4 @@ ms.locfileid: "43799064"
 
 Чтобы узнать о других сценариях сброса пароля, в том числе о самостоятельном сбросе пароля, см. статью [Сброс паролей Microsoft 365 для бизнеса](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-Служба не позволяет пользователю отправлять электронную почту после обнаружения свидетельств компрометации учетной записи и/или исходящего спама. В качестве меры предосторожности следуйте инструкциям по [реагированию на компрометацию учетной записи электронной почты в Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) для пользователя.
+Служба не позволяет пользователю отправлять электронную почту после обнаружения свидетельств компрометации учетной записи и/или исходящего спама. В качестве меры предосторожности следуйте инструкциям по [реагированию на компрометацию учетной записи электронной почты в Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) для пользователя.
