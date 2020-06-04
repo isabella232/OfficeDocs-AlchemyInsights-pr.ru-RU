@@ -12,10 +12,10 @@ ms.custom:
 - "9000555"
 - "2405"
 ms.openlocfilehash: 970fe688becc30ea1eb644793388a316d1878f30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559422"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>Устранение проблем с синхронизацией OneNote
@@ -24,7 +24,7 @@ ms.locfileid: "36559422"
 
 Если Записная книжка, которая не синхронизируется, хранится в OneDrive или более поздней версии SharePoint, попробуйте открыть записную книжку в OneNote для Интернета (по адресу www.onenote.com). Это может помочь определить, вызвана ли проблема сервером или приложением OneNote.
 
-1. В OneNote нажмите кнопку **** > **сведения о**файле.
+1. В OneNote нажмите кнопку **File**  >  **сведения о**файле.
 
 2. Щелкните правой кнопкой мыши URL-адрес, показанный под именем затронутой записной книжки, и выберите команду **Копировать**.
 
