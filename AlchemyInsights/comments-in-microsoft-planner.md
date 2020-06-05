@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 5895b1f94325946ab165b97b68848068df1a81c2
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911233"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563334"
 ---
 # <a name="comments-in-microsoft-planner"></a>Комментарии в Microsoft Planner
 
@@ -32,4 +32,4 @@ ms.locfileid: "43911233"
 
 - **Удаленные пользователи получают электронные письма** - если пользователь комментирует задачу до того, как ее удаляют из плана, в ветку электронной почты включается пользователь для каждого комментария к задаче.
 
-Для получения подробной информации о комментариях с помощью Microsoft Planner, посмотрите, [как работает Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) и [Комментируйте задачи в Microsoft Planner](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).
+Для получения подробной информации о комментариях с помощью Microsoft Planner, посмотрите, [как работает Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) и [Комментируйте задачи в Microsoft Planner](https://support.microsoft.com/office/fd4aedde-7785-4cd0-96ee-122fbc9140e1).
