@@ -13,18 +13,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: a8305e6f089251077400f2b727539615cf6165af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0cb5595513d8ade82782269c20e0173b2e7e7471
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722751"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582428"
 ---
-# <a name="repeated-sign-in-prompts-in-office-apps"></a><span data-ttu-id="bc6f1-102">Повторяющиеся приглашения при входе в приложения Office</span><span class="sxs-lookup"><span data-stu-id="bc6f1-102">Repeated sign-in prompts in Office apps</span></span>
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a><span data-ttu-id="879ee-102">Повторяющиеся приглашения при входе в приложения Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="879ee-102">Repeated sign-in prompts in Microsoft 365 apps</span></span>
 
-<span data-ttu-id="bc6f1-103">Для устранения повторяющихся приглашений при входе в приложения Office обратитесь к разделу:</span><span class="sxs-lookup"><span data-stu-id="bc6f1-103">To troubleshoot repeated sign-in prompts in Office apps, see:</span></span>
+<span data-ttu-id="879ee-103">Устранение неповторяющихся приглашений при входе в приложения Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="879ee-103">To troubleshoot repeated sign-in prompts in Microsoft 365 apps, see:</span></span>
 
-- [<span data-ttu-id="bc6f1-104">Устранение неполадок в приложениях, не являющихся браузерами, которые не могут войти в Microsoft 365, Azure или Intune</span><span class="sxs-lookup"><span data-stu-id="bc6f1-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- [<span data-ttu-id="bc6f1-105">"Отказано в доступе", или при подключении к Microsoft 365 пользователю повторно запрашиваются учетные данные</span><span class="sxs-lookup"><span data-stu-id="bc6f1-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [<span data-ttu-id="bc6f1-106">Для федеративного пользователя при входе в Microsoft 365, Azure или Intune периодически запрашиваются учетные данные.</span><span class="sxs-lookup"><span data-stu-id="bc6f1-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [<span data-ttu-id="879ee-104">Устранение неполадок в приложениях, не являющихся браузерами, которые не могут войти в Microsoft 365, Azure или Intune</span><span class="sxs-lookup"><span data-stu-id="879ee-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- [<span data-ttu-id="879ee-105">"Отказано в доступе", или при подключении к Microsoft 365 пользователю повторно запрашиваются учетные данные</span><span class="sxs-lookup"><span data-stu-id="879ee-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [<span data-ttu-id="879ee-106">Для федеративного пользователя при входе в Microsoft 365, Azure или Intune периодически запрашиваются учетные данные.</span><span class="sxs-lookup"><span data-stu-id="879ee-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 

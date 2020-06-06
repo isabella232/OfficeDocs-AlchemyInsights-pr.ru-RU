@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: d1c25bb283def13524b1dcd19d0c746ee32c4e11
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: 914e07fd69523005fbd777d3c05c9cf1a8beb01c
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38711996"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581352"
 ---
-# <a name="fixing-the-office-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a><span data-ttu-id="5b4f9-102">Исправление приложений Office "доверенный платформенный модуль вашего компьютера не работает должным образом" сообщение</span><span class="sxs-lookup"><span data-stu-id="5b4f9-102">Fixing the Office apps "Your computer's Trusted Platform module is not functioning properly" message</span></span>
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a><span data-ttu-id="6093b-102">Исправление приложений Microsoft 365 "доверенный платформенный модуль вашего компьютера не работает должным образом" сообщение</span><span class="sxs-lookup"><span data-stu-id="6093b-102">Fixing the Microsoft 365 apps "Your computer's Trusted Platform module is not functioning properly" message</span></span>
 
-<span data-ttu-id="5b4f9-103">Чтобы устранить эту ошибку, попробуйте выполнить следующие действия.</span><span class="sxs-lookup"><span data-stu-id="5b4f9-103">To fix this error, try the following:</span></span>
+<span data-ttu-id="6093b-103">Чтобы устранить эту ошибку, попробуйте выполнить следующие действия.</span><span class="sxs-lookup"><span data-stu-id="6093b-103">To fix this error, try the following:</span></span>
 
-1. <span data-ttu-id="5b4f9-104">Откройте приложение Office и [выйдите](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) из существующих учетных записей пользователей.</span><span class="sxs-lookup"><span data-stu-id="5b4f9-104">Open an Office app, and [sign out](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>   
-2. <span data-ttu-id="5b4f9-105">Использование учетных записей & учетных записей для**учетных** > записей**электронной почты**с **параметрами** > Windows удалите существующие рабочие записи.</span><span class="sxs-lookup"><span data-stu-id="5b4f9-105">Using Windows **Settings** > **Accounts** > **Email & accounts**, remove existing work accounts.</span></span> 
-3. <span data-ttu-id="5b4f9-106">Использование**учетных записей** >  **настроек** > Windows для**доступа к работе или учебному заведению**отключите существующие учетные записи.</span><span class="sxs-lookup"><span data-stu-id="5b4f9-106">Using Windows **Settings** > **Accounts** > **Access work or school**, disconnect existing accounts.</span></span> 
-4. <span data-ttu-id="5b4f9-107">Сбросьте состояние активации Office.</span><span class="sxs-lookup"><span data-stu-id="5b4f9-107">Reset Office activation state.</span></span> <span data-ttu-id="5b4f9-108">[Инструкции.](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
-)</span><span class="sxs-lookup"><span data-stu-id="5b4f9-108">[Learn how](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+1. <span data-ttu-id="6093b-104">Откройте приложение Office и [выйдите](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) из существующих учетных записей пользователей.</span><span class="sxs-lookup"><span data-stu-id="6093b-104">Open an Office app, and [sign out](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>   
+2. <span data-ttu-id="6093b-105">Использование учетных записей & учетных записей для **Settings**  >  **учетных**записей  >  **электронной почты**с параметрами Windows удалите существующие рабочие записи.</span><span class="sxs-lookup"><span data-stu-id="6093b-105">Using Windows **Settings** > **Accounts** > **Email & accounts**, remove existing work accounts.</span></span> 
+3. <span data-ttu-id="6093b-106">Использование **Settings**  >  **учетных записей**настроек Windows для  >  **доступа к работе или учебному заведению**отключите существующие учетные записи.</span><span class="sxs-lookup"><span data-stu-id="6093b-106">Using Windows **Settings** > **Accounts** > **Access work or school**, disconnect existing accounts.</span></span> 
+4. <span data-ttu-id="6093b-107">Сбросьте состояние активации Office.</span><span class="sxs-lookup"><span data-stu-id="6093b-107">Reset Office activation state.</span></span> <span data-ttu-id="6093b-108">[Инструкции.](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+)</span><span class="sxs-lookup"><span data-stu-id="6093b-108">[Learn how](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).</span></span>
-5. <span data-ttu-id="5b4f9-109">Попытайтесь выполнить [процесс восстановления пользователей](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) , чтобы исправить ошибки ДОВЕРЕНного платформенного модуля.</span><span class="sxs-lookup"><span data-stu-id="5b4f9-109">Try the [user recovery process](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) to fix Trusted Platform Module (TPM) failures.</span></span>
+5. <span data-ttu-id="6093b-109">Попытайтесь выполнить [процесс восстановления пользователей](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) , чтобы исправить ошибки ДОВЕРЕНного платформенного модуля.</span><span class="sxs-lookup"><span data-stu-id="6093b-109">Try the [user recovery process](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) to fix Trusted Platform Module (TPM) failures.</span></span>
