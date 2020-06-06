@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000185
 ms.assetid: ''
-ms.openlocfilehash: 9f67a53adfce49c2823767a9c1dca273d9bc1a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: baec4baff6d3a7e13c15815cd413394e057428be
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743358"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582032"
 ---
 # <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Не удается изменить поле "Заметки" для контакта в Outlook
 Это известная проблема. Мы работаем над устранением этой проблемы, и состояние будет Обновлено в [поле заметки контакта, которое не может](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)быть изменено.

@@ -1,5 +1,5 @@
 ---
-title: 'Ошибка приложений Office: в приложении возникла ошибка, препятствующая его правильной работе.'
+title: 'Microsoft 365 приложения ошибка: в приложении возникла ошибка, препятствующая его правильной работе.'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886575"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576825"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Ошибка приложений Office: в приложении возникла ошибка, препятствующая его правильной работе.
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Microsoft 365 приложения ошибка: в приложении возникла ошибка, препятствующая его правильной работе.
 
 Чтобы устранить эту ошибку, попробуйте выполнить следующие действия:
 
@@ -29,8 +29,8 @@ ms.locfileid: "40886575"
 
 **Примечание:** Если проблема возникает с определенными документами, эти документы могут быть повреждены. Узнайте [, как устранять неполадки с поврежденными документами](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 
-Дополнительные сведения см. в статье: 
+Дополнительные сведения см. в указанных ниже статьях. 
 
-- [Ошибка при открытии приложений Microsoft Office](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Ошибка при открытии приложений Microsoft 365](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [При запуске приложений Office на компьютере появляется сообщение об ошибке "остановка работы"](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Устранение неполадок, возникающих при запуске или использовании приложений Office](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Устранение неполадок, возникающих при запуске или использовании приложений Microsoft 365](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

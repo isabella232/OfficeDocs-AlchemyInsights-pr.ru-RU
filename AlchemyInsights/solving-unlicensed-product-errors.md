@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512025"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582752"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Предложения по устранению ошибок "нелицензированный продукт"
 
@@ -26,7 +26,7 @@ ms.locfileid: "44512025"
 - Убедитесь, что у вас есть подписка на клиентские лицензии, такие как Microsoft 365 Apps для бизнеса или бизнес премиум, и [Убедитесь, что у пользователя есть назначенная лицензия](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Убедитесь, что пользователь вошел в Office с той же учетной записью, которой назначена лицензия.
 - Проверьте [страницу работоспособности службы](https://docs.microsoft.com/office365/enterprise/view-service-health) , чтобы проверить наличие известных проблем со службой.
-- Проверьте брандмауэр, антивирусное программное обеспечение и параметры прокси-сервера, чтобы убедиться, что они не блокируют доступ приложений Office к Интернету. Просмотр [URL-адресов и диапазонов IP-адресов](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Проверьте брандмауэр, антивирусное программное обеспечение и параметры прокси-сервера, чтобы убедиться, что они не блокируют доступ приложений Microsoft 365 к Интернету. Просмотр [URL-адресов и диапазонов IP-адресов](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Вы также можете попробовать выполнить следующие действия по устранению неполадок: 
 

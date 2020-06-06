@@ -1,5 +1,5 @@
 ---
-title: Проблемы с входом в приложения Office
+title: Проблемы с входом в приложения Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 08bb0a94066f071f2ba0e9c54378f0d479191496
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4658b4df8a48072b4cc9d72bf503d7911bb5126b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938319"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579914"
 ---
-# <a name="blank-sign-in-screen-in-office-apps"></a>Пустой экран входа в приложения Office
+# <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Пустой экран входа в приложения Microsoft 365
 
 Чтобы устранить эту проблему, попробуйте выполнить следующие действия:
 - Установите последние обновления для [Windows](https://support.microsoft.com/help/4027667/windows-10-update) и [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- Сброс параметров Internet Explorer: Откройте **меню Сервис** > **Параметры** > Internet Explorer**Дополнительно** > **сбросить параметры Internet Explorer** (Обратите внимание, что настраиваемые параметры будут утрачены), а затем попробуйте войти в Office снова.
+- Сброс параметров Internet Explorer: Откройте **меню Сервис**  >  **параметры Internet**  >  **Advanced**  >  **Explorer дополнительно сбросить параметры Internet Explorer** (Обратите внимание, что настраиваемые параметры будут утрачены), а затем попробуйте войти в Office снова.
 - Отключите приложение Application Guard в Защитнике Windows (ВДАГ) или аналогичное брандмауэр или антивирусную программу:
     1. В панели управления откройте раздел **программы**, а затем выберите пункт **Включение или отключение компонентов Windows**.
     2. Если включено Application Guard в Защитнике Windows, попробуйте отключить его.<br/>

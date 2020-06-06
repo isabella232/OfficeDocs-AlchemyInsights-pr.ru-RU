@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716185"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581888"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Устранение неполадок в приложениях Office "сообщение не удается подключиться прямо сейчас"
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Устранение неполадок приложений Microsoft 365 "сообщение о невозможности подключиться прямо сейчас"
 
 Если вы получили это сообщение, попробуйте следующее:
 
-1. Проверьте брандмауэр, антивирусное программное обеспечение и параметры прокси-сервера, чтобы убедиться, что они не блокируют доступ к приложениям Office через Интернет. См.: [URL-адреса и диапазоны IP-адресов](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Проверьте брандмауэр, антивирусное программное обеспечение и параметры прокси-сервера, чтобы убедиться, что они не блокируют Интернет-доступ к приложениям Microsoft 365. См.: [URL-адреса и диапазоны IP-адресов](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. В меню **Start** > **"** Пуск" выберите команду **Services. msc**. Убедитесь, что запущены следующие службы:
+2. В меню " **Пуск**" выберите команду  >  **Run** **Services. msc**. Убедитесь, что запущены следующие службы:
     - Автоматическая установка подключенных к сети устройств
     - Служба списка сетей
     - Служба сетевого расположения

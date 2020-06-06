@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 9a40f52637bc8aa7894754118f0f862aa6c71fe2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43913015"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582788"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Устранение неполадок при совместном использовании контента SharePoint с внешними пользователями
 
@@ -32,7 +32,7 @@ ms.locfileid: "43913015"
     
 2. Выберите сайт или сайты, а затем на ленте щелкните **общий доступ**.
     
-Для сайта группы, принадлежащего к группе Microsoft 365 или информационному сайту:
+Для сайта группы, который принадлежит к группе Microsoft 365, или к информационному сайту:
   
 - Эти новые типы сайтов имеют те же параметры общего доступа, что и настройка всей Организации, за исключением случаев, когда настройка уровня организации позволяет предоставлять общий доступ к файлам с помощью ссылок, не требующих входа в систему. В этом случае сайты разрешают общий доступ новым и существующим внешним пользователям, которые входят в систему. Чтобы изменить параметр для определенных сайтов, используйте новый центр администрирования SharePoint или PowerShell. [Подробнее](https://go.microsoft.com/fwlink/?linkid=871863).
     

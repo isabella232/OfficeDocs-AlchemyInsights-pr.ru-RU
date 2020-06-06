@@ -12,12 +12,12 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a1420596c2859fe163e991a9db1fe88039b01f36
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762078"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579662"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>Бесплатный выпуск Minecraft с Office 365 для образовательных учреждений
 
@@ -29,7 +29,7 @@ ms.locfileid: "43762078"
 
   - Если в вашем учебном заведении нет клиента Azure AD, [ИТ – администратор может настроить его](https://docs.microsoft.com/education/windows/school-get-minecraft) как часть процесса получения **Minecraft: образовательных выпусков**.
 
-  - Office 365 для образовательных учреждений, который включает в себя Интернет-версии приложений Office и 1 ТБ в Интернет-хранилище, бесплатно для преподавателей и учащихся. [Зарегистрируйтесь в вашем учебном заведении для Office 365 для образовательных учреждений](https://products.office.com/academic/office-365-education-plan).
+  - Office 365 для образовательных учреждений, который включает в себя Интернет-версии приложений Microsoft 365 и 1 ТБ в Интернет-хранилище, бесплатно для преподавателей и учащихся. [Зарегистрируйтесь в вашем учебном заведении для Office 365 для образовательных учреждений](https://products.office.com/academic/office-365-education-plan).
 
   - Если в вашем учебном заведении есть подписка на Office 365 для образовательных учреждений, она включает бесплатную подписку на Azure AD. [Зарегистрируйте свою бесплатную подписку на Azure AD](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 

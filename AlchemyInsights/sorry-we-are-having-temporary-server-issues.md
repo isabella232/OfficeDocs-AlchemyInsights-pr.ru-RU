@@ -1,5 +1,5 @@
 ---
-title: Устранение неполадок в приложениях Office. сообщение о наличии временных проблем с сервером
+title: Устранение неполадок приложений Microsoft 365. у нас возникли проблемы с временным сервером
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764130"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582716"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Сообщение об исправлении приложений Office "возникли проблемы с временным сервером"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Устранение проблемы с приложениями Microsoft 365: сообщение "проблемы с временным сервером"
 
 Если вы получили это сообщение, попробуйте следующее:
 
-1. Проверьте брандмауэр, антивирусное программное обеспечение и параметры прокси-сервера, чтобы убедиться, что они не блокируют доступ к приложениям Office через Интернет. Просмотр [URL-адресов и диапазонов IP-адресов](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Проверьте брандмауэр, антивирусное программное обеспечение и параметры прокси-сервера, чтобы убедиться, что они не блокируют Интернет-доступ к приложениям Microsoft 365. Просмотр [URL-адресов и диапазонов IP-адресов](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. В меню **Start** > **"** Пуск" выберите команду **Services. msc**. Убедитесь, что запущены следующие службы:
+2. В меню " **Пуск**" выберите команду  >  **Run** **Services. msc**. Убедитесь, что запущены следующие службы:
     - Автоматическая установка подключенных к сети устройств
     - Служба списка сетей
     - Служба сетевого расположения
