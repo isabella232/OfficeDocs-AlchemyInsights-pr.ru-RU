@@ -13,20 +13,20 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: ddb9ffb2f6545e99a593ee830854f986438950cd
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 34593fbe80f11c9b4e1d10d3e1dbe5ff79602299
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010848"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617987"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams, установленные с обновлениями Office
 
 Microsoft Teams входит в состав ***новых установок*** приложений Microsoft 365 для корпоративных приложений, Майкрософт 365 для бизнеса и Office для Mac. Дополнительные сведения о том, [когда будет запущено приложение Microsoft Teams, будет включено в новые установки Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Кроме того, начиная с версии 1906 в месячном канале, Teams постепенно будет добавляться к ***существующим установкам*** приложений Microsoft 365 для предприятий (и приложений Microsoft 365 для бизнеса) на устройствах под управлением Windows, когда вы обновите текущую установку до последней версии. Дополнительные сведения [о существующих установках Office](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Кроме того, начиная с версии 1906 в текущем канале, Teams постепенно будет добавляться к ***существующим установкам*** приложений Microsoft 365 для предприятий (и приложений Microsoft 365 для бизнеса) на устройствах под управлением Windows, когда вы обновите текущую установку до последней версии. Дополнительные сведения [о существующих установках Office](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**Примечание:** Если вы не хотите ждать этого расписания развертывания, вы можете развернуть Teams как самостоятельный для пользователей, [выполнив указанные ниже инструкции](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), или пользователи смогут установить Teams самостоятельно https://teams.microsoft.com/downloads.
+**Примечание:** Если вы не хотите ждать этого расписания развертывания, вы можете развернуть Teams как самостоятельный для пользователей, [выполнив указанные ниже инструкции](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), или пользователи смогут установить Teams самостоятельно https://teams.microsoft.com/downloads .
 
 Если ваша организация не готова к развертыванию Teams, вы можете ***исключить Teams*** из [новых](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) или [существующих](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) экземпляров Office. Если вы хотите установить Teams, но не хотите, чтобы команда автоматически запускалась для пользователя после установки, ознакомьтесь со статьей [запретить автоматический запуск Microsoft Teams после установки](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
