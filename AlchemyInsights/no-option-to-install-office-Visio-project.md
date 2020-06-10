@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: e071894314c349ac574d00c6c13a39b23a4fce16
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010159"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44577005"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Отсутствует возможность установки Office, Visio или Project
 
@@ -24,7 +24,7 @@ ms.locfileid: "44010159"
 
 **Примечание**. [Office для дома и бизнеса](https://products.office.com/home-and-business) — это продукт [Office для дома](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), который не входит в подписку для бизнеса. Project Online базовый не включает классическую версию Project, поэтому установка не требуется. Пользователи плана 1 Visio получают доступ к Visio в Интернете, поскольку в этот план не входит классическое приложение Visio. Классические приложения Project и Visio недоступны на компьютерах Mac
 
-Если у вас есть подписка, включающая приложения Office, у вас не будет отображаться возможность установки при отсутствии [назначенной лицензии](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Если вы являетесь администратором Office 365, ответственным за назначение лицензий, см. статью [Назначение лицензий пользователям](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Если у вас есть подписка, включающая приложения Microsoft 365, вариант установки не отображается при отсутствии [назначенной лицензии](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Если вы являетесь администратором Office 365, ответственным за назначение лицензий, см. статью [Назначение лицензий пользователям](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 
 Каждому пользователю необходимо выполнить указанные ниже действия.

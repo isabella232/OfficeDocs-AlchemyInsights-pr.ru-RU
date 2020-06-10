@@ -1,5 +1,5 @@
 ---
-title: Активация приложений Office
+title: Активация приложений Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 192153f10d7f2267dc8ce86a6f455dc3bca55402
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 757366de236d84ad67cbef892abb241dd48aa2c5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682561"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581424"
 ---
-# <a name="activating-office-apps"></a>Активация приложений Office
+# <a name="activating-microsoft-365-apps"></a>Активация приложений Microsoft 365
 
 Сведения об активации Office см. в следующих статьях:
 
@@ -28,11 +28,12 @@ ms.locfileid: "43682561"
 
 Сведения об устранении проблем с активацией Office см. в следующих статьях:
 
+- Запустите [средство устранения неполадок активации](https://aka.ms/SARA-OfficeActivation-Alchemy) и перезапустите компьютер.
 - [Ошибки, связанные с нелицензированным продуктом и активацией Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [Что делать, если не удается установить или активировать Office для Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-Если недавно вы сменили учетную запись или подписку Office, выполните указанные ниже действия, чтобы устранить проблемы с активацией.
+Если вам не удается войти в приложения Microsoft 365, выполните указанные ниже действия.
 
 1. Откройте приложение Office и [выйдите](https://go.microsoft.com/fwlink/?linkid=2114082) из существующих учетных записей пользователей.
 
