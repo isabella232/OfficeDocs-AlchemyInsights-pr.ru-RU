@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021511"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702219"
 ---
 # <a name="teams-outlook-add-in"></a>Надстройка Outlook для Teams
 
-Существует несколько факторов, которые могут привести к тому, что надстройка Teams не будет отображаться и все они перечислены [здесь](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Чтобы устранить неполадки с отсутствующей надстройкой Teams для Outlook, сначала обязательно запустите диагностику службы на портале администрирования.  Если Диагностика службы указывает на отсутствие проблем, перейдите к разделу Загрузка и запуск **надстройки** [помощника по поддержке и восстановлению Microsoft](https://aka.ms/SaRA-TeamsAddInScenario) Outlook на компьютерах, подверженных уязвимости, чтобы выявить и устранить проблемы с клиентом.
 
-**Рекомендуем сначала убедиться, что надстройка не отключена:**
-
-- В Outlook щелкните **файл** , а затем **Параметры**.
-- **На вкладке "** надстройки" диалогового окна " **Параметры Outlook** ".
-- Убедитесь, что **надстройка "собрание Microsoft Teams для Microsoft Office** " указана в списке **активные приложения-надстройки** .
-- Если надстройка "собрание Teams" указана в списке **Отключенные** надстройки приложений, выберите надстройки **com** в разделе **Управление** и нажмите кнопку **Перейти...**
-- Установите флажок рядом с пунктом " **собрание Microsoft Teams" для Microsoft Office**.
-- Нажмите кнопку **ОК** в диалоговых окнах и перезапустите Outlook.
+Чтобы вручную устранить эту проблему, просмотрите список потенциальных факторов, которые могут привести к тому, что надстройка Teams [не появится в списке.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
