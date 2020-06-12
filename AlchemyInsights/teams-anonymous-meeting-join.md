@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 7424910b6d0ed41e3e1ad8cdcddd9a7ac10d2399
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: a0875af2713e5bc4f36f28227f35ce8dc6ac3a26
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474665"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667825"
 ---
 # <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Разрешить или запретить анонимным пользователям присоединяться к собраниям Teams
 
 Параметрами анонимного присоединения к собраниям можно управлять в Центре администрирования Teams.
 
-1.  Перейдите в Центр администрирования по адресу: [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
+1.  Перейдите в [Центр администрирования Teams](https://admin.teams.microsoft.com)
 2.  В области навигации слева выберите **Собрания**  >  **Параметры собрания**.
 3.  В разделе **Участники** включите **Анонимные пользователи могут присоединиться к собранию**.
