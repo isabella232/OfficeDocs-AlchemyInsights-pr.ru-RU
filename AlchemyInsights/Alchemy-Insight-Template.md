@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
+ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676546"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "44750983"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Обязательный заголовок Алчеми H1, H2's не работают.
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Обязательный заголовок Алчеми H1, H2's не работает".
 Рекомендации и рекомендации по разработке Алчеми:
 
 1. **Не публикуйте алчеми Insights в папках**, так как это приведет к нарушению структуры URL-адресов. Мы хотим устранить эту ошибку.
