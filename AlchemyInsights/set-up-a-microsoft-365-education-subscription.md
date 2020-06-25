@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915140"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841012"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Настройка подписки на Microsoft 365 для образования
 
@@ -24,6 +24,5 @@ ms.locfileid: "43915140"
 
 **Другие полезные ресурсы**
 
-- Обзор см. в статье [Настройка клиента Office 365 для образования](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
-- Сведения для ИТ-администраторов, разработчиков и партнеров см. в статье [Начало работы с Microsoft 365 для образования](https://docs.microsoft.com/education/). 
-- [Связывание учетной записи Microsoft Store с Intune для образовательных учреждений](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education). 
+- Обзор см. в статье [Создание учетной записи клиента Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant).
+- Сведения для ИТ-администраторов, разработчиков и партнеров см. в статье [Начало работы с Microsoft 365 для образования](https://docs.microsoft.com/education/).

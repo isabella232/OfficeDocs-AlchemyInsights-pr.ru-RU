@@ -12,15 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278833"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840918"
 ---
 # <a name="cannot-access-sharepoint"></a>Не удается получить доступ к SharePoint
 
-Существует несколько причин, по которым Microsoft SharePoint или Microsoft OneDrive могут стать недоступными. Если вы не можете получить доступ к SharePoint Online, используйте следующее руководство для устранения этой проблемы.
+Существует несколько причин, по которым SharePoint или OneDrive могут стать недоступными. Если вы не можете получить доступ к SharePoint или OneDrive, используйте следующее руководство для устранения этой проблемы.
 
-- [Невозможно получить доступ к SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [Не удается получить доступ к SharePoint или OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
