@@ -2,7 +2,7 @@
 title: Устранение неполадок при синхронизации паролей
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,51 +13,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 54b5a033b7cbb99520425b31800364ed4a99a4e6
+ms.sourcegitcommit: 1d01b8b48eef2d5d10c375dcf802cd36e9d6bf61
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732523"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45387890"
 ---
-# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="f65c8-102">Устранение неполадок при синхронизации паролей</span><span class="sxs-lookup"><span data-stu-id="f65c8-102">Troubleshoot password synchronization</span></span>
+# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="25856-102">Устранение неполадок при синхронизации паролей</span><span class="sxs-lookup"><span data-stu-id="25856-102">Troubleshoot password synchronization</span></span>
 
-<span data-ttu-id="f65c8-103">Устранение неполадок, в которых не синхронизируются пароли с Azure AD Connect версии 1.1.614.0 или более поздней.</span><span class="sxs-lookup"><span data-stu-id="f65c8-103">To troubleshoot issues where no passwords are synchronized with Azure AD Connect version 1.1.614.0 or later:</span></span>
-  
-1. <span data-ttu-id="f65c8-104">Откройте новый сеанс Windows PowerShell на сервере Azure AD Connect с параметром **Запуск от имени администратора** .</span><span class="sxs-lookup"><span data-stu-id="f65c8-104">Open a new Windows PowerShell session on your Azure AD Connect server with the **Run as Administrator** option.</span></span>
+<span data-ttu-id="25856-103">Чтобы устранить проблемы с синхронизацией паролей, начните с использования этой задачи по устранению неполадок подключения AAD, чтобы определить причину, по которой не синхронизируются пароли.</span><span class="sxs-lookup"><span data-stu-id="25856-103">To troubleshoot password synchronization issues, start by using this AAD Connect troubleshooting task to determine why passwords are not syncing.</span></span> <span data-ttu-id="25856-104">Чтобы начать, перейдите к разделу [Управление прямой синхронизацией](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).</span><span class="sxs-lookup"><span data-stu-id="25856-104">To begin, go to [Manage direct sync](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).</span></span>  
 
-2. <span data-ttu-id="f65c8-105">Выполните командлет **Set — ExecutionPolicy RemoteSigned** или **Set/ExecutionPolicy Unrestricted**.</span><span class="sxs-lookup"><span data-stu-id="f65c8-105">Run **Set-ExecutionPolicy RemoteSigned** or **Set-ExecutionPolicy Unrestricted**.</span></span>
+1. <span data-ttu-id="25856-105">Откройте новый сеанс Windows PowerShell на сервере Azure AD Connect и выберите пункт **Запуск от имени администратора** .</span><span class="sxs-lookup"><span data-stu-id="25856-105">Open a new Windows PowerShell session on your Azure AD Connect server, and select the **Run as Administrator** option.</span></span>
 
-3. <span data-ttu-id="f65c8-106">Запустите мастер Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="f65c8-106">Start the Azure AD Connect wizard.</span></span>
+2. <span data-ttu-id="25856-106">Выполните командлет Set — ExecutionPolicy RemoteSigned или Set/ExecutionPolicy Unrestricted.</span><span class="sxs-lookup"><span data-stu-id="25856-106">Run Set-ExecutionPolicy RemoteSigned or Set-ExecutionPolicy Unrestricted.</span></span>
 
-4. <span data-ttu-id="f65c8-107">Перейдите на страницу **Дополнительные задачи** , выберите **Устранение неполадок**и нажмите кнопку **Далее**.</span><span class="sxs-lookup"><span data-stu-id="f65c8-107">Navigate to the **Additional Tasks** page, select **Troubleshoot**, and click **Next**.</span></span>
+3. <span data-ttu-id="25856-107">Запустите мастер Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="25856-107">Start the Azure AD Connect wizard.</span></span>
 
-5. <span data-ttu-id="f65c8-108">На странице Устранение неполадок нажмите кнопку **запустить, чтобы запустить меню устранение неполадок** в PowerShell.</span><span class="sxs-lookup"><span data-stu-id="f65c8-108">On the Troubleshooting page, click **Launch to start the troubleshooting** menu in PowerShell.</span></span>
+4. <span data-ttu-id="25856-108">Перейдите на страницу дополнительные задачи > " **Устранение неполадок**"  >  **Next**.</span><span class="sxs-lookup"><span data-stu-id="25856-108">Go to the Additional Tasks page > **Troubleshoot** > **Next**.</span></span>
 
-6. <span data-ttu-id="f65c8-109">В главном меню выберите пункт **Устранение неполадок синхронизации паролей**.</span><span class="sxs-lookup"><span data-stu-id="f65c8-109">In the main menu, select **Troubleshoot Password Synchronization**.</span></span>
+5. <span data-ttu-id="25856-109">Нажмите кнопку **запустить** , чтобы открыть меню устранение неполадок PowerShell.</span><span class="sxs-lookup"><span data-stu-id="25856-109">Select **Launch** to open the PowerShell troubleshooting menu.</span></span>
 
-7. <span data-ttu-id="f65c8-110">Во вложенном меню выберите пункт **Синхронизация паролей не работает**.</span><span class="sxs-lookup"><span data-stu-id="f65c8-110">In the sub menu, select **Password Synchronization does not work at all**.</span></span>
+6. <span data-ttu-id="25856-110">Выберите пункт **Устранение неполадок при синхронизации паролей**.</span><span class="sxs-lookup"><span data-stu-id="25856-110">Select **Troubleshoot Password Synchronization**.</span></span>
 
-<span data-ttu-id="f65c8-111">**Общие сведения о результатах задачи "Устранение неполадок"**</span><span class="sxs-lookup"><span data-stu-id="f65c8-111">**Understand the results of the troubleshooting task**</span></span>
-  
-<span data-ttu-id="f65c8-112">Задача по устранению неполадок выполняет следующие проверки:</span><span class="sxs-lookup"><span data-stu-id="f65c8-112">The troubleshooting task performs the following checks:</span></span>
-  
-- <span data-ttu-id="f65c8-113">Проверка включения функции синхронизации паролей для клиента Azure AD.</span><span class="sxs-lookup"><span data-stu-id="f65c8-113">Validates that the password synchronization feature is enabled for your Azure AD tenant.</span></span>
+    <span data-ttu-id="25856-111">Эта ошибка обычно заключается в том, что пароль не синхронизируется для конкретной учетной записи пользователя.</span><span class="sxs-lookup"><span data-stu-id="25856-111">The issue is usually that a password is not synchronized for a specific user account.</span></span>
 
-- <span data-ttu-id="f65c8-114">Проверяет, находится ли сервер Azure AD Connect в режиме промежуточного хранения.</span><span class="sxs-lookup"><span data-stu-id="f65c8-114">Validates that the Azure AD Connect server is not in staging mode.</span></span>
+    <span data-ttu-id="25856-112">**Примечания** Если время последней успешной синхронизации пароля прошло некоторое время, синхронизация паролей завершается с ошибкой назад.</span><span class="sxs-lookup"><span data-stu-id="25856-112">**Notes** Password synchronization fails if the last successful password sync was some time ago.</span></span>
 
-- <span data-ttu-id="f65c8-115">Для каждого существующего локального соединителя Active Directory (соответствующего существующему лесу Active Directory):</span><span class="sxs-lookup"><span data-stu-id="f65c8-115">For each existing on-premises Active Directory connector (which corresponds to an existing Active Directory forest):</span></span>
-
-- 
-  - <span data-ttu-id="f65c8-116">Проверяет, включена или отключена функция синхронизации паролей.</span><span class="sxs-lookup"><span data-stu-id="f65c8-116">Validates that the password synchronization feature is enabled.</span></span>
-
-  - <span data-ttu-id="f65c8-117">Выполняет поиск событий пульса синхронизации паролей в журналах событий приложений Windows.</span><span class="sxs-lookup"><span data-stu-id="f65c8-117">Searches for password synchronization heartbeat events in the Windows Application Event logs.</span></span>
-
-  - <span data-ttu-id="f65c8-118">Для каждого домена Active Directory в локальном соединителе Active Directory:</span><span class="sxs-lookup"><span data-stu-id="f65c8-118">For each Active Directory domain under the on-premises Active Directory connector:</span></span>
-
-  - <span data-ttu-id="f65c8-119">Проверяет, достижим ли домен с сервера Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="f65c8-119">Validates that the domain is reachable from the Azure AD Connect server.</span></span>
-
-  - <span data-ttu-id="f65c8-120">Проверка того, что учетные записи доменных служб Active Directory (AD DS), используемые локальным соединителем Active Directory, имеют правильные имя пользователя, пароль и разрешения, необходимые для синхронизации паролей.</span><span class="sxs-lookup"><span data-stu-id="f65c8-120">Validates that the Active Directory Domain Services (AD DS) accounts used by the on-premises Active Directory connector has the correct username, password, and permissions required for password synchronization.</span></span>
-
-<span data-ttu-id="f65c8-121">Дополнительные сведения об устранении неполадок при синхронизации паролей приведены [в разделе Устранение неполадок с синхронизацией паролей с помощью Azure AD Connect Sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span><span class="sxs-lookup"><span data-stu-id="f65c8-121">For more help troubleshooting password sync, see [Troubleshoot password synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span></span>
-  
+<span data-ttu-id="25856-113">Дополнительные сведения об устранении неполадок при синхронизации паролей приведены [в статье Устранение неполадок синхронизации паролей с помощью Azure AD Connect Sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).</span><span class="sxs-lookup"><span data-stu-id="25856-113">For more help troubleshooting password synchronization, see [Troubleshoot password hash synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).</span></span>
