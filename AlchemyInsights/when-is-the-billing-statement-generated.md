@@ -2,8 +2,8 @@
 title: Когда создается выписка выставления счетов?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510405"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431230"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>Когда создается выписка выставления счетов
 
-Каждый месяц вы получите электронное письмо с сообщением о том, что новая выписка выставления счетов доступна в центре администрирования Microsoft 365. Счет содержит две страницы. Страница 1 включает общие сведения о счете, заказе, сумме к оплате, способах платежа и способах обращения в службу поддержки. Вторая страница содержит сведения о каждой подписке.
+Дата выписки задается на день месяца после создания учетной записи. Например, если вы создали свою учетную запись на 20 января, Дата выписки будет равна 21 для каждого следующего месяца.
+
+Дополнительные расходы, происходящие при активном цикле выставления счетов, включаются в счет за следующий месяц. Даты начала и окончания цикла выставления счетов для каждой накладной перечислены в **сводке по выставлению счетов** по счету.
+
+Кредитная карта и/или банковский счет (где это необходимо) сопоставляются с днем после **даты выставления счета**.
   
-Чтобы узнать больше о концепциях выставления счетов, ознакомьтесь со статьей [сведения о счете](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Чтобы узнать больше, ознакомьтесь со статьей [сведения о счете](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
