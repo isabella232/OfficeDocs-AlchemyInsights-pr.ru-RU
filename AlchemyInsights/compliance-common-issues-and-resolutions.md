@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+ms.openlocfilehash: 0f64207ac9ea2c25106f0339ed2b8080361e8ce4
+ms.sourcegitcommit: 5af184ed3c0f9491e7fcf927e9c78e366f26b540
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231662"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46514987"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Распространенные проблемы соответствия требованиям и их решение
 
@@ -31,5 +31,7 @@ ms.locfileid: "43231662"
 - Аудит в O365. [Поиск по журналу аудита в O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
 
 - Дополнительные сведения о Защите от потери данных (DLP) см. в статье [Обзор политик защиты от потери данных (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide).
+ 
+- Дополнительные сведения о метках конфиденциальности см. в статье [Создание и настройка меток конфиденциальности и соответствующих политик](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
 
 **Примечание**. Для получения более точного ответа о возникшей проблеме с соблюдением требований попробуйте кратко переформулировать свой вопрос, указав все появляющиеся сообщения об ошибках или используемые функции.
