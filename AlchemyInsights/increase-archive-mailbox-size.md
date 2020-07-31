@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508821"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522856"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Увеличение размера архивного почтового ящика
+
+
+Если вы хотите, чтобы мы выполняли автоматические проверки для указанных ниже параметров, нажмите кнопку "назад" <--в верхней части этой страницы, а затем введите адрес электронной почты пользователя, для которого требуется увеличить размер архивного почтового ящика.
 
 Microsoft 365 [ограничит](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) размер архивных почтовых ящиков на основе лицензии, назначенной учетной записи пользователя. Когда архивный почтовый ящик достигает 90% от разрешенного размера, пользователь получает уведомление по электронной почте. Если размер архивного почтового ящика достигает предела, пользователь не может переместить элементы в архивный почтовый ящик. Microsoft 365 не приводит к увеличению размера архивного почтового ящика по достижении предельного размера. Вместо этого пользователи могут выполнить следующие действия, чтобы освободить место в архивном почтовом ящике:
 
