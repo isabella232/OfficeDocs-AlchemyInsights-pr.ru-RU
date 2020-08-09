@@ -13,15 +13,21 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebc5d8fd2725103b7cfd242a7f5deacb183e45bb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a5719e9e31be57eaa8fd76727796053827de084
+ms.sourcegitcommit: 68aef37cb0188f79fe3c530f2bb0a63e3e6faad8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708988"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "46591476"
 ---
 # <a name="admin-roles"></a>Роли администраторов
 
-- Выберите [Роли](https://admin.microsoft.com/Adminportal/Home#/roles) в Центре администрирования, чтобы назначить роли администраторов или получить дополнительные сведения о них.
+- Выберите **Роли** в [Центре администрирования](https://admin.microsoft.com/Adminportal/Home#/roles), чтобы назначить роли администраторов или получить дополнительные сведения о них.
 
-- Затем выберите имена ролей и щелкните **Назначить роль** или **Сравнить роли**, чтобы получить дополнительные сведения.
+- Чтобы узнать больше, выберите название роли в Центре администрирования и щелкните **назначить роль** или** сравнить роли**.
+
+- Чтобы назначить роль, выберите **Активные пользователи** в [Центре администрирования](https://admin.microsoft.com/Adminportal/Home#/users), выберите имя пользователя, а затем выберите **Управление ролями**.
+
+- Чтобы получить дополнительные сведения о роли, нажмите на **i** рядом с ней или см. [сведения о ролях администраторов](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
+
+- Если вам нужна помощь с доступом к существующим учетными записям администраторов, см. [Возвращение в свою учетную запись](https://passwordreset.microsoftonline.com/) или [Сброс пароля администратора](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords#reset-my-admin-password).
