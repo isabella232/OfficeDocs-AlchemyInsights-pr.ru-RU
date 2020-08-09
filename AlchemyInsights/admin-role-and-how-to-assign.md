@@ -13,15 +13,21 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebc5d8fd2725103b7cfd242a7f5deacb183e45bb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a5719e9e31be57eaa8fd76727796053827de084
+ms.sourcegitcommit: 68aef37cb0188f79fe3c530f2bb0a63e3e6faad8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708988"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "46591476"
 ---
-# <a name="admin-roles"></a><span data-ttu-id="d7d9b-102">Роли администраторов</span><span class="sxs-lookup"><span data-stu-id="d7d9b-102">Admin roles</span></span>
+# <a name="admin-roles"></a><span data-ttu-id="3fa51-102">Роли администраторов</span><span class="sxs-lookup"><span data-stu-id="3fa51-102">Admin roles</span></span>
 
-- <span data-ttu-id="d7d9b-103">Выберите [Роли](https://admin.microsoft.com/Adminportal/Home#/roles) в Центре администрирования, чтобы назначить роли администраторов или получить дополнительные сведения о них.</span><span class="sxs-lookup"><span data-stu-id="d7d9b-103">Select [Roles](https://admin.microsoft.com/Adminportal/Home#/roles) in the admin center to assign or learn more about admin roles.</span></span>
+- <span data-ttu-id="3fa51-103">Выберите **Роли** в [Центре администрирования](https://admin.microsoft.com/Adminportal/Home#/roles), чтобы назначить роли администраторов или получить дополнительные сведения о них.</span><span class="sxs-lookup"><span data-stu-id="3fa51-103">To assign or learn more about admin roles, select **Roles** in the [admin center](https://admin.microsoft.com/Adminportal/Home#/roles).</span></span>
 
-- <span data-ttu-id="d7d9b-104">Затем выберите имена ролей и щелкните **Назначить роль** или **Сравнить роли**, чтобы получить дополнительные сведения.</span><span class="sxs-lookup"><span data-stu-id="d7d9b-104">Then select the role name(s) and click **assign role**, or click **compare roles** to learn more.</span></span>
+- <span data-ttu-id="3fa51-104">Чтобы узнать больше, выберите название роли в Центре администрирования и щелкните **назначить роль** или\*\* сравнить роли\*\*.</span><span class="sxs-lookup"><span data-stu-id="3fa51-104">To learn more, in the admin center, select the role name(s) and select **assign role** or **compare roles**.</span></span>
+
+- <span data-ttu-id="3fa51-105">Чтобы назначить роль, выберите **Активные пользователи** в [Центре администрирования](https://admin.microsoft.com/Adminportal/Home#/users), выберите имя пользователя, а затем выберите **Управление ролями**.</span><span class="sxs-lookup"><span data-stu-id="3fa51-105">To assign a role, select **Active Users** in the [admin center](https://admin.microsoft.com/Adminportal/Home#/users), select a user name, and then select  **Manage Roles**.</span></span>
+
+- <span data-ttu-id="3fa51-106">Чтобы получить дополнительные сведения о роли, нажмите на **i** рядом с ней или см. [сведения о ролях администраторов](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="3fa51-106">For more information about a role, click the **i** next to the role, or see [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span></span>
+
+- <span data-ttu-id="3fa51-107">Если вам нужна помощь с доступом к существующим учетными записям администраторов, см. [Возвращение в свою учетную запись](https://passwordreset.microsoftonline.com/) или [Сброс пароля администратора](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords#reset-my-admin-password).</span><span class="sxs-lookup"><span data-stu-id="3fa51-107">If you need help with access to an existing admin account, see [Get back into your account](https://passwordreset.microsoftonline.com/) or [Reset my admin password](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords#reset-my-admin-password).</span></span>
