@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a099b3f056696bebae150fdd5b82e921f928f116
+ms.sourcegitcommit: 3ef4860c2e1918c1ff4009201189a5b77be3454f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509037"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46636706"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="6763e-102">Проверка домена</span><span class="sxs-lookup"><span data-stu-id="6763e-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="502d0-102">Проверка домена</span><span class="sxs-lookup"><span data-stu-id="502d0-102">How to verify your domain</span></span>
 
-<span data-ttu-id="6763e-103">Чтобы проверить домен, необходимо добавить запись TXT в ваш регистратор доменных имен, чтобы убедиться, что вы владеете доменом.</span><span class="sxs-lookup"><span data-stu-id="6763e-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="6763e-104">Для начала следуйте инструкциям [мастера добавления доменов](https://portal.office.com/adminportal/home#/Domains/Wizard) , щелкнув **Setup** " \> **домены**установки" и затем **Добавить домен**.</span><span class="sxs-lookup"><span data-stu-id="6763e-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
-  
-<span data-ttu-id="6763e-105">Следуйте инструкциям в статье [Создание DNS-записей на любом поставщике услуг хостинга DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , чтобы добавить запись TXT для проверки домена.</span><span class="sxs-lookup"><span data-stu-id="6763e-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="502d0-103">Чтобы проверить домен, следуйте указаниям [мастера добавления домена](https://portal.office.com/adminportal/home#/Domains/Wizard)или вручную перейдите к разделам **установки**  >  **Domains**  >  **Добавить домен**.</span><span class="sxs-lookup"><span data-stu-id="502d0-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="6763e-106">Проблемы с другими доменами попробуйте получить [ответы на часто задаваемые вопросы о доменах](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="6763e-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="502d0-104">Для получения дополнительных сведений об изменениях DNS, необходимых для проверки домена, ознакомьтесь со статьями, приведенными в статье [Add DNS Records to Connect The Domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="502d0-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+
+<span data-ttu-id="502d0-105">Вопросы и ответы по другим доменам приведены в статье [вопросы и ответы по доменам](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="502d0-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
