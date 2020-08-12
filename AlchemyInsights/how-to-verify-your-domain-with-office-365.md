@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a099b3f056696bebae150fdd5b82e921f928f116
+ms.sourcegitcommit: 3ef4860c2e1918c1ff4009201189a5b77be3454f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509037"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46636706"
 ---
 # <a name="how-to-verify-your-domain"></a>Проверка домена
 
-Чтобы проверить домен, необходимо добавить запись TXT в ваш регистратор доменных имен, чтобы убедиться, что вы владеете доменом. Для начала следуйте инструкциям [мастера добавления доменов](https://portal.office.com/adminportal/home#/Domains/Wizard) , щелкнув **Setup** " \> **домены**установки" и затем **Добавить домен**.
-  
-Следуйте инструкциям в статье [Создание DNS-записей на любом поставщике услуг хостинга DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , чтобы добавить запись TXT для проверки домена.
+Чтобы проверить домен, следуйте указаниям [мастера добавления домена](https://portal.office.com/adminportal/home#/Domains/Wizard)или вручную перейдите к разделам **установки**  >  **Domains**  >  **Добавить домен**.
 
-Проблемы с другими доменами попробуйте получить [ответы на часто задаваемые вопросы о доменах](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Для получения дополнительных сведений об изменениях DNS, необходимых для проверки домена, ознакомьтесь со статьями, приведенными в статье [Add DNS Records to Connect The Domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+Вопросы и ответы по другим доменам приведены в статье [вопросы и ответы по доменам](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
