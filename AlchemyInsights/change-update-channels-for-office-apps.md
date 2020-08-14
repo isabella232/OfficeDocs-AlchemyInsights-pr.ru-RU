@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 4939682a6ca95c4f5475ee6aedea48c9ce83df7f
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: fb69bce40ab56b162c715af6a0647c8219c5564f
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431653"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665475"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Изменение каналов обновления для приложений Office
 
@@ -30,9 +30,9 @@ ms.locfileid: "45431653"
 1. Скачайте последнюю версию средства ODT (setup.exe) в [Центре загрузки Майкрософт](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 2. Укажите имя канала, на который вы хотите переключиться. Дополнительные сведения см. в статье [Параметры конфигурации для средства развертывания Office](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element).
 3. Создайте конфигурационный XML-файл, указав название соответствующего канала, например update.xml.  
-    а. <Configuration>  
-    b. <Updates **Channel="Monthly"** />  
-    c. </Configuration>
+    `<Configuration> 
+    <Updates **Channel="Monthly"** />  
+    </Configuration>`
 4. Из командной строки для администратора перейдите в папку, где расположен файл setup.exe, и введите следующую команду:  
     а. setup.exe /configure update.xml
 5. Запустите приложение Office (например, Excel), а затем щелкните **Файл** > **Учетная запись**. В разделе "Сведения о продукте" выберите **Параметры обновления** > **Обновить сейчас**.
