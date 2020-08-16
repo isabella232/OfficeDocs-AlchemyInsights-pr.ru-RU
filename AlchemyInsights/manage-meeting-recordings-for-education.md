@@ -31,6 +31,6 @@ ms.locfileid: "46545717"
 
 Если вы хотите управлять только возможностью записи собраний, см. раздел [Включение и выключение записи в облаке](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).  
 
-**Примечание.** возможности записи собраний Teams зависят от доступности Stream в стране или регионе. Если у вас не получается записать собрание, см. статью [В каких регионах Microsoft Stream хранит мои данные?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in) 
+**Примечание.** Возможности записи собраний Teams зависят от доступности Stream в стране или регионе. Если у вас не получается записать собрание, см. статью [В каких регионах Microsoft Stream хранит мои данные?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in) 
 
 Дополнительные сведения см. в статье [Обновленная функция: региональное управление хранилищем облачных записей Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
