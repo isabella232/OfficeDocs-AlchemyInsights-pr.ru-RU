@@ -1,5 +1,5 @@
 ---
-title: Еанбле Forms Pro
+title: Включение и отключение Forms Pro
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: 087121cee32df8520dbb1eee11ea2993819508da
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 3b0c375dbcf3c49c4ceb4e0cee9411a4bccc7cf3
+ms.sourcegitcommit: 6d938730731b5c0e15cd45faa647d48ee75b5d50
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "41969721"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "46814685"
 ---
-# <a name="enable-or-disable-forms-pro"></a>Включение и отключение форм Pro
+# <a name="enable-or-disable-forms-pro"></a>Включение и отключение Forms Pro
 
-Если вы пытаетесь включить Microsoft Forms Pro, она входит в состав лицензии [Dynamics 365 Enterprise](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) . Кроме того, администратор может приобрести [лицензию Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant). Вы также можете [удалить лицензию Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1) от пользователя.
+Приложение Microsoft Forms Pro превращалось в корпоративную голосовую связь в Dynamics 365, предоставляя вам дополнительные возможности опроса и бизнес-преимущества. Дополнительные сведения см. в [разделах справки по корпоративной голосовой связи по Dynamics 365.](https://go.microsoft.com/fwlink/p/?linkid=2128357)  
+
+Microsoft Forms Pro входит в состав корпоративной лицензии Dynamics 365. Кроме того, администратор может приобрести лицензию Microsoft Forms Pro. Кроме того, можно удалить лицензию microsoft Forms Pro для пользователя.  
+
+Дополнительные сведения о лицензировании см. в статье ["Приобретение Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) и [отключение Microsoft Forms Pro для пользователя".](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1)
+  
+Дополнительные ресурсы справки см. в [статье "Устранение неполадок в Forms Pro".](https://docs.microsoft.com/forms-pro/troubleshoot)
