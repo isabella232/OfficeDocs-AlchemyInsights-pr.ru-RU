@@ -12,14 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: d7b56237cb287f619643303fb31c627e258c332d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 3ec340b6a2ee1a3671f72f64b17e46d991d8e0a1
+ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46545717"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46844573"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>Управление записями собраний для образования
+
+С **20 августа 2020 г.**, если пользователи с лицензиями A1 (включая A1 Plus) запускают запись собрания Teams, эта запись будет доступна в течение 21 дня.
+
+Дополнительные сведения, в том числе о том, как сохранить собрание в другом месте, см. в статье [Передача записи собраний Microsoft Teams в Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
 
 Администраторам учебных организаций рекомендуется использовать пакеты политик для безопасности учащихся и преподавателей. См. также:
 
