@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 062dd51724ec6c36775f7f962241bac5807dd660
-ms.sourcegitcommit: ad8b990f0eb9274e68ef599e857ac6c452d3919a
+ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41277943"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406447"
 ---
 # <a name="microsoft-threat-protection"></a>Защита от угроз (Майкрософт)
 
@@ -24,4 +24,4 @@ ms.locfileid: "41277943"
 - [Инструкции по включению MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
 - [Устранение неполадок с MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Как проверить лицензию: вам необходимо назначить роль администратора выставления счетов или глобальная роль читателя в Azure AD, чтобы просмотреть лицензию. Перейдите в [центр администрирования](https://admin.microsoft.com/) и перейдите к разделу**лицензии** на **выставление счетов** > , чтобы просмотреть существующие лицензии.
+Как проверить лицензию: вам необходимо назначить роль администратора выставления счетов или глобальная роль читателя в Azure AD, чтобы просмотреть лицензию. Перейдите в [центр администрирования](https://admin.microsoft.com/) и перейдите к разделу лицензии на **выставление счетов**  >  **Licenses** , чтобы просмотреть существующие лицензии.
