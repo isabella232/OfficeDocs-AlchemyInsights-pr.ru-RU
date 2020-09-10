@@ -12,26 +12,26 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d93d598643422f83931ed13d7a002901bd555cfe
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709952"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406375"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams — аудиоконференции
 
-Нужна помощь по настройке аудиоконференций в Microsoft Teams? Этот пользователь был создан недавно?  Если это так, нужно подождать 2–24 часа, чтобы настройки вступили в силу.
+Нужна помощь по настройке [аудиоконференций в Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)?  Был ли пользователь создан недавно? Если это так, нужно подождать несколько часов, чтобы настройки вступили в силу.
 
-Чтобы убедиться в наличии у пользователя лицензии на аудиоконференции и платного номера по умолчанию:
+Если [лицензии приобретены](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), убедитесь в наличии у пользователя лицензии на аудиоконференции Microsoft 365 и платного номера по умолчанию.
 
 1. Перейдите в раздел [Активные пользователи](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) и выберите требуемого пользователя.
 
 2. В зависимости от версии Центра администрирования выберите **Лицензии и приложения** или щелкните **Изменить** в разделе **Лицензии на продукты**.
 
-3. Убедитесь, что для пользователя выбраны лицензии на **аудиоконференции, Microsoft Teams** и **Skype для бизнеса Online (план 2)**.
+3. Убедитесь, что для пользователя выбраны лицензии на **аудиоконференции Microsoft 365, Microsoft Teams** и **Skype для бизнеса Online (план 2)**. Если лицензия на **аудиоконференции Microsoft 365** отсутствует, вам необходимо сначала [приобрести лицензии на надстройки](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business).
 
-4. В разделе **Центры администрирования** щелкните **Показать все** и выберите **Teams**.
+4. В разделе **Центры администрирования** щелкните **Показать все**, затем щелкните **Teams**.
 
 5. В **Центре администрирования Microsoft Teams** выберите **Портал прежней версии**.
 
@@ -39,4 +39,4 @@ ms.locfileid: "43709952"
 
 7. Выберите пользователя и убедитесь, что у него есть **платный номер по умолчанию**.
 
-Дополнительные сведения о лицензировании см. в статье [Планы звонков](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) или позвоните в группу выставления коммерческих счетов Майкрософт.
+Если вам нужна дополнительная помощь по приобретению лицензий на **аудиоконференции Microsoft**, позвоните в [службу поддержки по вопросам выставления счетов](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support).
