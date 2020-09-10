@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 374aee5f3cc152d3fb03619c1748f7cc19b4ac44
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553419"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406519"
 ---
 # <a name="teams-meeting-invitations"></a>Приглашения на собрания Teams
 
-- Вам нужно знать, [как создать приглашение на встречу в Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?
+Нужна помощь с настройкой приглашений на собрания Teams в организации? См. статью [Настройка приглашений на собрания](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).  
 
-- В настоящее время приглашения на встречи Teams **не могут быть изменены**. Пожалуйста, [проголосуйте за Teams UserVoice](https://microsoftteams.uservoice.com/), чтобы этот вопрос был добавлен в план.
+Дополнительные сведения см. в статье [Управление параметрами собраний в Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).
