@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 374aee5f3cc152d3fb03619c1748f7cc19b4ac44
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553419"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406519"
 ---
-# <a name="teams-meeting-invitations"></a><span data-ttu-id="007e5-102">Приглашения на собрания Teams</span><span class="sxs-lookup"><span data-stu-id="007e5-102">Teams meeting invitations</span></span>
+# <a name="teams-meeting-invitations"></a><span data-ttu-id="8cdb2-102">Приглашения на собрания Teams</span><span class="sxs-lookup"><span data-stu-id="8cdb2-102">Teams meeting invitations</span></span>
 
-- <span data-ttu-id="007e5-103">Вам нужно знать, [как создать приглашение на встречу в Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span><span class="sxs-lookup"><span data-stu-id="007e5-103">Do you need to know how to [create a meeting invitation in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span></span>
+<span data-ttu-id="8cdb2-103">Нужна помощь с настройкой приглашений на собрания Teams в организации?</span><span class="sxs-lookup"><span data-stu-id="8cdb2-103">Need help customizing Teams Meeting Invitations for your organization?</span></span> <span data-ttu-id="8cdb2-104">См. статью [Настройка приглашений на собрания](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span><span class="sxs-lookup"><span data-stu-id="8cdb2-104">Be sure to review [Customize Meeting invitations](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span></span>  
 
-- <span data-ttu-id="007e5-104">В настоящее время приглашения на встречи Teams **не могут быть изменены**.</span><span class="sxs-lookup"><span data-stu-id="007e5-104">Currently, Teams meeting invitations **cannot be customized**.</span></span> <span data-ttu-id="007e5-105">Пожалуйста, [проголосуйте за Teams UserVoice](https://microsoftteams.uservoice.com/), чтобы этот вопрос был добавлен в план.</span><span class="sxs-lookup"><span data-stu-id="007e5-105">Please [vote on Teams UserVoice](https://microsoftteams.uservoice.com/) to have this issue added to the roadmap.</span></span>
+<span data-ttu-id="8cdb2-105">Дополнительные сведения см. в статье [Управление параметрами собраний в Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span><span class="sxs-lookup"><span data-stu-id="8cdb2-105">For additional information see [Manage meeting settings in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span></span>
