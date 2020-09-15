@@ -1,10 +1,11 @@
 ---
 title: Где находится сводная таблица управления питанием?
-ms.author: chrsm
-author: chrsm
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +15,12 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765210"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719102"
 ---
 # <a name="where-is-power-pivot"></a>Где находится сводная таблица управления питанием?
 
@@ -33,7 +34,7 @@ ms.locfileid: "43765210"
   
 Если вы работаете в версии Excel, которая поддерживает Power PIVOT, убедитесь, что надстройка включена:
   
-1. Выберите пункт **Параметры** \> **файла** \> **надстройки.**
+1. Выберите **File** пункт \> **Параметры** файла надстройки \> **Add-Ins**.
 
 2. В раскрывающемся списке **Управление** выберите пункт надстройки **com** и нажмите кнопку **Перейти**.
 
