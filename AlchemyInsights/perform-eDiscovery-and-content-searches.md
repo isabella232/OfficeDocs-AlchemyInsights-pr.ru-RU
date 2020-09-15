@@ -6,6 +6,7 @@ manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ed9e19f590029267368f8d4dcce7e1a85283a26
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510189"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721459"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Как выполнять поиск контента и поиск с обнаружением электронных данных
 
@@ -34,4 +35,4 @@ ms.locfileid: "44510189"
 
 Подробные инструкции по поиску контента, экспорту результатов и созданию дел eDiscovery для хранения данных можно узнать в разделе [Поиск контента](https://docs.microsoft.com/microsoft-365/compliance/content-search) и [Обнаружение электронных](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)данных.
 
-Узнайте больше о поиске контента, изучив [требования и ограничения](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) , а также [изучая частично индексированные элементы](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) и другие результаты, о которых следует знать.
+Узнайте больше о поиске контента, изучив [требования и ограничения](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) , а также  [изучая частично индексированные элементы](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) и другие результаты, о которых следует знать.
