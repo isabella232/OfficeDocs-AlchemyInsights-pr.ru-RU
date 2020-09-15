@@ -6,19 +6,20 @@ manager: scotv
 ms.date: 08/10/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6174"
 - "9003234"
-ms.openlocfilehash: 5fda35dc722c545df7d5df8285657b2bf060ab23
-ms.sourcegitcommit: 1361b2b37fd0201502a1a3547084961de284a3fc
+ms.openlocfilehash: 4bc66c2e1a8c0d839974f41fb6bf919f3261e571
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46617113"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678553"
 ---
-# <a name="dynamic-group-issues"></a><span data-ttu-id="3fcab-102">Проблемы с динамическими группами</span><span class="sxs-lookup"><span data-stu-id="3fcab-102">Dynamic group issues</span></span>
+# <a name="dynamic-group-issues"></a><span data-ttu-id="efe18-102">Проблемы с динамическими группами</span><span class="sxs-lookup"><span data-stu-id="efe18-102">Dynamic group issues</span></span>
 
-<span data-ttu-id="3fcab-103">Сведения о проблемах с динамическими группами Azure Active Directory (Azure AD) см. в статье [Решение проблем с группами](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-troubleshooting).</span><span class="sxs-lookup"><span data-stu-id="3fcab-103">For information about Azure Active Directory (Azure AD) dynamic group issues, see [Troubleshoot and resolve groups issues](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-troubleshooting).</span></span>
+<span data-ttu-id="efe18-103">Сведения о проблемах с динамическими группами Azure Active Directory (Azure AD) см. в статье [Решение проблем с группами](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-troubleshooting).</span><span class="sxs-lookup"><span data-stu-id="efe18-103">For information about Azure Active Directory (Azure AD) dynamic group issues, see [Troubleshoot and resolve groups issues](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-troubleshooting).</span></span>
