@@ -6,27 +6,28 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742962"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802142"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="ac307-102">Выход из Outlook в Интернете</span><span class="sxs-lookup"><span data-stu-id="ac307-102">How to sign out of Outlook on the web</span></span>
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="74144-102">Выход из Outlook в Интернете</span><span class="sxs-lookup"><span data-stu-id="74144-102">How to sign out of Outlook on the web</span></span>
 
-<span data-ttu-id="ac307-103">Чтобы выйти из Outlook в Интернете, выберите свое имя или изображение в правом верхнем углу и нажмите **выйти**.</span><span class="sxs-lookup"><span data-stu-id="ac307-103">To sign out of Outlook on the web, select your name or picture at the top right corner and select **Sign out**.</span></span>
+<span data-ttu-id="74144-103">Чтобы выйти из Outlook в Интернете, выберите свое имя или изображение в правом верхнем углу и нажмите **выйти**.</span><span class="sxs-lookup"><span data-stu-id="74144-103">To sign out of Outlook on the web, select your name or picture at the top right corner and select **Sign out**.</span></span>
 
-<span data-ttu-id="ac307-104">Чтобы остановить автоматический вход в рабочую или учебную учетную запись, выполните указанные ниже действия.</span><span class="sxs-lookup"><span data-stu-id="ac307-104">To stop automatically signing in to your work or school account:</span></span>
+<span data-ttu-id="74144-104">Чтобы остановить автоматический вход в рабочую или учебную учетную запись, выполните указанные ниже действия.</span><span class="sxs-lookup"><span data-stu-id="74144-104">To stop automatically signing in to your work or school account:</span></span>
 
-1. <span data-ttu-id="ac307-105">Выберите свое имя или фотографию и нажмите **выйти**.</span><span class="sxs-lookup"><span data-stu-id="ac307-105">Select your name or picture and select **Sign out**.</span></span>
-1. <span data-ttu-id="ac307-106">Перейдите в [Outlook.Office.com](https://outlook.office.com/) и выберите **использовать другую учетную запись**.</span><span class="sxs-lookup"><span data-stu-id="ac307-106">Go to [Outlook.office.com](https://outlook.office.com/) and select **Use another account**.</span></span>
-1. <span data-ttu-id="ac307-107">Выполните вход, используя адрес электронной почты, который вы хотите использовать.</span><span class="sxs-lookup"><span data-stu-id="ac307-107">Sign in with the email address you want to use.</span></span>
+1. <span data-ttu-id="74144-105">Выберите свое имя или фотографию и нажмите **выйти**.</span><span class="sxs-lookup"><span data-stu-id="74144-105">Select your name or picture and select **Sign out**.</span></span>
+1. <span data-ttu-id="74144-106">Перейдите в [Outlook.Office.com](https://outlook.office.com/) и выберите **использовать другую учетную запись**.</span><span class="sxs-lookup"><span data-stu-id="74144-106">Go to [Outlook.office.com](https://outlook.office.com/) and select **Use another account**.</span></span>
+1. <span data-ttu-id="74144-107">Выполните вход, используя адрес электронной почты, который вы хотите использовать.</span><span class="sxs-lookup"><span data-stu-id="74144-107">Sign in with the email address you want to use.</span></span>
 
-<span data-ttu-id="ac307-108">Чтобы узнать больше, Узнайте, [как войти в Outlook в Интернете или выйти из](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)нее.</span><span class="sxs-lookup"><span data-stu-id="ac307-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
+<span data-ttu-id="74144-108">Чтобы узнать больше, Узнайте, [как войти в Outlook в Интернете или выйти из](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)нее.</span><span class="sxs-lookup"><span data-stu-id="74144-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
