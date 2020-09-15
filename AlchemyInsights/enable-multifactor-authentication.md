@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703475"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678049"
 ---
-# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="693e9-102">Включение многофакторной проверки подлинности</span><span class="sxs-lookup"><span data-stu-id="693e9-102">Enable multi-factor authentication</span></span>
+# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="7a9d3-102">Включение многофакторной проверки подлинности</span><span class="sxs-lookup"><span data-stu-id="7a9d3-102">Enable multi-factor authentication</span></span>
 
-<span data-ttu-id="693e9-103">Включение многофакторной проверки подлинности в центре администрирования Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="693e9-103">To enable multi-factor authentication in the Microsoft 365 admin center:</span></span>
+<span data-ttu-id="7a9d3-103">Включение многофакторной проверки подлинности в центре администрирования Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="7a9d3-103">To enable multi-factor authentication in the Microsoft 365 admin center:</span></span>
 
-1. <span data-ttu-id="693e9-104">Перейдите на страницу **Пользователи** \> **Активные пользователи** .</span><span class="sxs-lookup"><span data-stu-id="693e9-104">Go to the **Users** \> **Active users** page.</span></span>
+1. <span data-ttu-id="7a9d3-104">Перейдите на страницу **Пользователи** \> **Активные пользователи** .</span><span class="sxs-lookup"><span data-stu-id="7a9d3-104">Go to the **Users** \> **Active users** page.</span></span>
     
-2. <span data-ttu-id="693e9-105">В верхней части страницы выберите **многофакторную проверку подлинности**.</span><span class="sxs-lookup"><span data-stu-id="693e9-105">At the top of the page, select **Multi-factor authentication**.</span></span> 
+2. <span data-ttu-id="7a9d3-105">В верхней части страницы выберите **многофакторную проверку подлинности**.</span><span class="sxs-lookup"><span data-stu-id="7a9d3-105">At the top of the page, select **Multi-factor authentication**.</span></span> 
     
-3. <span data-ttu-id="693e9-106">Найдите пользователей или пользователей, которым требуется включить многофакторную проверку подлинности.</span><span class="sxs-lookup"><span data-stu-id="693e9-106">Find the user or users who you want to enable for multi-factor authentication.</span></span> <span data-ttu-id="693e9-107">Чтобы увидеть всех пользователей, может потребоваться изменить фильтр **состояния многофакторной проверки подлинности** в верхней части.</span><span class="sxs-lookup"><span data-stu-id="693e9-107">To see all the users, you might need to change the **Multi-Factor Auth status** filter at the top.</span></span>
+3. <span data-ttu-id="7a9d3-106">Найдите пользователей или пользователей, которым требуется включить многофакторную проверку подлинности.</span><span class="sxs-lookup"><span data-stu-id="7a9d3-106">Find the user or users who you want to enable for multi-factor authentication.</span></span> <span data-ttu-id="7a9d3-107">Чтобы увидеть всех пользователей, может потребоваться изменить фильтр **состояния многофакторной проверки подлинности** в верхней части.</span><span class="sxs-lookup"><span data-stu-id="7a9d3-107">To see all the users, you might need to change the **Multi-Factor Auth status** filter at the top.</span></span>
     
-4. <span data-ttu-id="693e9-108">Установите флажки рядом с пользователями, которые нужно включить.</span><span class="sxs-lookup"><span data-stu-id="693e9-108">Select the check box next to the users you want to enable.</span></span>
+4. <span data-ttu-id="7a9d3-108">Установите флажки рядом с пользователями, которые нужно включить.</span><span class="sxs-lookup"><span data-stu-id="7a9d3-108">Select the check box next to the users you want to enable.</span></span>
     
-5.  <span data-ttu-id="693e9-109">В правой области сведений о пользователе в разделе **быстрые действия**выберите **включить**.</span><span class="sxs-lookup"><span data-stu-id="693e9-109">In the right user info pane, under **quick steps**, select **Enable**.</span></span> 
+5.  <span data-ttu-id="7a9d3-109">В правой области сведений о пользователе в разделе **быстрые действия**выберите **включить**.</span><span class="sxs-lookup"><span data-stu-id="7a9d3-109">In the right user info pane, under **quick steps**, select **Enable**.</span></span> 
     
-6. <span data-ttu-id="693e9-110">В открывшемся диалоговом окне выберите **включить многофакторную проверку подлинности**.</span><span class="sxs-lookup"><span data-stu-id="693e9-110">In the dialog box that opens, select **enable multi-factor auth**.</span></span> 
+6. <span data-ttu-id="7a9d3-110">В открывшемся диалоговом окне выберите **включить многофакторную проверку подлинности**.</span><span class="sxs-lookup"><span data-stu-id="7a9d3-110">In the dialog box that opens, select **enable multi-factor auth**.</span></span> 
     
 
