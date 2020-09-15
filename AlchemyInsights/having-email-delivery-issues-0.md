@@ -1,10 +1,11 @@
 ---
 title: Возникают проблемы с доставкой электронной почты?
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 51fea2ad-81d4-4b65-9d24-e2f953aa814a
@@ -13,21 +14,21 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: e95d25ad0d5d0c839692b1335173e8835d58bbc2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ee479f673328eb69268feef7110ee40343c52d5a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499164"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705816"
 ---
-# <a name="having-email-delivery-issues"></a><span data-ttu-id="87a17-102">Возникают проблемы с доставкой электронной почты?</span><span class="sxs-lookup"><span data-stu-id="87a17-102">Having email delivery issues?</span></span>
+# <a name="having-email-delivery-issues"></a><span data-ttu-id="1ec1d-102">Возникают проблемы с доставкой электронной почты?</span><span class="sxs-lookup"><span data-stu-id="1ec1d-102">Having email delivery issues?</span></span>
 
-<span data-ttu-id="87a17-103">Мы обнаружили, что ваши пользователи не получают сообщения, отправленные в следующие домены:</span><span class="sxs-lookup"><span data-stu-id="87a17-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
+<span data-ttu-id="1ec1d-103">Мы обнаружили, что ваши пользователи не получают сообщения, отправленные в следующие домены:</span><span class="sxs-lookup"><span data-stu-id="1ec1d-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
   
-<span data-ttu-id="87a17-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="87a17-104">{HealthCheckString}</span></span>
+<span data-ttu-id="1ec1d-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="1ec1d-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="87a17-105">Записи NS или MX в параметрах домена (DNS) не настроены для доставки почты в службы Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="87a17-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Microsoft.</span></span> <span data-ttu-id="87a17-106">Подробные инструкции см. в статье [Создание записей DNS у любого поставщика услуг размещения DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="87a17-106">You can refer to [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for detailed instructions.</span></span>
+<span data-ttu-id="1ec1d-105">Записи NS или MX в параметрах домена (DNS) не настроены для доставки почты в службы Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="1ec1d-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Microsoft.</span></span> <span data-ttu-id="1ec1d-106">Подробные инструкции см. в статье [Создание записей DNS у любого поставщика услуг размещения DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="1ec1d-106">You can refer to [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for detailed instructions.</span></span>
   
-<span data-ttu-id="87a17-107">Чтобы устранить проблему, откройте страницу [Домены](https://admin.microsoft.com/adminportal/home#/Domains) в Центре администрирования Microsoft 365, и мы поможем вам.</span><span class="sxs-lookup"><span data-stu-id="87a17-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span>
+<span data-ttu-id="1ec1d-107">Чтобы устранить проблему, откройте страницу [Домены](https://admin.microsoft.com/adminportal/home#/Domains) в Центре администрирования Microsoft 365, и мы поможем вам.</span><span class="sxs-lookup"><span data-stu-id="1ec1d-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span>
   
   
