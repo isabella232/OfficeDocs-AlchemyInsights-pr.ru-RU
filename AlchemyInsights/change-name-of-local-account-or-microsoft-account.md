@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: b59f55f9a94dd0bc9bbeb67face69bb489d158ce
-ms.sourcegitcommit: 9a35768444824cde9e192f1d9daafc9157437244
+ms.openlocfilehash: db13ecbe31b9bb0ca4a98b061619358c6c5edadd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42268678"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682803"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Изменение имени локальной учетной записи или учетной записи Майкрософт
 
@@ -52,7 +53,7 @@ ms.locfileid: "42268678"
 
 1. В поле поиска на панели задач введите **Управление компьютером** и выберите его из списка.
 
-2. Щелкните стрелку рядом с пунктом **Локальные пользователи и группы** , чтобы развернуть его. Щелкните **Пользователи**.
+2. Щелкните стрелку рядом с пунктом **Локальные пользователи и группы** , чтобы развернуть его. Щелкните пункт **Пользователи**.
 
 3. Щелкните правой кнопкой мыши **Администратор** и выберите **Переименовать**.
 
