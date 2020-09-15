@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: e327df91f13cc2488e836f940a6f3a7915451558
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 2105984bd6a9b04762e7e9153120c8c394c0b599
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582644"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698839"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word аварийно завершает работу или не отвечает
 
@@ -34,5 +35,5 @@ ms.locfileid: "44582644"
     Если Word возобновляет работу или зависает во время запуска, ознакомьтесь со статьей [Открытие приложений Microsoft 365 в безопасном режиме на компьютере с Windows](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) , чтобы запустить его в безопасном режиме.
 
 Если у вас по-прежнему возникают проблемы, ознакомьтесь со следующими статьями: 
-- [При запуске приложений Office на компьютере появляется сообщение об ошибке "остановка работы"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [Я получаю сообщение об ошибке "Прекращена работа..." при запуске приложений Office на моем компьютере](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
 - [Исправления и обходные пути для последних проблем в Word для Windows](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)
