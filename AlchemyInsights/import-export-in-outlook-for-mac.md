@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724743"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667927"
 ---
 # <a name="importexport-in-outlook-for-mac"></a>Импорт и экспорт в Outlook для Mac 
 
@@ -29,11 +30,11 @@ ms.locfileid: "43724743"
 
 Импортирует
 1. На вкладке **Сервис** выберите пункт **Импорт**.
-2. Установите флажок **файл архива Outlook для Windows (PST)** > **.**
+2. Установите флажок **файл архива Outlook для Windows (PST)**  >  **Continue**.
 3. Найдите PST-файл на компьютере Mac, а затем выберите пункт **Импорт**.
 4. По завершении процесса импорта нажмите кнопку **Готово**.
 5. Импортированные элементы отображаются в области навигации в разделе **Мой компьютер**.
 
 Полный набор инструкций по импорту и экспорту для Outlook для Mac см. [Импорт и экспорт электронной почты, контактов и календаря Outlook](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-Чтобы получить поддержку по проблемам с приложением для Outlook для Mac, откройте Outlook и выберите пункт **Справка** > **Поддержка**. Введите свой вопрос и члена группы поддержки Outlook для Mac, которые будут общаться с вами. [Обращение в службу поддержки Outlook для Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Чтобы получить поддержку по проблемам с приложением для Outlook для Mac, откройте Outlook и выберите пункт **Справка**  >  **Поддержка**. Введите свой вопрос и члена группы поддержки Outlook для Mac, которые будут общаться с вами. [Обращение в службу поддержки Outlook для Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
