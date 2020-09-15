@@ -5,17 +5,18 @@ author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: c2feb6da651d8b3eb7af6a057335b28d26f9e7f6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44664259"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690976"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Ошибка: правила на этом компьютере не совпадают
 
@@ -27,5 +28,5 @@ ms.locfileid: "44664259"
 
 **Решение**: в последних отчетах возникла ошибка для тех, кто создал только правила клиентов в классической версии Outlook. Если проблема не исчезнет, рассмотрите возможность удаления правил, а затем создание и изменение правил только в OWA (Outlook Web App), пока проблема не будет устранена.
 
-Если не удается удалить правила вручную, вы можете выполнить команду Outlook при запуске Outlook, запустив Outlook. exe/клеанрулес. Это приведет к удалению правил клиента и сервера. Будут удалены все правила для всех учетных записей в профиле Outlook. Эта команда далее задокументирована в статье параметры командной строки.
+Если не удается удалить правила вручную, можно выполнить команду Outlook при запуске Outlook, запустив Outlook.exe/клеанрулес. Это приведет к удалению правил клиента и сервера. Будут удалены все правила для всех учетных записей в профиле Outlook. Эта команда далее задокументирована в статье параметры командной строки.
 

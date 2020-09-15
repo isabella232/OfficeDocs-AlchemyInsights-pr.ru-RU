@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: c49dfbf422b312f4744711d5f12b0eb83b6ebf2e
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: 39310233eae83ceb18c6ff82451ae747f3c50048
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44268785"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691120"
 ---
 # <a name="teams-client-crashing"></a>Сбой клиента Teams?
 
@@ -28,36 +29,22 @@ ms.locfileid: "44268785"
 
 - Войдите в систему с учетной записью администратора клиента и проверьте [панель мониторинга работоспособности службы](https://docs.microsoft.com/office365/enterprise/view-service-health), чтобы убедиться в отсутствии перебоев и снижения качества обслуживания.
 
- - В качестве последнего шага вы можете попытаться очистить кеш клиента вашего Teams:
+- Удалите и повторно установите приложение Teams (ссылка)
+    - Перейдите в папку %appdata%\Microsoft\teams\ на вашем компьютере и удалите все файлы в этой папке.
+    - [Скачайте и установите приложение Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy) и, если это возможно, установите Teams от имени администратора (щелкните правой кнопкой мыши установщик Teams и выберите пункт «Запуск от имени администратора»).
 
-    1.  Полностью выйдите из настольного клиента Microsoft Teams. Можно щелкнуть правой кнопкой мыши **Teams** в области значков и выбрать команду **закрыть**или запустить диспетчер задач и выполнить полное завершение процесса.
-
-    2.  Перейдите в проводник и введите %appdata%\Microsoft\teams.
-
-    3.  Попав в каталог, вы увидите несколько следующих папок:
-
-         - Из **кеша приложений** перейдите в кеш и удалите все файлы в расположении  %appdata%\Microsoft\teams\application cache\cache.
-
-        - Из **Blob_storage** удалите все файлы: %appdata%\Microsoft\teams\blob_storage.
-
-        - Из **кэша** удалите все файлы: %appdata%\Microsoft\teams\Cache.
-
-        - Из **баз данных** удалите все файлы: %appdata%\Microsoft\teams\databases.
-
-        - Из **GPUCache** удалите все файлы: %appdata%\Microsoft\teams\GPUcache.
-
-        - Изнутри **IndexedDB** удалите файл .db: %appdata%\Microsoft\teams\IndexedDB.
-
-        - Из **локального хранилища** удалите все файлы:%appdata%\Microsoft\teams\Local Storage.
-
-        - Наконец, из **tmp** удалите любой файл:%appdata%\Microsoft\teams\tmp.
-
-    4. Перезапустите клиент Teams.
-
-Если в работе клиента Teams по-прежнему возникают сбои, сможете ли вы воспроизвести проблему? Если да: 
+Если в работе клиента Teams по-прежнему возникают сбои, сможете ли вы воспроизвести проблему? Если да:
 
 1. Запишите действия, используя средство записи действий.
     - Закройте все ненужные приложения и приложения, работающие с конфиденциальной информацией.
     - Запустите средство записи действий и воспроизведите проблему, выполнив вход в затронутую учетную запись пользователя.
+    - [Соберите журналы команд, которые фиксируют записанные шаги воспроизведения](https://docs.microsoft.com/microsoftteams/log-files). **Примечание**: Убедитесь в том, что вы записали адрес для входа в систему затронутых пользователей.
+    - Соберите сведения о дампе и/или сведения о контейнере ошибки (Windows). Запустите Windows PowerShell на компьютере, на котором происходит сбой, и выполните следующие команды:
+
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
     
 2. Вложите файл в ваше обращение в службу поддержки.
