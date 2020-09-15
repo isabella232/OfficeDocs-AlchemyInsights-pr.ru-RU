@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 42435d6970a71b57f16188ce6c92b0471e7121f3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0d2d73fd425e213289b627703c987c2e9a987e55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051330"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670917"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Проблемы с открытием файлов Office из SharePoint
 
@@ -29,5 +30,5 @@ ms.locfileid: "40051330"
 
 Чтобы получить дополнительные сведения или подробные сведения, ознакомьтесь со статьей, чтобы [устранить проблемы с открытием документов в библиотеках SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Примечание:** Если у вас возникли проблемы с открытием документов в браузере или клиенте по умолчанию, может потребоваться изменить параметр библиотеки. Для этого перейдите к библиотеке с проблемами > значок шестеренки в правом верхнем углу > **Параметры** >  библиотеки**Дополнительные параметры** > **Открытие документов в браузере**.
+**Примечание:** Если у вас возникли проблемы с открытием документов в браузере или клиенте по умолчанию, может потребоваться изменить параметр библиотеки. Для этого перейдите к библиотеке с проблемами > значок шестеренки в правом верхнем углу > **Параметры библиотеки**  >   **Дополнительные параметры**  >  **Открытие документов в браузере**.
 
