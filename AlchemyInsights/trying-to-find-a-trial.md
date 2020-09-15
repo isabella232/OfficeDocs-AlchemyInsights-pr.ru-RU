@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: a5aabaa508e9765b38590f0e65cd5076183967ba
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732343"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658387"
 ---
 # <a name="trying-to-find-a-trial"></a>Выполняется поиск пробной версии?
 
@@ -26,7 +27,7 @@ ms.locfileid: "43732343"
   
 1. В центре администрирования перейдите на страницу Услуги по **выставлению счетов** \> [покупки](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Выберите подписку, соответствующую вашим потребностям, и выберите пункт **получить бесплатную пробную версию**.
+2. Выберите подписку, соответствующую вашим потребностям, и выберите пункт  **получить бесплатную пробную версию**.
 
     > [!NOTE]
     > Не все подписки доступны в качестве пробной версии. Если кнопка **получить бесплатную пробную версию** не отображается при наведении указателя мыши на подписку, это означает, что пробная версия недоступна.
