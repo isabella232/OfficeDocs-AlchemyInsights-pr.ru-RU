@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908827"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685899"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Доступ к ключам восстановления BitLocker
 
@@ -42,7 +43,7 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Если устройство было зашифровано до енролмент в Intune, ключ восстановления мог быть связан с учетной записью Майкрософт (MSA), используемой для входа в устройство во время процесса OOBE. В этом случае при доступе https://onedrive.live.com/recoverykey и входе в систему с помощью MSA должны отображаться устройства, для которых были сохранены ключи восстановления.
+Если устройство было зашифровано до енролмент в Intune, ключ восстановления мог быть связан с учетной записью Майкрософт (MSA), используемой для входа в устройство во время процесса OOBE. В этом случае при доступе  https://onedrive.live.com/recoverykey и входе в систему с помощью MSA должны отображаться устройства, для которых были сохранены ключи восстановления.
  
 Если устройство было зашифровано в результате настройки с помощью групповой политики домена, сведения для восстановления могут храниться в локальной службе Active Directory.
  

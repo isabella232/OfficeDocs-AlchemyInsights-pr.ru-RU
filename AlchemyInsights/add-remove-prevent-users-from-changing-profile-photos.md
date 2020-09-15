@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062009"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687807"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Добавление, удаление и запрет пользователям изменять фотографии профилей
 
-- **Добавление фотографий профилей:** Фотографии профилей могут добавляться администратором в [центре администрирования Microsoft 365, активные пользователи](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) или [Управление пользователями Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Если вы не видите параметр "изменить фотографию", убедитесь, что этому пользователю назначена лицензия. Чтобы добавить или изменить фотографии пользователя в профиле пользователя из любой службы Microsoft 365, щелкните их инициалы/фото в правом верхнем углу экрана. Дополнительные сведения о добавлении фотографии профиля можно узнать в [статье Добавление фотографии профиля в Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+- **Добавление фотографий профилей:** Фотографии профилей могут добавляться администратором в [центре администрирования Microsoft 365, активные пользователи](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) или  [Управление пользователями Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Если вы не видите параметр "изменить фотографию", убедитесь, что этому пользователю назначена лицензия. Чтобы добавить или изменить фотографии пользователя в профиле пользователя из любой службы Microsoft 365, щелкните их инициалы/фото в правом верхнем углу экрана. Дополнительные сведения о добавлении фотографии профиля можно узнать в [статье Добавление фотографии профиля в Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
 - **Удаление фотографий профилей:** Фотографии профилей можно удалить администратором в [управлении пользователями Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) или пользователем в их профилях пользователей Microsoft Teams.
 
