@@ -6,18 +6,19 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 35859bce89ef1ae9b6a9e706fc316b0ee6cd27d1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507383"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679382"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>Проблемы с защитой от потери данных с номерами социального страхования
 
@@ -47,7 +48,7 @@ ms.locfileid: "44507383"
 
   - [Функция Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) находит содержимое, которое соответствует шаблону;
 
-  - Находится ключевое слово из [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn). К примерам ключевых слов относятся: *социальное страхование, социальное страхование #, SoC sec, SSN* . Например, следующий пример вызывает срабатывание политики SSN для защиты от потери данных: **SSN: 489-36-8350**
+  - Находится ключевое слово из [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn). К примерам ключевых слов относятся:  *социальное страхование, социальное страхование #, SoC sec, SSN*  . Например, следующий пример вызывает срабатывание политики SSN для защиты от потери данных: **SSN: 489-36-8350**
   
 Дополнительные сведения о том, что требуется для обнаружения в службах Организации для контента, можно найти в следующем разделе этой статьи: [что представляют собой типы конфиденциальной информации для служб SSNs](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
