@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: e1fc48f367691b2f722b69d631d880c18f3504cb
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579842"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677003"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Проблемы с входом в приложения Microsoft 365
 
-Чтобы устранить проблемы с входом в приложения Microsoft 365, попробуйте выполнить следующие действия на затронутом компьютере:  
+Чтобы устранить проблемы со входом в приложения Microsoft 365, попробуйте воспользоваться следующими вариантами на затронутом компьютере.  
 
 - [В разделе рекомендации по устранению распространенных проблем с входом в](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) систему
-- В разделе Mac [не удается войти в приложение Office 2016 для Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- В разделе Mac  [не удается войти в приложение Office 2016 для Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Примечание:** Отключение современной проверки подлинности (ADAL) или управления веб-учетными записями (вам) для устранения проблем с входом или активацией **не рекомендуется**. Если ошибки возникают при подключении к Microsoft 365 с помощью Office 2013, убедитесь, что [включена современная проверка подлинности](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) для клиента Office.
+**Примечание:** Отключение современной проверки подлинности (ADAL) или управления веб-учетными записями (вам) для устранения проблем с входом или активацией  **не рекомендуется**. Если ошибки возникают при подключении к Microsoft 365 с помощью Office 2013, убедитесь, что [включена современная проверка подлинности](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  для клиента Office.
 
 Конкретные действия по устранению неполадок приведены в следующих статьях:
 
