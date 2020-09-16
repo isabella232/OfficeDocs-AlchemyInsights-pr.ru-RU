@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: e9550e1b70b00307101f9fa5feb0899c4c77541f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742344"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739046"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Совместное использование файлов в OneDrive с пользователями, не входящими в вашу организацию
 
@@ -24,7 +25,7 @@ ms.locfileid: "43742344"
     
 2. Выберите файл или папку, к которым требуется предоставить общий доступ, а затем выберите пункт **общий доступ**. 
     
-3. Если в качестве типа ссылки задано значение "люди \<в вашей\>организации", щелкните стрелку вниз и выберите один из следующих вариантов: 
+3. Если для типа ссылки задано значение "пользователи в \<your organization\> ", щелкните стрелку вниз и выберите один из следующих вариантов: 
     
   - **Любой** пользователь получает доступ к тому, кто получает эту ссылку, независимо от того, приходят ли они прямо из вас или переслали от кого-либо другого. Это также относится к людям вне вашей организации. 
     
