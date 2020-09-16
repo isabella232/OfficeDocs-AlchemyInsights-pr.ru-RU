@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706106"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47785472"
 ---
 # <a name="compliance-score"></a>Оценка соответствия требованиям
 
@@ -34,7 +35,7 @@ ms.locfileid: "43706106"
 Дополнительные **сведения**:
 
 - Настройка разрешений доступа для оценки соответствия требованиям можно узнать в [статье предоставление пользователям доступа к центрам обеспечения безопасности & Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- Работа с действиями по улучшению в показателе соответствия требованиям в разделе [Работа с рейтингом соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
+- Работа с действиями по улучшению в показателе соответствия требованиям в разделе  [Работа с рейтингом соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
 - Как рассчитывается Оценка соответствия требованиям, ознакомьтесь со статьей " [метод оценки соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)".
 - Сравнение оценки соответствия требованиям и диспетчера соответствия требованиям: [отношение к диспетчеру соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
 
