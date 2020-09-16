@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702787"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745620"
 ---
 # <a name="file-open-read-only"></a>Файл открыт только для чтения
 
@@ -37,7 +38,7 @@ ms.locfileid: "43702787"
   
  **Является заполнением OneDrive?**
   
-Если файл хранится в OneDrive, а пространство для хранения OneDrive заполнено, вы не сможете сохранить документ до тех пор, пока вы не освободите отведенный вам объем. Чтобы проверить свободное место в OneDrive, щелкните значок OneDrive в центре уведомлений и выберите Управление хранилищем [https://onedrive.live.com](https://onedrive.live.com), а затем войдите в систему и запишите объем занятого места в левом нижнем углу экрана.
+Если файл хранится в OneDrive, а пространство для хранения OneDrive заполнено, вы не сможете сохранить документ до тех пор, пока вы не освободите отведенный вам объем. Чтобы проверить свободное место в OneDrive, щелкните значок OneDrive в центре уведомлений и выберите Управление хранилищем, а затем [https://onedrive.live.com](https://onedrive.live.com) Войдите в систему и запишите объем занятого места в левом нижнем углу экрана.
   
  **Активирован ли Office?**
   
