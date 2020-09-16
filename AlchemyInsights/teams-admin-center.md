@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021652"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670377"
 ---
 # <a name="teams-admin-center"></a>Центр администрирования Teams
 
@@ -30,4 +31,6 @@ ms.locfileid: "44021652"
 Если пользователи не отображаются в Центре администрирования Teams, проверьте следующее:
 
 - Вы создали пользователей или назначили лицензии в течение последних 24 часов? Подождите не менее 24 часов, прежде чем создавать запрос в службу поддержки.
-- Убедитесь, что вам назначены соответствующие лицензии. 
+- Убедитесь, что вам назначены соответствующие лицензии.
+- Если вы пользуетесь локальной службой Active Directory, убедитесь в том, что [значение msRTCSIP-PrimaryUserAddress или адреса SIP в поле ProxyAddresses в локальной службе Active Directory уникально и его формат соответствует ](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip:**Username** пользователя в [Центре администрирования Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Если вы планируете использовать развертывание Skype для бизнеса Server и разместить пользователей как локально, так и в сети, следуйте инструкциям в разделе **"Настройка гибридной среды для Teams и Skype для бизнеса в Интернете"** на информационной панели Skype for Business Server и переместите пользователей в Интернет.
