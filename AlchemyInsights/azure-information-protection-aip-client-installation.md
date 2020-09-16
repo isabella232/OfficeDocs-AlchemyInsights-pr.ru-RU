@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944320"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714917"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: установка клиента AIP
 
@@ -33,4 +34,8 @@ ms.locfileid: "43944320"
 
 4. Если после запуска этого средства проблемы при установке самого клиента не исчезли, найдите папку **%temp%** и предоставьте файлы журнала установки клиента, которые начинаются с Microsoft_Azure_Information_Protection_XXXXXXXXXX.log.
 
-5. Если установка успешно выполнена, но проблемы при использовании AIP не исчезли, выберите подходящий раздел поддержки, чтобы найти соответствующие решения.
+Дополнительные сведения:
+
+- Ознакомьтесь с [документацией по Azure Information Protection (AIP)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection), [требованиями](https://docs.microsoft.com/azure/information-protection/get-started/requirements) к настройке и расположением для [скачивания клиента AIP](https://www.microsoft.com/download/details.aspx?id=53018).
+
+- Сведения о подписке на Azure см. в разделе [подписок и функций Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection).

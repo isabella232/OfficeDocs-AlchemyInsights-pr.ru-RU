@@ -5,18 +5,19 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 701c4aef6bfc0c4a2c4570f6dd16dbe4f99efc44
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: dfb42b24f1c2b4b05cb067a82505a6a8b63f277e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580346"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731576"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Превышен ежедневный лимит электронной почты. Рабочий процесс приостановлен.
 
@@ -32,6 +33,6 @@ ms.locfileid: "44580346"
 
 Более подробную информацию можно найти в следующей [статье](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
 
-## <a name="related-topics"></a>Связанные статьи
+## <a name="related-topics"></a>Статьи по теме
 - [Создание последовательности](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint и Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
