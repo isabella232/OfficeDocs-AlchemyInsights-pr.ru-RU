@@ -6,18 +6,19 @@ manager: eliree
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 8baf4d27ed1c6c7f6b15c1221ddb9dbb8aea9c3b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 90ba95281df41b4e715778a95a0e15a4a5b50f98
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720042"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734960"
 ---
 # <a name="upgrade-to-visio-2019"></a>Обновление до Visio 2019
 
@@ -29,7 +30,7 @@ ms.locfileid: "43720042"
 
 Чтобы установить Visio параллельно с Office, ознакомьтесь со статьей [Поддерживаемые сценарии для установки различных версий Office, Project и Visio на одном компьютере](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
-Дополнительные сведения см. в статье:<br>
+Дополнительные сведения см. в указанных ниже статьях.<br>
 [Руководство по развертыванию для Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
 [Основной номер версии Visio 2019 — поддержка 16,0](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
 [Схема года в Office 2016 и клиентские приложения будут удалены из записей меню "Пуск"](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>

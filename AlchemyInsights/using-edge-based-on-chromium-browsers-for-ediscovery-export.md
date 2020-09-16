@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 5c247ab69c272d2d296f9602fc5246a08164da5e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 64aebb7f048dba37eef8cd1fa6286b36823d3f0f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726225"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734528"
 ---
 # <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Использование Microsoft EDGE на основе браузеров Чромиум для экспорта обнаружения электронных данных
 
@@ -28,4 +29,4 @@ ms.locfileid: "43726225"
 3. В нижней части окна браузера нажмите кнопку **перезапустить**. <br>
  Изменение вступит в силу после перезапуска Microsoft Edge. 
 
-Для получения сведений об этом и пошаговом процессе установки средства экспорта см.: [Экспорт результатов поиска контента](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Для получения сведений об этом и пошаговом процессе установки средства экспорта см.: [ Экспорт результатов поиска контента](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).

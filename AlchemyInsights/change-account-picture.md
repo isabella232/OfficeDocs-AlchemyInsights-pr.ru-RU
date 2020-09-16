@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
-ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
+ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42574384"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734060"
 ---
 # <a name="change-account-picture"></a>Изменение аватара
 
 Если вы используете имя пользователя и пароль для входа в Windows 10, вы используете локальную учетную запись. **Чтобы изменить аватар для локальной учетной записи**:
 
-1. В**параметрах** >  **запуска** > выберите**учетные** > **данные**.
+1. В **Start**  >  **параметрах**запуска выберите  >  **учетные**  >  **данные**.
 2. В разделе **Создание изображения**нажмите кнопку **Обзор**, чтобы выбрать его. Если устройство имеет камеру, нажмите кнопку **Камера** и сделайте селфие. 
     **Примечание**: Windows запоминает последние три использованных рисунка. Щелкните изображение на странице сведения, чтобы переключиться на него.
 
