@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 226eaa73b3934e266c1f53f73752ec142fdecdf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784020"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698074"
 ---
 # <a name="activate-your-subscription"></a>Активация вашей подписки
 
 **Активация подписки**
 
-- Чтобы предоставить пользователям доступ к службе, назначьте им лицензию. Инструкции по назначению лицензий см. в разделе [Назначение лицензий пользователям](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Чтобы предоставить пользователям доступ к службе, назначьте им лицензию. Инструкции по назначению лицензий см. в разделе [Назначение лицензий пользователям](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 - Если вам уже назначена лицензия, вы можете найти приложения, доступные для скачивания, на странице [Моя учетная запись](https://portal.office.com/account/#installs). На этой странице представлен список приложений, доступных для скачивания, на основе назначенных лицензий.
 
@@ -32,13 +33,13 @@ ms.locfileid: "43784020"
 
 Если срок действия подписки истек либо она была отключена корпорацией Майкрософт или отменена вами в середине срока действия, ее можно активировать повторно в Центре администрирования Microsoft 365.
 
-- В Центре администрирования Microsoft 365 перейдите на страницу [Подписки](https://go.microsoft.com/fwlink/p/?linkid=842054) (или щелкните **Выставление счетов > Подписки**).
+- В Центре администрирования Microsoft 365 перейдите на страницу **Выставление счетов** > **[Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-- Выберите подписку, которую нужно повторно активировать, и щелкните **Активировать повторно**. Если действие **Активировать повторно** не отображается, [обратитесь в службу поддержки](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b), чтобы повторно активировать свою подписку.
+- Выберите подписку, которую нужно повторно активировать, и щелкните **Активировать повторно**. Если действие **Активировать повторно** не отображается, [обратитесь в службу поддержки](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products), чтобы повторно активировать свою подписку.
 
-- Введите сведения об оплате. Здесь вы также можете [обновить существующие сведения об оплате](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+- Введите сведения об оплате. Здесь вы также можете [обновить существующие сведения об оплате](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Активация новой подписки с помощью ключа продукта**
 

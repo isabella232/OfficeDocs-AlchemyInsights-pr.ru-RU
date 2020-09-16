@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 3dc0d7481db5acae34a2186c9d63358c431c17f9
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: c17485c40af22dd30339d819a08818d02e4ac737
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102649"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703096"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Управление учетной записью и подписками
 
@@ -39,7 +40,7 @@ ms.locfileid: "43102649"
 
 - [Расшифровка счета](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [Добавление, удаление и обновление методов оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account)
+- [Управление методами оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Управление подписками и лицензиями** 
 
