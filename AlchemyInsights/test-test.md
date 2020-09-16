@@ -5,17 +5,18 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 54ac2dbc1f45f88541c2338f3b55a777b4b57123
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766866"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750464"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Включение шифрования BitLocker с помощью Intune
 
@@ -24,7 +25,7 @@ ms.locfileid: "43766866"
 Следует учитывать, что многие новые устройства под управлением Windows 10 поддерживают автоматическое шифрование BitLocker, которое запускается без применения политики MDM. Это может повлиять на применение политики, если настроены параметры, не установленные по умолчанию. Более подробную информацию можно узнать в статье вопросы и ответы.
 
 
-Вопросы  и ответы: какие выпуски Windows поддерживают шифрование устройств с помощью политики Endpoint Protection?
+Вопросы и ответы   : какие выпуски Windows поддерживают шифрование устройств с помощью политики Endpoint Protection?
  О. параметры в политике Endpoint Protection в Intune реализуются с помощью поставщика службы шифрования BitLocker.Не все выпуски и сборки Windows поддерживают CSP BitLocker. 
       В настоящее время выпуски Windows: Enterprise; Поддерживаются образование, мобильные устройства, мобильные предприятия и профессиональный (из сборки 1809 в сторону).
 
