@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 0fab02fa06ff203933e6b5b8c306c2a8ecb15a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 882c2610502bdb67607a85a98c7aaa32aa77072b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710744"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728840"
 ---
 # <a name="spam-and-junk-email-in-outlookcom"></a>Нежелательная почта и Нежелательная почта в Outlook.com
 
@@ -24,12 +25,12 @@ ms.locfileid: "43710744"
 
 1. **Пометка сообщения электронной почты как нежелательного**
     1. Выберите сообщение.
-    1.  > Выберите **Нежелательная**почта, чтобы переместить сообщение в папку "**Нежелательная** почта".
+    1. Выберите **Нежелательная**  >  **почта** , чтобы переместить сообщение в папку "Нежелательная почта".
     1. [Узнайте больше о том, как сохранять спам и нежелательную почту из папки "Входящие".](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
 1. **Блокировка отправителя из папки "Входящие"**
     1. Выберите сообщение.
-    1. Выберите пункт **Нежелательная** > **Блокировка** > **ОК**.
+    1. Выберите пункт **Нежелательная**  >  **Блокировка**  >  **ОК**.
     1. [Узнайте больше о том, как заблокировать или разблокировать отправители.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
 1. **Добавление отправителя в список заблокированных отправителей**
@@ -41,5 +42,5 @@ ms.locfileid: "43710744"
 
 1. **Создание правила для папки "Входящие"**
     1. Щелкните правой кнопкой мыши сообщение в списке сообщений и выберите **создать правило**.
-    1. Выберите папку, в которую будут перемещены все сообщения от этого отправителя, и нажмите кнопку **ОК** > **ОК**.
+    1. Выберите папку, в которую будут перемещены все сообщения от этого отправителя, и нажмите кнопку **ОК**  >  **ОК**.
     1. [Дополнительные сведения о правилах для папки "Входящие" в Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
