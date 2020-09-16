@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 38ef162bd5c26328ee70af37df07adfbf2bfd93b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752388"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755108"
 ---
 # <a name="install-power-bi-report-server"></a>Установка сервера отчетов Power BI
 
-1. Найдите расположение файла Повербирепортсервер. exe и запустите программу установки.
+1. Найдите расположение PowerBIReportServer.exe и запустите установщик.
 
 2. Выберите **установить сервер отчетов Power BI**.
 
@@ -36,4 +37,4 @@ ms.locfileid: "35752388"
 
 Сервер ядра СУБД SQL Server, доступный во время установки, не требуется. После установки службы Reporting Services потребуется сделать это.
 
-Дополнительные сведения:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Дополнительные сведения: https://docs.microsoft.com/power-bi/report-server/install-report-server
