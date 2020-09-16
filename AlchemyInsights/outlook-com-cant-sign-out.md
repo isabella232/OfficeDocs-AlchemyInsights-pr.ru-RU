@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1872"
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666862"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752768"
 ---
 # <a name="unable-to-sign-out-of-outlookcom"></a>Не удается выйти из Outlook.com
 
@@ -24,4 +25,4 @@ ms.locfileid: "43666862"
 
 Если вы не видите изображение в верхней части экрана, проверьте, включена ли блокировка AD. Иногда аватар не отображается по этой причине.
 
-Если вы по-прежнему не можете выйти из Outlook.com [https://login.live.com/logout.srf](https://login.live.com/logout.srf) , щелкните Закрыть все окна браузера.
+Если вы по-прежнему не можете выйти из Outlook.com, щелкните  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) Закрыть все окна браузера.
