@@ -6,21 +6,22 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511125"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758078"
 ---
 # <a name="troubleshoot-issues-with-office-365-atp"></a>Устранение неполадок, связанных с Office 365 ATP
 
 - **Задержки при доставке сообщений электронной почты**? Попробуйте использовать параметр динамической доставки для политик безопасных вложений ATP. Это не позволит задержкам доставки сообщений электронной почты при защите получателей от вредоносных файлов.
-- **Хотите ли вы сообщить о ложных срабатываниях или ложных отрицательные отрицательные**результаты? Используйте эту ссылку, чтобы передать файл для анализа:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Хотите ли вы сообщить о ложных срабатываниях или ложных отрицательные отрицательные**результаты? Используйте эту ссылку, чтобы передать файл для анализа: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
 - **Знаете ли вы, что вы можете включить защиту для безопасных ссылок ATP для электронной почты, отправляемой между людьми в Организации**? Выполните приведенные ниже действия.
     1. Перейдите к разделу https://protection.office.com и войдите в систему.
     2. Перейдите к **Threat management**разделу  >  **Policy**  >  **безопасные ссылки**политики управления угрозами.
