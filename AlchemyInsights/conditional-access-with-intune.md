@@ -5,23 +5,24 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
-ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
+ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/30/2020
-ms.locfileid: "44931449"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807672"
 ---
 # <a name="conditional-access-with-intune"></a>Условный доступ с помощью Intune
 
-Для использования **условного доступа** в Intune необходимо 3 этапа:
+Для использования  **условного доступа**  в Intune необходимо 3 этапа:
 
-- Создайте **политику соответствия требованиям** ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)), чтобы определить параметры, которые должны быть выполнены до того, как устройство считается совместимым. Например, устройство должно иметь ПИН-код как минимум до 6 цифр, прежде чем он будет признан совместимым.
-- Создайте **политику условного доступа** , определяющую, какие ресурсы защищены и какие условия должны быть выполнены для доступа к этим ресурсам.  [Например,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) устройство должно быть совместимо перед доступом к корпоративной почте.
-- Убедитесь, что **политики соответствия требованиям** и политики **условного доступа** нацелены на нужные группы пользователей. Для этого может потребоваться создание определенных групп пользователей в Azure Active Directory.
+- Создайте  **политику соответствия требованиям**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)), чтобы определить параметры, которые должны быть выполнены до того, как устройство считается совместимым. Например, устройство должно иметь ПИН-код как минимум до 6 цифр, прежде чем он будет признан совместимым.
+- Создайте **политику условного доступа**  , определяющую, какие ресурсы защищены и какие условия должны быть выполнены для доступа к этим ресурсам.  [Например,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  устройство должно быть совместимо перед доступом к корпоративной почте.
+- Убедитесь, что **политики соответствия требованиям**  и политики  **условного доступа**  нацелены на нужные группы пользователей. Для этого может потребоваться создание определенных групп пользователей в Azure Active Directory.
 
 **Полезные ссылки:**
 

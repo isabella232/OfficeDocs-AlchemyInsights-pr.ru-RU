@@ -5,16 +5,17 @@ author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b34bfdafcab6229a4dd2e9d9f23103fa13556482
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509397"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808720"
 ---
 # <a name="setup-dkim"></a>Настройка DKIM
 
@@ -24,27 +25,27 @@ ms.locfileid: "44509397"
 
    Записи CNAME DKIM для **каждого** пользовательского домена используют следующие форматы:
 
-   - **Имя узла**:`selector1._domainkey.<CustomDomain>`
+   - **Имя узла**: `selector1._domainkey.<CustomDomain>`
 
-     **Указывает на адрес или значение**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
-
-     **TTL**: 3600
-
-   - **Имя узла**:`selector2._domainkey.<CustomDomain>`
-
-     **Указывает на адрес или значение**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Указывает на адрес или значение**: `selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\>— Это текст, расположенный слева `.mail.protection.outlook.com` в настраиваемой записи MX для пользовательского домена (например, `contoso-com` для домена contoso.com). \<InitialDomain\>— Это домен, который вы использовали при регистрации в Microsoft 365 (например, contoso.onmicrosoft.com).
+   - **Имя узла**: `selector2._domainkey.<CustomDomain>`
+
+     **Указывает на адрес или значение**: `selector2-<DomainGUID>._domainkey.<InitialDomain>`
+
+     **TTL**: 3600
+
+   \<DomainGUID\> — Это текст, расположенный слева `.mail.protection.outlook.com` в настраиваемой записи MX для пользовательского домена (например, `contoso-com` для домена contoso.com). \<InitialDomain\> — Это домен, который вы использовали при регистрации в Microsoft 365 (например, contoso.onmicrosoft.com).
 
 2. Создав записи CNAME для пользовательских доменов, выполните следующие действия:
 
-   a. [Войдите в Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) с помощью рабочей или учебной учетной записи.
+   а. [Войдите в Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) с помощью рабочей или учебной учетной записи.
 
-   b. В левом верхнем углу щелкните значок средства запуска приложений и выберите **Администратор**.
+   б. В левом верхнем углу щелкните значок средства запуска приложений и выберите **Администратор**.
 
-   c. В области навигации слева внизу разверните узел **Администратор** и выберите элемент **Exchange**.
+   в. В области навигации слева внизу разверните узел **Администратор** и выберите элемент **Exchange**.
 
    г. Перейдите в раздел **Защита**  >  **DKIM**.
 

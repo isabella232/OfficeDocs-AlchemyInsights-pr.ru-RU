@@ -4,18 +4,19 @@ ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 3e20eaf8dec85454ce5a67e1b21292b2a33ebb1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522748"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811719"
 ---
 # <a name="enable-an-archive-mailbox"></a>Включение архивного почтового ящика
 
@@ -51,7 +52,7 @@ ms.locfileid: "46522748"
 
 4. В области сведений справа в разделе **Архив на месте**щелкните **включить**, а затем нажмите кнопку **Да** , чтобы включить архивный почтовый ящик.
 
-Дополнительные сведения см. в указанных ниже статьях.
+Дополнительные сведения см. в статье:
   
 - [Включение архивных почтовых ящиков](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
