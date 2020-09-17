@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002966"
 - "5671"
-ms.openlocfilehash: 538bc0e9248c1aee67186b747fd0391e54aca6a9
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: b4dbc0bc485068ad63b002131e62c6d040c40740
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44269401"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47805980"
 ---
-# <a name="cannot-see-the-scroll-bar"></a><span data-ttu-id="f3d21-102">Не удается увидеть полосу прокрутки</span><span class="sxs-lookup"><span data-stu-id="f3d21-102">Cannot see the scroll bar</span></span>
+# <a name="cannot-see-the-scroll-bar"></a><span data-ttu-id="aa00d-102">Не удается увидеть полосу прокрутки</span><span class="sxs-lookup"><span data-stu-id="aa00d-102">Cannot see the scroll bar</span></span>
 
-<span data-ttu-id="f3d21-103">В Outlook.com полоса прокрутки становится видимой только тогда, когда мышь находится на панели папок.</span><span class="sxs-lookup"><span data-stu-id="f3d21-103">In Outlook.com, the scroll bar only becomes visible when the mouse is in the folder pane.</span></span>
+<span data-ttu-id="aa00d-103">В Outlook.com полоса прокрутки становится видимой только тогда, когда мышь находится на панели папок.</span><span class="sxs-lookup"><span data-stu-id="aa00d-103">In Outlook.com, the scroll bar only becomes visible when the mouse is in the folder pane.</span></span>
 
 ![Прокрутка папки "Входящие" с помощью мыши](media/16353_mouse_over_inbox_scrollbar-225x292.gif)
