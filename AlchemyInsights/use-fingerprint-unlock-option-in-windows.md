@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 8a5059c722c306ad79811140062cec7f52f31766
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588328"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795257"
 ---
 # <a name="use-fingerprint-unlock-option-in-windows-10"></a>Использование параметра Unlock для разблокировки отпечатков пальцев в Windows 10
 
@@ -24,7 +25,7 @@ ms.locfileid: "42588328"
 
 Чтобы разблокировать Windows 10 с помощью отпечатка пальца, необходимо настроить отпечаток Windows Hello, добавив (разрешив распознаванию Windows) по крайней мере один палец. 
 
-1. Перейдите в раздел **параметры > учетных записей > параметры входа** (или щелкните [здесь](ms-settings:signinoptions?activationSource=GetHelp)). Будут отображены доступные параметры входа. Например:
+1. Перейдите в раздел **параметры > учетных записей > параметры входа** (или щелкните [здесь](ms-settings:signinoptions?activationSource=GetHelp)). Будут отображены доступные параметры входа. Пример:
 
     ![Параметры входа.](media/sign-in-options.png)
 
