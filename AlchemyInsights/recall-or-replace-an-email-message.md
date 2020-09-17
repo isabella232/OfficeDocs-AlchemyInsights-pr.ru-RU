@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: e958dab159e4dcc11f9c068bded3aa06ccd65c15
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2e711679e7db7293d9e7e6f68d0662f03047c23d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509469"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799217"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Отзыв или замена сообщения электронной почты в Microsoft 365
 
@@ -40,6 +41,6 @@ ms.locfileid: "44509469"
 ***Поиск и удаление сообщений электронной почты в Организации*** Для поиска и удаления сообщений электронной почты в организации проще всего сделать глобальным администратором. Если вы не являетесь глобальным администратором, необходимо добавить свою учетную запись в группу ролей диспетчера eDiscovery или в роль управления поиском соответствия требованиям. Чтобы удалить сообщения, необходимо присоединиться к группе ролей Управление организацией или ролью управления поиска и очистки. Разрешения для этих ролей назначаются в [центре безопасности & соответствия требованиям](https://protection.office.com/).
 
 1. [Создайте поиск контента](https://docs.microsoft.com/microsoft-365/compliance/content-search) , чтобы найти сообщение, которое требуется удалить.
-2. [Подключитесь к PowerShell в Центре безопасности и соответствия требованиям](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+2. [Подключитесь к Центру безопасности и соответствия требованиям PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
 Если вы используете MFA, ознакомьтесь со статьей [Подключение к Microsoft 365 security & PowerShell центра соответствия требованиям с использованием многофакторной проверки подлинности](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
