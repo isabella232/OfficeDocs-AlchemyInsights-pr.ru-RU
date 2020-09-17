@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: 3397d3b195beea97dca354b7d6f23fc5e1c15d27
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 75ba2aba181d2689a05e3315a8b362877445c80c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580910"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808468"
 ---
-# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a><span data-ttu-id="d2b9f-102">Отсутствуют рекомендации по устранению ошибок в OneNote 2016</span><span class="sxs-lookup"><span data-stu-id="d2b9f-102">Suggestions for resolving OneNote 2016 is missing</span></span>
+# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a><span data-ttu-id="0c16d-102">Отсутствуют рекомендации по устранению ошибок в OneNote 2016</span><span class="sxs-lookup"><span data-stu-id="0c16d-102">Suggestions for resolving OneNote 2016 is missing</span></span>
 
-<span data-ttu-id="d2b9f-103">Начиная с 2020 марта при установке Office 365 или Office 2019, классическое приложение OneNote будет установлено вместе с классическими приложениями Word, PowerPoint и Excel.</span><span class="sxs-lookup"><span data-stu-id="d2b9f-103">Starting in March 2020, when you install Office 365 or Office 2019, the OneNote desktop app will be installed alongside the Word, PowerPoint, and Excel desktop apps.</span></span>
+<span data-ttu-id="0c16d-103">Начиная с 2020 марта при установке Office 365 или Office 2019, классическое приложение OneNote будет установлено вместе с классическими приложениями Word, PowerPoint и Excel.</span><span class="sxs-lookup"><span data-stu-id="0c16d-103">Starting in March 2020, when you install Office 365 or Office 2019, the OneNote desktop app will be installed alongside the Word, PowerPoint, and Excel desktop apps.</span></span>
 
-<span data-ttu-id="d2b9f-104">После установки Microsoft Office 2019 или Office 365 на компьютере с любой версией Windows 10, OneNote 2016 не отображается в списке установленных приложений для настольных ПК.</span><span class="sxs-lookup"><span data-stu-id="d2b9f-104">After installing Microsoft Office 2019 or Office 365 on a PC running any edition of Windows 10, OneNote 2016 appears to be missing from the list of installed desktop applications.</span></span>
+<span data-ttu-id="0c16d-104">После установки Microsoft Office 2019 или Office 365 на компьютере с любой версией Windows 10, OneNote 2016 не отображается в списке установленных приложений для настольных ПК.</span><span class="sxs-lookup"><span data-stu-id="0c16d-104">After installing Microsoft Office 2019 or Office 365 on a PC running any edition of Windows 10, OneNote 2016 appears to be missing from the list of installed desktop applications.</span></span>
 
-<span data-ttu-id="d2b9f-105">Выполните [указанные ниже действия](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) , чтобы получить дополнительные сведения о том, как скачать 32/или 64 – разрядный выпуск OneNote 2016 для Windows.</span><span class="sxs-lookup"><span data-stu-id="d2b9f-105">Follow [these steps](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) for more information on how to download the 32-bit or 64-bit edition of OneNote 2016 for Windows.</span></span>
+<span data-ttu-id="0c16d-105">Выполните [указанные ниже действия](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) , чтобы получить дополнительные сведения о том, как скачать 32/или 64 – разрядный выпуск OneNote 2016 для Windows.</span><span class="sxs-lookup"><span data-stu-id="0c16d-105">Follow [these steps](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) for more information on how to download the 32-bit or 64-bit edition of OneNote 2016 for Windows.</span></span>
