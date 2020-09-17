@@ -6,24 +6,25 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: 1ab7357250974c220a4f558b3a1f24c5c605872a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a7856a9e59ca7bb61a081fc2c61022cbee55f3f1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721998"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802502"
 ---
 # <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Сменщик вотре МОТ де Pass данс Outlook.com
 
 Вотре МОТ de Pass Outlook.com EST Le мêме Que вотре МОТ де Pass Компте Майкрософт.
 
-1. Аккéдез à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et сéлектионнез **сéкуритé du МОТ де Pass**.
+1. Аккéдез à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et Сéлектионнез **сéкуритé du МОТ де Pass**.
 2. Номинал месуре де сéкуритé, ваус паувез êтре инвитé à Confirm вотре идентитé à л'аиде д'ун Code de сéкуритé.
 3. Ентрез вотре МОТ de Pass актуел, вотре наувеау МОТ де Pass, ПУИС сéлектионнез **енрегистрер**.
 

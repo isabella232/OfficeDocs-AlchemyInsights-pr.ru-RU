@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 817cedde2aa6bcd5f6bc2609d150a782ba085771
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 57112a1fe9e407d1f95c26fac86c0ae0b60d98d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581136"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802934"
 ---
 # <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a>Значки или сочетания клавиш для приложения Office пусты, не заполнены или дублируются
 
