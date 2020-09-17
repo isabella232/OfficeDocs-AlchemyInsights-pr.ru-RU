@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 975609294a4fd564c99594269bb4c348ad1d4191
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 690935623685712959c6544752c5df06f7d9da01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579734"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778332"
 ---
 # <a name="manage-access-requests"></a>Управление запросами на доступ
 
@@ -28,7 +29,7 @@ ms.locfileid: "44579734"
     
 3. Чтобы предоставить пользователю разрешения по отдельности, нажмите кнопку **утвердить** или **отклонить**. Чтобы выбрать определенный уровень разрешений, сначала щелкните многоточие (...) рядом с именем этого пользователя. Кроме того, добавьте пользователя в группу, имеющую разрешение на доступ к сайту. Для сайтов связи и классических сайтов группы это можно сделать на странице "Параметры сайта". Для сайтов, принадлежащих группе Microsoft 365, можно добавить пользователя в группу.
     
-    [Управление запросами на доступ](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Управление запросами на доступ ](https://go.microsoft.com/fwlink/?linkid=2008747)
     
     [Дополнительные сведения об уровнях разрешений](https://go.microsoft.com/fwlink/?linkid=867071)
     
