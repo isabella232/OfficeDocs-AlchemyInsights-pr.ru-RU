@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f883b0218dfa318eda633f97dbbc9b992c9d4340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744162"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815546"
 ---
 # <a name="how-to-verify-your-domain"></a>Проверка домена
 
-Чтобы проверить домен, следуйте указаниям [мастера добавления домена](https://portal.office.com/adminportal/home#/Domains/Wizard)или вручную перейдите к разделам **установки**  >  **Domains**  >  **Добавить домен**.
+Чтобы проверить домен, следуйте указаниям [мастера добавления домена](https://admin.microsoft.com/Adminportal#/Domains/Wizard)или вручную перейдите к разделам **установки**  >  **Domains**  >  **Добавить домен**.
 
 Для получения дополнительных сведений об изменениях DNS, необходимых для проверки домена, ознакомьтесь со статьями, приведенными в статье [Add DNS Records to Connect The Domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 

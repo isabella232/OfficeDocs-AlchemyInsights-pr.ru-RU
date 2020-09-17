@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3047"
 - "9000592"
-ms.openlocfilehash: 260c9b74fdd99bb1ecef58307d1ac7629c05909a
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: c0bca112ea345dedc7fa5e9cfa4e65866e6a8aa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554271"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812488"
 ---
 # <a name="common-issues-with-tables"></a>Распространенные проблемы с таблицами 
 
@@ -24,7 +25,7 @@ ms.locfileid: "37554271"
 
 В статье [Открытие документа после ошибки повреждения файлов](https://support.office.com/article/47df9d48-2165-4411-a699-1786ac734bc3) для восстановления поврежденной таблицы в Word:
 
- 1. В Word выберите **файл** > **Открыть** > **Обзор**.
+ 1. В Word выберите **файл**  >  **Открыть**  >  **Обзор**.
  2. Выберите файл с поврежденной таблицей.
  3. Нажмите стрелку рядом с пунктом **Открыть**, а затем выберите команду **Открыть и восстановить**.
 
