@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: d44d0bd3eefe0c50e05bff0dab1f3515a1e6ffc2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f682944a9f06da15bfe61c63db320a0c1cc4028
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669044"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816374"
 ---
-# <a name="verify-your-domain-with-dreamhost"></a><span data-ttu-id="a528d-102">Проверка домена с помощью Dreamhost</span><span class="sxs-lookup"><span data-stu-id="a528d-102">Verify your domain with Dreamhost</span></span>
+# <a name="verify-your-domain-with-dreamhost"></a><span data-ttu-id="e8a7c-102">Проверка домена с помощью Dreamhost</span><span class="sxs-lookup"><span data-stu-id="e8a7c-102">Verify your domain with Dreamhost</span></span>
 
-<span data-ttu-id="a528d-103">Чтобы проверить домен, необходимо добавить запись TXT в ваш регистратор доменных имен, чтобы убедиться, что вы владеете доменом.</span><span class="sxs-lookup"><span data-stu-id="a528d-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="e8a7c-103">Чтобы проверить домен, необходимо добавить запись TXT в ваш регистратор доменных имен, чтобы убедиться, что вы владеете доменом.</span><span class="sxs-lookup"><span data-stu-id="e8a7c-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="a528d-104">Для начала следуйте указаниям [мастера добавления доменов](https://portal.office.com/adminportal/home#/Domains) , **Settings** выбрав пункт \> **домены**параметров, а затем **Добавить домен**.</span><span class="sxs-lookup"><span data-stu-id="a528d-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="e8a7c-104">Для начала следуйте указаниям [мастера добавления доменов](https://admin.microsoft.com/Adminportal#/Domains) , **Settings** выбрав пункт \> **домены**параметров, а затем **Добавить домен**.</span><span class="sxs-lookup"><span data-stu-id="e8a7c-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="a528d-105">Пошаговые инструкции по [созданию записей DNS на сайте Dreamhost для Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) .</span><span class="sxs-lookup"><span data-stu-id="a528d-105">See [Create DNS records at Dreamhost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) for step-by-step instructions.</span></span>
+<span data-ttu-id="e8a7c-105">Пошаговые инструкции по [созданию записей DNS на сайте Dreamhost для Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) .</span><span class="sxs-lookup"><span data-stu-id="e8a7c-105">See [Create DNS records at Dreamhost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) for step-by-step instructions.</span></span>
