@@ -1,8 +1,8 @@
 ---
 title: Управление лицензией Advanced Threat protection
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715394"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287115"
 ---
 # <a name="advanced-threat-protection-license-management"></a>Управление лицензией Advanced Threat protection
 
 Управление лицензиями Office 365 Advance Threat protection (ATP) можно выполнить в  **центре администрирования Microsoft 365**.
 
-- Чтобы приобрести Office 365 Advanced Threat Protection, **перейдите к разделу**  >  [Услуги по приобретению приобретений](https://go.microsoft.com/fwlink/p/?linkid=868433), выберите страницу **надстройки** в **других категориях, которые могут вас заинтересовать**, выберите план Advanced Threat Protection, который вы хотите приобрести, и выберите количество пользователей, которые будут использовать Advanced Threat protection. Дополнительные сведения можно найти в статье [Подписка на покупку](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Чтобы назначить лицензии Office 365 Advance Threat Protection, перейдите к разделу лицензии на **выставление счетов**  >  **Licenses**. Дополнительную информацию можно узнать в статье  [Назначение лицензий](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
-- Чтобы добавить или удалить лицензии Office 365 Advance Threat Protection, перейдите к разделу **выставление счетов**по  >  **продуктам**, найдите подписку, в которую вы хотите добавить или удалить лицензии, и выберите **Добавить или удалить лицензии**.  
-- Дополнительные сведения см. в статье [Добавление и удаление лицензий](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)в вашей бизнес-подписке.
+- Для приобретения Office 365 Advance Threat protection:
+    1. Перейдите в раздел Услуги по **выставлению счетов**  >  [покупки](https://go.microsoft.com/fwlink/p/?linkid=868433).
+    2. В нижней части страницы выберите **надстройки**.
+    3. На странице " **Покупка служб** " выберите план Advanced Threat Protection, который вы хотите приобрести, введите число пользователей, которым требуется лицензия, а затем **нажмите кнопку извлечь**. Дополнительные сведения можно найти [в статье Покупка надстройки](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+- Чтобы назначить лицензии Office 365 Advance Threat Protection, перейдите к разделу лицензии на **выставление счетов**  >  **Licenses**. Дополнительную информацию можно узнать [в статье Назначение лицензий пользователям](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Чтобы добавить или удалить лицензии из Office 365 Advance Threat Protection, перейдите к разделу **выставление счетов**по  >  **продуктам**. Выберите подписку, которую вы хотите обновить, а затем выберите **приобрести лицензии** или ***Удалить лицензии**. Дополнительные сведения можно найти в статье [Покупка и удаление лицензий на подписку](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
