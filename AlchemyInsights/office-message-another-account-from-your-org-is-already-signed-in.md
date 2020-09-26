@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802826"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236031"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Сообщение в приложениях Microsoft 365: "К сожалению, кто-то из вашей организации уже вошел в систему"
 
@@ -32,6 +32,8 @@ ms.locfileid: "47802826"
 - Щелкните значок **+**, чтобы добавить или отключить свою учетную запись. Введите учетные данные и дождитесь завершения процесса.
 
 - Запустите приложение Office и при необходимости повторите вход. 
+
+**Совет**: на компьютерах с Windows можно диагностировать и автоматически устранять некоторые распространенные проблемы с входом в Office. Для использования нашего автоматического инструмента скачайте и запустите **[Помощник по поддержке и восстановлению Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)**.
 
 Если проблема не исчезнет, попробуйте выполнить следующие действия. 
 
