@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 406bc40fbe8a6306a2f74506ef1daf70b37283d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0363d6bdecdb266a5f4a3a14bd496ede6bb9931
+ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812128"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48305456"
 ---
 # <a name="configure-endpoint-dlp"></a>Настройка защиты от потери данных в конечной точке
 
@@ -32,3 +32,13 @@ ms.locfileid: "47812128"
 - Создайте политики защиты от потери данных для защиты конфиденциальных элементов. Дополнительные сведения см. в статье [Сценарии политики защиты от потери данных в конечной точке](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
 
 Дополнительные сведения о защите от потери данных можно найти в статье [Подробнее о защите от потери данных Microsoft Endpoint в Microsoft 365 (предварительная версия)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
+
+**Важные шаги сбора данных, если требуется поддержка:**
+
+1. Скачайте предварительную версию анализатора клиентов MDATP с сайта [http://aka.ms/betamdatpanalyzer](http://aka.ms/betamdatpanalyzer "http://aka.ms/betamdatpanalyzer")
+2. Запустите средство от имени администратора из окна командной строки:
+3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
+4. При появлении запроса "Введите количество минут для сбора трассировок:" введите количество минут, необходимое для выполнения сценария
+5. Выполните сценарий
+
+Получите выходной ZIP-файл для предоставления агенту службы поддержки.
