@@ -13,16 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003299"
 - "6210"
-ms.openlocfilehash: 5aa03307d1ef8e1b46f90c3af2afc419a0796e08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9003562"
+- "6663"
+ms.openlocfilehash: f700f856ca6e914bd42cd2458c6dfc7d6999b643
+ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734447"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "48333663"
 ---
 # <a name="camera-isnt-working-in-teams"></a>В Teams не работает камера
 
 Попробуйте выполнить действия, приведенные в статье [В Teams не работает камера](https://support.microsoft.com/office/my-camera-isn-t-working-in-teams-9581983b-c6f9-40e3-b0d8-122857972ade).
 
 Если пошаговые инструкции по устранению неполадок не помогли, попробуйте обновить или переустановить драйвер камеры и убедитесь, что камеру не блокирует антивирусная программа стороннего производителя.
-
