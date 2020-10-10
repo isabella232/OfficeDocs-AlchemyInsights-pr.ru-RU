@@ -2,36 +2,32 @@
 title: Отмена подписки на проект
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 0a10e2de14bd42412097d94bb846b34db414cb00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683536"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416476"
 ---
 # <a name="cancel-project-subscription"></a>Отмена подписки на проект
 
-Администраторы могут отменить подписку на проект для своей организации с помощью **центра администрирования Microsoft 365**.
+Администраторы могут отменить подписку на проект для своей организации в центре администрирования Microsoft 365.
 
-1. Перейдите на страницу **выставление счетов > [вашей продукции](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+1. Перейдите на страницу **выставление счетов** по \> [продуктам](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. На вкладке **продукты** Найдите подписку на проект, которую вы хотите отменить. Выберите **Дополнительные действия** (три точки), а затем выберите **Отменить подписку**.
+3. В области **Отмена подписки** выберите причину, по которой вы отменяются. При необходимости укажите любые отзывы.
+4. Нажмите **Сохранить**.
 
-2. Откройте план проекта, который требуется отменить.
-
-3. Нажмите кнопку **Отменить подписку**.
-
-**Возмещение: любой кредит будет возвращен в следующий цикл выставления счетов.**
-
-**Note**: Если вы не видите параметр Cancel (Отмена), щелкните подписку, чтобы просмотреть сведения, и в разделе **Параметры & действиях**будет отображаться параметр **отказаться от подписки** .
+**Возврат:** Любой кредит будет возвращен в течение следующего цикла выставления счетов.
 
 Чтобы узнать больше, ознакомьтесь со статьей [Отмена подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
