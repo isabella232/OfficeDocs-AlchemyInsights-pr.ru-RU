@@ -1,8 +1,8 @@
 ---
 title: Отмена подписки Майкрософт
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683271"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416465"
 ---
-# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="4534f-102">Отмена подписки Майкрософт</span><span class="sxs-lookup"><span data-stu-id="4534f-102">Cancel your Microsoft subscription</span></span>
+# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="5547c-102">Отмена подписки Майкрософт</span><span class="sxs-lookup"><span data-stu-id="5547c-102">Cancel your Microsoft subscription</span></span>
 
-1. <span data-ttu-id="4534f-103">Перейдите в раздел [Службы и подписки](https://account.microsoft.com/services/) и войдите в систему с помощью учетной записи Майкрософт, которую вы использовали при приобретении подписки.</span><span class="sxs-lookup"><span data-stu-id="4534f-103">Go to [Services & subscriptions](https://account.microsoft.com/services/), and sign in with the Microsoft account you used when purchasing your subscription.</span></span>
+<span data-ttu-id="5547c-103">Администраторы могут отменить подписку для своей организации в Центре администрирования Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="5547c-103">Admins can cancel the subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-2. <span data-ttu-id="4534f-104">Найдите свою подписку и щелкните **Управление**.</span><span class="sxs-lookup"><span data-stu-id="4534f-104">Find your subscription and click **Manage**.</span></span> <span data-ttu-id="4534f-105">Если элемент **Включить автоматическое продление** отображается вместо элемента **Управление**, перейдите к разделу "Устранение неполадок". В противном случае перейдите к шагу 3.</span><span class="sxs-lookup"><span data-stu-id="4534f-105">If you see **Turn on recurring billing** instead of **Manage**, skip to the Troubleshooting section;  otherwise proceed to step 3.</span></span>
+1. <span data-ttu-id="5547c-104">Перейдите на страницу **Выставление счетов** \> [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="5547c-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="5547c-105">На вкладке **Продукты** найдите подписку, которую хотите отменить.</span><span class="sxs-lookup"><span data-stu-id="5547c-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="5547c-106">Нажмите **Дополнительные действия** (три точки) и выберите **Отменить подписку**.</span><span class="sxs-lookup"><span data-stu-id="5547c-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="5547c-107">В области **Отмена подписки** выберите причину, по которой вы отменяете подписку.</span><span class="sxs-lookup"><span data-stu-id="5547c-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="5547c-108">Вы можете предоставить отзыв.</span><span class="sxs-lookup"><span data-stu-id="5547c-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="5547c-109">Нажмите **Сохранить**.</span><span class="sxs-lookup"><span data-stu-id="5547c-109">Select **Save**.</span></span>
 
-3. <span data-ttu-id="4534f-106">На следующей странице щелкните **Отмена** либо **Обновление или отмена** в зависимости от типа подписки.</span><span class="sxs-lookup"><span data-stu-id="4534f-106">On the next page, click **Cancel** or **Upgrade or Cancel**, depending on your subscription type.</span></span>
-
-4. <span data-ttu-id="4534f-107">Чтобы продолжить отмену, следуйте инструкциям на этой странице.</span><span class="sxs-lookup"><span data-stu-id="4534f-107">Follow the instructions on the page to proceed with cancellation.</span></span>
+<span data-ttu-id="5547c-110">**Возмещение:** Пропорциональная сумма будет возвращена вам в следующем цикле выставления счетов.</span><span class="sxs-lookup"><span data-stu-id="5547c-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
