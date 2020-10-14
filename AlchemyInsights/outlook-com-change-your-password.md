@@ -14,19 +14,19 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: be55be6a97b59ed4007b6779987fe3623f210f02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752804"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452313"
 ---
-# <a name="change-your-password"></a><span data-ttu-id="18ea4-102">Изменение пароля</span><span class="sxs-lookup"><span data-stu-id="18ea4-102">Change your password</span></span>
+# <a name="change-your-password"></a><span data-ttu-id="e53af-102">Изменение пароля</span><span class="sxs-lookup"><span data-stu-id="e53af-102">Change your password</span></span>
 
-<span data-ttu-id="18ea4-103">Пароль Outlook.com такой же, как и пароль вашей учетной записи Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="18ea4-103">Your Outlook.com password is the same as your Microsoft account password.</span></span>
+<span data-ttu-id="e53af-103">Пароль Outlook.com такой же, как и пароль вашей учетной записи Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="e53af-103">Your Outlook.com password is the same as your Microsoft account password.</span></span>
   
-<span data-ttu-id="18ea4-104">Чтобы изменить пароль, перейдите на страницу [Безопасность учетной записи Майкрософт](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) и выберите **Защита паролем**.</span><span class="sxs-lookup"><span data-stu-id="18ea4-104">To change your password, go to [Microsoft account security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) and select **Password security**.</span></span>
+<span data-ttu-id="e53af-104">Чтобы изменить пароль, перейдите на страницу [Безопасность учетной записи Майкрософт](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) и выберите **Защита паролем**.</span><span class="sxs-lookup"><span data-stu-id="e53af-104">To change your password, go to [Microsoft account security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) and select **Password security**.</span></span>
   
-<span data-ttu-id="18ea4-105">Если вы забыли пароль, перейдите на страницу " [восстановление учетной записи](https://go.microsoft.com/fwlink/p/?linkid=841909) ".</span><span class="sxs-lookup"><span data-stu-id="18ea4-105">If you forgot your password, go to the [Recover your account](https://go.microsoft.com/fwlink/p/?linkid=841909) page.</span></span>
+<span data-ttu-id="e53af-105">Если вы забыли пароль, перейдите на страницу " [восстановление учетной записи](https://go.microsoft.com/fwlink/p/?linkid=841909) ".</span><span class="sxs-lookup"><span data-stu-id="e53af-105">If you forgot your password, go to the [Recover your account](https://go.microsoft.com/fwlink/p/?linkid=841909) page.</span></span>
   
-<span data-ttu-id="18ea4-106">Дополнительные сведения см в разделе [изменение пароля в Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="18ea4-106">To learn more, see [Change your password in Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="e53af-106">Дополнительные сведения см в разделе [изменение пароля в Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="e53af-106">To learn more, see [Change your password in Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
