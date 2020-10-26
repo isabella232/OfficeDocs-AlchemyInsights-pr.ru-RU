@@ -13,29 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: 1cc6173c1efcf46081781d5836b71ce19cfa7bc2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 144480dbed8b74f8b395b6b80c586038a1f12697
+ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695084"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "48753684"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>Управление записями собраний для образования
 
-С **20 августа 2020 г.**, если пользователи с лицензиями A1 (включая A1 Plus) запускают запись собрания Teams, эта запись будет доступна в течение 21 дня.
+С **20 августа 2020 г.** , если пользователи с лицензиями A1 (включая A1 Plus) запускают запись собрания Teams, эта запись будет доступна в течение 21 дня.
 
 Дополнительные сведения, в том числе о том, как сохранить собрание в другом месте, см. в статье [Передача записи собраний Microsoft Teams в Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
 
-Администраторам учебных организаций рекомендуется использовать пакеты политик для безопасности учащихся и преподавателей. См. также:
+Записи собраний Microsoft Teams теперь можно хранить в OneDrive и SharePoint. Для получения дополнительных сведений и участия см. следующую публикацию в центре сообщений:
 
-- [Пакеты политик в Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
-    
-- [Политики, которые требуется назначить для безопасности учащихся](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+[(Обновлено) Microsoft Teams: сохранение записей собраний в OneDrive и SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640).
 
-- [Политики, которые требуется назначить преподавателям](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+При перемещении расположения хранилища в OneDrive и SharePoint исключается действовавшее ранее требования о доступности Stream в вашем регионе.
 
-Если вы хотите управлять только возможностью записи собраний, см. раздел [Включение и выключение записи в облаке](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).  
+Если нужно **запретить или разрешить** учащимся записывать собрания в Teams, рекомендуем использовать пакеты политик, чтобы обеспечить безопасность учащихся и преподавателей. См. также:
 
-**Примечание.** Возможности записи собраний Teams зависят от доступности Stream в стране или регионе. Если у вас не получается записать собрание, см. статью [В каких регионах Microsoft Stream хранит мои данные?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in) 
+[Пакеты политик в Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).
+
+[Политики, которые требуется назначить для безопасности учащихся](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+
+[Политики, которые требуется назначить преподавателям](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+
+Если вы хотите управлять только возможностью записи собраний, см. раздел [Включение и выключение записи в облаке](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
+
+**Примечание** . Если вы еще не воспользовались хранилищем OneDrive и SharePoint для записи собраний Teams, обратите внимание, что эти возможности зависят от доступности Stream в вашей стране или регионе. Если у вас не получается записать собрание, см. статью [В каких регионах Microsoft Stream хранит мои данные?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
 
 Дополнительные сведения см. в статье [Обновленная функция: региональное управление хранилищем облачных записей Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
