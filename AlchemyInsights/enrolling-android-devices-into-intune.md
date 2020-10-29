@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784320"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791271"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Регистрация устройств с Android в Intune
 
-Intune поддерживает регистрацию следующих устройств с Android:
-- Samsung Knox и Зебра
-- Рабочий профиль Android Enterprise
-- Специальное предприятие для Android
-- Полностью управляемый Android Enterprise
+Если вы хотите перенести пользователей с учетной записью администратора устройств Android на Android Enterprise, ознакомьтесь с [разработкой: перемещение устройств Android с администратора устройств в Управление профилями работ](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Перед настройкой регистрации устройств с Android [изучите предварительные требования] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
+Intune поддерживает регистрацию следующих устройств с Android:  
 
-Сведения об устранении неполадок с регистрацией устройств в целом и некоторых ошибках регистрации Android приведены [в разделе Устранение неполадок с регистрацией устройств в Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+- [Samsung Knox, Зебра, администратор устройств](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Рабочий профиль Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Специальное предприятие для Android](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Полностью управляемый Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Вы также можете использовать [содержимое, описывающее статью об устранении неполадок Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , чтобы определить, какие проблемы енролмент у ваших пользователей.
+Перед настройкой регистрации устройств для Android [Изучите предварительные требования](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
+Сведения об устранении неполадок с регистрацией устройств в целом и некоторых ошибках регистрации Android приведены [в разделе Устранение неполадок с регистрацией устройств в Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-
-
-
+Вы также можете использовать содержимое, описывающее статью об устранении неполадок Intune, чтобы определить, какие проблемы енролмент у ваших пользователей.
