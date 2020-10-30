@@ -1,5 +1,5 @@
 ---
-title: Office 365 Advanced Threat Protection
+title: Защитник Майкрософт для Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696634"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801240"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+# <a name="microsoft-defender-for-office-365"></a>Защитник Майкрософт для Office 365
 
-- Безопасные вложения, безопасные ссылки и защита от фишинга входят в состав Office 365 Advanced Threat protection (ATP). Корпоративный, образование A5 и Microsoft 365 бизнес премиум включают ATP. Для всех остальных планов требуется подписка на надстройку ATP.
+- Безопасные вложения, безопасные ссылки и защита от фишинга входят в состав защитника Майкрософт для Office 365 (ATP). Корпоративный, образование A5 и Microsoft 365 бизнес премиум включают ATP. Для всех остальных планов требуется подписка на надстройку ATP.
 
 - Необходимо назначить соответствующие лицензии для защиты пользователей в Office 365 ATP. В [этом разделе](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) приведены инструкции по массовому применению лицензий для пользователей.
 
-- Глобальные администраторы или Администраторы безопасности могут получать доступ к функциям Office 365 ATP в центре безопасности & соответствия требованиям в политике **угроз манагминт** \> **Policy**.
+- Глобальные администраторы или Администраторы безопасности могут получать доступ к функциям Office 365 ATP в центре безопасности & соответствия требованиям в политике **угроз манагминт** \> **Policy** .
 
 - Политики безопасных вложений и безопасных ссылок могут быть ограничены всей организацией, отдельными доменами или группами пользователей меньшего размера.
 

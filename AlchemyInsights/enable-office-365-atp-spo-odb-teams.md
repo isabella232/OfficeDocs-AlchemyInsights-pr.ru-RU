@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: c84458622ae86bcf0f9f541a3a209b4f0ff2fc3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709920"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801069"
 ---
-# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Включение расширенной защиты от угроз для Office 365 для SharePoint Online, OneDrive и Microsoft Teams
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Включение защитника Microsoft для Office 365 для SharePoint Online, OneDrive и Microsoft Teams
 
 1. Перейдите на https://protection.office.com и войдите.
-2. Выберите **Threat management**пункт  >  **Policy**  >  **безопасные вложения**политики управления угрозами.
-3. Выберите **включить ATP для SharePoint, OneDrive и Microsoft Teams**, а затем нажмите кнопку **сохранить**.
-4. Предложен В качестве глобального администратора или администратора SharePoint Online выполните командлет [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) с параметром **дисалловинфектедфиледовнлоад** , для которого задано *значение true*.
+2. Выберите **Threat management** пункт  >  **Policy**  >  **безопасные вложения** политики управления угрозами.
+3. Выберите **включить ATP для SharePoint, OneDrive и Microsoft Teams** , а затем нажмите кнопку **сохранить** .
+4. Предложен В качестве глобального администратора или администратора SharePoint Online выполните командлет [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) с параметром **дисалловинфектедфиледовнлоад** , для которого задано *значение true* .
 5. Предложен [Настройка оповещений](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) об обнаруженных файлах.
 
 > [!NOTE]
