@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674951"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019560"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Исследовательский интерфейс Microsoft Teams
 
-Исследовательский интерфейс Microsoft Teams позволяет пользователям в вашей организации, у которых есть служба Azure Active Directory (AAD) и не лицензироваться с помощью Teams, выполнять произвольную работу Teams. Администраторы могут включать и отключать эту функцию для пользователей в организации. (Более ранняя коммерческая облачная пробная версия Майкрософт называется произвольным опытом работы Teams.)
-
-Исследовательский интерфейс Microsoft Teams доступен бесплатно, пока не будет указано следующее корпоративное или продление года до или после 2021 января. В этот период пользователям лицензии на произвольную работу Майкрософт потребуется перейти на платную лицензию, включающую в себя Teams.
-
-Дополнительную информацию можно узнать [в статье управление исследовательской лицензией Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Что такое [исследовательский отдел Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Исследовательский интерфейс Microsoft Teams позволяет пользователям в вашей организации, не лицензированным для Teams, создавать произвольную работу Teams. Для получения дополнительных сведений ознакомьтесь [с разделом исследовательский Experience Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Когда будет истечь срок действия лицензии](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Исследовательская служба Microsoft Teams доступна бесплатно, пока не будет годовщина или продлена срок действия до 2021 января.
+- Как администратор, вы можете [Обновить пользователей с помощью исследовательской лицензии Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) , приобретая подписку, которая включает в себя Teams, удаляет подписку на Microsoft Teams из пользователя и назначает новую лицензию.
+- Дополнительные сведения см [.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
