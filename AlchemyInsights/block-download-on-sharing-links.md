@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 5837013a71648d5d53cd215c3e3489f3de5528d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ddd74f3875a586b4fbf49db2f01c8efb180cb005
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685755"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353483"
 ---
 # <a name="block-download-on-sharing-links"></a>Блокировать возможность скачивания по ссылкам совместного доступа
 
-Параметр **«блокировать возможность скачивания»** доступен только для **ссылок, предназначенных только для просмотра** документов Office. При выборе этого параметра пользователи, получившие доступ к файлу с помощью созданной вами ссылки, не увидят параметры скачивания, печати и копирования файла.
+Если вы предоставляете общий доступ к элементам другим пользователям в OneDrive или SharePoint, это может быть доступ только для просмотра, а не для скачивания.
 
-Администраторы могут управлять тем, отображается ли параметр «блокировать возможность скачивания» только для файлов Office или нет, путем изменения `BlockDownloadLinksFileType` параметра в[командлетах Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) или [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell.
+Дополнительные сведения см. в статье [Блокирование возможности скачивания файлов только для просмотра в SharePoint и OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
