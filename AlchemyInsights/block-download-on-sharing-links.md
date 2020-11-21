@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 5837013a71648d5d53cd215c3e3489f3de5528d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ddd74f3875a586b4fbf49db2f01c8efb180cb005
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685755"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353483"
 ---
-# <a name="block-download-on-sharing-links"></a><span data-ttu-id="12688-102">Блокировать возможность скачивания по ссылкам совместного доступа</span><span class="sxs-lookup"><span data-stu-id="12688-102">Block download on sharing links</span></span>
+# <a name="block-download-on-sharing-links"></a><span data-ttu-id="13a67-102">Блокировать возможность скачивания по ссылкам совместного доступа</span><span class="sxs-lookup"><span data-stu-id="13a67-102">Block download on sharing links</span></span>
 
-<span data-ttu-id="12688-103">Параметр **«блокировать возможность скачивания»** доступен только для **ссылок, предназначенных только для просмотра** документов Office.</span><span class="sxs-lookup"><span data-stu-id="12688-103">**Block download** is available for **view-only links** to Office documents.</span></span> <span data-ttu-id="12688-104">При выборе этого параметра пользователи, получившие доступ к файлу с помощью созданной вами ссылки, не увидят параметры скачивания, печати и копирования файла.</span><span class="sxs-lookup"><span data-stu-id="12688-104">When you select this option, people who gain access to the file via the link you created will not see options to download, print, or copy the file.</span></span>
+<span data-ttu-id="13a67-103">Если вы предоставляете общий доступ к элементам другим пользователям в OneDrive или SharePoint, это может быть доступ только для просмотра, а не для скачивания.</span><span class="sxs-lookup"><span data-stu-id="13a67-103">When you share items with others in OneDrive or SharePoint, you can give them access to view, but not download.</span></span>
 
-<span data-ttu-id="12688-105">Администраторы могут управлять тем, отображается ли параметр «блокировать возможность скачивания» только для файлов Office или нет, путем изменения `BlockDownloadLinksFileType` параметра в[командлетах Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) или [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell.</span><span class="sxs-lookup"><span data-stu-id="12688-105">Administrators can control whether the "block download" setting appears only for Office files or not by changing the `BlockDownloadLinksFileType` setting in the [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) or [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell cmdlets.</span></span>
+<span data-ttu-id="13a67-104">Дополнительные сведения см. в статье [Блокирование возможности скачивания файлов только для просмотра в SharePoint и OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)</span><span class="sxs-lookup"><span data-stu-id="13a67-104">For more information, see: [Block downloads for view-only files in SharePoint and OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)</span></span>
