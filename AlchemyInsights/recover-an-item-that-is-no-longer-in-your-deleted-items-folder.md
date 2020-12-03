@@ -1,0 +1,50 @@
+---
+title: Восстановление элемента, который больше не находится в папке "Удаленные"
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 12/2/2020
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "1800008"
+- "7320"
+ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
+ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49560713"
+---
+# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a><span data-ttu-id="453f5-102">Восстановление элемента, который больше не находится в папке "Удаленные"</span><span class="sxs-lookup"><span data-stu-id="453f5-102">Recover an item that's no longer in your Deleted items folder</span></span>
+
+<span data-ttu-id="453f5-103">Если вы не можете найти элемент в папке "Удаленные", то в папке "элементы с возможностью восстановления" появится следующее место поиска.</span><span class="sxs-lookup"><span data-stu-id="453f5-103">If you can't find an item in the Deleted Items folder, the next place to look is the Recoverable Items folder.</span></span> <span data-ttu-id="453f5-104">Это скрытая папка, в которую перемещаются элементы в следующих случаях:</span><span class="sxs-lookup"><span data-stu-id="453f5-104">This is a hidden folder that items are moved to when:</span></span>
+- <span data-ttu-id="453f5-105">Они удаляются из папки "Удаленные".</span><span class="sxs-lookup"><span data-stu-id="453f5-105">They're deleted from the Deleted Items folder.</span></span>
+- <span data-ttu-id="453f5-106">Папка "Удаленные" очищается либо политикой, установленной ИТ-администратором.</span><span class="sxs-lookup"><span data-stu-id="453f5-106">The Deleted Items folder is emptied, either by you or by a policy set by your IT administrator.</span></span>
+- <span data-ttu-id="453f5-107">Чтобы удалить элемент, выделите его и нажмите клавиши **SHIFT + DELETE**.</span><span class="sxs-lookup"><span data-stu-id="453f5-107">You delete an item by selecting it and pressing **Shift+Delete**.</span></span>
+
+<span data-ttu-id="453f5-108">Для просмотра и восстановления элементов, перемещенных в папку "элементы с возможностью восстановления":</span><span class="sxs-lookup"><span data-stu-id="453f5-108">To view and recover items that have been moved to the Recoverable Items folder:</span></span>
+1. <span data-ttu-id="453f5-109">В браузере войдите в Outlook Web App, используя URL-адрес, предоставленный пользователем, который управляет электронной почтой вашей организации.</span><span class="sxs-lookup"><span data-stu-id="453f5-109">In a web browser, sign in to Outlook Web App using the URL provided by the person who manages email for your organization.</span></span> <span data-ttu-id="453f5-110">Введите имя пользователя и пароль, а затем нажмите кнопку **войти**.</span><span class="sxs-lookup"><span data-stu-id="453f5-110">Enter your user name and password, and then select **Sign in**.</span></span>
+1. <span data-ttu-id="453f5-111">В списке папок электронной почты щелкните правой кнопкой мыши **Удаленные элементы**, а затем выберите команду **восстановить удаленные элементы..**..</span><span class="sxs-lookup"><span data-stu-id="453f5-111">In your email folder list, right-click **Deleted Items**, then select **recover deleted items...**.</span></span>
+1. <span data-ttu-id="453f5-112">При необходимости используйте поле поиска для поиска элемента, который требуется восстановить.</span><span class="sxs-lookup"><span data-stu-id="453f5-112">If necessary, use the search box to find the item that you want to recover.</span></span>
+1. <span data-ttu-id="453f5-113">Найдя элемент, выберите его и нажмите кнопку **восстановить**.</span><span class="sxs-lookup"><span data-stu-id="453f5-113">When you find the item, select it and click **recover**.</span></span>
+   <span data-ttu-id="453f5-114">Восстановленные элементы перемещаются в расположение по умолчанию для каждого типа элементов.</span><span class="sxs-lookup"><span data-stu-id="453f5-114">The recovered items are moved to the default location for each item type.</span></span>
+    - <span data-ttu-id="453f5-115">Сообщения отправляются в папку "Входящие".</span><span class="sxs-lookup"><span data-stu-id="453f5-115">Messages go to your Inbox.</span></span>
+    - <span data-ttu-id="453f5-116">Элементы календаря отправляются в календарь.</span><span class="sxs-lookup"><span data-stu-id="453f5-116">Calendar items go to your Calendar.</span></span>
+    - <span data-ttu-id="453f5-117">Контакты отправляются в папку "Контакты".</span><span class="sxs-lookup"><span data-stu-id="453f5-117">Contacts go to your Contacts folder.</span></span>
+    - <span data-ttu-id="453f5-118">Задачи перейдите в папку "задачи".</span><span class="sxs-lookup"><span data-stu-id="453f5-118">Tasks go to your Tasks folder.</span></span>
+
+<span data-ttu-id="453f5-119">**Советы по восстановлению элементов в папке "элементы с возможностью восстановления"**</span><span class="sxs-lookup"><span data-stu-id="453f5-119">**Tips for recovering items in your Recoverable Items folder**</span></span>
+
+- <span data-ttu-id="453f5-120">Дата удаления элемента в папке "элементы с возможностью восстановления" заключается в том, что элемент был перемещен в папку "Удаленные".</span><span class="sxs-lookup"><span data-stu-id="453f5-120">The deleted date for an item in the Recoverable Items folder is when the item was moved to the Deleted Items folder.</span></span> <span data-ttu-id="453f5-121">Это не дата перемещения элемента в папку "элементы с возможностью восстановления".</span><span class="sxs-lookup"><span data-stu-id="453f5-121">It's not the date the item was moved to the Recoverable Items folder.</span></span>
+- <span data-ttu-id="453f5-122">Элементы в папке "элементы с возможностью восстановления" не имеют значков, поэтому все они выглядят очень похожими.</span><span class="sxs-lookup"><span data-stu-id="453f5-122">Items in the Recoverable Items folder don't have icons, so they all look very similar.</span></span>
+    - <span data-ttu-id="453f5-123">Если вы ищете контакт, ищите элемент с именем человека, но без строки темы.</span><span class="sxs-lookup"><span data-stu-id="453f5-123">If you're looking for a contact, look for an item that has the name of the person, but no subject line.</span></span>
+    - <span data-ttu-id="453f5-124">Если вы ищете встречу в календаре, найдите элемент, для которого не задано имя пользователя или строка темы.</span><span class="sxs-lookup"><span data-stu-id="453f5-124">If you're looking for a calendar appointment, look for an item that doesn't have a person's name or a subject line.</span></span>
+    - <span data-ttu-id="453f5-125">Если вы ищете контакт, встречу в календаре или задача ищет текст этого элемента.</span><span class="sxs-lookup"><span data-stu-id="453f5-125">If you're looking for a contact, calendar appointment, or a task look for the text of that item.</span></span>
+- <span data-ttu-id="453f5-126">Чтобы восстановить несколько элементов, наведите указатель мыши на каждый элемент и установите флажок рядом с ним, нажмите кнопку **восстановить**.</span><span class="sxs-lookup"><span data-stu-id="453f5-126">To recover multiple items, hover over each item and select the checkbox next to it, click **recover**.</span></span> <span data-ttu-id="453f5-127">Кроме того, можно восстановить несколько смежных элементов, установив флажок для первого элемента, удерживая клавишу **SHIFT** , а затем установив флажок для последнего элемента.</span><span class="sxs-lookup"><span data-stu-id="453f5-127">You can also recover multiple adjacent items by selecting the checkbox for first item, holding down the **Shift** key, and then selecting the checkbox for the last item.</span></span> <span data-ttu-id="453f5-128">После выбора всех элементов нажмите кнопку **восстановить**.</span><span class="sxs-lookup"><span data-stu-id="453f5-128">When all items are selected, select **recover**.</span></span>
+- <span data-ttu-id="453f5-129">Вы можете удалить элементы из списка **Восстановление удаленных элементов** .</span><span class="sxs-lookup"><span data-stu-id="453f5-129">You can purge items from the **Recover deleted items** list.</span></span> <span data-ttu-id="453f5-130">Просто выберите элемент, а затем нажмите **очистить**.</span><span class="sxs-lookup"><span data-stu-id="453f5-130">Just select the item and then select **purge**.</span></span> <span data-ttu-id="453f5-131">Если вы удаляете элемент, вы не сможете использовать восстановление удаленных элементов, чтобы вернуть его обратно.</span><span class="sxs-lookup"><span data-stu-id="453f5-131">If you purge an item, you won't be able to use Recover deleted items to get it back.</span></span> <span data-ttu-id="453f5-132">При очистке сообщения оно не удаляется из резервных копий, которые были сделаны до очистки.</span><span class="sxs-lookup"><span data-stu-id="453f5-132">Purging a message won't remove it from any backups that were made before you purged it.</span></span>
+- <span data-ttu-id="453f5-133">В Организации может быть указано, как долго элементы в папке "элементы с возможностью восстановления" доступны для восстановления.</span><span class="sxs-lookup"><span data-stu-id="453f5-133">Your organization might have specified how long items in the Recoverable Items folder are available for recovery.</span></span> <span data-ttu-id="453f5-134">Например, может быть политика, которая удаляет все элементы в папке "Удаленные" в течение 30 дней и другую политику, которая позволяет восстанавливать элементы в папке "элементы с возможностью восстановления" в течение еще одного 14 дней.</span><span class="sxs-lookup"><span data-stu-id="453f5-134">For example, there might be a policy that deletes anything that’s been in your Deleted Items folder for 30 days and another policy that lets you recover items in the Recoverable Items folder for up to another 14 days.</span></span>
