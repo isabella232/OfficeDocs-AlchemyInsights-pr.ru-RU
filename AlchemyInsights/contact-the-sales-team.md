@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733304"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529031"
 ---
 # <a name="contact-the-sales-team"></a>Обращение в отдел продаж
 
-С помощью соединителей Microsoft Graph ваша организация может индексировать сторонние данные, чтобы отображать их в результатах Поиска (Майкрософт).
+Существует несколько способов связаться с отделом продаж Microsoft 365.
 
-- [Соединители от Майкрософт](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Соединители от наших партнеров](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Дополнительные сведения см. в статье [Обзор соединителей Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- Воспользуйтесь формой [Свяжитесь с нами](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409), чтобы специалист отдела продаж Microsoft 365 связался с вами.
+- Чтобы связаться со специалистом корпоративного лицензирования с соглашением Enterprise, перейдите на портал [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762).
