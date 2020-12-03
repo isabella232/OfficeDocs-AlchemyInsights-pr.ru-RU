@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733304"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529031"
 ---
-# <a name="contact-the-sales-team"></a><span data-ttu-id="4baae-102">Обращение в отдел продаж</span><span class="sxs-lookup"><span data-stu-id="4baae-102">Contact the Sales Team</span></span>
+# <a name="contact-the-sales-team"></a><span data-ttu-id="be10b-102">Обращение в отдел продаж</span><span class="sxs-lookup"><span data-stu-id="be10b-102">Contact the Sales Team</span></span>
 
-<span data-ttu-id="4baae-103">С помощью соединителей Microsoft Graph ваша организация может индексировать сторонние данные, чтобы отображать их в результатах Поиска (Майкрософт).</span><span class="sxs-lookup"><span data-stu-id="4baae-103">With Microsoft Graph connectors, your organization can index third-party data to appear in Microsoft Search results.</span></span>
+<span data-ttu-id="be10b-103">Существует несколько способов связаться с отделом продаж Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="be10b-103">There are a number of ways to contact the Microsoft 365 Sales Team.</span></span>
 
-- [<span data-ttu-id="4baae-104">Соединители от Майкрософт</span><span class="sxs-lookup"><span data-stu-id="4baae-104">Connectors by Microsoft</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [<span data-ttu-id="4baae-105">Соединители от наших партнеров</span><span class="sxs-lookup"><span data-stu-id="4baae-105">Connectors by our Partners</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-<span data-ttu-id="4baae-106">Дополнительные сведения см. в статье [Обзор соединителей Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span><span class="sxs-lookup"><span data-stu-id="4baae-106">For more info, see [Overview of Microsoft Graph connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span></span>
+- <span data-ttu-id="be10b-104">Воспользуйтесь формой [Свяжитесь с нами](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409), чтобы специалист отдела продаж Microsoft 365 связался с вами.</span><span class="sxs-lookup"><span data-stu-id="be10b-104">Use the  [Contact Us](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  form to have a Microsoft 365 sales expert contact you.</span></span>
+- <span data-ttu-id="be10b-105">Чтобы связаться со специалистом корпоративного лицензирования с соглашением Enterprise, перейдите на портал [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762).</span><span class="sxs-lookup"><span data-stu-id="be10b-105">To contact an Enterprise Agreement Volume Licensing expert, start with the  [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762) portal.</span></span>
