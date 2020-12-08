@@ -1,5 +1,5 @@
 ---
-title: Новичкам в Microsoft Teams
+title: Настройка Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750428"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576264"
 ---
-# <a name="new-to-microsoft-teams"></a><span data-ttu-id="40099-102">Новичкам в Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="40099-102">New to Microsoft Teams</span></span>
+# <a name="set-up-microsoft-teams"></a><span data-ttu-id="9605c-102">Настройка Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="9605c-102">Set up Microsoft Teams</span></span>
 
-<span data-ttu-id="40099-103">Прочтите статью  [Начало работы с Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span><span class="sxs-lookup"><span data-stu-id="40099-103">Check out [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span> <span data-ttu-id="40099-104">Не забудьте ознакомиться с учебными видеороликами для ИТ-администраторов Microsoft Teams, презентациями и другими материалами.</span><span class="sxs-lookup"><span data-stu-id="40099-104">Be sure to check out Microsoft Teams IT Admin Training Videos, Decks, and more information.</span></span>
+<span data-ttu-id="9605c-103">[Руководство по настройке Microsoft Teams](https://aka.ms/teamsguidance) содержит инструкции для организации по настройке рабочих пространств команд, где располагаются беседы в реальном времени с использованием сообщений, звонки, а также голосовые и видеособрания как для команд, так и для личного общения.</span><span class="sxs-lookup"><span data-stu-id="9605c-103">The  [Microsoft Teams setup guide](https://aka.ms/teamsguidance)  provides your organization with guidance to set up team workspaces that host real-time conversations through messaging, calls, and audio or video meetings for both team and private communication.</span></span> <span data-ttu-id="9605c-104">Вы получите инструкции по определению требований сети вашей организации с помощью инструмента "Планировщик сети" и помощника Teams в Центре администрирования Teams.</span><span class="sxs-lookup"><span data-stu-id="9605c-104">You'll receive instructions for determining your organization's network requirements by using the Network Planner tool and the Teams advisor within the Teams admin center.</span></span> <span data-ttu-id="9605c-105">Завершив развертывание, вы найдете в руководстве полезные ресурсы по началу использования Teams.</span><span class="sxs-lookup"><span data-stu-id="9605c-105">Once your deployment is complete, the guide includes helpful resources to get started using Teams.</span></span>
 
-<span data-ttu-id="40099-105">Если вам нужна помочь в развертывании Teams для поддержки удаленных работников (работа на дому) в связи с эпидемией вируса COVID-19, прочтите статью [Поддержка удаленных работников с помощью Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span><span class="sxs-lookup"><span data-stu-id="40099-105">If you need help deploying Teams to support Remote Workers (WFH) due to COVID-19, please review  [Support remote workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span></span> <span data-ttu-id="40099-106">Кроме того, у вас может быть право получения помощи по развертыванию в рамках программы Microsoft 365 FastTrack. Посетите [FastTrack Center](https://www.microsoft.com/fasttrack), чтобы отправить запрос.</span><span class="sxs-lookup"><span data-stu-id="40099-106">Also, you may be eligible for deployment assistance from the Microsoft 365 FastTrack Program - please visit the [FastTrack Center](https://www.microsoft.com/fasttrack) to submit a request.</span></span>
-
-<span data-ttu-id="40099-107">**Важно**. Из-за недавнего увеличения использования Teams полная настройка при назначении лицензии Teams пользователям может занять около 24 часов.</span><span class="sxs-lookup"><span data-stu-id="40099-107">**Important**: Due to a recent increase in Teams usage, when you assign a Teams license to a user, it may take around 24 hours before they'll be fully set up.</span></span> <span data-ttu-id="40099-108">До этого вы не сможете назначать пользователям политики Teams, а у пользователей может не быть доступа к определенным функциям Teams, таким как звонки или аудиоконференции.</span><span class="sxs-lookup"><span data-stu-id="40099-108">Until then, you won't be able to assign Teams policies to them, and they might not have access to some Teams features like calling and audio conferencing.</span></span>
+<span data-ttu-id="9605c-106">Дополнительные сведения см. в статье [Начало работы с Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span><span class="sxs-lookup"><span data-stu-id="9605c-106">For additional information, please see [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span>
