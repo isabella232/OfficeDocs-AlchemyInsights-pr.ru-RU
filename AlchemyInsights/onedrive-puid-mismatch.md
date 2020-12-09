@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
-ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
+ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
+ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49569180"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605722"
 ---
 # <a name="onedrive-puid-mismatch"></a>Несоответствие PUID в OneDrive
 
-Отображается [несоответствие идентификаторов](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в OneDrive для бизнеса. Выполните приведенные ниже действия, чтобы можно было как можно скорее помочь.
+Отображается [несоответствие идентификаторов](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в OneDrive для бизнеса. Чтобы помочь нам с самого начала, выполните указанные ниже действия.
 
 1. Щелкните  **контакт поддержка**, а затем —  **новый запрос на обслуживание**.
 2. В качестве  **несоответствия идентификатора пользователя сайта OneDrive** оставьте название и описание.
