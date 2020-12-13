@@ -1,5 +1,5 @@
 ---
-title: Несоответствие PUID в OneDrive
+title: Несоответствие PUID OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605722"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653273"
 ---
-# <a name="onedrive-puid-mismatch"></a>Несоответствие PUID в OneDrive
+# <a name="onedrive-puid-mismatch"></a>Несоответствие PUID OneDrive
 
-Отображается [несоответствие идентификаторов](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в OneDrive для бизнеса. Чтобы помочь нам с самого начала, выполните указанные ниже действия.
+Похоже, вы столкнулись с несоответствием [ИД](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в OneDrive для бизнеса. Чтобы помочь вам в самых ранних шагах, сделайте следующее:
 
-1. Щелкните  **контакт поддержка**, а затем —  **новый запрос на обслуживание**.
-2. В качестве  **несоответствия идентификатора пользователя сайта OneDrive** оставьте название и описание.
-3. После отправки билета обновите его, выполнив следующие сведения:
-    - Изменяемый URL-адрес сайта OneDrive.
-    - Имя участника-пользователя (UPN) затрагиваемого пользователя.
+1. Щелкните **"Обратиться в службу** поддержки", а затем **"Новый запрос на обслуживание".**
+2. Оставьте название и описание несоответствием ИД пользователя сайта **OneDrive.**
+3. После отправки билета обновим его следующими сведениями:
+    - Затронутый URL-адрес сайта OneDrive.
+    - Имя основного пользователя (UPN) затронутого пользователя.
