@@ -19,7 +19,7 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 10/10/2020
 ms.locfileid: "48416294"
 ---
-# <a name="change-exchange-online-plans"></a>Изменение планов Exchange Online
+# <a name="change-exchange-online-plans"></a>Изменить планы Exchange Online
 
 Администраторам необходимо вручную изменять планы в Центре администрирования Microsoft 365. Полное описание действий см. в статье [Изменение планов вручную](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually).
 
