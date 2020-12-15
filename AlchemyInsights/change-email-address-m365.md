@@ -19,14 +19,14 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 10/10/2020
 ms.locfileid: "48416702"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a><span data-ttu-id="184b2-102">Изменение адреса электронной почты группы Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="184b2-102">Change email address of a Microsoft 365 group</span></span>
+# <a name="change-email-address-of-a-microsoft-365-group"></a><span data-ttu-id="e369e-102">Изменение адреса электронной почты группы Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="e369e-102">Change email address of a Microsoft 365 group</span></span>
 
-<span data-ttu-id="184b2-103">Вы можете изменить адрес электронной почты группы Microsoft 365, используя Центр администрирования.</span><span class="sxs-lookup"><span data-stu-id="184b2-103">You can change the email address of a Microsoft 365 group by using the admin center.</span></span> <span data-ttu-id="184b2-104">Достаточно выбрать группу, а затем выбрать @Изменить адрес электронной почты.</span><span class="sxs-lookup"><span data-stu-id="184b2-104">Just select the group and select @edit email address.</span></span>
+<span data-ttu-id="e369e-103">Вы можете изменить адрес электронной почты группы Microsoft 365, используя Центр администрирования.</span><span class="sxs-lookup"><span data-stu-id="e369e-103">You can change the email address of a Microsoft 365 group by using the admin center.</span></span> <span data-ttu-id="e369e-104">Достаточно выбрать группу, а затем выбрать @Изменить адрес электронной почты.</span><span class="sxs-lookup"><span data-stu-id="e369e-104">Just select the group and select @edit email address.</span></span>
 
-<span data-ttu-id="184b2-105">Также можно использовать следующую команду EXO PowerShell, чтобы изменить основной SMTP-адрес группы Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="184b2-105">You can also use following the EXO PowerShell command to change the primary SMTP address of a Microsoft 365 group:</span></span>
+<span data-ttu-id="e369e-105">Также можно использовать следующую команду EXO PowerShell, чтобы изменить основной SMTP-адрес группы Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="e369e-105">You can also use following the EXO PowerShell command to change the primary SMTP address of a Microsoft 365 group:</span></span>
 
 `Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>`
 
-<span data-ttu-id="184b2-106">Пример:</span><span class="sxs-lookup"><span data-stu-id="184b2-106">Example:</span></span>
+<span data-ttu-id="e369e-106">Пример:</span><span class="sxs-lookup"><span data-stu-id="e369e-106">Example:</span></span>
 
 `et-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
