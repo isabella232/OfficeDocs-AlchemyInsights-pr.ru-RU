@@ -1,5 +1,5 @@
 ---
-title: Скачивание копии счета или запрос на копию счета в Azure
+title: Скачивание или запрос копии счета в Azure
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -19,20 +19,20 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 11/03/2020
 ms.locfileid: "48840624"
 ---
-# <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Скачивание копии счета или запрос на копию счета в Azure
+# <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Скачивание или запрос копии счета в Azure
 
 Чтобы скачать счет, вам необходимо иметь роль администратора учетной записи для подписки. Пользователь с ролью владельца, участника или читателя может скачать свой счет, если администратор учетной записи предоставил разрешение. Дополнительные сведения см. в статье [Как разрешить пользователям скачивать счета](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access#opt-in).
 
 **Скачать счет Azure (PDF-файл)**
 
-1. Выберите подписку на [Странице подписок](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) на портале Azure [в качестве пользователя, имеющего доступ к счетам](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), затем выберите **Счета**
-2. Чтобы просмотреть копию счета в формате PDF, щелкните **Скачать счет**. Если отображается **Недоступно** см. в статье [Почему не отображается счет за последний расчетный период?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Просмотреть сведения о ежедневном использовании можно, щелкнув на расчетный период. Чтобы получить счет в формате PDF и копию подробного файла о ежедневном использовании (.CSV-файл), см. раздел [Сведения о счетах и данных об использовании](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
+1. Выберите подписку на [странице подписок](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) на портале Azure [в качестве пользователя, имеющего доступ к счетам](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), затем выберите **Счета**
+2. Чтобы просмотреть копию счета в формате PDF, щелкните **Скачать счет**. Если отображается **Недоступно**, см. статью [Почему не отображается счет за последний расчетный период?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Просмотреть сведения о ежедневном использовании можно, щелкнув расчетный период. Чтобы получить счет в формате PDF и копию подробного файла о ежедневном использовании (.CSV-файл), см. раздел [Сведения о счетах и данных об использовании](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
 **Разрешить скачивание счета по подписке другим пользователям**
 
-1. Вход на портал [Azure](https://portal.azure.com/) качестве администратора учетной записи для подписки.
+1. Вход на портал [Azure](https://portal.azure.com/) в качестве администратора учетной записи для подписки.
 2. Выполните поиск по запросу "Управление затратами + выставление счетов".
 3. В левой части экрана выберите пункт **Счета**.
 4. Выберите свою подписку Azure и щелкните **Разрешить скачивание счета другим пользователям**.
-5. Щелкните **Вкл.** , а затем **Сохранить** в верхней части страницы.
+5. Щелкните **Вкл.**, а затем **Сохранить** в верхней части страницы.
