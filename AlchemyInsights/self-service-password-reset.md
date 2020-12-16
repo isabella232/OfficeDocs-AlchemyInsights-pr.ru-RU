@@ -12,23 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 693b051eb5f63a9b2eea8bce9321bbf435811269
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89bd5daa05a2466ee58b1686657e234d3c695490
+ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740199"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49676355"
 ---
-# <a name="self-service-password-reset-sspr"></a><span data-ttu-id="03ea9-102">Самостоятельный сброс пароля (SSPR)</span><span class="sxs-lookup"><span data-stu-id="03ea9-102">Self-service password reset (SSPR)</span></span>
+# <a name="self-service-password-reset-sspr"></a><span data-ttu-id="28119-102">Самостоятельный сброс пароля (SSPR)</span><span class="sxs-lookup"><span data-stu-id="28119-102">Self-service password reset (SSPR)</span></span>
 
-- <span data-ttu-id="03ea9-103">Щелкните здесь, чтобы [Предоставить пользователям право на самостоятельный сброс пароля](https://admin.microsoft.com/Adminportal/Home#/featureexplorer/security/Sspr)</span><span class="sxs-lookup"><span data-stu-id="03ea9-103">Click here to [Let users reset their own passwords](https://admin.microsoft.com/Adminportal/Home#/featureexplorer/security/Sspr).</span></span>  <span data-ttu-id="03ea9-104">Право на SSPR по умолчанию предоставлено администраторам.</span><span class="sxs-lookup"><span data-stu-id="03ea9-104">SSPR is enabled by default for Admins.</span></span>
+- [<span data-ttu-id="28119-103">Планирование развертывания самостоятельного сброса пароля</span><span class="sxs-lookup"><span data-stu-id="28119-103">Plan your self-service password reset deployment</span></span>](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
-- <span data-ttu-id="03ea9-105">Щелкните здесь, чтобы [зарегистрировать свою контактную информацию для SSPR](https://go.microsoft.com/fwlink/?linkid=849451).</span><span class="sxs-lookup"><span data-stu-id="03ea9-105">Click here to [register your SSPR contact info](https://go.microsoft.com/fwlink/?linkid=849451).</span></span>
+    <span data-ttu-id="28119-104">или</span><span class="sxs-lookup"><span data-stu-id="28119-104">or</span></span>
+- <span data-ttu-id="28119-105">[Регистрация контактных данных SSPR](https://go.microsoft.com/fwlink/?linkid=849451) (SSPR по умолчанию включена для администраторов)</span><span class="sxs-lookup"><span data-stu-id="28119-105">[Register your SSPR contact info](https://go.microsoft.com/fwlink/?linkid=849451) (SSPR is enabled by default for Admins)</span></span>
 
-<span data-ttu-id="03ea9-106">Подробнее:</span><span class="sxs-lookup"><span data-stu-id="03ea9-106">For more information:</span></span>
+    <span data-ttu-id="28119-106">Дополнительные сведения см. в следующих статьях.</span><span class="sxs-lookup"><span data-stu-id="28119-106">For more information, see:</span></span>
 
-<span data-ttu-id="03ea9-107">Основная настройка SSPR — [Предоставить пользователям право на самостоятельный сброс пароля](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="03ea9-107">Basic SSPR setup - [Let users reset their own passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords?view=o365-worldwide)</span></span>
+    <span data-ttu-id="28119-107">Основная настройка SSPR — [Предоставить пользователям право на самостоятельный сброс пароля](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)</span><span class="sxs-lookup"><span data-stu-id="28119-107">Basic SSPR setup - [Let users reset their own passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)</span></span>
 
-[<span data-ttu-id="03ea9-108">Вопросы и ответы о SSPR</span><span class="sxs-lookup"><span data-stu-id="03ea9-108">SSPR FAQ</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
+    [<span data-ttu-id="28119-108">Вопросы и ответы о SSPR</span><span class="sxs-lookup"><span data-stu-id="28119-108">SSPR FAQ</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
 
-[<span data-ttu-id="03ea9-109">Средство устранения неполадок, связанных с SSPR</span><span class="sxs-lookup"><span data-stu-id="03ea9-109">SSPR Troubleshooter</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
+    [<span data-ttu-id="28119-109">Средство устранения неполадок, связанных с SSPR</span><span class="sxs-lookup"><span data-stu-id="28119-109">SSPR Troubleshooter</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
