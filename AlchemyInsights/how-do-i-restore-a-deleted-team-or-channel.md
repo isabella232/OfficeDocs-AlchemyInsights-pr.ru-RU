@@ -1,5 +1,5 @@
 ---
-title: Восстановление удаленного иам или канала
+title: Восстановление удаленной команды или канала
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705024"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726437"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a>Восстановление удаленной группы или канала
+# <a name="how-to-restore-a-deleted-team-or-channel"></a>Восстановление удаленной команды или канала
 
-Для получения дополнительных сведений см [в разделе Восстановление удаленной команды в Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Удаленные каналы в команде можно восстановить в течение 21 дня после удаления канала.
 
-Удаленные каналы в команде можно восстановить в течение 21 дней с момента удаления канала.
+Чтобы восстановить удаленный канал, владелец команды может сделать следующее:
 
-Чтобы восстановить удаленный канал, владелец команды может выполнить следующие действия:
+1. Откройте параметры команды, выбрав 3 точки справа от имени команды.
+2. Выберите **"Управление**  >  **удаленными каналами** команды", а затем  >  выберите **"Восстановить** справа".
 
-1. Откройте параметры группы, выбрав три точки справа от имени группы.
-2. Выберите **Управление**  >  **каналами**группы  >  **удалено**, а затем нажмите кнопку **восстановить** справа.
-
-Для получения дополнительных сведений см [в разделе Восстановление удаленной команды в Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Дополнительные сведения о восстановлении команды см. в архиве или [удалении команды в Microsoft Teams — Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

@@ -1,5 +1,5 @@
 ---
-title: Изменение профиля Организации
+title: Изменение профиля организации
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: c6a9943aae9ba345b78cc3a91977b984fc8b4cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682101"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726410"
 ---
-# <a name="change-organization-profile"></a>Изменение профиля Организации
+# <a name="change-organization-profile"></a>Изменение профиля организации
 
-В центре администрирования на странице " **Settings**  >  [профиль организации](https://go.microsoft.com/fwlink/p/?linkid=2067339) " измените название, адрес, технические контактные данные и многое другое в центре администрирования.
+Измените название компании, адрес, контактные данные и другие сведения в Центре администрирования на вкладке профиля организации "Параметры  >    >  [](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) организации".
 
-Обязательно заполните все обязательные поля, помеченные звездочкой *, чтобы разрешить сохранение изменений.
+Обязательно заполните все необходимые поля с пометкой *, чтобы сохранить изменения.
 
-[Подробнее об изменениях адресов или счетов на выставление счетов](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).
+[Дополнительные сведения об изменениях адресов или адресов вы выставления счета.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)
