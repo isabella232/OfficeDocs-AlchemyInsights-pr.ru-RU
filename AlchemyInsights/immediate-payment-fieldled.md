@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: 0c5cc07399a97d27f77e761556376785d51ed9f7
-ms.sourcegitcommit: 04bc9ed287c1f90874c51f05c0d8647d6395c881
+ms.openlocfilehash: 4a4f258a7a13f02ba8fe49dd50392a4dc766b222
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49722730"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755668"
 ---
 # <a name="make-an-immediate-payment"></a>Немедленный платеж
 
-С соглашением microsoft Customer Agreement (MCA) ваши способы оплаты связаны с профилями [вы выставления счета.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+На основе описания проблемы мы нашли решение для вас. Большинство клиентов смогли самостоятельно решить свою проблему после того, как мы сдали нашу документацию.
+
+С помощью соглашения с клиентом Майкрософт (MCA) ваши способы оплаты связаны с профилями [вы выставления счета.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
 
 Если у вас есть компания MCA, методом оплаты по умолчанию является банковский перевод или банковский перевод. Получив первый счет, вы сможете найти инструкции по оплате банковским переводом или банковским переводом в нижней части первой страницы счета.
 
