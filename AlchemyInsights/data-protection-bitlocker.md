@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768830"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778206"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Включение шифрования BitLocker с помощью Intune
 
- Для настройки параметров шифрования Bitlocker для устройств с Windows можно использовать политику защиты конечных точек Intune. Дополнительные сведения см. в [настройках Windows 10 (и](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)более поздних) для защиты устройств с помощью Intune.
- 
+Для настройки параметров шифрования Bitlocker для устройств с Windows можно использовать политику защиты конечных точек Intune. Дополнительные сведения см. в [настройках Windows 10 (и](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)более поздних) для защиты устройств с помощью Intune.
+
+В дополнение к политике защиты конечных точек существует также отчет о шифровании, который предоставляет более подробное представление о состоянии шифрования для устройств. Доступ к этому отчету можно получить с портала MEM в > **Monitor,** а затем в отчете **"Настройка** и шифрование" . [](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)
+
+Если вы нашли, что bitlocker не включен ожидаемым образом или что профиль, используемый для включения Bitlocker, находится в состоянии ошибки, просмотрите отчет о шифровании, чтобы лучше понять, почему происходит это поведение.
+
+Сведения о том, как интерпретировать отчет, включая различные значения состояния шифрования, см. в подстроке "Мониторинг шифрования устройств [с помощью Intune".](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)
+
 Следует помнить, что многие новые устройства под управлением Windows 10 поддерживают автоматическое шифрование Bitlocker, которое запускается без применения политики MDM. Это может повлиять на применение политики, если настроены нестандартные параметры. Дополнительные вопросы и вопросы см. в следующих подробностях.
- 
+
 Сведения об устранении неполадок bitlocker см. в сведениях об устранении неполадок политик [BitLocker в Microsoft Intune.](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)
  
  
