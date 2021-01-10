@@ -20,18 +20,18 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 09/14/2020
 ms.locfileid: "49768480"
 ---
-# <a name="how-to-manage-add-ins-while-reading-a-message"></a><span data-ttu-id="48bbf-102">Управление надстройками при чтении сообщений</span><span class="sxs-lookup"><span data-stu-id="48bbf-102">How to manage add-ins while reading a message</span></span>
+# <a name="how-to-manage-add-ins-while-reading-a-message"></a><span data-ttu-id="628b8-102">Управление надстройками при чтении сообщений</span><span class="sxs-lookup"><span data-stu-id="628b8-102">How to manage add-ins while reading a message</span></span>
 
-1. <span data-ttu-id="48bbf-103">Выберите сообщение в Outlook в Интернете.</span><span class="sxs-lookup"><span data-stu-id="48bbf-103">In Outlook on the web, select a message.</span></span>
+1. <span data-ttu-id="628b8-103">Выберите сообщение в Outlook в Интернете.</span><span class="sxs-lookup"><span data-stu-id="628b8-103">In Outlook on the web, select a message.</span></span>
     
-2. <span data-ttu-id="48bbf-104">В верхней части списка сообщений выберите элемент **Дополнительные действия**.</span><span class="sxs-lookup"><span data-stu-id="48bbf-104">Select **More actions** at the top of the message.</span></span>
+2. <span data-ttu-id="628b8-104">В верхней части списка сообщений выберите элемент **Дополнительные действия**.</span><span class="sxs-lookup"><span data-stu-id="628b8-104">Select **More actions** at the top of the message.</span></span>
 
-3. <span data-ttu-id="48bbf-105">Перейдите в нижнюю часть списка и выберите **Получить надстройки**.</span><span class="sxs-lookup"><span data-stu-id="48bbf-105">Go to the bottom of the list and select **Get Add-ins**.</span></span>
+3. <span data-ttu-id="628b8-105">Перейдите в нижнюю часть списка и выберите **Получить надстройки**.</span><span class="sxs-lookup"><span data-stu-id="628b8-105">Go to the bottom of the list and select **Get Add-ins**.</span></span>
     
-4. <span data-ttu-id="48bbf-106">На странице "Надстройки для Outlook" выберите нужную надстройку. </span><span class="sxs-lookup"><span data-stu-id="48bbf-106">On the Add-ins for Outlook page, select the add-in you want.</span></span>
+4. <span data-ttu-id="628b8-106">На странице "Надстройки для Outlook" выберите нужную надстройку. </span><span class="sxs-lookup"><span data-stu-id="628b8-106">On the Add-ins for Outlook page, select the add-in you want.</span></span>
     
-    <span data-ttu-id="48bbf-107">Если надстройка бесплатная, выберите пункт **Добавить**, чтобы добавить эту настройку в свой почтовый ящик.</span><span class="sxs-lookup"><span data-stu-id="48bbf-107">For free add-ins, select **Add** to add it to your mailbox.</span></span>
+    <span data-ttu-id="628b8-107">Если надстройка бесплатная, нажмите **Добавить**, чтобы добавить эту настройку в свой почтовый ящик.</span><span class="sxs-lookup"><span data-stu-id="628b8-107">For free add-ins, select **Add** to add it to your mailbox.</span></span>
     
-    <span data-ttu-id="48bbf-108">Для платных надстроек и бесплатных пробных версий нажмите кнопку **Получить**, чтобы начать оформление покупки.</span><span class="sxs-lookup"><span data-stu-id="48bbf-108">For paid add-ins and free trials, select **Get it** to start your purchase.</span></span>
+    <span data-ttu-id="628b8-108">Для платных надстроек и бесплатных пробных версий нажмите кнопку **Получить**, чтобы начать оформление покупки.</span><span class="sxs-lookup"><span data-stu-id="628b8-108">For paid add-ins and free trials, select **Get it** to start your purchase.</span></span>
     
-<span data-ttu-id="48bbf-109">Дополнительную информацию см. в статье [Использование надстроек в Outlook в Интернете](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).</span><span class="sxs-lookup"><span data-stu-id="48bbf-109">For more info, see [Using add-ins in Outlook on the web](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).</span></span>
+<span data-ttu-id="628b8-109">Дополнительную информацию см. в статье [Использование надстроек в Outlook в Интернете](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).</span><span class="sxs-lookup"><span data-stu-id="628b8-109">For more info, see [Using add-ins in Outlook on the web](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).</span></span>
