@@ -3,7 +3,7 @@ title: Ошибки прокси и сертификата приложений
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/13/2021
+ms.date: 01/15/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7799"
 - "9004356"
-ms.openlocfilehash: 753d1ff2b4b803072bab0edca0331ff65a4a2c0b
-ms.sourcegitcommit: 9dbce0b688224ddd6b50ebe5d9cd1ef58bfec7b9
+ms.openlocfilehash: 743350ef31ee45f339086fb39a05835a71fabafa
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49845002"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875137"
 ---
 # <a name="application-proxy-and-certificate-issues"></a>Ошибки прокси и сертификата приложений
 
-Большинство пользователей может устранять проблемы с прокси и сертификатом приложений с помощью предлагаемых ниже статей, в которых приведены названия рекомендуемых документов.
+Чтобы устранить проблемы с прокси-сервером и сертификатом приложения, см. следующие документы.
 
 **Рекомендуемые документы**
 
