@@ -13,16 +13,16 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
+ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49847613"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50037198"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Проверка параметров пересылки электронной почты для почтового ящика
 
-Во-первых, на уровне клиента должна быть включена переадантка электронной почты. Если вы настроили переадружение электронной почты для почтового ящика, но он не работает, см. "Управление автоматической внешней пересылке электронной почты [в Microsoft 365".](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)
+Во-первых, на уровне клиента должна быть включена переадантка электронной почты. Если вы настроили пересылку электронной почты для почтового ящика, но она не работает (вы получаете сообщение об ошибке **"550 5.7.520** Доступ запрещен, ваша организация не разрешает внешнюю пересылку" ) см. статью "Управление автоматической внешней пересылке электронной почты в [Microsoft 365"](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
 
 Легко проверить параметры пересылки электронной почты в почтовом ящике! Просто выполните следующие действия.
   
