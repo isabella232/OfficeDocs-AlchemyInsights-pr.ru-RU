@@ -1,0 +1,56 @@
+---
+title: Проблемы с библиотеками проверки подлинности
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004333"
+- "7731"
+ms.openlocfilehash: ab4ffbc78a7cadd8acee3c98eaa5f3323da9c7e3
+ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50037222"
+---
+# <a name="issues-with-authentication-libraries"></a><span data-ttu-id="c0df9-102">Проблемы с библиотеками проверки подлинности</span><span class="sxs-lookup"><span data-stu-id="c0df9-102">Issues with Authentication Libraries</span></span>
+
+1. <span data-ttu-id="c0df9-103">[В библиотеках проверки подлинности платформы](https://docs.microsoft.com/azure/active-directory/develop/reference-v2-libraries) удостоверений Майкрософт перечислены поддерживаемые Корпорацией Майкрософт и совместимые библиотеки клиентского и постороннего ПО.</span><span class="sxs-lookup"><span data-stu-id="c0df9-103">[Microsoft identity platform authentication libraries](https://docs.microsoft.com/azure/active-directory/develop/reference-v2-libraries) lists Microsoft-supported and compatible client and middleware libraries.</span></span>
+2. <span data-ttu-id="c0df9-104">Библиотека проверки подлинности Майкрософт (MSAL) поддерживает несколько потоков проверки подлинности для использования в различных сценариях приложений. [](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows)</span><span class="sxs-lookup"><span data-stu-id="c0df9-104">The Microsoft Authentication Library (MSAL) supports several [authentication flows](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows) for use in different application scenarios.</span></span>
+3. <span data-ttu-id="c0df9-105">Для проверки подлинности и получения маркеров необходимо инициализировать новое открытое или конфиденциальное клиентские приложения в коде.</span><span class="sxs-lookup"><span data-stu-id="c0df9-105">To authenticate and acquire tokens, you initialize a new public or confidential client application in your code.</span></span> <span data-ttu-id="c0df9-106">При инициализации клиентского приложения в библиотеке проверки подлинности Майкрософт (MSAL) можно настроить несколько параметров конфигурации.</span><span class="sxs-lookup"><span data-stu-id="c0df9-106">You can set several configuration options when you initialize the client app in the Microsoft Authentication Library (MSAL).</span></span> <span data-ttu-id="c0df9-107">Дополнительные узнать [см. в параметрах конфигурации приложения.](https://docs.microsoft.com/azure/active-directory/develop/msal-client-application-configuration)</span><span class="sxs-lookup"><span data-stu-id="c0df9-107">To learn more, see [Application configuration options](https://docs.microsoft.com/azure/active-directory/develop/msal-client-application-configuration).</span></span>
+
+<span data-ttu-id="c0df9-108">**Окончание поддержки библиотеки проверки подлинности Azure Active Directory (ADAL) и API Azure AD Graph (AAD Graph)**</span><span class="sxs-lookup"><span data-stu-id="c0df9-108">**End of support for Azure Active Directory Authentication Library (ADAL) and Azure AD Graph API (AAD Graph)**</span></span>
+
+<span data-ttu-id="c0df9-109">**С 30 июня 2020** г. мы больше не добавим новые функции в ADAL и Azure AD Graph.</span><span class="sxs-lookup"><span data-stu-id="c0df9-109">**Starting June 30th, 2020**, we will no longer add any new features to ADAL and Azure AD Graph.</span></span> <span data-ttu-id="c0df9-110">Мы продолжим предоставлять техническую поддержку и обновления для системы безопасности, но больше не будем предоставлять обновления компонентов.</span><span class="sxs-lookup"><span data-stu-id="c0df9-110">We will continue to provide technical support and security updates but will no longer provide feature updates.</span></span>
+
+<span data-ttu-id="c0df9-111">**Начиная с 30 июня 2022** г., поддержка ADAL и Azure AD Graph будет прекратиться, и мы больше не будем предоставлять техническую поддержку или обновления для системы безопасности.</span><span class="sxs-lookup"><span data-stu-id="c0df9-111">**Starting June 30th, 2022**, we will end support for ADAL and Azure AD Graph and will no longer provide technical support or security updates.</span></span>
+
+<span data-ttu-id="c0df9-112">Приложения, использующие ADAL в существующих версиях ОС, продолжат работать после этого времени, но не будут получать техническую поддержку или обновления *для системы безопасности.*</span><span class="sxs-lookup"><span data-stu-id="c0df9-112">Apps using ADAL on existing OS versions will continue to work after this time but will not *get any technical support or security updates*.</span></span>
+
+<span data-ttu-id="c0df9-113">Приложения, использующие Azure AD Graph после этого времени, больше не будут получать ответы от конечной точки Azure AD Graph.</span><span class="sxs-lookup"><span data-stu-id="c0df9-113">Apps using Azure AD Graph after this time may no longer receive responses from the Azure AD Graph endpoint.</span></span>
+
+<span data-ttu-id="c0df9-114">**Миграция ADAL**</span><span class="sxs-lookup"><span data-stu-id="c0df9-114">**ADAL Migration**</span></span>
+
+<span data-ttu-id="c0df9-115">Мы рекомендуем выполнить обновление до [Библиотеки проверки подлинности Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), включающей новые возможности и обновления для системы безопасности.</span><span class="sxs-lookup"><span data-stu-id="c0df9-115">We recommend updating to the [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), which has the latest features and security updates.</span></span>
+
+<span data-ttu-id="c0df9-116">Если вы используете приложения Майкрософт, необходимо знать, что корпорация Майкрософт находится в процессе переноса своих приложений в MSAL до крайнего срока поддержки, обеспечивая их преимущества от текущих улучшений безопасности и функций MSAL.</span><span class="sxs-lookup"><span data-stu-id="c0df9-116">If you are using Microsoft apps, know that Microsoft is in the process of migrating its applications to MSAL by the end-of-support deadline, ensuring they will benefit from MSAL's ongoing security and feature improvements.</span></span>
+
+<span data-ttu-id="c0df9-117">Дополнительные сведения см. в указанных ниже статьях.</span><span class="sxs-lookup"><span data-stu-id="c0df9-117">For more information, see:</span></span>
+
+1. [<span data-ttu-id="c0df9-118">Ознакомьтесь с вопросами и ответами по ADAL</span><span class="sxs-lookup"><span data-stu-id="c0df9-118">Read the ADAL FAQ</span></span>](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+2. [<span data-ttu-id="c0df9-119">Сведения о миграции приложений для каждой платформы</span><span class="sxs-lookup"><span data-stu-id="c0df9-119">Learn about how to migrate apps on a per-platform basis</span></span>](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+3. <span data-ttu-id="c0df9-120">Если вам нужна помощь в понимании того, какое из ваших приложений использует ADAL, мы рекомендуем просмотреть весь исходный код своих приложений и, если применимо, связаться с любыми поставщиками программного обеспечения или поставщиками приложений.</span><span class="sxs-lookup"><span data-stu-id="c0df9-120">If you need help understanding which of your apps use ADAL, we recommend you review all of your apps' source code, and if applicable, reach out to any ISVs or app providers.</span></span> <span data-ttu-id="c0df9-121">Кроме того, служба поддержки корпорации Майкрософт может предоставить вам список всех приложений сторонних разработчиков, использующих ADAL, в вашем клиенте.</span><span class="sxs-lookup"><span data-stu-id="c0df9-121">Microsoft support can also provide you with a list of all non-Microsoft ADAL apps in your tenant.</span></span>
+
+<span data-ttu-id="c0df9-122">**Миграция приложений, использующих AAD Graph**</span><span class="sxs-lookup"><span data-stu-id="c0df9-122">**AAD Graph Migration**</span></span>
+
+<span data-ttu-id="c0df9-123">Для приложений, использующих Azure AD Graph, следуйте нашим рекомендациям по переносу приложений [Azure AD Graph в Microsoft Graph.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview)</span><span class="sxs-lookup"><span data-stu-id="c0df9-123">For applications that are using Azure AD Graph, follow our guidance to [migrate Azure AD Graph apps to Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).</span></span>
+
+1. [<span data-ttu-id="c0df9-124">Наш контрольный список миграции предоставляет точку начала работы.</span><span class="sxs-lookup"><span data-stu-id="c0df9-124">Our migration checklist provides a getting started point.</span></span>](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist)
+2. <span data-ttu-id="c0df9-125">На портале регистрации приложений Azure показано, какие приложения используют AAD Graph.</span><span class="sxs-lookup"><span data-stu-id="c0df9-125">Your Azure app registration portal shows which applications are using AAD Graph.</span></span> <span data-ttu-id="c0df9-126">Рекомендуем просмотреть исходный код всех приложений и, если возможно, связаться с независимыми поставщиками программного обеспечения (ISV) или поставщиками приложений.</span><span class="sxs-lookup"><span data-stu-id="c0df9-126">We recommend you review all of your apps' source code, and if applicable, reach out to any ISVs or app providers.</span></span> <span data-ttu-id="c0df9-127">Служба поддержки Майкрософт также может предоставить вам список всех данных об использовании AAD Graph в вашем клиенте.</span><span class="sxs-lookup"><span data-stu-id="c0df9-127">Microsoft support can also provide you with a list of all AAD Graph usage in your tenant.</span></span>
+3. <span data-ttu-id="c0df9-128">Чтобы приложение имело доступ к данным в Microsoft Graph, пользователь или администратор должен предоставить ему соответствующие разрешения с помощью процедуры получения согласия.</span><span class="sxs-lookup"><span data-stu-id="c0df9-128">For your app to access data in Microsoft Graph, the user or administrator must grant it the correct permissions via a consent process.</span></span> <span data-ttu-id="c0df9-129">В [справочнике по разрешениям Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) перечислены разрешения, связанные с каждым основным набором API Microsoft Graph.</span><span class="sxs-lookup"><span data-stu-id="c0df9-129">The [Microsoft Graph permissions reference](https://docs.microsoft.com/graph/permissions-reference) lists the permissions associated with each major set of Microsoft Graph APIs.</span></span> <span data-ttu-id="c0df9-130">В ней также приведены руководства по использованию разрешений.</span><span class="sxs-lookup"><span data-stu-id="c0df9-130">It also provides guidance about how to use the permissions.</span></span>
