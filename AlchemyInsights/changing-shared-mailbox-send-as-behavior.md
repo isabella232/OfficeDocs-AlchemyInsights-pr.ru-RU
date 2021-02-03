@@ -1,5 +1,5 @@
 ---
-title: Изменение поведения "Отправить как" для общего почтового ящика
+title: Изменение поведения общего почтового ящика "Отправить как"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 6bb54112e775068e567b8cd22313189222287202
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2cc1d4139fb017da2e483ca5cbb7ed14a44f65a
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793663"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075874"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a>Изменение поведения "Отправить как" для общего почтового ящика
+# <a name="changing-shared-mailbox-send-as-behavior"></a>Изменение поведения общего почтового ящика "Отправить как"
 
 По умолчанию сообщения, отправленные с общего почтового ящика, не сохраняются в папке "Отправленные" этого почтового ящика. Вместо этого они сохраняются в папке "Отправленные" отправителя.
   
-Если вы хотите, чтобы все участники видели отправленные сообщения электронной почты, в центре администрирования Microsoft 365, измените сведения общего почтового ящика и нажмите кнопку Изменить **Отправленные элементы** \> **Edit**.
+Если вы хотите, чтобы все участники видели отправленную электронную почту, в Центре администрирования Microsoft 365 отредактируете общие сведения о почтовом ящике и выберите "Отправленные **элементы"** \> **"Изменить".**
   
-Чтобы узнать больше, ознакомьтесь [со статьей Создание общего почтового ящика](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Дополнительные см. в подстроке ["Настройка параметров общего почтового ящика".](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies)
   
