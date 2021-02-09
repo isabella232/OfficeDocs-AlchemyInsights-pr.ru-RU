@@ -8,22 +8,21 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681846"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152443"
 ---
 # <a name="change-payment-method"></a>Изменение метода оплаты
 
-Метод оплаты можно изменить в **центре администрирования Microsoft 365**.
+Вы можете изменить способ оплаты в Центре администрирования **Microsoft 365.**
   
 1. В центре администрирования перейдите в раздел **Выставление счетов** > **Счета и платежи** > [Методы оплаты](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Выберите строку метода оплаты, который нужно заменить. В области справа выводится список всех профилей выставления счетов и отдельных подписок, использующих выбранный метод оплаты.
@@ -35,6 +34,6 @@ ms.locfileid: "47681846"
 6. В области **Добавление метода оплаты** введите сведения об учетной записи и нажмите **Сохранить**.. Необходимо использовать способ оплаты из той же страны, что и у вашего клиента.
 7. Новый способ оплаты уже выбран в раскрывающемся списке. Нажмите кнопку **Заменить**.
 
-Дополнительные сведения см. в статье [Управление методами оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Чтобы узнать, как добавлять, обновлять, заменять или удалять способы оплаты, см. в [подстройки "Управление методами оплаты".](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Чтобы узнать, как изменить оплату по кредитной карте на счета платежей, просмотрите статью [изменение с кредитной карты или банковского счета на счет](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
+Чтобы узнать, как изменить способ оплаты, обратитесь к [этой теме.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
