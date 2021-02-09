@@ -1,37 +1,35 @@
 ---
-title: Как изменить платежи кредитных карт на счет?
+title: Как изменить платежи с кредитной карты на счет-фактуру?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "433"
 - "1500001"
-ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 71f0026751fd9f4233c0de51519076cb6a0bce63
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286749"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152319"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a><span data-ttu-id="36c3c-102">Как изменить платежи кредитных карт на счет?</span><span class="sxs-lookup"><span data-stu-id="36c3c-102">How do I change from credit card payments to invoice?</span></span>
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a><span data-ttu-id="242d5-102">Как изменить платежи с кредитной карты на счет-фактуру?</span><span class="sxs-lookup"><span data-stu-id="242d5-102">How do I change from credit card payments to invoice?</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="36c3c-103">Параметр оплата с помощью счета-фактуры доступен только в том случае, если затраты на подписку относились к определенному количеству (которое зависит от местоположения службы).</span><span class="sxs-lookup"><span data-stu-id="36c3c-103">The option to pay by invoice is only available if your subscription costs over a certain amount (which varies by service location).</span></span> <span data-ttu-id="36c3c-104">Для больших выплат по счетам может потребоваться проверка кредита.</span><span class="sxs-lookup"><span data-stu-id="36c3c-104">A credit check might be required for larger invoice payments.</span></span> <span data-ttu-id="36c3c-105">Чтобы узнать больше, ознакомьтесь со статьей [Оплата за подписку](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="36c3c-105">To learn more, see [Pay for your subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).</span></span>
+> <span data-ttu-id="242d5-103">Вы можете изменить способ оплаты с помощью счета-фактуры, только если стоимость подписки превышает определенную сумму.</span><span class="sxs-lookup"><span data-stu-id="242d5-103">You can only change to paying by invoice if your subscription costs above a certain amount.</span></span> <span data-ttu-id="242d5-104">Сначала необходимо оплатить все просроченные остатки на кредитной или дебетовой карте или банковском счете, прежде чем вы сможете менить оплату по счету.</span><span class="sxs-lookup"><span data-stu-id="242d5-104">You must first pay any outstanding balance on the credit or debit card or bank account before you can change to paying by invoice.</span></span>
 
-1. <span data-ttu-id="36c3c-106">В Центре администрирования перейдите на страницу **Выставление счетов** > [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="36c3c-106">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="36c3c-107">Найдите подписку, которую вы хотите изменить.</span><span class="sxs-lookup"><span data-stu-id="36c3c-107">Find the subscription that you want to change.</span></span> <span data-ttu-id="36c3c-108">В разделе **выставление счетов**рядом с пунктом метод оплаты нажмите кнопку **изменить**.</span><span class="sxs-lookup"><span data-stu-id="36c3c-108">Under **Billing**, next to the payment method, select **Edit**.</span></span>
-3. <span data-ttu-id="36c3c-109">Рядом с существующим методом оплаты нажмите кнопку **изменить**.</span><span class="sxs-lookup"><span data-stu-id="36c3c-109">Next to your existing payment method, select **Change**.</span></span>
-4. <span data-ttu-id="36c3c-110">В раскрывающемся меню выберите пункт **накладная или перенос провода**.</span><span class="sxs-lookup"><span data-stu-id="36c3c-110">From the drop-down menu, select **Invoice or wire transfer**.</span></span>
-5. <span data-ttu-id="36c3c-111">Введите свое имя, адрес и номер телефона.</span><span class="sxs-lookup"><span data-stu-id="36c3c-111">Enter your name, address, and phone number.</span></span> <span data-ttu-id="36c3c-112">Вы также можете добавить номер заказа на покупку для отображения в счете.</span><span class="sxs-lookup"><span data-stu-id="36c3c-112">You can also add a PO number to display on the invoice.</span></span>
-6. <span data-ttu-id="36c3c-113">Когда вы закончите, выберите **Сохранить**.</span><span class="sxs-lookup"><span data-stu-id="36c3c-113">When you're finished, select **Save**.</span></span>
-7. <span data-ttu-id="36c3c-114">Убедитесь, что выбранный метод оплаты задан правильно, а затем нажмите кнопку **сохранить**.</span><span class="sxs-lookup"><span data-stu-id="36c3c-114">Verify that the selected payment method is correct, then select **Save**.</span></span>
+1. <span data-ttu-id="242d5-105">В Центре администрирования перейдите на страницу **Выставление счетов** > [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="242d5-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="242d5-106">На **вкладке** "Продукты" найдите подписку, которую вы хотите оплатить с помощью альтернативного способа оплаты.</span><span class="sxs-lookup"><span data-stu-id="242d5-106">On the **Products** tab, find the subscription that you want to pay for with the alternate payment method.</span></span>
+3. <span data-ttu-id="242d5-107">Выберите **дополнительные действия** (три точки), а затем выберите **метод оплаты Replace.**</span><span class="sxs-lookup"><span data-stu-id="242d5-107">Select **More actions** (three dots), then select **Replace payment method**.</span></span>
+4. <span data-ttu-id="242d5-108">В области **"Заменить метод оплаты"** выберите **"Добавить метод оплаты".**</span><span class="sxs-lookup"><span data-stu-id="242d5-108">In the **Replace payment method** pane, select **Add payment method**.</span></span>
+5. <span data-ttu-id="242d5-109">В области **"Добавление метода оплаты"** выберите счет **или банковский перевод.**</span><span class="sxs-lookup"><span data-stu-id="242d5-109">In the **Add a payment method** pane, select **Invoice or wire transfer**.</span></span>
+6. <span data-ttu-id="242d5-110">Введите имя, адрес и номер телефона.</span><span class="sxs-lookup"><span data-stu-id="242d5-110">Enter your name, address, and phone number.</span></span> <span data-ttu-id="242d5-111">Вы также можете добавить номер po для отображения в счете.</span><span class="sxs-lookup"><span data-stu-id="242d5-111">You can also add a PO number to display on the invoice.</span></span>
+7. <span data-ttu-id="242d5-112">Когда вы закончите, выберите **Сохранить**.</span><span class="sxs-lookup"><span data-stu-id="242d5-112">When you're finished, select **Save**.</span></span>
 
-<span data-ttu-id="36c3c-115">Чтобы узнать больше, ознакомьтесь со статьей [изменение способа оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).</span><span class="sxs-lookup"><span data-stu-id="36c3c-115">To learn more, see [Change your payment method](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).</span></span>
+<span data-ttu-id="242d5-113">Чтобы узнать больше, [узнайте, как оплатить подписку.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="242d5-113">To learn more, see [How to pay for your subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).</span></span>
