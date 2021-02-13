@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287151"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232380"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Как сделать покупку Microsoft 365
 
-Вы можете приобрести подписку на Microsoft 365 в центре администрирования.
+Вы можете приобрести подписку на Microsoft 365 в Центре администрирования.
   
-- Чтобы приобрести план, перейдите на страницу Услуги по **выставлению счетов** \> [покупки](https://go.microsoft.com/fwlink/p/?linkid=868433) .
-- Чтобы приобрести дополнительные лицензии, перейдите на страницу **выставление счетов** по \> [продуктам](https://go.microsoft.com/fwlink/p/?linkid=842054) . Выберите подписку, которую необходимо изменить, а затем выберите **приобрести лицензии** или **Удалить лицензии**.
+- Чтобы приобрести план, перейдите на страницу **"Приобретение** \> **[услуг вы выставления счета".](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- Чтобы приобрести дополнительные лицензии, перейдите на страницу **"Выставление счета** \> **[вашим продуктам".](https://go.microsoft.com/fwlink/p/?linkid=842054)** Выберите подписку, которую нужно изменить, а затем выберите **"Купить лицензии".\**
+**Посмотрите видео, в** котором показано, как это сделать: [покупка новых лицензий](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Чтобы узнать больше, ознакомьтесь со статьей [купить лицензии для подписки на Microsoft 365 для бизнеса](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Дополнительные см. в этой теме, [в этой теме вы можете приобрести или удалить лицензии.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Устранение неполадок**
 

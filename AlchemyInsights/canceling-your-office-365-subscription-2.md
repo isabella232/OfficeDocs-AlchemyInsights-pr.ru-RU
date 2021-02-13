@@ -1,9 +1,8 @@
 ---
-title: Отменяя свою подписку на Microsoft 365?
+title: Отмена подписки на Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 9ff327348002634bbef56ecce17c01caf58dd3f1
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416236"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232020"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Отменяя свою подписку на Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Отмена подписки на Microsoft 365?
 
-Приносим извинения!
+К сожалению, вас не видно!
   
-На основе данных Организации мы считаем, что все текущие подписки имеют более 25 назначенных лицензий. Удалить лицензии у пользователей, пока не будет менее 25 лицензированных пользователей. Затем перейдите на страницу **выставление счетов** по \> [продуктам](https://go.microsoft.com/fwlink/p/?linkid=842054) . На вкладке **продукты** Найдите подписку, которую требуется отменить, выберите пункт **Дополнительные действия** (три точки), а затем выберите **Отменить подписку**.
+На основе данных организации мы считаем, что всем вашим текущим подпискам назначено более 25 лицензий. Прежде чем можно будет отменить:
 
-**Возврат:** Любой кредит будет возвращен в течение следующего цикла выставления счетов.
+1. Удалите лицензии у пользователей, пока не будет менее 25 лицензированных пользователей.
+2. Перейдите на страницу **"Выставление** \> **[счета вашим продуктам".](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+3. На **вкладке** "Продукты" найдите подписку, которую нужно отменить, выберите "Дополнительные **действия"** (три точки), а затем выберите **"Отмена подписки".**
 
-Чтобы узнать больше, ознакомьтесь со статьей [Отмена подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+**Возмещение:** Пропорциональная сумма будет возвращена вам в следующем цикле выставления счетов.
+
+Дополнительные узнать см. в [подписок "Отмена подписки".](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
