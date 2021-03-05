@@ -1,9 +1,10 @@
 ---
-title: Расширенное развертывание — перехватывать все правила
+title: Advanced Deployment Catch All Rule
 ms.author: pebaum
 author: pebaum
+manager: mnirkhe
 ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +13,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 2b0ed94f65ef0aa1b5fac1f23b7f62a1425b887e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a6647dec85e495b54835e7d6c26807da4e5b621
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696705"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448656"
 ---
-# <a name="deploy-microsoft-365-apps"></a>Развертывание приложений Microsoft 365
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Установка Office с помощью консультанта по развертыванию приложений Microsoft 365
 
-Для развертывания приложений Microsoft 365 для нескольких конечных пользователей с помощью средства развертывания Office, диспетчера конфигураций конечных точек Майкрософт, в составе образа диска операционной системы или в сценарии совместного использования компьютеров с Windows Server с помощью служб удаленных рабочих столов (RDS) или служб терминалов рекомендуется использовать пошаговое руководство в статье **Microsoft 365 приложения для Enterprise Deployment Advisor**.
+Консультант по развертыванию приложений Microsoft [365](https://admin.microsoft.com/adminportal/home) помогает получать устройства пользователей, работающие с последней версией продуктов Office, таких как Word, Excel, PowerPoint и OneNote.
   
-Чтобы приступить к работе, убедитесь, что вы выполнили вход в качестве администратора клиента или глобального администратора, а затем щелкните здесь: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
+Вы получите рекомендации по различным методам развертывания, которые включают простые параметры самостоятельной установки, а также развертывания предприятий с помощью средств управления. Инструкции помогут вам оценить среду, определить конкретные требования к развертыванию и реализовать необходимые средства поддержки для обеспечения успешной установки.
   

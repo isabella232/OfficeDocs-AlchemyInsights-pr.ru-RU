@@ -1,5 +1,5 @@
 ---
-title: Управление лицензией Advanced Threat protection
+title: Microsoft Defender для управления лицензией Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+- commerce
+ms.openlocfilehash: 4dd438b964bfaf7f04c8b6fd87fe3ea3dafcd7d0
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287115"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469025"
 ---
-# <a name="advanced-threat-protection-license-management"></a>Управление лицензией Advanced Threat protection
+# <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender для управления лицензией Office 365
 
-Управление лицензиями Office 365 Advance Threat protection (ATP) можно выполнить в  **центре администрирования Microsoft 365**.
+Управление лицензией Microsoft Defender для Office 365 можно завершить в центре администрирования **Microsoft 365.**
 
-- Для приобретения Office 365 Advance Threat protection:
-    1. Перейдите в раздел Услуги по **выставлению счетов**  >  [покупки](https://go.microsoft.com/fwlink/p/?linkid=868433).
-    2. В нижней части страницы выберите **надстройки**.
-    3. На странице " **Покупка служб** " выберите план Advanced Threat Protection, который вы хотите приобрести, введите число пользователей, которым требуется лицензия, а затем **нажмите кнопку извлечь**. Дополнительные сведения можно найти [в статье Покупка надстройки](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
-- Чтобы назначить лицензии Office 365 Advance Threat Protection, перейдите к разделу лицензии на **выставление счетов**  >  **Licenses**. Дополнительную информацию можно узнать [в статье Назначение лицензий пользователям](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Чтобы добавить или удалить лицензии из Office 365 Advance Threat Protection, перейдите к разделу **выставление счетов**по  >  **продуктам**. Выберите подписку, которую вы хотите обновить, а затем выберите **приобрести лицензии** или ***Удалить лицензии**. Дополнительные сведения можно найти в статье [Покупка и удаление лицензий на подписку](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Чтобы приобрести Microsoft Defender для Office 365:
+    1. Перейдите **к службам**  >  [покупки биллинга.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+    2. В нижней части страницы выберите **надстройки.**
+    3. На странице **Службы** покупки выберите план Microsoft Defender для Office 365, который вы хотите приобрести, введите число пользователей, которым нужна лицензия, а затем выберите **Проверьте сейчас**. Дополнительные сведения см. [в статью Купить надстройку.](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
+- Чтобы назначить лицензии Microsoft Defender для Office 365, перейдите к **лицензиям на**  >  **выставление счета.** Дополнительные сведения см. в [дополнительных сведениях о назначении лицензий пользователям.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Чтобы добавить или удалить лицензии в Microsoft Defender для Office 365, перейдите к выставлению купюру  >  **продуктов.** Выберите подписку, которую необходимо обновить, а затем выберите **купить лицензии** или **удалить лицензии.** Дополнительные сведения см. в [журнале Купить или удалить лицензии на подписку.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
