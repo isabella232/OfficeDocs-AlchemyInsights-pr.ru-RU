@@ -1,8 +1,8 @@
 ---
 title: Вопросы и ответы о Microsoft 365 A5
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002872"
 - "5425"
-ms.openlocfilehash: 1d43b144cc9d9b8b26c7db8ebd09430e79a988ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: ec5e0fa7c7656704995f2c04a5cf12076e1eb4fd
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743441"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469937"
 ---
 # <a name="microsoft-365-a5-faq"></a>Вопросы и ответы о Microsoft 365 A5
 
 - Для сравнения планов Microsoft 365 для образования A1, A3, A5 ознакомьтесь с планами [для учащихся](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) и [для преподавателей и сотрудников](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr2).
-- Чтобы **приобрести** подписку A5, выберите **Выставление счетов > [Приобретение служб](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Воспользуйтесь полем поиска для поиска по запросу "A5", выберите план и количество пользователей. Дополнительные сведения см. в статье [Приобретение подписки](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
-- Сведения о **переключении планов** см. в разделе [Переключение планов Microsoft 365 для бизнеса вручную](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Чтобы **назначить пользователям** лицензии A5, выберите **Выставление счетов > [Лицензии](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Дополнительные сведения см. в статье [Назначение лицензий](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Чтобы **добавить или удалить** лицензии A5, выберите **Выставление счетов > [Продукты и службы](https://go.microsoft.com/fwlink/p/?linkid=842054)** и щелкните **Добавление и удаление лицензий**. Дополнительные сведения см. в статье [Добавление и удаление лицензий](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Чтобы **отменить** лицензии A5, выберите **Выставление счетов > [Продукты и службы](https://go.microsoft.com/fwlink/p/?linkid=842054)**, перейдите в **Параметры и действия** и щелкните **Отменить подписку**. Дополнительные сведения см. в статье [Отмена подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Чтобы **приобрести** подписку A5, выберите **Выставление счетов > [Приобретение служб](https://go.microsoft.com/fwlink/p/?linkid=868433)**. В поле поиска введите запрос "A3", а затем выберите план и количество пользователей. [Приобретение другой подписки](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Сведения о **смене плана** см. в статье [Переход на другой план](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Чтобы **назначить** пользователям лицензии A5, выберите **Выставление счетов > [Лицензии](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Дополнительные сведения см. в статье [Назначение лицензий пользователям](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Чтобы **купить или удалить** лицензии A5, выберите **Выставление счетов > [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Дополнительные сведения см. в статье [Покупка и удаление лицензий](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Чтобы **отменить** подписку A5, выберите **Выставление счетов > [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054)**, щелкните свою подписку и нажмите **Отменить подписку** в разделе **Параметры подписки и платежей**. Дополнительные сведения см. в статье [Отмена подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Сведения об **активации** подписки A5 см. в статье [Активация вашей подписки](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Сведения о **повторной активации** подписки A5 см. в статье [Повторная активация подписки](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Чтобы продлить пробную версию A5, см. статью [Продление пробной версии](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Сведения о **продлении** пробной подписки A5 см. в статье [Продление пробной версии](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Дополнительные сведения см. в статье [Управление лицензиями подписки](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-
+Дополнительные сведения см. в статье [Покупка и удаление лицензий](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
