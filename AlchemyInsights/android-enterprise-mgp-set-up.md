@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9004634"
-- "8377"
-ms.openlocfilehash: ba5a66c5f48ba7ff2c21ed460fcaa583684b864b
-ms.sourcegitcommit: 0f1e81498c68a5d1aba76a21fdae91a141b69f89
+- "9000652"
+- "8340"
+ms.openlocfilehash: 6ac90611bbe626e7f11b817965fd2d3c7fbf98c1
+ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50417115"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50508566"
 ---
 # <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Ошибка регистрации на Android Enterprise: обнаружение набора MGP
 
 Мы обнаружили, что управляемый Google Play не настроен или отключен для вашей учетной записи. Это может привести к отказу в регистрации устройств в сценариях Android Enterprise, где требуется управляемое подключение к Google Play.
 
-Вы можете проверить состояние подключения к управляемым google Play в консоли MEM в соответствии с состоянием клиента > состояние клиента **>** Соединитель и просмотреть следующую документацию, чтобы узнать, как подключить свою учетную запись Intune к управляемой учетной записи Google: Подключите свою учетную запись **[Intune](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)** к учетной записи Управляемый Google Play .
+Вы можете проверить состояние управляемого подключения к Google Play в консоли MEM в соответствии с состоянием клиента > состояние клиента **> Соединитель** и просмотреть следующую документацию, чтобы узнать о том, как подключить свою учетную запись Intune к учетной записи Управляемый Google: Подключите свою учетную запись **[Intune](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)** к учетной записи Управляемый Google Play .
