@@ -1,8 +1,8 @@
 ---
 title: Управление подпиской и лицензиями Microsoft 365 F3 — вопросы и ответы
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5472"
-ms.openlocfilehash: e3e8561351063493b032b468b64360555f61f491
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 0efc3353924a1c21f174d0d95071dad76b16e563
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743189"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469783"
 ---
 # <a name="microsoft-365-f3-subscription-and-license-management-faq"></a>Управление подпиской и лицензиями Microsoft 365 F3 — вопросы и ответы
 
 - **Изучить и приобрести** подписку F3 можно на странице [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot%3aoverviewtab).
-- Сведения о **переключении планов** см. в разделе [Переключение планов Microsoft 365 для бизнеса вручную](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Чтобы **назначить** лицензии F3 пользователям, перейдите в раздел **Выставление счетов > [Лицензии](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Дополнительные сведения см. в статье [Назначение лицензий](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Чтобы **добавить или удалить** лицензии F3, перейдите в раздел **Выставление счетов > [Продукты и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054)** и выберите **Добавление и удаление лицензий**. Дополнительные сведения см. в статье [Добавление и удаление лицензий](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Чтобы **отменить** лицензии F3, перейдите в раздел **Выставление счетов > [Продукты и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054)**, выберите **Параметры и действия** и щелкните **Отменить подписку**. Дополнительные сведения см. в статье [Отмена подписки](https://docs.microsoft.com/officF365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Сведения о **смене плана** см. в статье [Переход на другой план](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Чтобы **назначить** пользователям лицензии F3, выберите **Выставление счетов > [Лицензии](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Дополнительные сведения см. в статье [Назначение лицензий пользователям](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Чтобы **купить или удалить** лицензии F3, выберите **Выставление счетов > [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Дополнительные сведения см. в статье [Покупка и удаление лицензий](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+- Чтобы **отменить** лицензии F3, выберите **Выставление счетов > [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054)**, щелкните свою подписку и нажмите **Отменить подписку** в разделе **Параметры подписки и платежей**. Дополнительные сведения см. в статье [Отмена подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Сведения об **активации** подписки F3 см. в статье [Активация вашей подписки](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Сведения о **повторной активации** подписки F3 см. в статье [Повторная активация подписки](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Сведения о **продлении** пробной подписки F3 см. в статье [Продление пробного периода](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Сведения о **продлении** пробной подписки F3 см. в статье [Продление пробной версии](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Дополнительные сведения см. в статье [Управление лицензиями подписки](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Дополнительные сведения см. в статье [Покупка и удаление лицензий](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
