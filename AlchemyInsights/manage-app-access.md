@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7763"
-ms.openlocfilehash: 22b122fd6db1e77d334c41b05f4e6198878d705a
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: e2219c0a68a1f5ab560778410c8f86a3a87bc613
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013974"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708327"
 ---
 # <a name="manage-application-access"></a>Управление доступом к приложениям
 
-1. Чтобы управлять доступом к приложениям с помощью назначений пользователей, см. статью "Управление назначением пользователей для приложения [в Azure Active Directory".](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)
-    - Чтобы напрямую назначить одного или несколько пользователей приложению, см. краткое краткое [приложение: назначение пользователей приложению.](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)
+1. Управление доступом к приложениям с помощью назначений пользователей см. в статьи Управление назначением пользователей для приложения [в Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)
+    - Чтобы назначить одного или несколько пользователей приложению напрямую, [см. в примере Quickstart: Назначение пользователей приложению.](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)
 1. Управление доступом с помощью разрешений и согласия см. в
-    - [Настройте, как конечные пользователи соглашаются с приложениями.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal) 
-    - [Настройте рабочий процесс согласия администратора (предварительная версия).](https://docs.microsoft.com/zure/active-directory/manage-apps/configure-admin-consent-workflow) 
-    - Чтобы узнать, как упростить пользовательский интерфейс, выдав согласие администратора на доступ к приложению для всего клиента, см. статью "Предоставление согласия администратора на доступ к приложению для [всего клиента".](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) 
-1. Чтобы управлять доступом к приложениям с помощью ограничений клиента, см. "Использование ограничений клиента для управления доступом к [облачным приложениям SaaS".](https://docs.microsoft.com/azure/active-directory/manage-apps/tenant-restrictions) 
-1. Устранение неполадок с Доступом к Office 365 управление [доступом.](https://docs.microsoft.com/office365/troubleshoot/access-management/cannot-add-guest-users-in-m365-admin-center)
+    - [Настройка согласия конечных пользователей на приложения.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal) 
+    - [Настройка рабочего процесса согласия администратора (предварительный просмотр).](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) 
+    - Чтобы узнать, как упростить пользовательский интерфейс, выдав согласие администратора на все клиенты приложению, см. в примере Grant [tenant-wide admin consent to an application.](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) 
+1. Чтобы управлять доступом к приложениям с помощью ограничений клиента, см. в приложении [Use tenant restrictions to manage access to SaaS cloud applications.](https://docs.microsoft.com/azure/active-directory/manage-apps/tenant-restrictions) 
+1. Устранение неполадок Office 365 Access — [управление доступом.](https://docs.microsoft.com/office365/troubleshoot/access-management/cannot-add-guest-users-in-m365-admin-center)

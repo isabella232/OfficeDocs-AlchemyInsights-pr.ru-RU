@@ -1,5 +1,5 @@
 ---
-title: Восстановление удаленных файлов и папок в SharePoint
+title: Восстановление удаленных файлов или папок в SharePoint
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3173"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 7820c37d503baba8b8433b647576b194ce002905
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc2d8c874b1b8ef850deea6816835dbab237fbeb
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797777"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708255"
 ---
-# <a name="restore-deleted-files-or-folders-in-sharepoint"></a>Восстановление удаленных файлов и папок в SharePoint
+# <a name="restore-deleted-files-or-folders-in-sharepoint"></a>Восстановление удаленных файлов или папок в SharePoint
 
-Если вы случайно удалили файл или папку в SharePoint, его можно будет восстановить позже в корзине.
+Если вы случайно удалите файл или папку в SharePoint, вы сможете восстановить его позже из корзины.
 
-* [Восстановление удаленных файлов и папок в SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+* [Восстановление удаленных файлов или папок в SharePoint](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
-Если множество файлов SharePoint удаляется, перезаписывается, повреждается или заражено вредоносной программой, вы можете восстановить всю библиотеку SharePoint в предыдущее время.
+Если множество файлов SharePoint будут удалены, перезаписаны, повреждены или заражены вредоносными программами, вы можете восстановить всю библиотеку SharePoint до предыдущего времени.
 
 * [Восстановление библиотеки документов](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
