@@ -8,35 +8,35 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: e0004c1389b25b8f84d9b32d981728e7bb3f45fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95ce018b618cd4eb48cb7293b753f2b6531dd4fd
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802610"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707931"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive: отсутствующие файлы или папки
 
 **Проверьте корзину сайта**.
 
-- [Восстановление элементов из корзины сайта SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
-- [Восстановление удаленных файлов и папок в OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [Восстановление элементов из корзины сайта SharePoint](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
+- [Восстановление удаленных файлов или папок в OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
-**Используйте функцию восстановления файлов в OneDrive**. 
+**Используйте функцию Восстановления файлов OneDrive.** 
 
-Если многие файлы OneDrive изменяются, перезаписываются, повреждаются или заражены вредоносными программами, вы можете восстановить все OneDrive до предыдущего времени с помощью функции [восстановления файлов в onedrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) .
-
-
-**С помощью ведения журнала аудита или области действий с файлами Проверьте историю файла**.
-
-Просмотрите [отчеты об аудите](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) , перейдя по [этой ссылке](https://sip.protection.office.com/).
+Если множество файлов OneDrive будут удалены, перезаписаны, повреждены или заражены вредоносными программами, вы можете восстановить весь oneDrive до предыдущего времени с помощью функции восстановления [OneDrive Files.](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 
-С помощью [области действий с файлами](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) Проверьте историю файла.
+**Чтобы проверить историю файла,** используйте журнал аудита или области действий файлов.
+
+Проверьте [отчеты аудита,](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) перенавигав [здесь](https://sip.protection.office.com/).
 
 
-**Проверьте клиент синхронизации OneDrive на локальном компьютере**.
+Используйте области [действий файла,](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) чтобы проверить историю файла.
 
-Если вы синхронизируете файлы на компьютере с помощью клиента синхронизации OneDrive, проверьте локальную папку синхронизации, чтобы убедиться, что она была правильно отправлена. Убедитесь, что корзина также проверена на локальном компьютере.
+
+**Проверьте клиент синхронизации OneDrive на локальной машине.**
+
+Если вы синхронизируете файлы на компьютере с помощью клиента Синхронизация OneDrive, проверьте локализованную папку синхронизации, чтобы убедиться, что она была правильно загружена. Убедитесь, что вы также проверяете корзину на локальной машине.
 

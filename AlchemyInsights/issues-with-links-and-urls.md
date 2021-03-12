@@ -3,7 +3,7 @@ title: Проблемы со ссылками и URL-адресами
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950797"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707895"
 ---
 # <a name="issues-with-links-and-urls"></a>Проблемы со ссылками и URL-адресами
 
@@ -31,7 +31,7 @@ URI перенаправления и URL-адреса ответа (оба вы
 
 Если при входе в разрабатываемое приложение в диалоговом окне входа отображается сообщение **AADSTS50011: URL-адрес ответа, указанный в запросе, не совпадает с URL-адресами ответа, настроенными для приложения <your app ID>**, вам потребуется добавить в регистрацию приложения URI перенаправления, использованный вашим кодом в запросе маркера для платформы удостоверений Майкрософт.
 
-Чтобы добавить URL-адрес ответа, перейдите на вкладку **Проверка подлинности** на странице **Регистрация приложения** на портале Azure и добавьте запись в разделе **URI перенаправления**. Введены URI перенаправления (мобильные, классические или веб-приложения). Значение, которое нужно ввести, зависит от типа создаваемого приложения, как описано ниже.
+Чтобы добавить URL-адрес ответа, перейдите на вкладку **Проверка подлинности** на странице **Регистрация приложения** на портале Azure и добавьте запись в разделе **URI перенаправления**. Значение, которое нужно ввести, зависит от типа создаваемого приложения, как описано ниже.
 
 - Для одностраничных приложений и веб-приложений URL-адрес ответа является URL-адресом в вашем приложении. См. раздел [Регистрация одностраничного приложения](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) или [Регистрации веб-приложения с помощью портала Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
 - Для классических приложений значение, которое требуется выбрать, зависит от:

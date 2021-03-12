@@ -12,18 +12,18 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: dffc58ee2a01157dca0b365d5419c571f2e545f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7f61ff7eb02371790ecb335841244eddb2bcbb2e
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779857"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707751"
 ---
 # <a name="how-to-install-office"></a>Как установить Office?
 
 Чтобы установить клиентские приложения Office, убедитесь, что у вас есть бизнес-подписка, например Microsoft 365 бизнес премиум и Microsoft 365 бизнес стандарт, Приложения Microsoft 365 для бизнеса или Office 365 для образования.
   
-*ПРИМЕЧАНИЕ. [Office для дома и бизнеса](https://products.office.com/home-and-business) входит в состав продукта [Office для дома](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) и не является частью бизнес-подписки. Отдельные инструкции по Visio и Project см. в разделе [Установка Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) или [Установка Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
+*ПРИМЕЧАНИЕ. [Office для дома и бизнеса](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) входит в состав продукта [Office для дома](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) и не является частью бизнес-подписки. Отдельные инструкции по Visio и Project см. в разделе [Установка Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) или [Установка Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 
 Создайте учетные записи и добавьте свой домен. Убедитесь в том, что пользователю [назначена лицензия](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 

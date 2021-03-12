@@ -11,32 +11,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: fc560686ec5c6a3d42a97687fda80ae5001b5c60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c7ce48f50b5c933ea15c23a486b99ad7a7f4d79
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797561"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707535"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Восстановление удаленного файла или папки
 
-SharePoint Online сохраняет резервные копии всего содержимого в течение 14 дополнительных дней после фактического удаления. Если содержимое не может быть восстановлено с помощью восстановления корзины или файлов, администратор может обратиться в службу поддержки Майкрософт, чтобы запросить восстановление в течение 14 дней. Восстановление из резервных копий доступно только для семейств веб-сайтов и дочерних сайтов, а не для отдельных файлов, списков и библиотек.
+SharePoint Online сохраняет резервные копии всего содержимого в течение 14 дополнительных дней после фактического удаления. Если не удается восстановить содержимое через корзину или восстановление файлов, администратор может обратиться в службу поддержки Майкрософт, чтобы запросить восстановление в любое время в 14-дневном окне. Восстановление из резервных копий доступно только для семейств веб-сайтов и дочерних сайтов, а не для отдельных файлов, списков и библиотек.
 
-При удалении элемента или сайта из SharePoint он не удаляется сразу. Удаленные элементы помещаются в корзину на некоторый период времени. В течение этого времени вы можете восстановить удаленные элементы в исходное расположение. Дополнительные сведения см. по ссылкам ниже.
+При удалении элемента или сайта из Sharepoint он не удаляется сразу. Удаленные элементы помещаются в корзину на некоторый период времени. В течение этого времени вы можете восстановить удаленные элементы в исходное расположение. Дополнительные сведения см. по ссылкам ниже.
 
-[Восстановление элементов в корзине сайта SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b).
+[Восстановление элементов в корзине сайта SharePoint.](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
-[Восстановление удаленных файлов и папок в OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+[Восстановление удаленных файлов или папок в OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-[Восстановление удаленного семейства веб-сайтов (включая группу, связь и другие сайты)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+[Восстановление удаленной коллекции сайтов (включая групповые, коммуникационные и другие сайты)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
 [Восстановление удаленного сайта OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Для действий массового перезапуска, администраторы могут рассмотреть возможность использования [SharePoint Online PnP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps).
+Для массовых действий по утилизации корзины администраторы могут рассмотреть возможность использования [PNP Sharepoint Online.](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
 **Функция восстановления файлов**
 
-Если многие файлы OneDrive или SharePoint будут удалены, перезаписаны, повреждены или заражены вредоносными программами, вы можете восстановить всю библиотеку OneDrive или SharePoint в прошлый раз с помощью функции восстановления файлов.
+Если множество файлов OneDrive или SharePoint будут удалены, перезаписаны, повреждены или заражены вредоносными программами, вы можете восстановить всю библиотеку OneDrive или SharePoint до предыдущего времени с помощью функции восстановления файлов.
 
 [Восстановление библиотеки OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 

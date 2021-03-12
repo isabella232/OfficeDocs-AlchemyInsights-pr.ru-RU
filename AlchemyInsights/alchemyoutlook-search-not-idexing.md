@@ -1,5 +1,5 @@
 ---
-title: Алчеми — Поиск в Outlook не идексинг
+title: Алхимия . Поиск Outlook не idexing
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: b13fed75dd4ebf9cbad2ca71b350ff7805ecfd27
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d096e3ea8566ab6c81aab3284b2a51b52e2b6de6
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718490"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707463"
 ---
-# <a name="outlook-search-not-indexing"></a>Поиск в Outlook не индексирован
+# <a name="outlook-search-not-indexing"></a>Поиск Outlook не индексация
 
-Мы осведомлены о проблемах поиска в Outlook, связанных с последними обновлениями для системы безопасности для Windows.
+Мы знаем о проблемах поиска Outlook, связанных с последними обновлениями безопасности для Windows.
   
-При поиске в Outlook может возникать одна из следующих ошибок: **что-то пошло не так, и не удалось выполнить поиск**, или **Результаты поиска могут быть неполными, так как элементы по-прежнему индексируются**. Исправление было выпущено как дополнительное обновление Windows. Установите ту, которая соответствует версии Windows, на которую вы видите эту ошибку: 
+При поиске в Outlook вы можете получить одну из этих ошибок: что-то пошло не так и поиск не удалось завершить, или результаты поиска могут быть неполными, так как элементы по-прежнему **индексироваться.** Исправление было выдано в качестве дополнительного обновления Windows. Установите, пожалуйста, версию Windows, которая будет соответствовать этой проблеме: 
   
-> [Windows 7 — 27 июня, 2017 обновление](https://support.microsoft.com/kb/4022168.aspx)
+> [Обновление Windows 7 — 27 июня 2017 г.](https://support.microsoft.com/topic/june-27-2017-kb4022168-preview-of-monthly-rollup-b8e847d5-3b84-367e-4dcb-cc7a25f06d40)
     
-> [Windows 8,1 — обновление до 27 июня 2017 г.](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8.1 — обновление от 27 июня 2017 г.](https://support.microsoft.com/topic/june-27-2017-kb4022720-preview-of-monthly-rollup-b98970bb-6f11-46c3-8681-a6b85d5d8eb4)
     
-> [Windows 10 версии 1703 – обновление до 27 июня, 2017](https://support.microsoft.com/kb/4022716.aspx)
+> [Обновление Windows 10 Версии 1703 — 27 июня 2017 г.](https://support.microsoft.com/topic/compatibility-update-for-upgrading-to-windows-10-version-1703-june-27-2017-32a45f84-19d8-2535-029c-d083b5f6765e)
     
-Для получения последних сведений ознакомьтесь со статьей: " [Известные проблемы Outlook" в статье обновление для системы безопасности за июнь 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) #5. 
+Последние сведения см. в статье [:Outlook known issues issues](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) issue #5 за июнь 2017 г. 
   
 

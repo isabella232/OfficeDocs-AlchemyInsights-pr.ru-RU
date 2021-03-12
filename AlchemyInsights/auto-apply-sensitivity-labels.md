@@ -1,5 +1,5 @@
 ---
-title: Автоматически применять метки чувствительности
+title: Метки конфиденциальности автоматического применения
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715178"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707247"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Автоматически применять метки чувствительности
+# <a name="auto-apply-sensitivity-labels"></a>Метки конфиденциальности автоматического применения
 
-Метки конфиденциальности могут быть вручную применены к контенту пользователями, или их можно настроить для автоматического применения к содержимому.
+Метки чувствительности могут быть вручную применены к содержимому пользователями, или вы можете настроить их автоматически применять к содержимому.
 
-Автоматическое применение меток конфиденциальности устраняет необходимость в обучении пользователей по классификации контента и необходимости уведомлять их о конфигурациях политик.
+Автоматическое применение меток конфиденциальности устраняет необходимость подготовки пользователей к классификации контента и оповещать их о конфигурациях политик.
 
-Для автоматического применения меток необходимо следующее:
+Для автоматического применения меток требуется следующее:
 
 - Подписка на Azure Information Protection P2
-- [Скачайте и установите клиент единой метки Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Загрузка и установка клиента единой маркировки Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Мы работаем над встроенной поддержкой, поэтому в будущем не потребуется клиент единой метки Azure Information Protection.
+Мы работаем над поддержкой, которая в будущем не потребует клиент единой маркировки Azure Information Protection.
 
-В настоящее время только Windows поддерживает клиент единой метки.  Эта функция пока не поддерживается в Mac, iOS и Android.
+В настоящее время только Windows поддерживает клиента единой маркировки.  Функция еще не поддерживается на Mac, iOS и Android.
 
-Дополнительные сведения о метках конфиденциальности и их автоматическом применении к содержимому можно узнать в следующих статьях:
+Дополнительные сведения о метких меток конфиденциальности и их автоматическом применении к содержимому см. в.
 
 - [Обзор меток конфиденциальности](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Автоматическое применение метки конфиденциальности к содержимому](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Автоматическое применение метки конфиденциальности к содержимому](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
