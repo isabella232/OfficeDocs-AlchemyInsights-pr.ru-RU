@@ -1,5 +1,5 @@
 ---
-title: Устранение проблем с сертификатом push-уведомлений Apple MDM в Microsoft Intune
+title: Устранение неполадок с push-сертификатом Apple MDM в Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.custom:
 - "782"
 - "6200002"
-ms.openlocfilehash: f27b515ea460b55afb653b789682591f09bc2906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efb67cb3609266b40c564569941c1598637b5898
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690147"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709047"
 ---
-# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Устранение проблем с сертификатом push-уведомлений Apple MDM в Microsoft Intune
+# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Устранение неполадок с push-сертификатом Apple MDM в Microsoft Intune
 
-Просмотрите перечисленные ниже ресурсы, чтобы устранить проблему.
+Просмотрите ресурсы, перечисленные ниже, чтобы устранить проблему.
   
-1. Просмотрите [этот документ](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) , чтобы настроить или обновить сертификат push-уведомлений Apple MDM.
+1. Просмотрите [этот документ,](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) чтобы настроить или обновить push-сертификат Apple MDM.
 
-2. Использование [портала устранения неполадок Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) для диагностики и устранения распространенных ошибок регистрации. Просмотрите [этот документ](https://docs.microsoft.com/intune/help-desk-operators) , чтобы получить дополнительные сведения.
+2. Используйте [портал устранения неполадок Intune для](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) диагностики и устранения распространенных сбоев регистрации. Дополнительные [сведения об](https://docs.microsoft.com/intune/help-desk-operators) этом документе.
 
-3. Ознакомьтесь со списком распространенных ошибок, связанных с регистрацией, и решениями для каждой из них в следующих документах: [Руководство по устранению неполадок](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) и [Документация по устранению неполадок](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+3. Ознакомьтесь со списком распространенных ошибок, связанных с регистрацией, и решениями для каждой из них в следующих документах: [Руководство по устранению неполадок](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) и [Документация по устранению неполадок](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).

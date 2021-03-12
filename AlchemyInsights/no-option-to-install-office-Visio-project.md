@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: 0a1a394ace2ea8aa32ec82668dee8130dd4600ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f8efc5e888560965bf65c67c82c7deb2043ed01
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772672"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708507"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Отсутствует возможность установки Office, Visio или Project
 
 Чтобы установить клиентские приложения Office, убедитесь в наличии подписки на Office 365 или Microsoft 365, в состав которой [входят клиентские приложения Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), например Microsoft 365 бизнес премиум, Приложения Microsoft 365 для бизнеса или Приложения Microsoft 365 для предприятий.
 
-**Примечание**. [Office для дома и бизнеса](https://products.office.com/home-and-business) — это продукт [Office для дома](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), который не входит в подписку для бизнеса. Project Online базовый не включает классическую версию Project, поэтому установка не требуется. Пользователи плана 1 Visio получают доступ к Visio в Интернете, поскольку в этот план не входит классическое приложение Visio. Классические приложения Project и Visio недоступны на компьютерах Mac
+**Примечание**. [Office для дома и бизнеса](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) — это продукт [Office для дома](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), который не входит в подписку для бизнеса. Project Online базовый не включает классическую версию Project, поэтому установка не требуется. Пользователи плана 1 Visio получают доступ к Visio в Интернете, поскольку в этот план не входит классическое приложение Visio. Классические приложения Project и Visio недоступны на компьютерах Mac
 
 Если у вас есть подписка, включающая приложения Microsoft 365, вариант установки не отображается при отсутствии [назначенной лицензии](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Если вы являетесь администратором Office 365, ответственным за назначение лицензий, см. статью [Назначение лицензий пользователям](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 

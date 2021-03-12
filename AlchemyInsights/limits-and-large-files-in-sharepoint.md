@@ -1,5 +1,5 @@
 ---
-title: Пределы и большие файлы в SharePoint
+title: Ограничения и большие файлы в SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 568ac18e98e49524832c144164c2fef7915f73bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675779"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709191"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Файлы, которые не удается отправить в SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Файлы, которые не могут быть загружены в SharePoint Online
 
-Если файл не будет отправляться в SharePoint Online, убедитесь, что:
+Если файл не будет загружаться в SharePoint Online, убедитесь, что:
   
-- Размер меньше 15 ГБ.
+- Размер не превышает 15 ГБ.
     
-- Весь путь, включая имя файла, содержит менее 400 символов.
+- Весь путь, включая имя файла, меньше 400 символов.
     
-- Имя файла не содержит символов " \* : \< \> ? / \ | не входит в список [недопустимых имен](https://go.microsoft.com/fwlink/?linkid=866430).
+- Имя файла не содержит символов " \* : \< \> ? / \ | и не в списке [недействительных имен.](https://go.microsoft.com/fwlink/?linkid=866430)
     
-Если вы пытаетесь отправить файл с помощью классического приложения OneDrive, ознакомьтесь с [ограничениями и ограничениями при синхронизации файлов и папок](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) или при [устранении проблем с синхронизацией OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
+Если вы пытаетесь загрузить файл с помощью настольного [](https://go.microsoft.com/fwlink/p/?LinkID=717734) приложения OneDrive, см. ограничения и ограничения при синхронизации файлов и папок или проблемы синхронизации [OneDrive.](https://go.microsoft.com/fwlink/?linkid=866431)
   
 

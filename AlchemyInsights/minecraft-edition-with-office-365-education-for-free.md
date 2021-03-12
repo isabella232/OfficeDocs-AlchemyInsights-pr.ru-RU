@@ -1,5 +1,5 @@
 ---
-title: Бесплатный выпуск Minecraft с Office 365 для образовательных учреждений
+title: Minecraft Edition с бесплатным образованием Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,27 +13,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: baa2401888ab3dac8f32fd2d209c3cf3cf5ce426
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 385e50304405268da638a7422c215a95f3f11e3b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674123"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709443"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Бесплатный выпуск Minecraft с Office 365 для образовательных учреждений
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition с бесплатным образованием Office 365
 
-[Бесплатный выпуск Minecraft с Office 365 для образовательных учреждений](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft Edition с бесплатным образованием Office 365](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: для образования ознакомительной версии** требуется Windows 10
+- **Minecraft: выпуск образовательных** услуг требует Windows 10
 
-- Бета-версии или подписки на **Minecraft:** для образовательных учреждений предлагаются клиенты, управляемые Azure Active Directory (Azure AD).
+- Пробные версии или подписки **на Minecraft: Education Edition** предлагаются клиентам образовательных служб, которыми управляет Azure Active Directory (Azure AD)
 
-  - Если в вашем учебном заведении нет клиента Azure AD, [ИТ – администратор может настроить его](https://docs.microsoft.com/education/windows/school-get-minecraft) как часть процесса получения **Minecraft: образовательных выпусков**.
+  - Если в вашей школе нет клиента Azure [](https://docs.microsoft.com/education/windows/school-get-minecraft) AD, ИТ-администратор может настроить его в рамках процесса получения **Minecraft: Education Edition.**
 
-  - Office 365 для образовательных учреждений, который включает в себя Интернет-версии приложений Microsoft 365 и 1 ТБ в Интернет-хранилище, бесплатно для преподавателей и учащихся. [Зарегистрируйтесь в вашем учебном заведении для Office 365 для образовательных учреждений](https://products.office.com/academic/office-365-education-plan).
+  - Обучение в Office 365, которое включает онлайн-версии приложений Microsoft 365 плюс 1 ТБ, бесплатно для преподавателей и учащихся. [Зарегистрив школу для Office 365 Education.](https://www.microsoft.com/education/products/office)
 
-  - Если в вашем учебном заведении есть подписка на Office 365 для образовательных учреждений, она включает бесплатную подписку на Azure AD. [Зарегистрируйте свою бесплатную подписку на Azure AD](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - Если в вашей школе есть подписка На обучение Office 365, она включает бесплатную подписку Azure AD. [Регистрация бесплатной подписки Azure AD](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 
-[Узнайте, как преподаватели могут получать и распространять Minecraft: образовательный выпуск](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[Узнайте, как преподаватели могут получать и распространять Minecraft: Education Edition.](https://docs.microsoft.com/education/windows/teacher-get-minecraft)
   
-[Узнайте, как ИТ администраторы могут получать и распространять Minecraft: образовательный выпуск](https://docs.microsoft.com/education/windows/school-get-minecraft), а также управлять разрешениями для Minecraft.
+[Узнайте, как ИТ-администраторы могут](https://docs.microsoft.com/education/windows/school-get-minecraft)получать и распространять Minecraft: Education Edition и как управлять разрешениями для Minecraft.

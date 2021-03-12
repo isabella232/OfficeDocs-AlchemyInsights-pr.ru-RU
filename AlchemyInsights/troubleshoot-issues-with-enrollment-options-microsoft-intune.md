@@ -1,5 +1,5 @@
 ---
-title: Устранение неполадок, связанных с параметрами регистрации Microsoft Intune
+title: Устранение неполадок с вариантами регистрации Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,23 +10,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: f249189d8251549fbc22eeb5a408acac7cf515ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3eef7a6e94e1f12ea681448392f20ccdf4eaf061
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665191"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708867"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Устранение неполадок, связанных с параметрами регистрации Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Устранение неполадок с вариантами регистрации Microsoft Intune
 
-Просмотрите перечисленные ниже ресурсы, чтобы устранить проблему. Если эти ресурсы не помогают, обратитесь в службу поддержки, щелкнув [здесь](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) и выбрав пункт "создать запрос в службу поддержки". 
+Просмотрите ресурсы, перечисленные ниже, чтобы устранить проблему. Если эти ресурсы не помогают, обратитесь в службу поддержки, нажав здесь и выбрав "Создайте запрос на поддержку". [](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) 
   
-- [Ознакомьтесь с разрешениями Intune TechNet, чтобы найти ответы и решения распространенных проблем](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Просмотрите Intune TechNet, чтобы найти ответы и решения распространенных проблем.](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)
     
-- Использование [портала устранения неполадок Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) для диагностики и устранения распространенных ошибок регистрации. Просмотрите [этот документ](https://docs.microsoft.com/intune/help-desk-operators) , чтобы получить дополнительные сведения. 
+- Используйте [портал устранения неполадок Intune для](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) диагностики и устранения распространенных сбоев регистрации. Дополнительные [сведения об](https://docs.microsoft.com/intune/help-desk-operators) этом документе. 
     
-- Просмотрите [этот документ](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) , чтобы получить список распространенных ошибок, которые не позволяют регистрироваться и разрешать их. 
+- Просмотрите [этот документ](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) для списка распространенных ошибок, которые препятствуют регистрации и разрешений для каждого из них. 
     
-- [Сведения о параметрах регистрации в Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Узнайте о параметрах регистрации в Microsoft Intune.](https://docs.microsoft.com/intune/enrollment-options)
     
 

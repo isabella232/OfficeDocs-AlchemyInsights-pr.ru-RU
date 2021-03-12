@@ -1,5 +1,5 @@
 ---
-title: Запуск Microsoft Edge в режиме терминала
+title: Запуск Microsoft Edge в режиме киоска
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003853"
 - "6903"
-ms.openlocfilehash: 634b2f3cabe4a802db740ecf7fc265cb42a88e61
-ms.sourcegitcommit: 2ff035d33e3277a268a5d88f1209dca77a87d689
+ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49666166"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708543"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a>Запуск Microsoft Edge в режиме терминала
+# <a name="run-microsoft-edge-in-kiosk-mode"></a>Запуск Microsoft Edge в режиме киоска
 
-Режим терминала можно настроить в Microsoft Edge версий 77 и более поздних версий, а также в Microsoft Edge Legacy версий 45 и более ранних версий.
+Режим киоска можно настроить в версиях Microsoft Edge 77 и более поздних версий, а также в версиях Microsoft Edge Legacy 45 и более ранних версий.
 
-Вы можете настроить устройства, которые работают в Windows 10, для работы в режиме терминала с одним приложением или [несколькими приложениями.](https://go.microsoft.com/fwlink/?linkid=2133659)
+Можно настроить устройства, которые работают на Windows 10, для работы в режиме киоска с одним приложением или [несколькими приложениями.](https://go.microsoft.com/fwlink/?linkid=2133659)
 
-Дополнительные сведения о настройке режима терминала в последней версии канала Microsoft Edge Stable и Microsoft Edge Legacy см. в:
+Дополнительные сведения о настройке режима киоска в последней версии стабильного канала Microsoft Edge и в Microsoft Edge Legacy см. в.
 
-- [Microsoft Edge с назначенным доступом](https://go.microsoft.com/fwlink/?linkid=2133494)
-- [Параметр командной строки "--kiosk" в Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2133724)
-- [Поддержка режима киоска Microsoft Edge Legacy](https://go.microsoft.com/fwlink/?linkid=2133725)
+- [Microsoft Edge с назначенным доступом](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [Параметр командной строки Microsoft Edge "--kiosk"](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [Поддержка режима киоска Microsoft Edge Legacy](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)

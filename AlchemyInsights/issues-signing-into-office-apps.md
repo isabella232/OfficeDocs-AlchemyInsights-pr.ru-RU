@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: 57a4df23dc66eaf4c283dde741be6f415939633d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d736c6c687695824f0ab37b8ffdc8456065353b0
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695192"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709119"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Исправление приложений Microsoft 365 "доверенный платформенный модуль вашего компьютера не работает должным образом" сообщение
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Исправление приложения Microsoft 365 "Модуль доверенных платформ компьютера не функционирует должным образом" сообщение
 
 Чтобы устранить эту ошибку, попробуйте выполнить следующие действия.
 
-- Установите последние обновления для [Windows](https://support.microsoft.com/help/4027667/windows-10-update) и [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- [Очистите учетные данные Office](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) с помощью диспетчера учетных данных Windows.<br/>
-    **Примечание:** Пути реестра для Office 2016 изменились на 16,0. (Пример: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Попытайтесь выполнить [процесс восстановления пользователей](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) , чтобы исправить ошибки ДОВЕРЕНного платформенного модуля.
-- Задайте Енаблеадал = 0, выполнив следующие действия:  
-    1. Щелкните правой кнопкой мыши Windows Пуск, выберите команду **выполнить**, введите **regedit**и нажмите кнопку **ОК**.
-    2. Выберите **Да** , чтобы разрешить редактору реестра вносить изменения на устройстве.
-    3. В редакторе реестра добавьте значение DWORD **енаблеадал** с параметром **0** в раздел HKEY_CURRENT_USER \software\microsoft\office\16.0\common\identity.
+- Установка последних обновлений [для Windows](https://support.microsoft.com/help/4027667/windows-10-update) и [Office.](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)
+- [Очистить учетные данные Office с](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/another-account-already-signed-in#step-4-clear-cached-credentials-on-the-computer) помощью Диспетчер учетных данных Windows.<br/>
+    **Примечание:** Пути реестра Office 2016 изменились до 16.0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Попробуйте [процесс восстановления пользователей,](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) чтобы устранить сбои в работе модуля доверенных платформ (TPM).
+- Установите EnableADAL = 0 с помощью следующих действий:  
+    1. Щелкните правой кнопкой Запуска Windows, выберите **выполнить,** введите **regedit,** а затем выберите **ОК.**
+    2. Выберите **Да,** чтобы разрешить редактору реестра вносить изменения в устройство.
+    3. В редакторе реестра добавьте значение DWORD **EnableADAL** с параметром **0** в HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
 
-Дополнительные сведения см. [в статье проблемы с подключением при входе после обновления до Office 2016 Build 16.0.7967 в Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Дополнительные сведения см. в документе Проблемы подключения при входе после обновления [office 2016 сборки 16.0.7967 в Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
