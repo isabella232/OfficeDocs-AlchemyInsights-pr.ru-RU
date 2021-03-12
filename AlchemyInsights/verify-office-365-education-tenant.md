@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002258"
 - "4360"
-ms.openlocfilehash: 783e764f4f6da4ed2ceb19f8734d4178fa362edd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d9022e51ab2dc7119adaebe3d8315dd18670963d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796517"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707427"
 ---
-# <a name="verify-office-365-education-tenant"></a><span data-ttu-id="5bb64-102">Проверка подлинности клиента Office 365 для образования</span><span class="sxs-lookup"><span data-stu-id="5bb64-102">Verify Office 365 Education tenant</span></span>
+# <a name="verify-office-365-education-tenant"></a><span data-ttu-id="e15d1-102">Проверка подлинности клиента Office 365 для образования</span><span class="sxs-lookup"><span data-stu-id="e15d1-102">Verify Office 365 Education tenant</span></span>
 
-<span data-ttu-id="5bb64-103">Чтобы проверить подлинность клиента для образования, выполните несколько простых действий.</span><span class="sxs-lookup"><span data-stu-id="5bb64-103">Your tenant can be verified as an Education tenant by following a few easy steps.</span></span> <span data-ttu-id="5bb64-104">Для получения подробной информации просмотрите раздел [Настройка клиента Office 365](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).</span><span class="sxs-lookup"><span data-stu-id="5bb64-104">Review [Set up an Office 365 Tenant](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) for more information.</span></span> 
+<span data-ttu-id="e15d1-103">Чтобы проверить подлинность клиента для образования, выполните несколько простых действий.</span><span class="sxs-lookup"><span data-stu-id="e15d1-103">Your tenant can be verified as an Education tenant by following a few easy steps.</span></span> <span data-ttu-id="e15d1-104">Для получения подробной информации просмотрите раздел [Настройка клиента Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant).</span><span class="sxs-lookup"><span data-stu-id="e15d1-104">Review [Set up an Office 365 Tenant](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) for more information.</span></span> 

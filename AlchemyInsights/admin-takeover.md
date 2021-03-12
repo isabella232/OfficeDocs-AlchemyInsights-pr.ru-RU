@@ -1,5 +1,5 @@
 ---
-title: Администратор передачи управления
+title: Администрирование
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: 3d85ba64091c7e244cb00a274884a096aacefd9e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fc7c7c3388420fb0ed93b9fad087cb3b8c95a0d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696922"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707391"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="2c1e3-102">Станьте администратором</span><span class="sxs-lookup"><span data-stu-id="2c1e3-102">Become an admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="a2d57-102">Стать администратором</span><span class="sxs-lookup"><span data-stu-id="a2d57-102">Become an admin</span></span>
 
-<span data-ttu-id="2c1e3-103">Чтобы принять роль администратора для этой Организации, необходимо принять участие.</span><span class="sxs-lookup"><span data-stu-id="2c1e3-103">To assume the admin role for this organization, you need take over.</span></span> <span data-ttu-id="2c1e3-104">Следуйте инструкциям в этом руководстве, чтобы получить подробные инструкции: [как выполнить ИТ администратора передачи управления с O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span><span class="sxs-lookup"><span data-stu-id="2c1e3-104">Follow the instructions in this guide for detailed instructions: [How to perform an IT Admin Takeover with O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span></span>
+<span data-ttu-id="a2d57-103">Чтобы взять на себя роль администратора для этой организации, необходимо взять на себя.</span><span class="sxs-lookup"><span data-stu-id="a2d57-103">To assume the admin role for this organization, you need take over.</span></span> <span data-ttu-id="a2d57-104">Следуйте инструкциям в этом руководстве для подробных инструкций: Как выполнить захват ИТ-администратора [с помощью O365](https://powerbi.microsoft.com/pt-pt/blog/how-to-perform-an-it-admin-takeover-with-o365/)</span><span class="sxs-lookup"><span data-stu-id="a2d57-104">Follow the instructions in this guide for detailed instructions: [How to perform an IT Admin Takeover with O365](https://powerbi.microsoft.com/pt-pt/blog/how-to-perform-an-it-admin-takeover-with-o365/)</span></span>
