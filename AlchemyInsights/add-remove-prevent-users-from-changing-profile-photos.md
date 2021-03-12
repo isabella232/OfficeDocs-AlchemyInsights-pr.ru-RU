@@ -1,5 +1,5 @@
 ---
-title: Добавление, удаление и запрет пользователям изменять фотографии профилей
+title: Добавление, удаление или предотвращение изменения фотографий профиля пользователями
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fcd6682b2676e724ab6628b28e3b82afbbf0c8b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687807"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704763"
 ---
-# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Добавление, удаление и запрет пользователям изменять фотографии профилей
+# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Добавление, удаление или предотвращение изменения фотографий профиля пользователями
 
-- **Добавление фотографий профилей:** Фотографии профилей могут добавляться администратором в [центре администрирования Microsoft 365, активные пользователи](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) или  [Управление пользователями Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Если вы не видите параметр "изменить фотографию", убедитесь, что этому пользователю назначена лицензия. Чтобы добавить или изменить фотографии пользователя в профиле пользователя из любой службы Microsoft 365, щелкните их инициалы/фото в правом верхнем углу экрана. Дополнительные сведения о добавлении фотографии профиля можно узнать в [статье Добавление фотографии профиля в Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+- **Добавление фотографий профиля:** Фотографии профилей могут быть добавлены администратором в центре администрирования [Microsoft 365, активными](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) пользователями или управлением пользователями [Azure Active Directory.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)  Если вы не видите параметр "изменить фотографию", убедитесь, что этому пользователю назначена лицензия. Фотографии могут быть добавлены или изменены пользователем в профиле пользователя из любой службы Microsoft 365, щелкнув их инициалы и фотографии в правом верхнем справа от экрана. Дополнительные сведения о добавлении фотографии профиля см. в странице [Добавление фотографии профиля в Microsoft 365.](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-- **Удаление фотографий профилей:** Фотографии профилей можно удалить администратором в [управлении пользователями Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) или пользователем в их профилях пользователей Microsoft Teams.
+- **Удаление фотографий профиля:** Фотографии профилей могут быть удалены администратором в [Azure Active Directory User Management](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) или пользователем в профиле пользователя Microsoft Teams.
 
-- **Блокировка изменений фотографии профиля:** Изменения фотографий могут быть заблокированы для всех Microsoft 365 *, добавляя политику Outlook Web App в статью, [блокируя фотографии или ограничив разрешения на изменение фотографии профиля Microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Блокировка изменений фото профиля:** Изменения фотографий могут быть заблокированы для всех Microsoft 365* путем добавления политики Outlook Web App статьи, блокировки фотографий или ограничения разрешений на изменение фотографии профиля [Microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_dep365-mso_o365b/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
-* Обратите внимание, что Microsoft Teams сейчас не поддерживает политику Outlook Web App для блокирования изменений фотографий, но планирует добавить поддержку этой функции на ранних 2020.
+*Microsoft Teams в настоящее время не поддерживает политику Outlook Web App для блокировки изменений фотографий, но планирует добавить поддержку этой функции в начале 2020 г.

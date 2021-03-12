@@ -1,5 +1,5 @@
 ---
-title: ОКМ для прекращения июня 2020
+title: OCM будет отправлен в отставку в июне 2020 г.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 0b4094eadf77180c2f7d78d102a64dcafd262199
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 966a076c7b22a25a58e3513bc053c47b0eedaf4d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662770"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704835"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a>ОКМ для прекращения июня 2020
+# <a name="ocm-to-be-retired-june-2020"></a>OCM будет отправлен в отставку в июне 2020 г.
 
 
-В силу **30 июня 2020**, надстройка Outlook для Outlook и мобильное приложение будут отменены. Вы можете  **экспортировать данные**  из него  **до этой даты**.  
+С **30 июня 2020** г. надстройка и мобильное приложение Outlook Customer Manager будут отменены. Вы можете **экспортировать данные** из него **до этой даты.**  
 
-Вы можете проверить, кто в вашей организации имеет Microsoft 365 Business Standard (ранее известный как Office 365 бизнес премиум) или Microsoft 365 бизнес премиум (ранее известной как Microsoft 365 бизнес), с правами на управление клиентами Outlook, щелкнув [здесь](https://admin.microsoft.com/AdminPortal/Home?ref=/users).
+Вы можете проверить, кто в вашей организации имеет бизнес-стандарт Microsoft 365 (ранее известный как Office 365 Бизнес Премиум) или Microsoft 365 Бизнес Премиум (ранее известный как Microsoft 365 Бизнес) подписки на план с правами на Outlook Customer Manager, нажав здесь [.](https://admin.microsoft.com/AdminPortal/Home?ref=/users)
 
-Дополнительные сведения см. в указанных ниже статьях.
+Дополнительные сведения см. в статьях:
 
 - [Экспорт или удаление данных диспетчера клиентов Outlook](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [Вопросы и ответы о диспетчере клиентов Outlook](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32)
+- [FaQ диспетчера клиентов Outlook](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)

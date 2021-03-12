@@ -1,5 +1,5 @@
 ---
-title: Условный доступ с помощью Intune
+title: Условный доступ с intune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,30 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20ef8205431aad821419f2559be3402c8228d838
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807672"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704799"
 ---
-# <a name="conditional-access-with-intune"></a>Условный доступ с помощью Intune
+# <a name="conditional-access-with-intune"></a>Условный доступ с intune
 
-Для использования  **условного доступа**  в Intune необходимо 3 этапа:
+Использование  **условного доступа**  с помощью Intune требует 3 действия:
 
-- Создайте  **политику соответствия требованиям**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)), чтобы определить параметры, которые должны быть выполнены до того, как устройство считается совместимым. Например, устройство должно иметь ПИН-код как минимум до 6 цифр, прежде чем он будет признан совместимым.
-- Создайте **политику условного доступа**  , определяющую, какие ресурсы защищены и какие условия должны быть выполнены для доступа к этим ресурсам.  [Например,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  устройство должно быть совместимо перед доступом к корпоративной почте.
-- Убедитесь, что **политики соответствия требованиям**  и политики  **условного доступа**  нацелены на нужные группы пользователей. Для этого может потребоваться создание определенных групп пользователей в Azure Active Directory.
+- Создайте  **политику соответствия**  требованиям [(Android,](https://docs.microsoft.com/intune/compliance-policy-create-android)  [iOS,](https://docs.microsoft.com/intune/compliance-policy-create-ios)  [Windows),](https://docs.microsoft.com//intune/compliance-policy-create-windows)чтобы определить параметры, которые необходимо соблюдать, прежде чем устройство будет считаться совместимым. Например, устройство должно иметь пин-код не менее 6 цифр, прежде чем считать его совместимым.
+- Создайте **политику условного**  доступа, которая определяет, какие ресурсы защищены и какие условия должны быть выполнены для доступа к этим ресурсам.  [Например, устройство](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  должно быть совместимым перед доступом к корпоративной электронной почте.
+- Убедитесь, что  политики соответствия **требованиям** и политики условного доступа ориентированы на желаемые группы пользователей. Для этого может потребоваться создание определенных групп пользователей в Azure Active Directory.
 
 **Полезные ссылки:**
 
 [Обзор соответствия требованиям устройств](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Устранение неполадок ЦС](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[Устранение неполадок в ЦС](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Политика устранения неполадок](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Политика устранения неполадок](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-Чтобы защитить электронную почту (Exchange Online) от доступа несоответствующих требованиям устройств, необходимо следовать обоим документам:
+Чтобы защитить электронную почту (Exchange online) от доступа с помощью некомплиентных устройств, необходимо следовать обоим документам:
 
-1. [Защита доступа к электронной почте с устройств, использующих EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [Защита доступа к электронной почте с устройств с помощью современных клиентов проверки подлинности, таких как Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+1. [Защита доступа к электронной почте с устройств с помощью EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [Защита доступа к электронной почте от устройств с помощью современных клиентов проверки подлинности, таких как Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
