@@ -1,5 +1,5 @@
 ---
-title: Дополнительные информацию о Microsoft Viva Topics
+title: Подробнее о Microsoft Viva Темы
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "8341"
 ms.openlocfilehash: f2f76263c257199d8c85acccd6220de63dd5ce55
 ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 02/18/2021
 ms.locfileid: "50295463"
 ---
-# <a name="learn-more-about-microsoft-viva-topics"></a><span data-ttu-id="613e8-102">Дополнительные информацию о Microsoft Viva Topics</span><span class="sxs-lookup"><span data-stu-id="613e8-102">Learn more about Microsoft Viva Topics</span></span>
+# <a name="learn-more-about-microsoft-viva-topics"></a><span data-ttu-id="fa2ce-102">Подробнее о Microsoft Viva Темы</span><span class="sxs-lookup"><span data-stu-id="fa2ce-102">Learn more about Microsoft Viva Topics</span></span>
 
-<span data-ttu-id="613e8-103">Если вы готовы попробовать Viva Topics, [пробные испытания](https://aka.ms/BuyVivaTopics)и покупки доступны сегодня .</span><span class="sxs-lookup"><span data-stu-id="613e8-103">If you are ready to try Viva Topics, [trials and purchases are available today](https://aka.ms/BuyVivaTopics).</span></span>
+<span data-ttu-id="fa2ce-103">Если вы готовы попробовать Viva Темы, вам [доступны пробные и платные версии](https://aka.ms/BuyVivaTopics).</span><span class="sxs-lookup"><span data-stu-id="fa2ce-103">If you are ready to try Viva Topics, [trials and purchases are available today](https://aka.ms/BuyVivaTopics).</span></span>
 
-<span data-ttu-id="613e8-104">Дополнительные сведения см. в [центре ресурсов Viva Topics.](https://aka.ms/viva/topics/resources)</span><span class="sxs-lookup"><span data-stu-id="613e8-104">For more information, see [Viva Topics Resource Center](https://aka.ms/viva/topics/resources).</span></span>
+<span data-ttu-id="fa2ce-104">Дополнительные сведения см. в [Центре ресурсов Viva Тем](https://aka.ms/viva/topics/resources).</span><span class="sxs-lookup"><span data-stu-id="fa2ce-104">For more information, see [Viva Topics Resource Center](https://aka.ms/viva/topics/resources).</span></span>
