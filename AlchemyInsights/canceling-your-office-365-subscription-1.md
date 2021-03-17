@@ -1,10 +1,10 @@
 ---
-title: Отменяя свою подписку на Microsoft 365?
+title: Отмена подписки на Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.date: ''
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757241"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837431"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="596ef-102">Отменяя свою подписку на Microsoft 365?</span><span class="sxs-lookup"><span data-stu-id="596ef-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="b9a85-102">Отмена подписки на Microsoft 365?</span><span class="sxs-lookup"><span data-stu-id="b9a85-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="596ef-103">Приносим извинения, но вы можете отказаться от подписки:</span><span class="sxs-lookup"><span data-stu-id="596ef-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
-  
-- <span data-ttu-id="596ef-104">**На основе данных вашей организации мы считаем, что все текущие подписки представляют собой пробные подписки. Нет необходимости явно отменять пробную подписку, так как пробные подписки не требуют оплаты, и после завершения пробной версии отсутствует обязательство.**</span><span class="sxs-lookup"><span data-stu-id="596ef-104">**Based on your organization data, we believe all your current subscriptions are Trial subscriptions. There is no need to explicitly cancel a Trial subscription because Trial subscriptions require no payments, and there is no obligation after the trial ends.**</span></span>
+<span data-ttu-id="b9a85-103">Мы сожалеем, что вы идете, вот шаги, чтобы отменить подписку:</span><span class="sxs-lookup"><span data-stu-id="b9a85-103">We're sorry to see you go, here are the steps to cancel your subscription:</span></span>
 
-- <span data-ttu-id="596ef-105">Чтобы узнать больше об отмене подписки или пошаговых инструкциях, ознакомьтесь со статьей ["Отмена подписки"](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) .</span><span class="sxs-lookup"><span data-stu-id="596ef-105">To learn more about canceling a subscription, or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span></span>
+1. <span data-ttu-id="b9a85-104">В центре администрирования перейдите на страницу **"Выставление** счета  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** продуктам", а затем выберите **вкладку Продукты.**</span><span class="sxs-lookup"><span data-stu-id="b9a85-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then select the **Products** tab.</span></span>
+2. <span data-ttu-id="b9a85-105">Найдите подписку, которую хотите отменить.</span><span class="sxs-lookup"><span data-stu-id="b9a85-105">Find the subscription that you want to cancel.</span></span> <span data-ttu-id="b9a85-106">Нажмите **Дополнительные действия** (три точки) и выберите **Отменить подписку**.</span><span class="sxs-lookup"><span data-stu-id="b9a85-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="b9a85-107">В области **Отмена подписки** выберите причину, по которой вы отменяете подписку.</span><span class="sxs-lookup"><span data-stu-id="b9a85-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="b9a85-108">Вы можете предоставить отзыв.</span><span class="sxs-lookup"><span data-stu-id="b9a85-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="b9a85-109">Нажмите **Сохранить**.</span><span class="sxs-lookup"><span data-stu-id="b9a85-109">Select **Save**.</span></span>
+
+<span data-ttu-id="b9a85-110">Подробнее об отмене подписки или параметрах см. в [журнале Cancel your subscription.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="b9a85-110">To learn more about canceling a subscription, or options, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
