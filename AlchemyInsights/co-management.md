@@ -3,7 +3,7 @@ title: Совместное управление
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681273"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896808"
 ---
 # <a name="co-management"></a>Совместное управление
 
-**Необходимые условия для миграции с гибридного диспетчера конфигураций в Intune**
+**Необходимые условия для переноса из config Manager Hybrid в Intune**
 
-- Ознакомьтесь с [этой статьей](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Добавьте лицензию Intune для пользователей](https://docs.microsoft.com/intune/licenses-assign).
-- При настройке совместного управления используйте [браузер пограничного сервера](https://www.microsoft.com/windows/microsoft-edge) .
+- Просмотрите [эту статью](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
+- [Добавьте пользователям лицензию Intune.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- При [настройке совместного](https://www.microsoft.com/edge) управления используйте браузер Edge.
 
-**Как установить клиент диспетчера конфигураций на устройствах, управляемых Intune**
+Здесь можно найти руководство пошаговую настройку совместной [установки.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-В этой статье представлены [устройства с Windows в системе Intune, управляемые MDM](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+**Установка клиента Config Manager на устройствах с управлением Intune**
 
-**Что делать, если я хочу изменить только службу MDM?**
+См. [в этой версии устройства Windows с управлением intune MDM.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-Службу MDM можно изменить, не открывая обращение в службу поддержки. Изучите следующую документацию, чтобы помочь вам в изменении своего центра MDM:
+**Что делать, если я просто хочу изменить полномочия MDM?**
 
-- [Изменение полномочий MDM из Configuration Manager на Intune standalone](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Изменение центра MDM из Intune в качестве изолированного для диспетчера конфигураций](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+Управление MDM можно изменить без открытия случая поддержки. Просмотрите следующую документацию, которая поможет изменить полномочия MDM:
+
+- [Изменение управления MDM с диспетчера конфигурации на автономный intune](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Изменение полномочий MDM с автономных intune на Configuration Manager](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

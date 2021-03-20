@@ -1,5 +1,5 @@
 ---
-title: Передача доменов Великобритании
+title: .uk domain transfers
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 42fa6189bc41c573fcb06fb41c9c6c4af82a0c8f
-ms.sourcegitcommit: 9604f7cec8bf18ae2d7e5915cab4671a3a04d316
+ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598574"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896664"
 ---
-# <a name="uk-domain-transfers"></a>Передача доменов Великобритании
+# <a name="uk-domain-transfers"></a>.uk domain transfers
 
-Обратитесь в службу поддержки Майкрософт и запросите **метку IP-адресов** , чтобы найти регистратор, который будет использоваться для управления доменом. После изменения тега домен немедленно переносится на новый регистратор. Затем необходимо будет работать с новым регистратором, чтобы завершить передачу, вероятность оплаты передачи и добавление перенесенного домена в свою учетную запись с новым регистратором.
+Обратитесь в службу поддержки Майкрософт и запросите **изменение тега IPS,** чтобы соответствовать регистратору, который должен управлять доменом в будущем. После изменения тега домен немедленно передается новому регистратору. Затем вам потребуется работать с новым регистратором для завершения передачи, вероятно, оплаты трансферных сборов и добавления перенесенного домена в свою учетную запись с новым регистратором.
 
-Дополнительные сведения о переносе доменов приведены в [статье передача домена из Майкрософт на другой узел](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+Дополнительные сведения о переносе домена см. в примере [Перенос домена из Microsoft в другой хост.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+
+Будьте готовы предоставить тег IPS нового регистратора, который можно найти по адресу https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
