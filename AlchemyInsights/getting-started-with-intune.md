@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706356"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897096"
 ---
-# <a name="getting-started-with-intune"></a><span data-ttu-id="83dce-102">Начало работы с Intune</span><span class="sxs-lookup"><span data-stu-id="83dce-102">Getting Started with Intune</span></span>
+# <a name="getting-started-with-intune"></a><span data-ttu-id="01813-102">Начало работы с Intune</span><span class="sxs-lookup"><span data-stu-id="01813-102">Getting Started with Intune</span></span>
 
-<span data-ttu-id="83dce-103">Краткий обзор Intune и консоли администрирования см. [в пошаговом руководстве по Intune на портале Azure](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).</span><span class="sxs-lookup"><span data-stu-id="83dce-103">For a quick tour of Intune and the Admin console, check out [Walkthrough of Intune in the Azure Portal](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).</span></span>
+<span data-ttu-id="01813-103">Для быстрого тура по intune и консоли Admin ознакомьтесь с пошаговой частью [Intune на портале Azure.](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager)</span><span class="sxs-lookup"><span data-stu-id="01813-103">For a quick tour of Intune and the Admin console, check out [Walkthrough of Intune in the Azure Portal](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager).</span></span>
 
-<span data-ttu-id="83dce-104">Если вы хотите испытать Intune или настроить пробную версию, ознакомьтесь со статьей [Краткое руководство: попробовать Microsoft Intune бесплатно](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).</span><span class="sxs-lookup"><span data-stu-id="83dce-104">If you would like to try out Intune or set up a trial, review [Quickstart: Try Microsoft Intune for free](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).</span></span>
+<span data-ttu-id="01813-104">Если вы хотите попробовать Intune или настроить пробную попытку, просмотрите [Quickstart: Попробуйте Microsoft Intune бесплатно](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).</span><span class="sxs-lookup"><span data-stu-id="01813-104">If you would like to try out Intune or set up a trial, review [Quickstart: Try Microsoft Intune for free](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).</span></span>
 
-<span data-ttu-id="83dce-105">Если у вас уже есть Intune и готовы приступить к его использованию, ознакомьтесь с руководством [Set up Intune](https://docs.microsoft.com/intune/fundamentals/setup-steps) .</span><span class="sxs-lookup"><span data-stu-id="83dce-105">If you already have Intune and are ready to start using it, review our [Set up Intune](https://docs.microsoft.com/intune/fundamentals/setup-steps) guide.</span></span> 
+<span data-ttu-id="01813-105">Если вы готовы начать использовать Intune, просмотрите [настройка Intune.](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)</span><span class="sxs-lookup"><span data-stu-id="01813-105">If you are ready to start using Intune, review [Set up Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps).</span></span> <span data-ttu-id="01813-106">Для управляемой установки см. в руководстве по настройке [Intune.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide)</span><span class="sxs-lookup"><span data-stu-id="01813-106">For a guided setup experience, refer to the [Intune setup guide](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide).</span></span>
