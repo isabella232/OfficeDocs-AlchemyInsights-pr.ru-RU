@@ -1,5 +1,5 @@
 ---
-title: Проблемы с входящей миграцией машин
+title: Проблемы с подключением компьютеров к Microsoft Defender для конечной точки
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676895"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901580"
 ---
-# <a name="issues-with-onboarding-machines"></a><span data-ttu-id="4910e-102">Проблемы с входящей миграцией машин</span><span class="sxs-lookup"><span data-stu-id="4910e-102">Issues with onboarding machines</span></span>
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a><span data-ttu-id="3d30b-102">Проблемы с подключением компьютеров к Microsoft Defender для конечной точки</span><span class="sxs-lookup"><span data-stu-id="3d30b-102">Issues with onboarding machines to Microsoft Defender for Endpoints</span></span>
 
-<span data-ttu-id="4910e-103">Могут возникнуть проблемы с входящей миграцией машин в службу MDATP.</span><span class="sxs-lookup"><span data-stu-id="4910e-103">You might have issues with onboarding machines to MDATP service.</span></span> <span data-ttu-id="4910e-104">Если у вас есть доступ к машине пользователя, выполните следующие шаги:</span><span class="sxs-lookup"><span data-stu-id="4910e-104">If you can access the end-user machine, follow these steps:</span></span>
+<span data-ttu-id="3d30b-103">У вас могут возникнуть проблемы с подключением компьютеров к службе MDE.</span><span class="sxs-lookup"><span data-stu-id="3d30b-103">You might have issues with onboarding machines to MDE service.</span></span> <span data-ttu-id="3d30b-104">Если у вас есть доступ к компьютеру пользователя, выполните следующие действия.</span><span class="sxs-lookup"><span data-stu-id="3d30b-104">If you can access the end-user machine, follow these steps:</span></span>
 
-1. <span data-ttu-id="4910e-105">Скачайте средство диагностики [Client Connectivity Analyzer](https://aka.ms/mdatpanalyzer).</span><span class="sxs-lookup"><span data-stu-id="4910e-105">Download the [Client Connectivity Analyzer](https://aka.ms/mdatpanalyzer) diagnostic tool.</span></span>
-2. <span data-ttu-id="4910e-106">Извлеките и выполните MDATPAnalyzer.cmd.</span><span class="sxs-lookup"><span data-stu-id="4910e-106">Extract and run MDATPAnalyzer.cmd.</span></span>
-3. <span data-ttu-id="4910e-107">Найдите журнал диагностики в папке MDATPClientAnalyzerResult. В эту же папку загружено средство Analyzer.</span><span class="sxs-lookup"><span data-stu-id="4910e-107">Locate the diagnostic log in the folder called MDATPClientAnalyzerResult, the same folder where the Analyzer tool is downloaded.</span></span>
-4. <span data-ttu-id="4910e-108">Просмотрите файл журнала MDATPClientAnalyzer.txt, чтобы выявить проблемы с подключением или настройками прокси-сервера интернета.</span><span class="sxs-lookup"><span data-stu-id="4910e-108">Review the log file, MDATPClientAnalyzer.txt, to find connectivity or internet proxy settings issues.</span></span>
+1. <span data-ttu-id="3d30b-105">Скачайте последнюю предварительную версию средства диагностики [MDE Client Analyzer](https://aka.ms/betamdeanalyzer).</span><span class="sxs-lookup"><span data-stu-id="3d30b-105">Download the latest preview version of the [MDE Client Analyzer](https://aka.ms/betamdeanalyzer) diagnostic tool.</span></span>
+2. <span data-ttu-id="3d30b-106">Щелкните правой кнопкой **MDEClientAnalyzer.cmd** и выберите "Запуск от имени администратора".</span><span class="sxs-lookup"><span data-stu-id="3d30b-106">Right click **MDEClientAnalyzer.cmd** and select ‘Run as administrator’.</span></span>
+3. <span data-ttu-id="3d30b-107">Следуйте рекомендациям, предлагаемым в **MDEClientAnalyzer.htm**.</span><span class="sxs-lookup"><span data-stu-id="3d30b-107">Follow any guidance suggested in **MDEClientAnalyzer.htm**.</span></span>
+4. <span data-ttu-id="3d30b-108">Более подробные журналы можно просмотреть в созданной вложенной папке с именем **MDEClientAnalyzerResult**.</span><span class="sxs-lookup"><span data-stu-id="3d30b-108">For more verbose logs, review the created sub-folder named **MDEClientAnalyzerResult**.</span></span>
+5. <span data-ttu-id="3d30b-109">Если требуется дополнительное руководство, обратитесь в [службу поддержки Microsoft Defender для конечной точки](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) и предоставьте итоговый файл MDEClientAnalyzerResult.zip для анализа.</span><span class="sxs-lookup"><span data-stu-id="3d30b-109">If additional guidance is needed, contact [Microsoft Defender for Endpoint support](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) and provide the resulting MDEClientAnalyzerResult.zip file for analysis.</span></span>
