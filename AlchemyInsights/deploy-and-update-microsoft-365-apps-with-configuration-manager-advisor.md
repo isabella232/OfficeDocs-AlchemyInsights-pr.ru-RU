@@ -1,5 +1,5 @@
 ---
-title: Развертывание и обновление приложений Microsoft 365 с помощью помощника по настройке Configuration Manager
+title: Развертывание и обновление приложений Microsoft 365 с помощью советника по диспетчеру конфигурации
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004212"
 - "7416"
-ms.openlocfilehash: fe3cc8693e41639de590450fc4b678c44bd9e784
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: fdccf53de04b5a92c2bc4c526d7485ed5ba27704
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609667"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122892"
 ---
-# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a><span data-ttu-id="34b6a-102">Развертывание и обновление приложений Microsoft 365 с помощью помощника по настройке Configuration Manager</span><span class="sxs-lookup"><span data-stu-id="34b6a-102">Deploy and update Microsoft 365 apps with Configuration Manager advisor</span></span>
+# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a><span data-ttu-id="87613-102">Развертывание и обновление приложений Microsoft 365 с помощью советника по диспетчеру конфигурации</span><span class="sxs-lookup"><span data-stu-id="87613-102">Deploy and update Microsoft 365 apps with Configuration Manager advisor</span></span>
 
-<span data-ttu-id="34b6a-103">Для организаций, использующих Configuration Manager, вы можете использовать [развертывание и обновление приложений microsoft 365 с помощью консультанта Configuration Manager](https://admin.microsoft.com/adminportal/home#/oppinstall) , чтобы создать скрипт, который будет автоматически настраивать развертывание приложений Microsoft 365 с помощью рекомендаций, рекомендуемых специалистами FastTrack.</span><span class="sxs-lookup"><span data-stu-id="34b6a-103">For organizations using Configuration Manager, you can use the [Deploy and update Microsoft 365 Apps with Configuration Manager advisor](https://admin.microsoft.com/adminportal/home#/oppinstall) to generate a script that will automatically configure your Microsoft 365 Apps deployment using best practices recommended by FastTrack engineers.</span></span>
+<span data-ttu-id="87613-103">Для организаций, использующих диспетчер конфигурации, вы можете использовать развертывание и обновление [приложений Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2146549) с помощью советника диспетчера конфигурации для создания скрипта, который автоматически настраивает развертывание приложений Microsoft 365 с использованием лучших методов, рекомендованных инженерами FastTrack.</span><span class="sxs-lookup"><span data-stu-id="87613-103">For organizations using Configuration Manager, you can use the [Deploy and update Microsoft 365 Apps with Configuration Manager advisor](https://go.microsoft.com/fwlink/?linkid=2146549) to generate a script that will automatically configure your Microsoft 365 Apps deployment using best practices recommended by FastTrack engineers.</span></span>
 
-<span data-ttu-id="34b6a-104">Используйте это руководство для создания групп развертывания, настройки приложений и компонентов Office, настройки динамической или экономичной установки, а затем запустите сценарий, чтобы создать приложения, правила автоматического развертывания и коллекции устройств, которые необходимо выбрать для развертывания.</span><span class="sxs-lookup"><span data-stu-id="34b6a-104">Use this guide to build your deployment groups, customize your Office apps and features, configure dynamic or lean installations, and then run the script to create the applications, automatic deployment rules, and device collections you need to target your deployment.</span></span>
+<span data-ttu-id="87613-104">Используйте это руководство для создания групп развертывания, настройки приложений и функций Office, настройки динамических или постных установок, а затем запуска скрипта для создания приложений, правил автоматического развертывания и коллекций устройств, необходимых для развертывания.</span><span class="sxs-lookup"><span data-stu-id="87613-104">Use this guide to build your deployment groups, customize your Office apps and features, configure dynamic or lean installations, and then run the script to create the applications, automatic deployment rules, and device collections you need to target your deployment.</span></span>
