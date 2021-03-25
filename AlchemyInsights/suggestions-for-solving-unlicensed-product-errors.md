@@ -1,9 +1,9 @@
 ---
-title: Предложения по решению ошибок "нелицензированный продукт"
+title: Рекомендации по устранению ошибок "нелицензирования продукта"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: b1a1ebe313cc90d49633522546b7757fc2d93543
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1df8b7ef04d57c0cf8ac76385363175ac46d062b
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808432"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200614"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Предложения по устранению ошибок "нелицензированный продукт"
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Рекомендации по устранению ошибок "Нелицензирования продукта"
 
-Убедитесь, что у вас есть подписка на клиентские лицензии, такие как Microsoft 365 Apps для бизнеса или Microsoft 365 бизнес премиум, и [Убедитесь, что у пользователя есть назначенная лицензия](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). [Отключите установку](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) , чтобы проверить, превышает ли число установок, поддерживаемое вашей подпиской.
+Убедитесь, что у вас есть подписка, которая позволяет клиентские лицензии, такие как Microsoft 365 Apps для бизнеса или Microsoft 365 Бизнес Стандарт, и убедитесь, что у пользователя есть [лицензия назначена](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). [Отключите установку для](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) проверки превышения количества установок, поддерживаемых подпиской.
   
-Убедитесь, что пользователь входит с помощью той же учетной записи, которой назначена лицензия.
+Убедитесь, что пользователь входит с той же учетной записью, которая имеет назначенную лицензию.
   
-Запустите [средство устранения неполадок активации](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Запустите [устранение неполадок активации.](https://aka.ms/SARA-OfficeActivation-Alchemy)
   
-Проверка истечения срока действия состояния подписки
+Проверьте, истек ли срок действия подписки
   
 Проверьте [страницу работоспособности служб](https://docs.microsoft.com/office365/enterprise/view-service-health) на наличие известных проблем в службе.
   
-[Выполните оперативное восстановление Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Выполните онлайн-ремонт Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Дополнительные решения по устранению неполадок приведены [в статье: нелицензированные продукты и ошибки активации в Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Дополнительные решения по устранению неполадок см. в руб. [Нелицензионный продукт и ошибки активации в Office.](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
   
