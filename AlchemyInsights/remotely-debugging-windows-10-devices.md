@@ -1,5 +1,5 @@
 ---
-title: Начало удаленной отладки устройств с Windows 10
+title: Начало работы с удаленной отладки устройств Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576626"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398577"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Начало удаленной отладки устройств с Windows 10
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Начало работы с удаленной отладки устройств Windows 10
 
-Для удаленной отладки динамического содержимого на устройстве с Windows 10 с компьютера с Windows или macOS:
+Для удаленного отладки живого контента на устройстве Windows 10 с компьютера Windows или macOS:
 
-1. Настройте устройство Windows 10 для удаленной отладки, а затем подключитесь к нему с компьютера для разработки.
-2. Проверьте и отладить Live контент на устройстве с Windows 10 с компьютера для разработки.
-3. Содержимое ролика с устройства Windows 10 на экземпляр Девтулс на компьютере разработчика.
+1. Настройка устройства Windows 10 для удаленного отладки и подключение к ней с компьютера разработки.
+2. Проверка и отлаживка живого контента на устройстве Windows 10 с компьютера разработки.
+3. Содержимое screencast с устройства Windows 10 на экземпляр DevTools на компьютере разработки.
 
-Чтобы узнать больше, ознакомьтесь [со статьей начало работы с удаленной отладкой устройств с Windows 10 с помощью Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+Дополнительные дополнительные ссылки см. в [сайте Get Started with Remote Debugging Windows 10 Devices using Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)

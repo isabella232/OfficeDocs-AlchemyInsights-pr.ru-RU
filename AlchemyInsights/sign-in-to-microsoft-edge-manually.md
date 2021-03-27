@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599510"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398670"
 ---
 # <a name="sign-in-to-microsoft-edge-manually"></a>Вход в Microsoft Edge вручную
 
-Если пользователь не вошел автоматически во время первого запуска, пользователь может вручную войти в систему с помощью параметров браузера или всплывающего меню Identity. Для управления входом используйте следующие политики:
+Если пользователь не получает автоматический вход во время первого запуска, пользователь может вручную войти через параметры браузера или вылет удостоверения. Чтобы управлять входом, используйте следующие политики:
 
-1. [Нонремоваблепрофилинаблед](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) — чтобы убедиться, что пользователь всегда имеет рабочий профиль в Microsoft Edge.
-2. [Рестриктсигнинтопаттерн](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) — чтобы ограничить вход в набор доверенных учетных записей.
-3. [Бровсерсигнин](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) — чтобы отключить вход или заставить пользователей войти в систему.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) — чтобы убедиться, что у пользователя всегда есть профиль работы в Microsoft Edge.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) — ограничить вход в набор доверенных учетных записей.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) — отключить вход или заставить пользователей войти.
 
