@@ -1,5 +1,5 @@
 ---
-title: Использование связанных с обновлением политик групп, доступных в Microsoft Edge
+title: Используйте групповые политики, связанные с обновлением, доступные в Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,14 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
+- "9004632"
 - "7092"
-ms.openlocfilehash: 506681be0666c8091b86c173635f6eaa9552432d
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8359"
+ms.openlocfilehash: 3477b5a1754815e22f34a866e285096af94d6d78
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571964"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403684"
 ---
-# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a><span data-ttu-id="b98d8-102">Использование связанных с обновлением политик групп, доступных в Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="b98d8-102">Use update-related group policies available in Microsoft Edge</span></span>
+# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a><span data-ttu-id="989c6-102">Используйте групповые политики, связанные с обновлением, доступные в Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="989c6-102">Use update-related group policies available in Microsoft Edge</span></span>
 
-<span data-ttu-id="b98d8-103">Используйте [политики](https://go.microsoft.com/fwlink/?linkid=2134862) , доступные в Microsoft EDGE (версии 77 или более поздней), чтобы контролировать, как и когда обновляется Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="b98d8-103">Use the [policies](https://go.microsoft.com/fwlink/?linkid=2134862) available in Microsoft Edge (version 77 or later) to control how and when Microsoft Edge is updated.</span></span>
+<span data-ttu-id="989c6-103">Используйте [политики, доступные](https://go.microsoft.com/fwlink/?linkid=2134862) в Microsoft Edge (версия 77 или более поздней версии), чтобы контролировать, как и когда microsoft Edge обновляется.</span><span class="sxs-lookup"><span data-stu-id="989c6-103">Use the [policies](https://go.microsoft.com/fwlink/?linkid=2134862) available in Microsoft Edge (version 77 or later) to control how and when Microsoft Edge is updated.</span></span>
