@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 83fdaa7a1e181f8429f57fbb9e6ad20642c74d79
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: c17c2db421d3210de01e402da502a9951fdefeb7
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48816032"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401956"
 ---
 # <a name="how-to-download-and-install-microsoft-to-do"></a>Инструкции по скачиванию и установке Microsoft To Do
 
 Приложение Microsoft To Do для Win32, iOS, Android и Mac можно скачать из соответствующего магазина.
 
-Если вы ограничили доступ к магазину для вашего клиента, то в разделе [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/ru-RU/microsoft-store/distribute-offline-apps) приведены сведения об автономном установщике
+Если вы ограничили доступ к магазину для вашего клиента, то в разделе [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) приведены сведения об автономном установщике
 
 Чтобы скачать приложение из магазина с помощью **рабочей** учетной записи, приложение должно быть опубликовано в **частном магазине** вашей организации. Дополнительные сведения см. в статье [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)

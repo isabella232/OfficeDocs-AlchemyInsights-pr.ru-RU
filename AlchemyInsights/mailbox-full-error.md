@@ -1,11 +1,26 @@
 ---
-Title: "отчет о недоставке с кодом ошибки" 554 5.2.2 Mailbox Full "" MS. author: чрисда author: чрисда Manager: дансимп MS. Date: 04/21/2020 МС. аудитория: ИТ-специалистов MS. Topic: статья MS. Service: O365 — РОБОТы: No INDEX, localization_priority. 
-- 1956
-- 3500007
+title: NDR с кодом ошибки 554 5.2.2 полный почтовый ящик
+ms.author: chrisda
+author: chrisda
+manager: dansimp
+ms.date: 04/21/2020
+ms.audience: ITPro
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.custom:
+- "1956"
+- "3500007"
+ms.openlocfilehash: a98f84fca8ddf89f04d325865932d457e4934978
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403720"
 ---
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR с кодом ошибки 554 5.2.2 полный почтовый ящик
 
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>Отчет о недоставке с кодом ошибки 554 5.2.2 Mailbox Full
+Если вы получаете NDR с кодом ошибки "554 5.2.2 почтовый ящик полный", при отправке сообщений электронной почты в общедоступные папки с включенной почтой:  
 
-Если вы получаете отчет о недоставке с кодом ошибки "554 5.2.2 Mailbox Full", то при отправке сообщений в общедоступную папку с включенной поддержкой почты:  
-
-Выполните действия, описанные в [этой](https://aka.ms/554522) статье, чтобы убедиться в том, что общая папка или квота почтового ящика общедоступных папок не достигнут.
+Используйте действия в [этой статье,](https://aka.ms/554522) чтобы гарантировать, что квота почтовых ящиков общедоступных папок или общедоступных папок не достигнута.
