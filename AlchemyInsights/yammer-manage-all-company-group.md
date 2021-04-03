@@ -1,5 +1,5 @@
 ---
-title: Управление всей группой компаний в Yammer
+title: Yammer Manage All Company Group
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688851"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505441"
 ---
-# <a name="all-company-group"></a><span data-ttu-id="c8d19-102">Все группы компаний</span><span class="sxs-lookup"><span data-stu-id="c8d19-102">All Company Group</span></span>
+# <a name="all-company-group"></a><span data-ttu-id="7cc66-102">Вся группа компаний</span><span class="sxs-lookup"><span data-stu-id="7cc66-102">All Company Group</span></span>
 
-<span data-ttu-id="c8d19-103">Группа **ALL Company** автоматически создается при создании сети Yammer.</span><span class="sxs-lookup"><span data-stu-id="c8d19-103">The **All Company** group is automatically created when you create a Yammer network.</span></span> <span data-ttu-id="c8d19-104">Это системная группа по умолчанию, которая не может быть переименована или удалена.</span><span class="sxs-lookup"><span data-stu-id="c8d19-104">It is a default system group that cannot be renamed or deleted.</span></span> <span data-ttu-id="c8d19-105">Все могут отправлять сообщения **всем группам компаний** , но только администраторы сети Yammer могут отправлять извещения в эту группу.</span><span class="sxs-lookup"><span data-stu-id="c8d19-105">Everyone can post to the **All Company** group, but only Yammer network administrators can post announcements to the group.</span></span> <span data-ttu-id="c8d19-106">Используйте **Group Insights**для просмотра сведений о задействовании в группе **вся компания** .</span><span class="sxs-lookup"><span data-stu-id="c8d19-106">Use **Group Insights**to view information about engagement in the **All Company** group.</span></span>
+<span data-ttu-id="7cc66-103">Сообщество All Company теперь поддерживает аналогичные возможности другим сообществам в Yammer.</span><span class="sxs-lookup"><span data-stu-id="7cc66-103">The All Company community now supports similar capabilities to other communities in Yammer.</span></span> <span data-ttu-id="7cc66-104">Это включает в себя такие параметры, как фотографии обложки и имена.</span><span class="sxs-lookup"><span data-stu-id="7cc66-104">This includes options such as cover photos and naming.</span></span> <span data-ttu-id="7cc66-105">Кроме того, можно ограничить все публикации компании в Yammer.</span><span class="sxs-lookup"><span data-stu-id="7cc66-105">It's also possible to restrict All Company posts in Yammer.</span></span> <span data-ttu-id="7cc66-106">Дополнительные сведения см. в [сайте All Company now works like other Yammer communities.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)</span><span class="sxs-lookup"><span data-stu-id="7cc66-106">For more information, see [All Company now works like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).</span></span>
 
-<span data-ttu-id="c8d19-107">Дополнительные сведения см в разделе [Manage a Group в Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span><span class="sxs-lookup"><span data-stu-id="c8d19-107">For more information, see [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span></span>
+## <a name="common-issues-and-solutions"></a><span data-ttu-id="7cc66-107">Общие проблемы и решения</span><span class="sxs-lookup"><span data-stu-id="7cc66-107">Common issues and solutions</span></span>
+
+- <span data-ttu-id="7cc66-108">Все ограничения на настройку или размещение в компании недоступны сетевым администраторам.</span><span class="sxs-lookup"><span data-stu-id="7cc66-108">All Company customization or posting restriction is not available to network admins.</span></span> <span data-ttu-id="7cc66-109">Откройте запрос на обслуживание, чтобы включить современную группу All Company.</span><span class="sxs-lookup"><span data-stu-id="7cc66-109">Open a service request to enable the modern All Company group.</span></span>
+
+- <span data-ttu-id="7cc66-110">В Community Insights не показываются старые данные.</span><span class="sxs-lookup"><span data-stu-id="7cc66-110">Community Insights doesn't show old data.</span></span> <span data-ttu-id="7cc66-111">Теперь, когда вся компания является реальным сообществом, предыдущие данные для сети не показаны.</span><span class="sxs-lookup"><span data-stu-id="7cc66-111">Now that All Company is a real community, the previous data for the network is not shown.</span></span>
+
+- <span data-ttu-id="7cc66-112">Кажется, что вся компания удалена.</span><span class="sxs-lookup"><span data-stu-id="7cc66-112">All Company seems to be deleted.</span></span> <span data-ttu-id="7cc66-113">Если сообщество подключено к группе Microsoft 365, эта группа может быть удалена.</span><span class="sxs-lookup"><span data-stu-id="7cc66-113">When the community is connected to an Microsoft 365 group, that group can be deleted.</span></span> <span data-ttu-id="7cc66-114">Группа Microsoft 365 должна быть восстановлена в клиенте.</span><span class="sxs-lookup"><span data-stu-id="7cc66-114">The Microsoft 365 group must be restored in the tenant.</span></span>
+
