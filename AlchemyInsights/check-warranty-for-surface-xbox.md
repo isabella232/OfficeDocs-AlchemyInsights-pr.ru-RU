@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: 495b79a9328028fd4bddb3875aab085938603ff6
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897943"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505333"
 ---
 # <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Проверка состояния гарантии для устройства Surface или Xbox
 
 Если у вас устройство Surface или Xbox, вы можете проверить гарантию на него с помощью учетной записи Майкрософт. Вот как это сделать.
 
-1. Войдите в свою учетную запись Майкрософт. 
+1. Войдите в свою [учетную запись Майкрософт](https://account.microsoft.com/devices/). 
 
 1. Выберите устройство, гарантию на которое нужно проверить..
 
