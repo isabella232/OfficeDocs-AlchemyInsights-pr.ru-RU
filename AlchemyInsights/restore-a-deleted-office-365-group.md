@@ -14,18 +14,18 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: caa2c8987eecb89bac3469bf9471847858cab0ba
-ms.sourcegitcommit: ec99a3a2e1e6a13d9a829d65ad1692a607dc3a17
+ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51597456"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645144"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Восстановление удаленной группы Microsoft 365
 
 Вы можете восстановить удаленную группу Microsoft 365 или Microsoft Teams в течение 30 дней после удаления.
 
-1. Перейдите в [центр администрирования Microsoft 365,](https://aka.ms/RestoreDeletedGroup) чтобы войти в систему и перечислить удаленные группы и группы.
+1. Перейдите в [центр администрирования Microsoft 365,](https://aka.ms/RestoreDeletedGroup) чтобы войти в список удаленных групп и групп.
 
     **Примечание:** Войдите в систему с помощью учетной записи, назначенной администратору клиента или роли администратора групп.
 
