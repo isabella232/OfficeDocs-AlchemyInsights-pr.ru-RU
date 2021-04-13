@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617873"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692767"
 ---
 # <a name="start-using-microsoft-edge"></a>Начало использования Microsoft Edge
 
-Корпорация Майкрософт выпустила новый Microsoft Edge, который является следующим поколением веб-браузера. Он создан на основе Chromium с открытым исходным кодом и оптимизирован для работы с продуктами Майкрософт, например SharePoint и OneDrive.
+Корпорация Майкрософт выпустила новый Microsoft Edge, который является следующим поколением своего веб-браузера. Он построен на основе Chromium с открытым исходным кодом и оптимизирован для работы с продуктами Майкрософт, например SharePoint и OneDrive.
 
-Если у вас возникли проблемы с Google Chrome, Mozilla Firefox или Safari, рекомендуем использовать Microsoft Edge.
+Если у вас возникли проблемы с Google Chrome, Mozilla Firefox или Safari, рекомендуется использовать Microsoft Edge.
 
 Если вы администратор крупной организации, воспользуйтесь нашим руководством по настройке [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142423) для начала работы.
 
-Чтобы скачать Microsoft Edge на одном устройстве за раз, перейдите к новой [службе Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2141049)
+Чтобы скачать Microsoft Edge на одном устройстве одновременно, перейдите к [вводу](https://go.microsoft.com/fwlink/?linkid=2141049)нового Microsoft Edge .

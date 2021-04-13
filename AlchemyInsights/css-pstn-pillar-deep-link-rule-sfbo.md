@@ -1,5 +1,5 @@
 ---
-title: 'CSS: правило глубокой ссылки на основы PSTN'
+title: 'CSS: правило глубокой ссылки столба PSTN'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: 9e0e95ce9890609a878f9346ad1e1ffc7ce5ca98
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 277afb1deeca90d1bd56608c969b4b141abe49c2
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746376"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692587"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>Звонки по PSTN с помощью Skype для бизнеса Online
+# <a name="pstn-calling-with-skype-for-business-online"></a>Вызов PSTN с помощью Skype для бизнеса Online
 
-Если вы хотите совершать звонки PSTN в Microsoft 365, вам потребуется [план звонков Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) или подключение с локальной инфраструктурой телефонной связи PSTN. Дополнительные сведения см. в статье:
+Если вы хотите сделать вызовы PSTN в Microsoft 365, вам потребуется план вызова [Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) или подключение к локальной инфраструктуре телефонии PSTN. Дополнительные сведения см. в указанных ниже статьях.
 
-- [Доступность аудиоконференций и планов звонков в различных странах и регионах](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [Распространенные вопросы, связанные с конференц-связью Microsoft 365 Audio](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Доступность страны и региона для аудиоконференций и планов вызова Microsoft Teams](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+- [Общие вопросы, связанные с аудиоконференцией Microsoft 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Пополнение средств и управление кредитами на связь](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [Абонентам PSTN не удается присоединиться к конференц-связи с телефонным подключением в Skype для бизнеса](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Звонители PSTN не могут присоединиться к конференц-звонкам Skype для бизнеса](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
