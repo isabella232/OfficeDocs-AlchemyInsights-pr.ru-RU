@@ -1,5 +1,5 @@
 ---
-title: Лицензия на телефонную систему
+title: Лицензия на Microsoft Teams Телефон
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "4559"
-ms.openlocfilehash: 8e140f0542b332aee047cd8b71540e2b72d8e199
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7d68e01456a1a055d975a1d9a3f8bc35f5296c2
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776967"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692731"
 ---
-# <a name="phone-system-license"></a>Лицензия на телефонную систему
+# <a name="microsoft-teams-phone-license"></a>Лицензия на Microsoft Teams Телефон
 
-**Лицензия на телефонную систему** является дополнением к **Microsoft Teams**. Лицензия доступна по умолчанию в [Office 365 корпоративный E5](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e5-business-software?rtc=1&activetab=pivot%3aoverviewtab) и должна быть приобретена как дополнение к плану [Office 365 корпоративный E1](https://products.office.com/business/office-365-enterprise-e1-business-software) или [E3](https://products.office.com/business/office-365-enterprise-e3-business-software).
+**Лицензия на Microsoft Teams Телефон** является дополнением к **Microsoft Teams**. Лицензия доступна по умолчанию в [Office 365 корпоративный E5](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e5-business-software?rtc=1&activetab=pivot%3aoverviewtab) и должна быть приобретена как дополнение к плану [Office 365 корпоративный E1](https://products.office.com/business/office-365-enterprise-e1-business-software) или [E3](https://products.office.com/business/office-365-enterprise-e3-business-software).
 
 1. Войдите в Центр администрирования Microsoft 365.
 
 2. Перейдите в раздел **Выставление счетов> Услуги покупки> Дополнительные подписки**. 
 
-3. Вы увидите надстройку телефонной системы. Нажмите кнопку **Купить сейчас**.
+3. Вы увидите надстройку Teams Телефон. Щелкните **Купить сейчас**.
 
-После покупки лицензии на телефонную систему вы увидите цену и возможность покупки тарифного плана.
+После покупки лицензии на Teams Телефон вы увидите цену и возможность покупки тарифного плана.
 
-**Примечание**: Чтобы изменения вступили в силу, требуется от 2 до 24 часов. Для получения дополнительной информации см. [Настройка телефонной системы в вашей организации](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system). 
+**Примечание**. Чтобы изменения вступили в силу, требуется от 2 до 24 часов. Дополнительные сведения см. в статье [Настройка Microsoft Teams Телефон в вашей организации](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system). 
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: 4cabc559d0f201fc2ad5004e459a871d0caaf545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1234963d16c011a010cf2b6c99be098edce2dfb6
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739622"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692695"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Настройка аудиоконференций для Teams
 
@@ -43,4 +43,4 @@ ms.locfileid: "47739622"
 
 7. Выберите пользователя и убедитесь, что у него есть **платный номер по умолчанию**.
 
-Для получения дополнительных сведений см. статью [Планы звонков для Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) или позвоните в группу выставления коммерческих счетов Майкрософт с вопросами о лицензировании.
+Для получения дополнительных сведений см. статью [Microsoft Teams Тарифные планы для Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365). Для получения помощи по вопросам о лицензировании позвоните в группу выставления коммерческих счетов Майкрософт.

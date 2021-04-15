@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737030"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692407"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Команды общие вопросы для клиентов образования
 
@@ -46,7 +46,7 @@ ms.locfileid: "47737030"
     6. В административном центре Skype для бизнеса щелкните **аудиоконференции**, а затем **пользователей**.
     7. Выберите пользователя и убедитесь, что у него есть платный номер по умолчанию.
 
-    Дополнительные сведения о лицензировании см. в статье [Планы звонков](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) или позвоните в группу выставления коммерческих счетов Майкрософт.
+    Дополнительные сведения см. в статье [Microsoft Teams Тарифные планы](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365). Для помощи по вопросам лицензирования позвоните в группу выставления коммерческих счетов Майкрософт.
 
     Дополнительные ресурсы
 
