@@ -1,8 +1,8 @@
 ---
-title: Отчет об общем доступе к файлам и папкам на сайтах SharePoint
+title: Отчет о совместном использовании файлов и папок на сайтах SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: f6c0e7d183ee7d656d0dd63ed7af621c03f3ce94
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccf53ac09e6f5ad5bc48dcd8b31fb27b3a7c7b95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692380"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799030"
 ---
-# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Отчет об общем доступе к файлам и папкам на сайтах SharePoint
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Отчет о совместном использовании файлов и папок на сайтах SharePoint
 
-Вы можете создать CSV-файл с подробным описанием каждого уникального файла, пользователя, разрешения и ссылки на определенном сайте SharePoint или библиотеке OneDrive. Это поможет понять, как используется общий доступ, а также предоставлен ли доступ к каким-либо файлам или папкам для гостевых пользователей.
+Вы можете создать CSV-файл, в который будут вникать каждый уникальный файл, пользователь, разрешения и ссылки на данный сайт SharePoint или библиотеку OneDrive. Это поможет понять, как используется общий доступ, а также предоставлен ли доступ к каким-либо файлам или папкам для гостевых пользователей.
 
-Дополнительные сведения см. в [отчете об общем доступе к файлам и папкам на сайте SharePoint](https://docs.microsoft.com/sharepoint/sharing-reports).
+Дополнительные сведения можно получить в разделе Отчет о совместном использовании файлов и папок [на сайте SharePoint.](https://docs.microsoft.com/sharepoint/sharing-reports)
 
 > [!NOTE]
-> Эта функция в настоящее время развернута для клиентов первого выпуска и постепенно будет превышена для всех рабочих клиентов.
+> Эта функция в настоящее время развернута для клиентов первого выпуска и будет постепенно развертываться для всех клиентов Production.

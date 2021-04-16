@@ -2,7 +2,7 @@
 title: Удаление пароля из документа
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001455"
 - "3466"
-ms.openlocfilehash: 4763b0115d43b7f524d24ebb9875f7b8cba28d96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a8c0edcbd511e929bb618dfc51d79bb7b5b13e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768224"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799426"
 ---
 # <a name="remove-a-password-from-a-word-document"></a>Удаление пароля из документа Word
 
-Если вы знаете исходный пароль, удаление пароля из документа является простым процессом.
+До тех пор, пока вы знаете исходный пароль, удаление пароля из документа является простым процессом.
 
 1. Откройте документ и введите пароль.
-2. Перейдите к **File**разделу "  >  **сведения о**файле"  >  **защитить**  >  **Шифрование документа с помощью пароля**.
-3. Очистите пароль в **поле пароль**, а затем нажмите кнопку **ОК**.
+2. Перейдите **к файлу**  >  **Info**  >  **Protect Document** Encrypt с  >  **паролем.**
+3. Очистить пароль в поле **Пароль,** а затем выбрать **ОК**.

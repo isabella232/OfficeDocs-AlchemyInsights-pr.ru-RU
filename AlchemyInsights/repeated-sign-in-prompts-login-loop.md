@@ -1,8 +1,8 @@
 ---
-title: Повторяющиеся приглашения на вход и цикл входа
+title: Повторные запросы входа и цикл входа
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,18 +14,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 3a5103607cd80b1b02c5e999e80965f23b6cbc18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb7c3a773a242e2359736c864ecedebbc95ee155
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692776"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799066"
 ---
-# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Повторяющиеся приглашения при входе в приложения Microsoft 365
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Повторные запросы на вход в приложениях Microsoft 365
 
-Устранение неповторяющихся приглашений при входе в приложения Microsoft 365:
+Для устранения неполадок с повторными запросами на вход в приложениях Microsoft 365 см.:
 
-- [Устранение неполадок в приложениях, не являющихся браузерами, которые не могут войти в Microsoft 365, Azure или Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- ["Отказано в доступе", или при подключении к Microsoft 365 пользователю повторно запрашиваются учетные данные](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [Для федеративного пользователя при входе в Microsoft 365, Azure или Intune периодически запрашиваются учетные данные.](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [Устранение неполадок не браузерных приложений, которые не могут войти в Microsoft 365, Azure или Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- ["Отказано в доступе", или пользователю неоднократно предложены учетные данные при подключении к Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [Федерарная пользователь неоднократно получает запрос на учетные данные во время входа в Microsoft 365, Azure или Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 
