@@ -1,8 +1,8 @@
 ---
-title: Приобретение планов Office 365 для образования
+title: Приобретение планов образования Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,25 +15,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 7199f8321d68ad9641dda265adba804216dede92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8546be7dc2ab569fe0beb3150ead687d3a96c83a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703349"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810749"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="bb3a5-102">Приобретение планов Office 365 для образования</span><span class="sxs-lookup"><span data-stu-id="bb3a5-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="19f89-102">Приобретение планов образования Office 365</span><span class="sxs-lookup"><span data-stu-id="19f89-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="bb3a5-103">Ваш статус образовательного учреждения, соответствующего условиям подписки на Office 365 для образования, утвержден.</span><span class="sxs-lookup"><span data-stu-id="bb3a5-103">You have been approved for Office 365 Education.</span></span>  <span data-ttu-id="bb3a5-104">Процедура приобретения</span><span class="sxs-lookup"><span data-stu-id="bb3a5-104">To purchase:</span></span>
+<span data-ttu-id="19f89-103">Ваш статус образовательного учреждения, соответствующего условиям подписки на Office 365 для образования, утвержден.</span><span class="sxs-lookup"><span data-stu-id="19f89-103">You have been approved for Office 365 Education.</span></span>  <span data-ttu-id="19f89-104">Процедура приобретения</span><span class="sxs-lookup"><span data-stu-id="19f89-104">To purchase:</span></span>
 
-1. <span data-ttu-id="bb3a5-105">Перейдите в раздел **[Выставление счетов > Приобретение служб](https://portal.office.com/AdminPortal/Home#/catalog)**.</span><span class="sxs-lookup"><span data-stu-id="bb3a5-105">Navigate to **[Billing > Purchase Services](https://portal.office.com/AdminPortal/Home#/catalog)**.</span></span>
+1. <span data-ttu-id="19f89-105">Перейдите в раздел **[Выставление счетов > Приобретение служб](https://portal.office.com/AdminPortal/Home#/catalog)**.</span><span class="sxs-lookup"><span data-stu-id="19f89-105">Navigate to **[Billing > Purchase Services](https://portal.office.com/AdminPortal/Home#/catalog)**.</span></span>
 
-2. <span data-ttu-id="bb3a5-106">Выберите план из списка в разделе **Планы для образовательных учреждений**.</span><span class="sxs-lookup"><span data-stu-id="bb3a5-106">Choose from the list under **Education Plans**.</span></span>
+2. <span data-ttu-id="19f89-106">Выберите план из списка в разделе **Планы для образовательных учреждений**.</span><span class="sxs-lookup"><span data-stu-id="19f89-106">Choose from the list under **Education Plans**.</span></span>
 
-3. <span data-ttu-id="bb3a5-107">Наведите курсор на подписку, которую хотите купить, и щелкните **Приобрести**.</span><span class="sxs-lookup"><span data-stu-id="bb3a5-107">Hover over the subscription you would like to purchase and click **Buy Now**.</span></span>
+3. <span data-ttu-id="19f89-107">Наведите курсор на подписку, которую хотите купить, и щелкните **Приобрести**.</span><span class="sxs-lookup"><span data-stu-id="19f89-107">Hover over the subscription you would like to purchase and click **Buy Now**.</span></span>
 
-<span data-ttu-id="bb3a5-108">**Дистанционное обучение**</span><span class="sxs-lookup"><span data-stu-id="bb3a5-108">**Remote teaching and learning**</span></span>
+<span data-ttu-id="19f89-108">**Дистанционное обучение**</span><span class="sxs-lookup"><span data-stu-id="19f89-108">**Remote teaching and learning**</span></span>
 
-- <span data-ttu-id="bb3a5-109">См. Раздел [Дистанционное обучение и учеба в Microsoft Office 365 для образовательных учреждений](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), чтобы узнать самые последние рекомендации по планированию школьных уроков, виртуальной встрече и обмену контентом со студентами.</span><span class="sxs-lookup"><span data-stu-id="bb3a5-109">Please see [Remote teaching and learning in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) to learn the most up to date guidance on setting up your school lesson planning, meeting virtually and sharing content with students.</span></span>
+- <span data-ttu-id="19f89-109">См. Раздел [Дистанционное обучение и учеба в Microsoft Office 365 для образовательных учреждений](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), чтобы узнать самые последние рекомендации по планированию школьных уроков, виртуальной встрече и обмену контентом со студентами.</span><span class="sxs-lookup"><span data-stu-id="19f89-109">Please see [Remote teaching and learning in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) to learn the most up to date guidance on setting up your school lesson planning, meeting virtually and sharing content with students.</span></span>
 
-- <span data-ttu-id="bb3a5-110">Дополнительные рекомендации в области ИТ см. в статьях [Начните с Microsoft Teams для удаленного обучения](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) и [Переход на удаленное обучение](https://www.microsoft.com/education/remote-learning).</span><span class="sxs-lookup"><span data-stu-id="bb3a5-110">There is additional IT guidance in [Get started with Microsoft Teams for remote learning](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) and [Making the transition to remote learning](https://www.microsoft.com/education/remote-learning).</span></span>
+- <span data-ttu-id="19f89-110">Дополнительные рекомендации в области ИТ см. в статьях [Начните с Microsoft Teams для удаленного обучения](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) и [Переход на удаленное обучение](https://www.microsoft.com/education/remote-learning).</span><span class="sxs-lookup"><span data-stu-id="19f89-110">There is additional IT guidance in [Get started with Microsoft Teams for remote learning](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) and [Making the transition to remote learning](https://www.microsoft.com/education/remote-learning).</span></span>
