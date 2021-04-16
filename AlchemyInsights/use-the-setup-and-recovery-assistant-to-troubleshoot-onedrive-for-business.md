@@ -1,8 +1,8 @@
 ---
-title: Использование помощника по установке и восстановлению для устранения неполадок в OneDrive для бизнеса
+title: Используйте помощник установки и восстановления для устранения неполадок OneDrive для бизнеса
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: c687718de8ca78e1e1b896adc08368248fe4e0df
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 123c32a54ef3893448e8d149f35b9cb84fb10074
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749347"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770788"
 ---
-# <a name="fix-onedrive-sync-problems"></a>Решение проблем с синхронизацией OneDrive
+# <a name="fix-onedrive-sync-problems"></a>Устранение проблем синхронизации OneDrive
 
-Приложение "помощник по поддержке и восстановлению" поможет определить и устранить распространенные проблемы с синхронизацией файлов OneDrive. 
+Приложение Помощник по поддержке и восстановлению поможет вам определить и устранить распространенные проблемы с синхронизацией файлов OneDrive. 
   
-[Скачайте помощник по поддержке и восстановлению](https://aka.ms/sara), войдите с помощью рабочей или учебной учетной записи и следуйте инструкциям в приложении, чтобы устранить неполадки в OneDrive для бизнеса. 
+[Скачайте помощник по](https://aka.ms/sara)поддержке и восстановлению, вопишитесь в свою работу или учетную запись школы и следуйте инструкциям в приложении для устранения неполадок OneDrive для бизнеса. 
   
 [Дополнительные действия по устранению неполадок](https://go.microsoft.com/fwlink/?linkid=872097)
   

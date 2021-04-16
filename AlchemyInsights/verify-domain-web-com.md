@@ -2,7 +2,7 @@
 title: Проверка домена с помощью web.com
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b3f87de3657ee5060e91abc76ff64a7e5ba7f5ab
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: a6b20db14f752a3a27970af0318934907ff21083
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815762"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770644"
 ---
 # <a name="verify-your-domain-with-webcom"></a>Проверка домена с помощью web.com
 
-Чтобы проверить домен, необходимо добавить запись TXT в ваш регистратор доменных имен, чтобы убедиться, что вы владеете доменом. 
+Чтобы проверить домен, необходимо добавить запись TXT в регистратор домена, чтобы убедиться, что у вас есть домен. 
 
-Для начала следуйте указаниям [мастера добавления доменов](https://admin.microsoft.com/Adminportal#/Domains) , **Settings** выбрав пункт \> **домены**параметров, а затем **Добавить домен**.
+Сначала следуйте [мастеру Добавить домен,](https://admin.microsoft.com/Adminportal#/Domains) выбрав **домены параметров,** \> а затем добавьте **домен**.
   
-Пошаговые инструкции по [созданию записей DNS на сайте Web.com для Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) .
+Дополнительные [инструкции см. в web.com записи DNS в microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com)
