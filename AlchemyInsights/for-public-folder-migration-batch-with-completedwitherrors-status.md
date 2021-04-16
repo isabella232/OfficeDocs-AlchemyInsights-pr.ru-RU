@@ -1,8 +1,8 @@
 ---
-title: Для пакета миграции общедоступных папок с состоянием Комплетедвисеррорс
+title: Пакет переноса общедоступных папок со статусом CompletedWithErrors
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ed21bfb9069b56a4fc59b201bb3ad94c6bb6712
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744126"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812477"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Для пакета миграции общедоступных папок с состоянием Комплетедвисеррорс
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Пакет переноса общедоступных папок со статусом CompletedWithErrors
 
-Выполните следующие действия, чтобы завершить пакет, пропуская крупные или поврежденные элементы: 
-1. Утвердите пропущенные элементы в пакете миграции:
+Чтобы выполнить пакет, выполните следующие действия, пропустив крупные и плохие элементы: 
+1. Утверждение пропущенных элементов в пакете миграции:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. Используйте следующую команду, чтобы утвердить пропущенные элементы в запросах на миграцию, которые были синхронизированы, но не выполнены.
+2. Используйте следующую команду для утверждения пропущенных элементов в запросах на миграцию, которые "синхронизированы", но не завершены:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. Пакеты миграции и запросы должны возобновляться и завершаться через несколько минут.
+3. Пакет миграции и запросы должны возобновиться и завершиться в течение нескольких минут.
 

@@ -1,8 +1,8 @@
 ---
-title: Устранение ошибок Центра обновления Windows
+title: Исправление ошибок обновления Windows
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: febef6e2def6d7b928ec8b21d07aa2e8d94d7d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744675"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812657"
 ---
-# <a name="fix-windows-update-errors"></a>Устранение ошибок Центра обновления Windows
+# <a name="fix-windows-update-errors"></a>Исправление ошибок обновления Windows
 
-При получении кода ошибки при загрузке и установке центра обновления Windows **средство устранения неполадок обновления** поможет устранить эту проблему.
+Если вы получаете код ошибки при загрузке  и установке обновления Windows, устранение неполадок обновления поможет устранить проблему.
 
-- [Устранение неполадок при загрузке обновления для Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Запустите средство устранения неполадок. По завершении рекомендуется перезапустить устройство. Затем проверьте наличие новых обновлений, перейдя к пункту [Start > Settings > update & Security > центра обновления Windows](ms-settings:windowsupdate).
+- [Скачайте устранение неполадок обновления для Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Запустите устранение неполадок. Когда это будет сделано, лучше перезапустить устройство. Затем ознакомьтесь с новыми обновлениями, > [параметров](ms-settings:windowsupdate)> обновления & безопасности > Windows Update .
 
-Если все еще не работают, ознакомьтесь со статьей [Windows Update: вопросы и ответы](https://support.microsoft.com/help/12373/windows-update-faq) для получения дополнительных сведений.
+Если все еще не работают, ознакомьтесь с [обновлениями Windows: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) для получения дополнительных сведений.

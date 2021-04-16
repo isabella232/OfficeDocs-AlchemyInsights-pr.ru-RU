@@ -1,8 +1,8 @@
 ---
-title: Создание автоматических подписей и транскрипции в Microsoft Stream
+title: Создание автоматических подписей и стенограммы в Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707796"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812430"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Создание автоматических подписей и транскрипции в Microsoft Stream
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Создание автоматических подписей и стенограммы в Microsoft Stream
 
-Stream может автоматически создавать заголовки с помощью технологии автоматического распознавания речи, а также просматривать окно транскрипции прокрутки, чтобы легко перемещаться и подписываться с помощью речевого содержимого видео.
+Поток может автоматически создавать подписи с помощью технологии автоматического распознавания речи, и вы можете просмотреть окно транскрипции прокрутки, чтобы легко перемещаться и следовать вместе с разговорным контентом видео.
 
-- [Создание автоматических подписей и транскрипции для видеороликов Майкрософт](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Создание автоматических подписей и стенограммы для видео Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Отображение окна "бегущая строка" для видео в Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Показать окно транскрипции прокрутки для видео в Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

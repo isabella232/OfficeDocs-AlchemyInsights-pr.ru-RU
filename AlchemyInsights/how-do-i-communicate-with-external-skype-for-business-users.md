@@ -2,7 +2,7 @@
 title: Как общаться с внешними пользователями Skype для бизнеса
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +13,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: f5e1e597067efff58872a5f0080bb18c42af648e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9580a1e9f850726210f403a5dc6c84cd9a7df196
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781872"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811289"
 ---
-# <a name="allow-external-communications-with-skype-for-business"></a>Разрешение внешних коммуникаций со Skype для бизнеса 
+# <a name="allow-external-communications-with-skype-for-business"></a>Разрешить внешние связи с Skype для бизнеса 
 
-Вы хотите разрешить пользователям Skype для бизнеса обращаться к пользователям за пределами вашей организации? Сведения о том [, как разрешить пользователям связываться с внешними пользователями Skype для бизнеса](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+Вы хотите разрешить пользователям Skype для бизнеса обращаться к пользователям за пределами организации? См. [разрешить пользователям обращаться к внешним пользователям Skype для бизнеса.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-Для правильной работы внешних коммуникаций необходимо правильно настроить записи DNS. Ознакомьтесь с [этой](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) статьей, чтобы узнать, какие инструкции по настройке записей DNS у поставщика. 
+Записи DNS должны быть правильно настроены для правильного функционирования внешних коммуникаций. [Ознакомьтесь](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) с этой ссылкой, чтобы узнать, есть ли у нас конкретные инструкции по набору записей DNS с вашим поставщиком. 
 
-Вы хотите предоставить пользователям Skype для бизнеса возможность общаться с пользователями Skype? См. следующие статьи:
+Вы хотите, чтобы пользователи Skype для бизнеса могли связываться с пользователями Skype? См. следующие статьи:
 
-- [Предоставьте пользователям Skype для бизнеса возможность добавлять контакты Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+- [Позвольте пользователям Skype для бизнеса добавить контакты Skype.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
 
 - [Добавление контакта в Skype для бизнеса](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
 
 
-Если вы хотите, чтобы пользователи Teams могли общаться с пользователями за пределами вашей организации (включая пользователей Skype для бизнеса), ознакомьтесь с разделом [Управление внешним доступом в Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
+Если вы хотите, чтобы пользователи Teams могли связываться с пользователями за пределами организации (в том числе с пользователями Skype для бизнеса), просмотрите управление внешним доступом [в Microsoft Teams.](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people) 
