@@ -1,8 +1,8 @@
 ---
-title: Аварийное завершение работы Excel?
+title: Сбой Excel?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,30 +11,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 6010d4a6e745f17f330e883521bc8d76efe68097
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359310"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804826"
 ---
-# <a name="frequent-excel-crashes"></a>Частое сбои Excel
+# <a name="frequent-excel-crashes"></a>Частые сбои Excel?
 
-Частые сбои в Excel могут возникать из строя надстройки. Вы можете отключить надстройку Excel, выполнив следующие инструкции:
+Частые сбои в Excel могут быть вызваны ошибкой надстройки. Вы можете отключить надстройку Excel, следуя следующим инструкциям:
   
-1. Выберите **File** \> **Параметры**файла, \> **надстройки.**
+1. Выберите  \> **параметры файлов**, \> **надстройки**.
 
-2. В поле **Управление** выберите пункт надстройки **com**и нажмите кнопку **Перейти**.
+2. В поле **Управление** выберите надстройки **COM** и нажмите кнопку **Перейти**.
 
-3. В поле Доступные надстройки снимите флажок рядом с надстройкой, которую требуется отключить, а затем нажмите кнопку **ОК**.
+3. В доступном Add-Ins поле отключайте шажок рядом с надстройки, которую необходимо отключить, и нажмите **кнопку ОК**.
 
 > [!NOTE]
-> Если приложение Excel аварийно завершает работу во время запуска, запустите его в безопасном режиме, нажав и удерживая клавишу CTRL при запуске программы.
+> Если Excel сбои во время запуска, запустите его в безопасном режиме, нажав и удерживая Ctrl во время запуска программы.
   
-Если у вас по-прежнему возникают проблемы, ознакомьтесь со следующими статьями:
+Если у вас по-прежнему возникают проблемы, обратитесь к следующим статьям:
   
-- [При запуске приложений Office 2016 или 2013 на компьютере появляется сообщение об ошибке "остановка работы"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [При запуске приложений Office 2016 или 2013 на моем компьютере я получаю ошибку "перестал работать"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [Устранение неполадок, связанных с сбоем и не отвечает на запросы, в Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [Устранение сбоя и устранение неполадок в Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Приложение Excel не отвечает, зависает, останавливается или перестает работать](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel не отвечает, зависает, замораживает или перестает работать](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
