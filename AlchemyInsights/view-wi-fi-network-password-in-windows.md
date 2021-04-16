@@ -1,8 +1,8 @@
 ---
-title: Просмотр пароля сети Wi – Fi в Windows 10
+title: Просмотр Wi-Fi сетевого пароля в Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689103"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807391"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a><span data-ttu-id="e5349-102">Просмотр пароля сети Wi – Fi в Windows 10</span><span class="sxs-lookup"><span data-stu-id="e5349-102">View Wi-Fi network password in Windows 10</span></span>
+# <a name="view-wi-fi-network-password-in-windows-10"></a><span data-ttu-id="7f4b7-102">Просмотр Wi-Fi сетевого пароля в Windows 10</span><span class="sxs-lookup"><span data-stu-id="7f4b7-102">View Wi-Fi network password in Windows 10</span></span>
 
-1. <span data-ttu-id="e5349-103">Убедитесь, что компьютер с Windows 10 подключен к сети Wi-Fi.</span><span class="sxs-lookup"><span data-stu-id="e5349-103">Make sure your Windows 10 PC is connected to the Wi-Fi network.</span></span>
+1. <span data-ttu-id="7f4b7-103">Убедитесь, что компьютер Windows 10 подключен к Wi-Fi сети.</span><span class="sxs-lookup"><span data-stu-id="7f4b7-103">Make sure your Windows 10 PC is connected to the Wi-Fi network.</span></span>
 
-2. <span data-ttu-id="e5349-104">Перейдите к разделу **параметры > сеть & Интернет-> состояние**, или щелкните [здесь](ms-settings:network?activationSource=GetHelp) , чтобы перейти к ней сейчас.</span><span class="sxs-lookup"><span data-stu-id="e5349-104">Go to **Settings  > Network & Internet  > Status**, or click or tap [here](ms-settings:network?activationSource=GetHelp) to let us take you there now.)</span></span>
+2. <span data-ttu-id="7f4b7-104">Перейдите к **параметрам > Network & internet > status**, [](ms-settings:network?activationSource=GetHelp) или нажмите кнопку здесь, чтобы позволить нам принять вас там сейчас.)</span><span class="sxs-lookup"><span data-stu-id="7f4b7-104">Go to **Settings  > Network & Internet  > Status**, or click or tap [here](ms-settings:network?activationSource=GetHelp) to let us take you there now.)</span></span>
 
-3. <span data-ttu-id="e5349-105">Выберите пункт **Центр управления сетями и общим доступом**.</span><span class="sxs-lookup"><span data-stu-id="e5349-105">Click **Network and Sharing Center**.</span></span>
+3. <span data-ttu-id="7f4b7-105">Выберите пункт **Центр управления сетями и общим доступом**.</span><span class="sxs-lookup"><span data-stu-id="7f4b7-105">Click **Network and Sharing Center**.</span></span>
 
-    ![Центр управления сетями и общим доступом.](media/network-sharing-center.png)
+    ![Центр сети и обмена данными.](media/network-sharing-center.png)
 
-4. <span data-ttu-id="e5349-107">В **центре управления сетями и общим доступом**рядом с пунктом **подключения**вы увидите имя вашей беспроводной сети.</span><span class="sxs-lookup"><span data-stu-id="e5349-107">In **Network and Sharing Center**, next to **Connections**, you will see the name of your wireless network.</span></span> <span data-ttu-id="e5349-108">Например, если сеть называется "ABC123", вы можете увидеть следующее:</span><span class="sxs-lookup"><span data-stu-id="e5349-108">For example, if your network is named "ABC123," you might see:</span></span>
+4. <span data-ttu-id="7f4b7-107">В **Центре сетевых и совместных** подключений ( рядом с **подключениями)** вы увидите имя беспроводной сети.</span><span class="sxs-lookup"><span data-stu-id="7f4b7-107">In **Network and Sharing Center**, next to **Connections**, you will see the name of your wireless network.</span></span> <span data-ttu-id="7f4b7-108">Например, если сеть называется "ABC123", можно увидеть:</span><span class="sxs-lookup"><span data-stu-id="7f4b7-108">For example, if your network is named "ABC123," you might see:</span></span>
 
     ![Сетевые подключения.](media/network-connections.png)
 
-    <span data-ttu-id="e5349-110">Щелкните имя беспроводной сети, чтобы открыть окно состояния Wi/Fi.</span><span class="sxs-lookup"><span data-stu-id="e5349-110">Click the wireless network name to open the Wi-Fi Status window.</span></span> 
+    <span data-ttu-id="7f4b7-110">Щелкните имя беспроводной сети, чтобы открыть окно Wi-Fi состояния.</span><span class="sxs-lookup"><span data-stu-id="7f4b7-110">Click the wireless network name to open the Wi-Fi Status window.</span></span> 
 
-5. <span data-ttu-id="e5349-111">В окне состояния Wi – Fi щелкните **Свойства беспроводной сети**, перейдите на вкладку **Безопасность** и установите флажок **Показать символы**.</span><span class="sxs-lookup"><span data-stu-id="e5349-111">In the Wi-Fi Status window, click **Wireless Properties**, click the **Security** tab, and check **Show characters**.</span></span>
+5. <span data-ttu-id="7f4b7-111">В окне Wi-Fi состояния щелкните **Беспроводные свойства,** щелкните вкладку **Безопасность** и проверьте **символы Show**.</span><span class="sxs-lookup"><span data-stu-id="7f4b7-111">In the Wi-Fi Status window, click **Wireless Properties**, click the **Security** tab, and check **Show characters**.</span></span>
 
-    ![Отображение символов пароля Wi/Fi.](media/show-password-characters.png)
+    ![Показать Wi-Fi паролей.](media/show-password-characters.png)
 
