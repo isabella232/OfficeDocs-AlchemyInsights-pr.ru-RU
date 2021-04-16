@@ -2,7 +2,7 @@
 title: Расшифровка счета
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791604"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782704"
 ---
 # <a name="understand-billing-amount"></a>Общие сведения о сумме выставления счетов
 
@@ -70,7 +70,7 @@ ms.locfileid: "48791604"
 
 **Как проверить, действительны ли бесплатные службы и когда истечет срок их действия?**
 
-На портале Ibiza > Подписка > Страница обзора > прокрутите вниз до раздела «12-месячные бесплатные службы» и щелкните значок «Сведения». Здесь будет отображаться дата, когда истечет срок действия бесплатных служб. **Примечание** : Службы V1 не являются частью бесплатных служб Azure. Самый актуальный список бесплатных служб см. в статье [Какие продукты предоставляются бесплатно в течение 12 месяцев?](http://www.microsoftazuresponsorships.com/)
+На портале Ibiza > Подписка > Страница обзора > прокрутите вниз до раздела «12-месячные бесплатные службы» и щелкните значок «Сведения». Здесь будет отображаться дата, когда истечет срок действия бесплатных служб. **Примечание**: Службы V1 не являются частью бесплатных служб Azure. Самый актуальный список бесплатных служб см. в статье [Какие продукты предоставляются бесплатно в течение 12 месяцев?](http://www.microsoftazuresponsorships.com/)
 
 Дополнительные вопросы и ответы: [Вопросы и ответы о бесплатной учетной записи](https://azure.microsoft.com/free/free-account-faq/)
 
