@@ -1,8 +1,8 @@
 ---
-title: Самостоятельная Покупка PowerShell
+title: Самообслуживка покупки PowerShell
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739983"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797734"
 ---
-# <a name="self-service-purchase-of-powershell"></a>Самостоятельная Покупка PowerShell
+# <a name="self-service-purchase-of-powershell"></a>Самообслуживка покупки PowerShell
 
-Чтобы использовать модуль PowerShell Мскоммерце, его необходимо установить на устройстве с Windows 10 с TLS 1,2 (требуются разрешения локального администратора).  Импортируйте модуль Мскоммерце и подключитесь к нему.  При получении запроса на вход в систему необходимо использовать учетные данные роли администратора глобальной или выставления счетов.  
+Чтобы использовать модуль MSCommerce PowerShell, необходимо установить его на устройство Windows 10 с TLS 1.2 (необходимые разрешения локального администратора).  Импорт и подключение к модульу MSCommerce.  Если вам будет предложено войти в систему, вам потребуется использовать учетные данные global или Billing Admin role.  
 
-Если у вас нет протокола TLS 1,2, при попытке получить или изменить политику вы можете получить следующее сообщение об ошибке:
+Если у вас нет TLS 1.2, при попытке получить или обновить политику можно получить следующую ошибку:
 
-*ErrorMessage — базовое подключение было закрыто: при отправке произошла непредвиденная ошибка*.
+*ErrorMessage — подключение* было закрыто: при отправке произошла неожиданная ошибка.
 
 
 
