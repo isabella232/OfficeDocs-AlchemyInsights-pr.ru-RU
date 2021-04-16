@@ -1,8 +1,8 @@
 ---
-title: Настройка и включение автосекретаря Teams
+title: Настройка и включить teams автосекретарь
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801125"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787330"
 ---
 # <a name="set-up-a-cloud-auto-attendant"></a>Настройка облачного автосекретаря
 
-Для автосекретарей в настоящее время предъявляются определенные требования лицензирования. Узнайте [, что представляют собой облачные автосекретарей?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) для получения сведений о создании и настройке автосекретарей Teams. 
+В настоящее время у автовласти есть определенные требования к лицензированию. Узнайте [о создании](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) и настройке автоспутников Teams. 
 
-Дополнительные сведения см. в статье:
+Дополнительные сведения см. в указанных ниже статьях.
 
-- [Настройка облачного автосекретаря](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) с помощью Microsoft Teams. 
-- [Создание облачной очереди звонков](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) с помощью Microsoft Teams. 
-- [Отвечать на вызовы автосекретаря и из очереди вызовов непосредственно из Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
+- [Настройка автоспутника Cloud в](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) Microsoft Teams. 
+- [Создайте очередь облачных вызовов](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) с помощью Microsoft Teams. 
+- [Отвечать на вызовы автоспутника и вызывать очереди непосредственно из Teams.](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls) 
