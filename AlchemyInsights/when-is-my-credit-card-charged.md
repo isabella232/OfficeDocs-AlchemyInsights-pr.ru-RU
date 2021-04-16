@@ -1,8 +1,8 @@
 ---
-title: Когда выставляется кредитная карта?
+title: Когда взимается плата с моей кредитной карты?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7b8c8144f7ac042726ceeb537bbf98a296e507d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796409"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806095"
 ---
-# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="b3009-102">Когда выставляется кредитная карта?</span><span class="sxs-lookup"><span data-stu-id="b3009-102">When is my credit card charged?</span></span>
+# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="f2657-102">Когда взимается плата с моей кредитной карты?</span><span class="sxs-lookup"><span data-stu-id="f2657-102">When is my credit card charged?</span></span>
 
-<span data-ttu-id="b3009-103">При первоначальной покупке может потребоваться до двух дней, чтобы взиматься плата.</span><span class="sxs-lookup"><span data-stu-id="b3009-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
+<span data-ttu-id="f2657-103">При начальной покупке может занять до двух дней.</span><span class="sxs-lookup"><span data-stu-id="f2657-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
   
-<span data-ttu-id="b3009-104">Периодические начисления происходят в течение одного дня создаваемого счета.</span><span class="sxs-lookup"><span data-stu-id="b3009-104">Recurring charges happen within one day of the invoice being created.</span></span>
+<span data-ttu-id="f2657-104">Повторяющиеся платежи происходят в течение одного дня со дня создания счета.</span><span class="sxs-lookup"><span data-stu-id="f2657-104">Recurring charges happen within one day of the invoice being created.</span></span>
   
-<span data-ttu-id="b3009-105">Если начисления не удалось, система продолжит попытки сопоставить баланс в течение следующих нескольких недель.</span><span class="sxs-lookup"><span data-stu-id="b3009-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="b3009-106">Вы можете вносить изменения в сведения об оплате в любое время, чтобы убедиться, что следующая попытка оплаты прошла успешно.</span><span class="sxs-lookup"><span data-stu-id="b3009-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="b3009-107">Подробнее см. в статье [Управление способами оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="b3009-107">For more information, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
+<span data-ttu-id="f2657-105">Если плата не будет успешной, система будет продолжать пытаться уладить баланс в течение следующих нескольких недель.</span><span class="sxs-lookup"><span data-stu-id="f2657-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="f2657-106">Чтобы застраховать следующую попытку оплаты, вы можете в любой момент обновить сведения о платежах.</span><span class="sxs-lookup"><span data-stu-id="f2657-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="f2657-107">Подробнее см. в статье [Управление способами оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="f2657-107">For more information, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
