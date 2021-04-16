@@ -1,8 +1,8 @@
 ---
-title: Работоспособность службы Microsoft 365
+title: Microsoft 365 Service Health
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742756"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794485"
 ---
-# <a name="microsoft-365-service-health"></a><span data-ttu-id="83744-102">Работоспособность службы Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="83744-102">Microsoft 365 Service Health</span></span>
+# <a name="microsoft-365-service-health"></a><span data-ttu-id="cdb7a-102">Microsoft 365 Service Health</span><span class="sxs-lookup"><span data-stu-id="cdb7a-102">Microsoft 365 Service Health</span></span>
 
 
-<span data-ttu-id="83744-103">Проверьте работоспособность служб в [панели мониторинга работоспособности службы](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth).</span><span class="sxs-lookup"><span data-stu-id="83744-103">Check the service health of any service from the [Service Health Dashboard](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth).</span></span> <span data-ttu-id="83744-104">Выбрав **Новый центр администрирования** в правом верхнем углу, вы увидите новые параметры работоспособности службы.</span><span class="sxs-lookup"><span data-stu-id="83744-104">By selecting **The new admin center** in the top right corner, you'll see new Service Health options.</span></span>
+<span data-ttu-id="cdb7a-103">Проверьте состояние службы любой службы из панели мониторинга [здоровья службы.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="cdb7a-103">Check the service health of any service from the [Service Health Dashboard](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth).</span></span> <span data-ttu-id="cdb7a-104">Выбрав новый **центр администрирования** в правом верхнем углу, вы увидите новые параметры service Health.</span><span class="sxs-lookup"><span data-stu-id="cdb7a-104">By selecting **The new admin center** in the top right corner, you'll see new Service Health options.</span></span>
 
-- <span data-ttu-id="83744-105">Выберите **предпочтения** , чтобы получать **уведомления по электронной почте о**работоспособности службы.</span><span class="sxs-lookup"><span data-stu-id="83744-105">Select **Preferences** to receive service health **email notifications**.</span></span>
+- <span data-ttu-id="cdb7a-105">Выберите **Параметры для** получения уведомлений электронной почты о **состоянии здоровья службы.**</span><span class="sxs-lookup"><span data-stu-id="cdb7a-105">Select **Preferences** to receive service health **email notifications**.</span></span>
 
-- <span data-ttu-id="83744-106">Выберите **сообщить о неполадке** , если у вас возникла проблема со службой.</span><span class="sxs-lookup"><span data-stu-id="83744-106">Select **Report an issue** if you're experiencing an issue with the service.</span></span>
+- <span data-ttu-id="cdb7a-106">Выберите **Отчет о проблеме,** если у вас возникли проблемы со службой.</span><span class="sxs-lookup"><span data-stu-id="cdb7a-106">Select **Report an issue** if you're experiencing an issue with the service.</span></span>
 
-- <span data-ttu-id="83744-107">Выберите **Журнал** , чтобы просмотреть историю работоспособности службы в Организации.</span><span class="sxs-lookup"><span data-stu-id="83744-107">Select **History** to review the service health history of your organization.</span></span> 
+- <span data-ttu-id="cdb7a-107">Выберите **"История",** чтобы просмотреть историю службы вашей организации.</span><span class="sxs-lookup"><span data-stu-id="cdb7a-107">Select **History** to review the service health history of your organization.</span></span> 
 
-<span data-ttu-id="83744-108">Для получения дополнительных сведений Узнайте, [как проверить работоспособность службы Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).</span><span class="sxs-lookup"><span data-stu-id="83744-108">For more info, see [How to check Microsoft 365 service health](https://docs.microsoft.com/office365/enterprise/view-service-health).</span></span> 
+<span data-ttu-id="cdb7a-108">Дополнительные сведения см. [в веб-сайте How to check Microsoft 365 service health.](https://docs.microsoft.com/office365/enterprise/view-service-health)</span><span class="sxs-lookup"><span data-stu-id="cdb7a-108">For more info, see [How to check Microsoft 365 service health](https://docs.microsoft.com/office365/enterprise/view-service-health).</span></span> 
