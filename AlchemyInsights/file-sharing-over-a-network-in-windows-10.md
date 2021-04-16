@@ -1,8 +1,8 @@
 ---
-title: Общий доступ к файлам по сети в Windows 10
+title: Общий доступ к файлам в сети в Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0503eb2e213054cb3528617e0e9b1eff7f0e4733
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745404"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813161"
 ---
-# <a name="file-sharing-over-a-network-in-windows-10"></a><span data-ttu-id="6d15e-102">Общий доступ к файлам по сети в Windows 10</span><span class="sxs-lookup"><span data-stu-id="6d15e-102">File sharing over a network in Windows 10</span></span>
+# <a name="file-sharing-over-a-network-in-windows-10"></a><span data-ttu-id="a8464-102">Общий доступ к файлам в сети в Windows 10</span><span class="sxs-lookup"><span data-stu-id="a8464-102">File sharing over a network in Windows 10</span></span>
 
-<span data-ttu-id="6d15e-103">**Примечание**. Если домашняя группа ранее использовалась для общего доступа к файлам, обратите внимание, что домашняя группа удалена из Windows 10 (версия 1803).</span><span class="sxs-lookup"><span data-stu-id="6d15e-103">**Note**: If you previously used HomeGroup for file sharing, please note that HomeGroup has been removed from Windows 10 (Version 1803).</span></span> <span data-ttu-id="6d15e-104">Теперь вы можете предоставлять общий доступ к принтерам и файлам с помощью встроенных функций Windows 10.</span><span class="sxs-lookup"><span data-stu-id="6d15e-104">You can now share printers and files by using built-in features in Windows 10.</span></span>
+<span data-ttu-id="a8464-103">**Примечание.** Если вы ранее использовали HomeGroup для общего доступа к файлам, обратите внимание, что HomeGroup удалена из Windows 10 (версия 1803).</span><span class="sxs-lookup"><span data-stu-id="a8464-103">**Note**: If you previously used HomeGroup for file sharing, please note that HomeGroup has been removed from Windows 10 (Version 1803).</span></span> <span data-ttu-id="a8464-104">Теперь вы можете обмениваться принтерами и файлами, используя встроенные функции в Windows 10.</span><span class="sxs-lookup"><span data-stu-id="a8464-104">You can now share printers and files by using built-in features in Windows 10.</span></span>
 
-<span data-ttu-id="6d15e-105">**Предоставление общего доступа к файлам и папкам в сети**</span><span class="sxs-lookup"><span data-stu-id="6d15e-105">**To share files or folders over a network**</span></span>
+<span data-ttu-id="a8464-105">**Совместное делиться файлами или папками по сети**</span><span class="sxs-lookup"><span data-stu-id="a8464-105">**To share files or folders over a network**</span></span>
 
-- <span data-ttu-id="6d15e-106">В **проводнике**выберите файл > перейдите на вкладку **общий доступ** в верхней > в разделе **общий доступ** в выберите пункт **конкретные пользователи**.</span><span class="sxs-lookup"><span data-stu-id="6d15e-106">In **File Explorer**, select a file > click the **Share** tab at the top > in the **Share with** section, click **Specific people**.</span></span>
+- <span data-ttu-id="a8464-106">В **Обозревателе** файлов выберите файл, > нажмите вкладку **Share** в верхней части > в разделе **Share,** нажмите кнопку **Конкретные люди**.</span><span class="sxs-lookup"><span data-stu-id="a8464-106">In **File Explorer**, select a file > click the **Share** tab at the top > in the **Share with** section, click **Specific people**.</span></span>
 
-    ![Предоставление общего доступа к файлу определенным пользователям.](media/share-with-specific-people.png)
+    ![Поделитесь файлом с определенными людьми.](media/share-with-specific-people.png)
           
-- <span data-ttu-id="6d15e-108">Если вы выберете несколько файлов одновременно, вы можете поделиться ими одинаковым образом.</span><span class="sxs-lookup"><span data-stu-id="6d15e-108">If you select multiple files at once, you can share them all in the same way.</span></span> <span data-ttu-id="6d15e-109">Он также работает для папок.</span><span class="sxs-lookup"><span data-stu-id="6d15e-109">It works for folders, too.</span></span>
+- <span data-ttu-id="a8464-108">Если вы выберите несколько файлов одновременно, вы можете поделиться ими всеми одинаково.</span><span class="sxs-lookup"><span data-stu-id="a8464-108">If you select multiple files at once, you can share them all in the same way.</span></span> <span data-ttu-id="a8464-109">Он также работает для папок.</span><span class="sxs-lookup"><span data-stu-id="a8464-109">It works for folders, too.</span></span>
 
-<span data-ttu-id="6d15e-110">**Просмотр устройств в сети, совместно использующих файлы**</span><span class="sxs-lookup"><span data-stu-id="6d15e-110">**To see devices on the network that are sharing files**</span></span>
+<span data-ttu-id="a8464-110">**Чтобы увидеть устройства в сети, которые делятся файлами**</span><span class="sxs-lookup"><span data-stu-id="a8464-110">**To see devices on the network that are sharing files**</span></span>
 
-- <span data-ttu-id="6d15e-111">В **проводнике**перейдите в раздел **Network (сеть**).</span><span class="sxs-lookup"><span data-stu-id="6d15e-111">In **File Explorer**, go to **Network**.</span></span> <span data-ttu-id="6d15e-112">Если сетевое обнаружение отключено, отображается сообщение об ошибке "обнаружение сети отключено..."</span><span class="sxs-lookup"><span data-stu-id="6d15e-112">If Network discovery is not enabled, you will see an error message "Network discovery is turned off..."</span></span>
+- <span data-ttu-id="a8464-111">В **обозревателе файлов** перейдите в **сеть**.</span><span class="sxs-lookup"><span data-stu-id="a8464-111">In **File Explorer**, go to **Network**.</span></span> <span data-ttu-id="a8464-112">Если обнаружение сети не включено, вы увидите сообщение об ошибке "Обнаружение сети отключено...".</span><span class="sxs-lookup"><span data-stu-id="a8464-112">If Network discovery is not enabled, you will see an error message "Network discovery is turned off..."</span></span>
 
-- <span data-ttu-id="6d15e-113">Нажмите кнопку **Обнаружение сети отключено** , а затем щелкните **включить обнаружение сети и общий доступ к**файлам.</span><span class="sxs-lookup"><span data-stu-id="6d15e-113">Click the **Network discovery is turned off** banner, then click **Turn on network discovery and file sharing**.</span></span>
+- <span data-ttu-id="a8464-113">Нажмите **кнопку Открытие Сети выключен** баннер, а затем нажмите кнопку Включить обнаружение **сети и общий доступ к файлам**.</span><span class="sxs-lookup"><span data-stu-id="a8464-113">Click the **Network discovery is turned off** banner, then click **Turn on network discovery and file sharing**.</span></span>
 
-    ![Включите обнаружение сети и общий доступ к файлам.](media/turn-on-network-discovery.png)
+    ![Включаем обнаружение сети и общий доступ к файлам.](media/turn-on-network-discovery.png)
 
-[<span data-ttu-id="6d15e-115">Дополнительные сведения о совместном использовании файлов по сети</span><span class="sxs-lookup"><span data-stu-id="6d15e-115">Read more about file sharing over a network</span></span>](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
+[<span data-ttu-id="a8464-115">Дополнительные материалы о совместном использовании файлов в сети</span><span class="sxs-lookup"><span data-stu-id="a8464-115">Read more about file sharing over a network</span></span>](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
 
-[<span data-ttu-id="6d15e-116">Общий доступ к файлам с помощью приложений, OneDrive, электронной почты и многого другого</span><span class="sxs-lookup"><span data-stu-id="6d15e-116">Share files using apps, OneDrive, emails, and more</span></span>](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)
+[<span data-ttu-id="a8464-116">Совместное использование файлов с помощью приложений, OneDrive, электронных писем и других</span><span class="sxs-lookup"><span data-stu-id="a8464-116">Share files using apps, OneDrive, emails, and more</span></span>](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)

@@ -1,8 +1,8 @@
 ---
-title: Ввод номеров портов IMAP
+title: Ввод номеров порта IMAP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479c4af8833fc4f1dbc66ef3c59a4e24290b83c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709452"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813845"
 ---
-# <a name="enter-imap-port-numbers"></a><span data-ttu-id="900ca-102">Ввод номеров портов IMAP</span><span class="sxs-lookup"><span data-stu-id="900ca-102">Enter IMAP port numbers</span></span>
+# <a name="enter-imap-port-numbers"></a><span data-ttu-id="49c6c-102">Ввод номеров порта IMAP</span><span class="sxs-lookup"><span data-stu-id="49c6c-102">Enter IMAP port numbers</span></span>
 
-<span data-ttu-id="900ca-103">Выполните вход с помощью экрана "авансовый параметр" и добавьте сведения о порте за двоеточием в качестве адресов серверов входящей и исходящей почты.</span><span class="sxs-lookup"><span data-stu-id="900ca-103">Log in via the advance setup screen and add your port details behind a colon in line with your incoming and outgoing server addresses.</span></span> <span data-ttu-id="900ca-104">(Эти сведения можно получить у поставщика услуг электронной почты.)</span><span class="sxs-lookup"><span data-stu-id="900ca-104">(You can get these details from your email service provider.)</span></span> 
+<span data-ttu-id="49c6c-103">Войдите на экран предварительной установки и добавьте сведения о порте за двоеточием в соответствии с входящие и исходяющие адреса сервера.</span><span class="sxs-lookup"><span data-stu-id="49c6c-103">Log in via the advance setup screen and add your port details behind a colon in line with your incoming and outgoing server addresses.</span></span> <span data-ttu-id="49c6c-104">(Эти сведения можно получить у поставщика услуг электронной почты.)</span><span class="sxs-lookup"><span data-stu-id="49c6c-104">(You can get these details from your email service provider.)</span></span> 
 
-<span data-ttu-id="900ca-105">Перейдите к разделу **Параметры**  >  **добавьте учетную запись**  >  **IMAP** > и щелкните **Показать дополнительные параметры**, а затем введите свои сведения.</span><span class="sxs-lookup"><span data-stu-id="900ca-105">Go to **Settings** > **Add Account** > **IMAP** > and click **Show advanced settings**; then enter your details.</span></span> 
+<span data-ttu-id="49c6c-105">Перейдите **к параметрам** Добавить IMAP учетной записи > нажмите показать  >    >   **расширенные параметры;** а затем введите свои сведения.</span><span class="sxs-lookup"><span data-stu-id="49c6c-105">Go to **Settings** > **Add Account** > **IMAP** > and click **Show advanced settings**; then enter your details.</span></span> 
 
-<span data-ttu-id="900ca-106">*Сервер входящей почты*: IMAP.servername.com:000 (обычно 993 или 143).</span><span class="sxs-lookup"><span data-stu-id="900ca-106">*Incoming mail server*: imap.servername.com:000 (usually 993 or 143)</span></span> 
+<span data-ttu-id="49c6c-106">*Входящий почтовый* сервер : imap.servername.com:000 (обычно 993 или 143)</span><span class="sxs-lookup"><span data-stu-id="49c6c-106">*Incoming mail server*: imap.servername.com:000 (usually 993 or 143)</span></span> 
 
-<span data-ttu-id="900ca-107">*Сервер исходящей почты*: SMTP.servername.com:000 (обычно 465 или 25)</span><span class="sxs-lookup"><span data-stu-id="900ca-107">*Outgoing mail server*: smtp.servername.com:000 (usually 465 or 25)</span></span> 
+<span data-ttu-id="49c6c-107">*Исходяющий почтовый* сервер: smtp.servername.com:000 (обычно 465 или 25)</span><span class="sxs-lookup"><span data-stu-id="49c6c-107">*Outgoing mail server*: smtp.servername.com:000 (usually 465 or 25)</span></span> 
 
-<span data-ttu-id="900ca-108">Помните, что важно иметь двоеточие.</span><span class="sxs-lookup"><span data-stu-id="900ca-108">Keep in mind the colon is important.</span></span> 
+<span data-ttu-id="49c6c-108">Помните, что двоеточие имеет важное значение.</span><span class="sxs-lookup"><span data-stu-id="49c6c-108">Keep in mind the colon is important.</span></span> 
