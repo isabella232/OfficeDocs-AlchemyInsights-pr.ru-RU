@@ -1,8 +1,8 @@
 ---
-title: 'Microsoft 365 для некоммерческих утверждений '
+title: 'Microsoft 365 для некоммерческих организаций — утверждена '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779826"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810677"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 для некоммерческих утверждений
+# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 для некоммерческих организаций — утверждена
 
-Ваше состояние в качестве квалифицированной некоммерческой организацией Майкрософт утверждено. Вы можете выполнить покупку в центре администрирования Microsoft 365.
+Утвержден ваш статус некоммерческой организации Microsoft Qualified. Вы можете завершить покупку в центре администрирования Microsoft 365.
 
-1. В центре администрирования перейдите на страницу Услуги по **выставлению счетов** \> [покупки](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. В центре администрирования перейдите на страницу **Службы** покупки \> [биллинга.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Выберите из списка в разделе **некоммерческие планы**.
+2. Выберите из списка в **списке NonProfits Plans**.
 
-3. Наведите указатель мыши на подписку, которую вы хотите приобрести, и нажмите кнопку **купить**.
+3. Наведите курсор над подпиской, которую вы хотите приобрести, и выберите **Купить сейчас**.
 
-Дополнительные сведения можно найти в [статье Microsoft 365 ресурсы для некоммерческих](https://www.microsoft.com/nonprofits/microsoft-365) или [контактных продаж](https://www.microsoft.com/nonprofits/contact-us).
+Дополнительные сведения см. в [веб-сайте Microsoft 365 resources for nonprofits](https://www.microsoft.com/nonprofits/microsoft-365) or [contact sales.](https://www.microsoft.com/nonprofits/contact-us)

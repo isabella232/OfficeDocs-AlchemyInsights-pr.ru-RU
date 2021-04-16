@@ -2,7 +2,7 @@
 title: Office 365 для некоммерческих планов и цен
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +14,18 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 120428310815dd90b1fa0e4a32a4ee2f1eccc588
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 683995071a6902276e041e914453df211cf54fd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803114"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810317"
 ---
 # <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 для некоммерческих планов и цен
 
-Квалифицированные некоммерческие сообщения могут получать некоммерческие сообщения Office 365 в виде пожертвования или обновления до расширенных функций со значительной скидкой. Чтобы претендовать на некоммерческие планы Office 365, необходимо удерживать в вашей стране [распознаваемое состояние благотворительности](https://go.microsoft.com/fwlink/p/?LinkID=330253) и подписать несоответствие политикой Майкрософт. Корпорация Майкрософт оставляет за собой право проверить допустимость в любое время и приостановить службу для несоответствующих организаций.
+Квалифицированные некоммерческие организации могут получать Office 365 Некоммерческие в качестве пожертвования или обновления до расширенных функций со значительной скидкой. Чтобы получить право на участие в некоммерческом [](https://go.microsoft.com/fwlink/p/?LinkID=330253) плане Office 365, необходимо иметь признанный благотворительный статус в вашей стране и подписать политику майкрософт по недискриминации. Корпорация Майкрософт оставляет за собой право проверять соответствие требованиям в любое время и приостанавливать работу службы для организаций, не подавающих лицензию.
   
-Дополнительные вопросы об этом соотношении приведены в разделе [вопросы и ответы](https://products.office.com/nonprofit/office-365-nonprofit) .
+Дополнительные вопросы об этом предложении см. в [faq.](https://products.office.com/nonprofit/office-365-nonprofit)
   
 - [Просмотр некоммерческих планов](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 

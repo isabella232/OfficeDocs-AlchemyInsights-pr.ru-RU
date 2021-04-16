@@ -1,8 +1,8 @@
 ---
-title: Передача владения формой другому пользователю
+title: Передача права собственности на форму другому пользователю
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: 8b38b200c9ddd95245e2ded947a1eeee4262c88c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db71635a5f925df85e6613c6cb4760406b4be3e8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700144"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809056"
 ---
-# <a name="transfer-ownership-of-a-microsoft-form"></a>Передача прав собственности на форму Microsoft Form
+# <a name="transfer-ownership-of-a-microsoft-form"></a>Передача права собственности на форму Майкрософт
 
-Вы можете перемещать опрос, опрашивать или опрашивать в Microsoft Forms в группу, чтобы все участники группы могли их владельцы. Вы также можете передать владение формой другому пользователю, если он остался у предыдущего владельца.
+Вы можете переместить опрос, викторину или опрос в Microsoft Forms в группу, чтобы каждый в вашей группе стал владельцем этой формы. Вы также можете передать владение формами другому пользователю, если предыдущий владелец покинул организацию.
 
-Дополнительные сведения [см.](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
+Дополнительные сведения см. в [перена праве собственности на форму.](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)

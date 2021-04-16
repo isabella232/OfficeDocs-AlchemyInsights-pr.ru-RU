@@ -1,8 +1,8 @@
 ---
 ms.author: pebaum
-title: Проблемы с Exchange 2007
+title: Проблемы Outlook с Exchange 2007
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: c91a83cc3b83c9e142dfe9bfc491f9622885ba41
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5b8988e234a4cb15d7c3388d1727efe5840f3038
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722036"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810029"
 ---
-# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Решение об ошибке "не удается получать почту из текущего почтового ящика"
-При попытке использовать Outlook 365/2016 с сервером Exchange Server 2007 вы получите следующие сообщения об ошибке:
+# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Решение для ошибки "Вы не сможете получать почту из текущего почтового ящика"
+При попытке использования Outlook 365/2016 с сервером Exchange 2007 вы получите следующие ошибки:
 
-*Остановить, необходимо подождать установки Office 2016. Вы не сможете получать почту из текущего почтового ящика. Outlook 2016 несовместим с Exchange 2007. Вы можете обратиться к поставщику почтовых ящиков или системному администратору об этой ошибке. Ресурс, который вы пытаетесь использовать, находится на неподдерживаемой версии Microsoft Exchange. Обратитесь за помощью к администратору электронной почты.*
+*Остановите, вам следует подождать, чтобы установить Office 2016. Вы не сможете получать почту из текущего почтового ящика. Outlook 2016 не совместим с Exchange 2007. Возможно, вам нужно связаться с поставщиком почтовых ящиков или системным администратором по этому вопросу. Ресурс, который вы пытаетесь использовать, расположен в неподтверченной версии Microsoft Exchange. Обратитесь за помощью к администратору электронной почты.*
 
-Чтобы использовать Outlook с Exchange 2007, вы можете установить Outlook 2013, если вы обновили предыдущую версию Outlook. Дополнительные сведения приведены в [статье как переустановить office 2013 после обновления office 2016?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)
+Чтобы использовать Outlook с Exchange 2007, вы можете установить Outlook 2013, если вы обновлены из более ранней версии Outlook. Дополнительные сведения см. в статью Как переустановить [Office 2013 после обновления Office 2016?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)

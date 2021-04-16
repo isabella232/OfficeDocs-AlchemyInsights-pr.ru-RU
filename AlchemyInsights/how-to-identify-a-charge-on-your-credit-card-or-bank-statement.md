@@ -1,8 +1,8 @@
 ---
-title: Как определить плату за кредитную карту или банковскую выписку
+title: Определение заряда на кредитной карте или банковской выписке
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +15,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: b856c0ca1f02780d0828dc714a25273ed99569f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8bafbb57aae358df04332a6c5a6d00ce523c810
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780144"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810857"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Как определить плату за кредитную карту или банковскую выписку
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Определение заряда на кредитной карте или банковской выписке
 
-Описание подписки на Microsoft 365 выглядит следующим образом:
+Описание заряда для подписки Microsoft 365 выглядит так:
   
-MSFT \* E012345ABC 0000 MSBILL.info, штат Вашингтон
+MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-Строка из 10 символов, приведенная ниже MSFT, \* — это номер счета, к которому относится плата. Чтобы найти счет, перейдите на страницу **выставления счетов** \> [& платежей](https://go.microsoft.com/fwlink/p/?linkid=848039) для просмотра последних счетов. Номер накладной находится в правом углу документа с накладными.
+Альфа-числовая строка из 10 символов, следующая за MSFT, — это номер счета, с которого связана \* плата. Чтобы найти счет, перейдите на **страницу** & счетов, чтобы просмотреть последние \> [](https://go.microsoft.com/fwlink/p/?linkid=848039) счета. Номер счета находится в правом углу документа-фактуры.
