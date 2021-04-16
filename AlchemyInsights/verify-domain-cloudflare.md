@@ -1,8 +1,8 @@
 ---
-title: Проверка домена с помощью cloudflare
+title: Проверка домена с помощью Cloudflare
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 7f6162fa03fd53e23d048ca7997e0d878279fcc6
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: a5dfaa215325d6d7134d0c4d7f19e548bfff948c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816446"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807607"
 ---
-# <a name="verify-your-domain-with-cloudflare"></a>Проверка домена с помощью cloudflare
+# <a name="verify-your-domain-with-cloudflare"></a>Проверка домена с помощью Cloudflare
 
-Чтобы проверить домен, необходимо добавить запись TXT в ваш регистратор доменных имен, чтобы убедиться, что вы владеете доменом. 
+Чтобы проверить домен, необходимо добавить запись TXT в регистратор домена, чтобы убедиться, что у вас есть домен. 
 
-Для начала следуйте указаниям [мастера добавления доменов](https://admin.microsoft.com/Adminportal#/Domains) , **Settings** выбрав пункт \> **домены**параметров, а затем **Добавить домен**.
+Сначала следуйте [мастеру Добавить домен,](https://admin.microsoft.com/Adminportal#/Domains) выбрав **домены параметров,** \> а затем добавьте **домен**.
   
-Пошаговые инструкции по [созданию записей DNS на сайте cloudflare для Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare) .
+Дополнительные инструкции см. в инструкции по созданию записей DNS в [Cloudflare для Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare)

@@ -1,8 +1,8 @@
 ---
-title: Просмотр пароля сети Wi – Fi в Windows 10
+title: Просмотр Wi-Fi сетевого пароля в Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689103"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807391"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Просмотр пароля сети Wi – Fi в Windows 10
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Просмотр Wi-Fi сетевого пароля в Windows 10
 
-1. Убедитесь, что компьютер с Windows 10 подключен к сети Wi-Fi.
+1. Убедитесь, что компьютер Windows 10 подключен к Wi-Fi сети.
 
-2. Перейдите к разделу **параметры > сеть & Интернет-> состояние**, или щелкните [здесь](ms-settings:network?activationSource=GetHelp) , чтобы перейти к ней сейчас.
+2. Перейдите к **параметрам > Network & internet > status**, [](ms-settings:network?activationSource=GetHelp) или нажмите кнопку здесь, чтобы позволить нам принять вас там сейчас.)
 
 3. Выберите пункт **Центр управления сетями и общим доступом**.
 
-    ![Центр управления сетями и общим доступом.](media/network-sharing-center.png)
+    ![Центр сети и обмена данными.](media/network-sharing-center.png)
 
-4. В **центре управления сетями и общим доступом**рядом с пунктом **подключения**вы увидите имя вашей беспроводной сети. Например, если сеть называется "ABC123", вы можете увидеть следующее:
+4. В **Центре сетевых и совместных** подключений ( рядом с **подключениями)** вы увидите имя беспроводной сети. Например, если сеть называется "ABC123", можно увидеть:
 
     ![Сетевые подключения.](media/network-connections.png)
 
-    Щелкните имя беспроводной сети, чтобы открыть окно состояния Wi/Fi. 
+    Щелкните имя беспроводной сети, чтобы открыть окно Wi-Fi состояния. 
 
-5. В окне состояния Wi – Fi щелкните **Свойства беспроводной сети**, перейдите на вкладку **Безопасность** и установите флажок **Показать символы**.
+5. В окне Wi-Fi состояния щелкните **Беспроводные свойства,** щелкните вкладку **Безопасность** и проверьте **символы Show**.
 
-    ![Отображение символов пароля Wi/Fi.](media/show-password-characters.png)
+    ![Показать Wi-Fi паролей.](media/show-password-characters.png)
 
