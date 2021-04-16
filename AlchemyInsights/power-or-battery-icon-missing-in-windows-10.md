@@ -2,7 +2,7 @@
 title: В Windows 10 отсутствует значок питания или батареи
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002953"
 - "5655"
-ms.openlocfilehash: 10213843f8ec5ceeaa191d3373406d767f2bea3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95b68cee58f88d04f02e29477b139f7f583dc0b1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771554"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790561"
 ---
 # <a name="power-or-battery-icon-missing-in-windows-10"></a>В Windows 10 отсутствует значок питания или батареи
 
