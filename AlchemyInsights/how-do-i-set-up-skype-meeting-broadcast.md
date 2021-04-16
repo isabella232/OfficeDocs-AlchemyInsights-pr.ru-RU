@@ -2,7 +2,7 @@
 title: Как настроить трансляцию собраний Skype
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781476"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811037"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a><span data-ttu-id="1d3df-102">Не удается начать или присоединиться к трансляции собраний Skype?</span><span class="sxs-lookup"><span data-stu-id="1d3df-102">Can't start or join a Skype Meeting Broadcast?</span></span>
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a><span data-ttu-id="fab3b-102">Не можете запустить или присоединиться к трансляции собраний Skype?</span><span class="sxs-lookup"><span data-stu-id="fab3b-102">Can't start or join a Skype Meeting Broadcast?</span></span>
 
-<span data-ttu-id="1d3df-103">Если у вас возникли проблемы с запуском и присоединением вещания собрания Skype в качестве члена группы событий (Producer Meeting), обязательно проверьте конфигурацию.</span><span class="sxs-lookup"><span data-stu-id="1d3df-103">If you're having trouble starting or joining a Skype Meeting Broadcast as an Event Team Member (Meeting producer), be sure to double-check your configuration.</span></span> <span data-ttu-id="1d3df-104">Для вещания собраний Skype необходимы некоторые действия по настройке вручную.</span><span class="sxs-lookup"><span data-stu-id="1d3df-104">Skype Meeting Broadcast requires some manual setup steps.</span></span> <span data-ttu-id="1d3df-105">Выполните действия, описанные в этой статье, чтобы убедиться, что сеть и портал Skype для бизнеса настроены правильно, а затронутого пользователя не заблокирована конфликтующей лицензией.</span><span class="sxs-lookup"><span data-stu-id="1d3df-105">Follow the steps in this article to ensure that your network and Skype for Business Online portal are configured correctly, and that the affected user is not blocked by a conflicting license:</span></span>
+<span data-ttu-id="fab3b-103">Если у вас возникли проблемы с запуском или присоединением к skype Meeting Broadcast в качестве участника группы событий (производитель собраний), убедитесь, что вы перепроверим конфигурацию.</span><span class="sxs-lookup"><span data-stu-id="fab3b-103">If you're having trouble starting or joining a Skype Meeting Broadcast as an Event Team Member (Meeting producer), be sure to double-check your configuration.</span></span> <span data-ttu-id="fab3b-104">Трансляция собраний Skype требует некоторых действий ручной установки.</span><span class="sxs-lookup"><span data-stu-id="fab3b-104">Skype Meeting Broadcast requires some manual setup steps.</span></span> <span data-ttu-id="fab3b-105">Следуйте шагам в этой статье, чтобы убедиться, что ваша сеть и портал Skype для бизнеса Online настроены правильно, и чтобы затронутый пользователь не был заблокирован конфликтующих лицензий:</span><span class="sxs-lookup"><span data-stu-id="fab3b-105">Follow the steps in this article to ensure that your network and Skype for Business Online portal are configured correctly, and that the affected user is not blocked by a conflicting license:</span></span>
 
-[<span data-ttu-id="1d3df-106">Настройка сети для трансляции собраний Skype</span><span class="sxs-lookup"><span data-stu-id="1d3df-106">Set up your network for Skype Meeting Broadcast</span></span>](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[<span data-ttu-id="fab3b-106">Настройка сети для трансляции собраний Skype</span><span class="sxs-lookup"><span data-stu-id="fab3b-106">Set up your network for Skype Meeting Broadcast</span></span>](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
