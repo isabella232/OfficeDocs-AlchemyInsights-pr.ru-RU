@@ -1,8 +1,8 @@
 ---
-title: Не удается добавить вложение в форму внешнего вида
+title: Невозможно добавить вложение во внешнюю форму
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749419"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797338"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Не удается добавить вложение в форму внешнего вида
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Невозможно добавить вложение во внешнюю форму
 
-Если вы пытаетесь добавить вложение во внешний опрос Microsoft Forms, эта функция пока недоступна. Чтобы отслеживать состояние запроса функции, перейдите к [этой записи UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)и добавьте свой голос.
+Если вы пытаетесь добавить вложение во внешний опрос Microsoft Forms, эта функция еще недоступна. Чтобы отслеживать состояние этого запроса на функции, перейдите к этой записи [UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)и добавьте свой голос.
