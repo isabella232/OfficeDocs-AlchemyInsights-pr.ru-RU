@@ -2,7 +2,7 @@
 title: Доступна более новая версия
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: a9e89f4c1548cb018cbb9c8f3063634ba35effa0
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: aa0d233209827b387a9ee23aaf828794ed3cfc90
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598997"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804286"
 ---
 # <a name="delete-the-office-document-cache"></a>Удаление кэша документов Office
 
-Если вы получили сообщение о том, что вы получили **более новую версию файла**, попробуйте удалить кэш документов Office, следуя инструкциям в статье [Удаление кэша документов Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Затем снова откройте файл.
+Если вы получили запрос Excel на доступ к более новой версии **файла,** попробуйте удалить кэш документов Office, следуя инструкциям в "Удаление кэша документов [Office".](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d) Затем попробуйте открыть файл заново.
