@@ -1,8 +1,8 @@
 ---
-title: Языковые параметры Microsoft 365
+title: Параметры языка Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000298"
 - "5899"
-ms.openlocfilehash: a85acfa7d54592872b3618a01152b2f56e1fa7a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9898e76954fde8fb6988acdf11c656bbdaa8ce3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742792"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794521"
 ---
-# <a name="microsoft-365-language-settings"></a>Языковые параметры Microsoft 365
+# <a name="microsoft-365-language-settings"></a>Параметры языка Microsoft 365
 
-Определите, хотите ли вы изменить язык интерфейса и другие параметры для пользователей или для всего клиента.
+Определите, хотите ли вы изменить язык отображения и другие параметры для пользователей или для всего клиента.
 
-- Для пользователей ознакомьтесь со статьей [Изменение языка интерфейса и часового пояса в Microsoft 365 для бизнеса для всех приложений](https://support.microsoft.com/office/6f238bff-5252-441e-b32b-655d5d85d15b).
-- Сведения о клиенте приведены  [в разделе Установка языковых и региональных параметров для Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/access-management/set-language-and-region).
+- Для пользователей см. [изменение языка отображения и часового пояса в Microsoft 365 для бизнеса для всех приложений.](https://support.microsoft.com/office/6f238bff-5252-441e-b32b-655d5d85d15b)
+- Для клиента см. в руб. Настройка языковых [и региональных параметров для Microsoft 365.](https://docs.microsoft.com/office365/troubleshoot/access-management/set-language-and-region)

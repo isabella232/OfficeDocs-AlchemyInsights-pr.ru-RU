@@ -1,8 +1,8 @@
 ---
-title: Работоспособность службы Microsoft 365
+title: Microsoft 365 Service Health
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742756"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794485"
 ---
-# <a name="microsoft-365-service-health"></a>Работоспособность службы Microsoft 365
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Service Health
 
 
-Проверьте работоспособность служб в [панели мониторинга работоспособности службы](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Выбрав **Новый центр администрирования** в правом верхнем углу, вы увидите новые параметры работоспособности службы.
+Проверьте состояние службы любой службы из панели мониторинга [здоровья службы.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) Выбрав новый **центр администрирования** в правом верхнем углу, вы увидите новые параметры service Health.
 
-- Выберите **предпочтения** , чтобы получать **уведомления по электронной почте о**работоспособности службы.
+- Выберите **Параметры для** получения уведомлений электронной почты о **состоянии здоровья службы.**
 
-- Выберите **сообщить о неполадке** , если у вас возникла проблема со службой.
+- Выберите **Отчет о проблеме,** если у вас возникли проблемы со службой.
 
-- Выберите **Журнал** , чтобы просмотреть историю работоспособности службы в Организации. 
+- Выберите **"История",** чтобы просмотреть историю службы вашей организации. 
 
-Для получения дополнительных сведений Узнайте, [как проверить работоспособность службы Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Дополнительные сведения см. [в веб-сайте How to check Microsoft 365 service health.](https://docs.microsoft.com/office365/enterprise/view-service-health) 

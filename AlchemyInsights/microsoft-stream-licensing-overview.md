@@ -1,8 +1,8 @@
 ---
-title: Общие сведения о лицензировании Microsoft Stream
+title: Обзор лицензирования Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: ed25e76647dfe59e9179fc05dccd9dc139ee639e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b336ce5ab2df59c9a6e8b611be80d66289a18cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675347"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794233"
 ---
-# <a name="microsoft-stream-licensing-overview"></a>Общие сведения о лицензировании Microsoft Stream
+# <a name="microsoft-stream-licensing-overview"></a>Обзор лицензирования Microsoft Stream
 
-Microsoft Stream — это облачная служба, лицензированная на основе подписок на пользователя. Он доступен в рамках доступной подписки Microsoft 365. Для получения сведений о каждом типе подписки обратитесь к разделу Microsoft 365 цены.
+Microsoft Stream — это облачная служба, лицензированная на основе подписки на каждого пользователя. Она доступна в рамках соответствующих подписк Microsoft 365. Сведения о каждом типе подписки см. в журнале Microsoft 365.
 
-- [Общие сведения о лицензировании Microsoft Stream](https://docs.microsoft.com/stream/license-overview)
+- [Обзор лицензирования Microsoft Stream](https://docs.microsoft.com/stream/license-overview)
