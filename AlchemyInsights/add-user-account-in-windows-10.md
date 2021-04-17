@@ -2,7 +2,7 @@
 title: Добавление учетной записи пользователя в Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3448"
 - "9001447"
-ms.openlocfilehash: acb32edbda28669ce388c54dbe445523849d1da6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74182d6b2b287b614624baabd20ce3abecb5a191
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687555"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822324"
 ---
-# <a name="add-a-user-account-in-windows-10"></a><span data-ttu-id="a6c11-102">Добавление учетной записи пользователя в Windows 10</span><span class="sxs-lookup"><span data-stu-id="a6c11-102">Add a user account in Windows 10</span></span>
+# <a name="add-a-user-account-in-windows-10"></a><span data-ttu-id="80a00-102">Добавление учетной записи пользователя в Windows 10</span><span class="sxs-lookup"><span data-stu-id="80a00-102">Add a user account in Windows 10</span></span>
 
-<span data-ttu-id="a6c11-103">Вот как можно добавить учетную запись в Windows 10:</span><span class="sxs-lookup"><span data-stu-id="a6c11-103">Here's how to add an account in Windows 10:</span></span>
+<span data-ttu-id="80a00-103">Вот как добавить учетную запись в Windows 10:</span><span class="sxs-lookup"><span data-stu-id="80a00-103">Here's how to add an account in Windows 10:</span></span>
 
-1. <span data-ttu-id="a6c11-104">Перейти к разделу "Параметры **запуска**" в  >  **Settings**  >  семействе**учетных записей**  >  **& других пользователей** (если вы используете Windows 10 корпоративная) > **добавить другого пользователя к этому компьютеру**. **Other people**</span><span class="sxs-lookup"><span data-stu-id="a6c11-104">Go to **Start** > **Settings** > **Accounts** > **Family & other people** (or **Other people**, if you're using Windows 10 Enterprise) > **Add someone else to this PC**.</span></span>
-2. <span data-ttu-id="a6c11-105">Следуйте инструкциям по добавлению учетной записи Майкрософт или локальной учетной записи.</span><span class="sxs-lookup"><span data-stu-id="a6c11-105">Follow the instructions to add a Microsoft account or local account.</span></span>
+1. <span data-ttu-id="80a00-104">Перейдите к **семейство** Параметров учетных записей & другим людям (или другим людям, если вы используете  >    >    >   Windows 10 Enterprise) > добавить кого-то другого на **этот компьютер.**</span><span class="sxs-lookup"><span data-stu-id="80a00-104">Go to **Start** > **Settings** > **Accounts** > **Family & other people** (or **Other people**, if you're using Windows 10 Enterprise) > **Add someone else to this PC**.</span></span>
+2. <span data-ttu-id="80a00-105">Следуйте инструкциям по добавлению учетной записи Майкрософт или локальной учетной записи.</span><span class="sxs-lookup"><span data-stu-id="80a00-105">Follow the instructions to add a Microsoft account or local account.</span></span>
 
-[<span data-ttu-id="a6c11-106">Дополнительные сведения о настройке учетных записей</span><span class="sxs-lookup"><span data-stu-id="a6c11-106">Learn more about setting up accounts</span></span>](https://support.microsoft.com/help/17197/)
+[<span data-ttu-id="80a00-106">Дополнительные новости о настройке учетных записей</span><span class="sxs-lookup"><span data-stu-id="80a00-106">Learn more about setting up accounts</span></span>](https://support.microsoft.com/help/17197/)
