@@ -1,8 +1,8 @@
 ---
-title: Надстройка Outlook для Teams
+title: Надстройка Teams Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +14,22 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 2cfa8f02ed7238d059ec7796786bc1b80d013251
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736003"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835032"
 ---
-# <a name="teams-outlook-add-in"></a>Надстройка Outlook для Teams
+# <a name="teams-outlook-add-in"></a>Надстройка Teams Outlook
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Устранение неполадок с отсутствующей надстройкой Teams для Outlook
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Устранение неполадок в пропавшей надстройки Teams Outlook
 
-1. Запустите диагностику службы на портале администрирования. 
-2. Если Диагностика службы указывает на отсутствие проблем, устраните и устраните проблемы с клиентами на затронутых компьютерах, загрузив и запустив сценарий надстройки Microsoft Office для [помощника по поддержке и восстановлению](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook Add-in Scenario**.
+1. Запустите диагностику служб на портале администрирования. 
+2. Если служба диагностики не указывает на какие-либо проблемы, диагностика и исправление проблем клиента на затронутых машинах пользователей путем загрузки и запуска сценария надстройки [Microsoft Support and Recovery](https://aka.ms/SaRA-TeamsAddInScenario)Teams  >  **Outlook.**
 
-Чтобы вручную устранить неполадки с отсутствующей надстройкой Teams для Outlook, просмотрите список потенциальных факторов, которые могут привести к тому, что надстройка Teams не будет отображаться в списке. Дополнительные сведения: [надстройка "собрания Teams" в Outlook для Windows не отображается](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Чтобы вручную устранить недостающую надстройка Teams Outlook, просмотрите список потенциальных факторов, которые могут привести к тому, что надстройка Teams не появится в списке. Дополнительные сведения см. в добавлении [Teams Meeting в Outlook для Windows.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Устранение неполадок при планировании собрания Teams от чужого имени (делегирование)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Устранение неполадок при планировании собрания Teams от имени другого пользователя (Делегат)
 
-Чтобы запланировать собрание Teams от имени другого лица, ознакомьтесь с разделом [Устранение неполадок взаимодействия Microsoft Teams и Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Чтобы запланировать собрание Teams от имени другого пользователя, см. в статью Устранение неполадок Microsoft Teams и Exchange Server [взаимодействия.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

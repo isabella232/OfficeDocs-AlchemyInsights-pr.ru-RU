@@ -1,8 +1,8 @@
 ---
-title: 'Yammer — Управление группами Microsoft 365 '
+title: 'Yammer — управление группами Microsoft 365 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 543972a81a8958951e31d63a632283d07c06de4c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb5959f74793ce146d326d2ddc32c359daecc3ba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668900"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834096"
 ---
 # <a name="manage-microsoft-365-groups-in-yammer"></a>Управление группами Microsoft 365 в Yammer
 
-Ниже приведены ответы на наиболее распространенные проблемы, связанные с группами Microsoft 365 в Yammer.
+Вот некоторые ответы на наиболее распространенные проблемы с Microsoft 365 Groups в Yammer.
 
-* **Группы Microsoft 365** представляют собой общую рабочую область для сообщений электронной почты, бесед, файлов и событий, в которых участники групп могут совместно работать. В Yammer группы Microsoft 365 имеют множество преимуществ по сравнению с группами Yammer, не связанными с Yammer. Например, можно создать и разместить события Live, восстановить удаленные группы, использовать динамическое членство в группах, автоматический Архив и доступ к общим ресурсам, таким как SharePoint, OneNote и планировщик.
+* **Microsoft 365 Groups** — это общее рабочее пространство для электронной почты, бесед, файлов и событий, в которых участники группы могут сотрудничать. С помощью Yammer microsoft 365 Groups имеет множество преимуществ перед не подключенными группами Yammer. Например, можно создавать и проводить живые события, восстанавливать удаленные группы, использовать динамическое членство в группе, автоархив и получать доступ к общим ресурсам, таким как Sharepoint, OneNote и Planner.
 
-* Вы можете определить, подключена ли группа Yammer к группам Microsoft 365, когда вы увидите раздел **ресурсы Office 365** (SharePoint, OneNote, планировщик) в правой панели навигации группы. Если ресурсы недоступны, проверьте следующее.
+* Вы можете узнать, подключена ли группа Yammer к группам Microsoft 365, когда вы увидите раздел **Ресурсы Office 365** (Sharepoint, OneNote, Planner) в правой навигации группы. Если ресурсы недоступны, проверьте следующее.
 
-  1. Сеть Yammer должна находиться в 1 клиенте: 1 сетевая конфигурация. чтобы убедиться, что вы используете конфигурацию 1:1, используйте **средство миграции сети** , как описано в статье [Миграция сети — объединение нескольких сетей Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. Сеть Yammer должна быть в конфигурации сети 1 клиента:1. чтобы убедиться, что вы находитесь в конфигурации  1:1, используйте средство сетевой миграции, как описано в сетевой миграции — Консолидировать несколько [сетей Yammer.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
-  2. Перейдите к **администратору сети, параметру безопасности**и убедитесь, что **удостоверение Office 365** применяется для пользователей Yammer.
+  2. Ознакомьтесь **с сетевым администратором, параметром** безопасности и убедитесь, что **удостоверение Office 365** будет применяться для пользователей Yammer.
 
-Дополнительные сведения о группах Microsoft 365 и Yammer можно найти в статье [Yammer and microsoft 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Сведения об управлении группой можно найти в статье [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Дополнительные сведения о Группах Microsoft 365 и Yammer см. в сайте [Yammer и Microsoft 365 Groups.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) Сведения об управлении группой см. в [сайте Управление группой в Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

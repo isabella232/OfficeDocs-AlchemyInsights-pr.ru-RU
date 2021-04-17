@@ -2,7 +2,7 @@
 title: Внешний общий доступ к Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 2d6831cfc8a35b8c7dc698ff57909fc024aa2691
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd4ecb27d5ef6befb87c73f02b23975089e837c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675239"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833988"
 ---
 # <a name="microsoft-stream-external-sharing"></a>Внешний общий доступ к Microsoft Stream
 
-Microsoft Stream пока не поддерживает сценарии с внешним общим доступом для гостей или пользователей за пределами вашей организации. Мы знаем, что эти функции очень необходимы, и мы работаем над планами построения этих функций.
+Microsoft Stream пока не поддерживает внешние сценарии общего доступа для гостей или людей за пределами организации. Мы знаем, что эти функции очень необходимы, и мы работаем над планами создания этих функций.
 
 - [Внешний общий доступ в потоке](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [Предоставление общего доступа к видео в Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
+- [Поделитесь своими видео в Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
