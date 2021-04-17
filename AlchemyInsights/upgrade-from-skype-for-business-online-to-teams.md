@@ -2,7 +2,7 @@
 title: Переход со Skype для бизнеса Online на Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: ade3a20530a30ca5a703ce5a22af883cb827aecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6febce6559b697261c1a8dc3d72a39df2fb80652
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734744"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827337"
 ---
 # <a name="upgrade-from-skype-for-business-online-to-teams"></a>Переход со Skype для бизнеса Online на Teams  
 
-Следуйте указаниям, приведенным в статье, если вы развернули Skype для бизнеса Online и хотите обновить пользователей с Skype для бизнеса на Teams. Вы можете обновить пользователей по этапам или по всем этапам в соответствии с путешествием, выбранным Организацией, путем назначения соответствующего режима сосуществования и обновления пользователям.
+Следуйте указаниям в статье ниже, если вы развернули Skype для бизнеса Online и хотите обновить пользователей из Skype для бизнеса в Teams. Вы можете обновлять пользователей поэтапно или все одновременно в зависимости от выбранного организацией пути обновления, назначив пользователям соответствующий режим сосуществования и обновления.
 
 [Переход со Skype для бизнеса Online на Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 

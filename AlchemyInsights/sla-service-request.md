@@ -1,8 +1,8 @@
 ---
-title: Кредитный запрос из-за сбоя службы
+title: Запрос на кредит из-за простоя службы
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726860"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826464"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a>Кредитный запрос из-за сбоя службы
+# <a name="credit-request-due-to-a-service-outage"></a>Запрос на кредит из-за простоя службы
 
-Чтобы применить для кредитного запроса из-за сбоя службы, откройте запрос на обслуживание.
+Чтобы подать заявку на получение кредита из-за простоя службы, откройте запрос на обслуживание.
 
-Убедитесь, что у вас есть идентификатор инцидента, который находится на [странице работоспособность службы](https://docs.microsoft.com/office365/enterprise/view-service-health) в центре администрирования Microsoft 365.
+Убедитесь в том, что на странице [](https://docs.microsoft.com/office365/enterprise/view-service-health) здоровья службы в центре администрирования Microsoft 365 имеется ИД инцидента.
 
-Обратите внимание, что во всех случаях, когда ваш запрос обрабатывается, он проведет проверки на влияние сбоя.
+Обратите внимание, что по мере обработки запроса он будет проходить проверку для наблюдения за последствиями отключения.

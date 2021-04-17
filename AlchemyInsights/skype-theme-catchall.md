@@ -1,8 +1,8 @@
 ---
-title: Для общего захвата темы Skype
+title: Catchall темы Skype
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 96f5a34707d469e3651d3868058a156182ff4021
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d83f029910532bf7c7485e237c1d094d83657fca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726932"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826500"
 ---
-# <a name="skype-for-business-common-issues-and-resolutions"></a>Распространенные проблемы и решения Skype для бизнеса 
+# <a name="skype-for-business-common-issues-and-resolutions"></a>Общие проблемы и решения Skype для бизнеса 
 
-Для вопросов, связанных с Skype для бизнеса, ненадолго заменяйте свой вопрос, чтобы описать свою ошибку, включая ошибки, функции и т. д. 
+Для конкретных вопросов о Skype для бизнеса кратко перефразируйте вопрос, чтобы описать проблему, в том числе ошибки, функции, которые вы используете, и т.д. 
 
-Ниже приведены некоторые часто запрашиваемые темы.
+Вот некоторые часто запрашиваемые темы:
 
-**Устранение неполадок при входе в Skype для бизнеса:** Сначала убедитесь, что [Служба Skype для бизнеса](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) работоспособна. Если это так, проанализируйте [ошибки входа в Skype для бизнеса Online](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) , чтобы избежать распространенных причин сложности при входе.
+**Устранение неполадок при входе в Skype для бизнеса:** Во-первых, убедитесь, что [служба Skype для бизнеса](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) является полезной. Если это так, просмотрите устранение неполадок при входе [в Skype для бизнеса Online,](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) чтобы устранить распространенные причины сложности с входом.
  
-**Устранение неполадок звука и видео в Skype для бизнеса:** Ознакомьтесь со [решениями по распространению аудио-и видеопроблем в Skype для бизнеса](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc). 
+**Устранение неполадок аудио и видео в Skype для бизнеса:** Просмотрите решения распространенных проблем со звуком и видео в [Skype для бизнеса.](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc) 
 
-**Устранение проблем с подключением в Skype для бизнеса:** Ознакомьтесь с [решениями по распространению проблем с подключением в Skype для бизнеса](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771).
+**Устранение неполадок с подключением в Skype для бизнеса:** Просмотрите [решения распространенных проблем подключения в Skype для бизнеса.](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771)
 
-**Связь с внешними контактами Skype для бизнеса (Федерация):** [Настройка Skype для бизнеса для связи с внешними пользователями Skype для бизнеса](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+**Связь с внешними контактами Skype для бизнеса (Федерация):** Настройка Skype для бизнеса, чтобы связаться с [внешним Skype для бизнес-пользователей](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-**Общайтесь с контактами Skype:** [Разрешить пользователям Skype для бизнеса добавлять контакты Skype](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).
+**Связь с контактами Skype:** Пусть пользователи Skype для бизнеса [добавляют контакты Skype.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
 
-**Обновите Skype для бизнеса до Microsoft teams:** Изучите [Начало работы с Microsoft](https://docs.microsoft.com/microsoftteams/upgrade-start-here) Teams Upgrade и Узнайте больше о [сосуществовании](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) Microsoft Teams в Организации. 
+**Обновление Skype для бизнеса до Microsoft Teams:** Просмотрите [начало работы с обновлением Microsoft Teams](https://docs.microsoft.com/microsoftteams/upgrade-start-here) и узнайте больше о сосуществовании с Microsoft Teams при принятии Teams в организации. [](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) 

@@ -1,8 +1,8 @@
 ---
-title: Уведомление о подписке на клиенте Office
+title: Уведомление о подписке на клиента Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: f51d1fe248be9f8b71dc682851622ae6ed171f71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5682ed0496f17ab4a119aa9608d5e05de7bf060e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773680"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827949"
 ---
 # <a name="subscription-notice-in-your-office-client"></a>Уведомление о подписке в клиенте Office?
 
-Похоже, вы видите уведомление в клиенте Office, связанное со статусом подписки. Вы можете найти сведения о том, как устранить проблему, описанную в этой статье: [уведомление о подписке отображается при открытии приложения Microsoft 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Похоже, вы видите уведомление в клиенте Office, связанное со статусом подписки. Сведения о том, как устранить проблему, можно найти в этой статье: при открываемом приложении [Microsoft 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx) появляется уведомление о подписке.
   
-Если ваша подписка актуальна, возможно, вы столкнулись с временной ошибкой, из-за которой активация Office не будет выполнена. Можно выполнить простые действия, чтобы избежать таких сообщений, как проверка времени компьютера, запуск Office от имени администратора и вход в систему для активации. Чтобы устранить проблемы, описанные в этой статье, можно найти подробные инструкции: [нелицензированные продукты и ошибки активации](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
+Если подписка устарела, может возникнуть временная проблема, из-за чего активация Office не срабатыла. Существует ряд простых действий, которые можно предпринять, чтобы избежать этих сообщений, например проверка времени работы компьютера, запуск Office в качестве администратора и регистрация для активации. Подробные действия по устранению этих проблем можно найти в этой статье: ошибки без лицензии на продукт и [активацию.](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx)
   
-Если это не поможет, свяжитесь с нами с помощью приведенных ниже ссылок, и мы будем рады получить помощь.
+Если они не работают для вас, свяжитесь с нами со ссылками ниже, и мы будем рады помочь.

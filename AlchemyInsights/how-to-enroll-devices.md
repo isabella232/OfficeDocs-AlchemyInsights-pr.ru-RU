@@ -1,8 +1,8 @@
 ---
-title: Как зарегистрировать устройства
+title: Регистрация устройств
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: 8fe73750296cb163789e3b7639f6b2404252bc44
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: c40742d6bfb7d0431b788c15517b50d34dd199a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086423"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825672"
 ---
-# <a name="how-to-enroll-devices"></a>Как зарегистрировать устройства
+# <a name="how-to-enroll-devices"></a>Регистрация устройств
 
-Ниже приведены основные сведения о регистрации.
+Ниже приводится базовый элемент регистрации:
 
-- Чтобы узнать о регистрации в Intune, посмотрите, [что такое регистрация устройств в Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
+- Чтобы узнать о регистрации в Intune, см. в программе Что такое регистрация устройств [в Intune?.](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
 
-- Более подробную информацию о подаче заявок на конкретные платформы, руководства и учебники можно найти [в статье Регистрация устройств на портале Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) .
+- Дополнительные сведения о регистрации для определенных платформ, руководствах и руководствах см. на портале Регистрация устройств [на портале Microsoft Intune.](https://docs.microsoft.com/mem/intune/enrollment/)
 
-**Устранение проблем с регистрацией устройств**
+**Устранение неполадок при регистрации устройств**
 
-- [Устранение неполадок с регистрацией устройств в Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+- [Регистрация устройства для устранения неполадок в Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-- [Устранение неполадок с регистрацией устройств iOS и Ипадос](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [Устранение неполадок в регистрации устройств iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
 - [Устранение неполадок с регистрацией устройств Windows](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Устранение неполадок с автоматической регистрацией Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Устранение неполадок при автоматической регистрации Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 
-- [Устранение неполадок устройств с Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
+- [Устранение неполадок с устройствами Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
 
