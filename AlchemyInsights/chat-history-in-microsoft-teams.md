@@ -1,8 +1,8 @@
 ---
-title: Журнал чата в Microsoft Teams
+title: История чата в Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 3b2821f1ad12db70d5c52cbd8d763fe8a3c9c397
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 92f1c902b36b78a8e3399420816c5699e3e0e5af
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812452"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817905"
 ---
-# <a name="viewing-chat-history-in-microsoft-teams"></a><span data-ttu-id="fb59e-102">Просмотр журнала бесед в Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="fb59e-102">Viewing chat history in Microsoft Teams</span></span>
+# <a name="viewing-chat-history-in-microsoft-teams"></a><span data-ttu-id="1688b-102">Просмотр истории чата в Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="1688b-102">Viewing chat history in Microsoft Teams</span></span>
 
-<span data-ttu-id="fb59e-103">Чтобы просмотреть журнал бесед в Teams, можно использовать [Поиск контента](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) в [центре безопасности & соответствия требованиям](https://sip.protection.office.com/insightdashboard), где можно выполнить поиск в почтовом ящике, связанном с группой Microsoft 365 или группой Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="fb59e-103">To view Teams chat history, you can use [Content Search](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) from the [Security & Compliance Center](https://sip.protection.office.com/insightdashboard), where you can search the mailbox that's associated with a Microsoft 365 Group or a Microsoft Team.</span></span> 
+<span data-ttu-id="1688b-103">Чтобы просмотреть историю чата [](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) Teams, можно использовать поиск контента из Центра & [безопасности,](https://sip.protection.office.com/insightdashboard)где можно искать почтовый ящик, связанный с группой Microsoft 365 или командой Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="1688b-103">To view Teams chat history, you can use [Content Search](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) from the [Security & Compliance Center](https://sip.protection.office.com/insightdashboard), where you can search the mailbox that's associated with a Microsoft 365 Group or a Microsoft Team.</span></span> 
 
-<span data-ttu-id="fb59e-104">Ознакомьтесь с разделом [Поиск в Microsoft Teams и microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/content-search) , чтобы узнать о возможностях поиска в центре безопасности и соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="fb59e-104">See [Searching Microsoft Teams and Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/compliance/content-search) to learn about the search capabilities from the Security and Compliance Center.</span></span> 
+<span data-ttu-id="1688b-104">Узнайте [о возможностях](https://docs.microsoft.com/microsoft-365/compliance/content-search) поиска в Центре безопасности и соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="1688b-104">See [Searching Microsoft Teams and Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/compliance/content-search) to learn about the search capabilities from the Security and Compliance Center.</span></span> 
 
-<span data-ttu-id="fb59e-105">**Примечание:** Резервное копирование, экспорт, печать и архивация журнала бесед в настоящее время недоступно непосредственно из Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="fb59e-105">**Note:** Backing up, exporting, printing, and archiving conversation history is currently not available directly from Microsoft Teams.</span></span> <span data-ttu-id="fb59e-106">Проведите голосование за эту возможность в [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20).</span><span class="sxs-lookup"><span data-stu-id="fb59e-106">Please vote on this capability in [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20).</span></span> 
+<span data-ttu-id="1688b-105">**Примечание:** Архивировать, экспортировать, печатать и архивировать историю бесед в настоящее время недоступна напрямую из Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="1688b-105">**Note:** Backing up, exporting, printing, and archiving conversation history is currently not available directly from Microsoft Teams.</span></span> <span data-ttu-id="1688b-106">Пожалуйста, проголосуйте по этой возможности в [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20).</span><span class="sxs-lookup"><span data-stu-id="1688b-106">Please vote on this capability in [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20).</span></span> 

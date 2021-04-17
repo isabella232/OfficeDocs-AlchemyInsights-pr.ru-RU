@@ -1,8 +1,8 @@
 ---
-title: Очистка кэша или локальное перезагрузка приложения
+title: Очистить кэш или локально сбросить приложение
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001099"
 - "3060"
-ms.openlocfilehash: b9801dd7b3c831b485ada50c310c46580e1a1a85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922f43e90b0479762ccfc20d4130a6a8883f8c41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681237"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817761"
 ---
-# <a name="clear-the-cache-or-locally-reset-the-app"></a><span data-ttu-id="cd483-102">Очистка кэша или локальное перезагрузка приложения</span><span class="sxs-lookup"><span data-stu-id="cd483-102">Clear the cache or locally reset the app</span></span>
+# <a name="clear-the-cache-or-locally-reset-the-app"></a><span data-ttu-id="b1299-102">Очистить кэш или локально сбросить приложение</span><span class="sxs-lookup"><span data-stu-id="b1299-102">Clear the cache or locally reset the app</span></span>
 
-<span data-ttu-id="cd483-103">При просмотре неполных или недопустимых данных закройте приложение и снова откройте его.</span><span class="sxs-lookup"><span data-stu-id="cd483-103">If you are seeing incomplete or incorrect data, please close and reopen the app.</span></span>  <span data-ttu-id="cd483-104">Если это не приводит к устранению проблемы, Сбросьте учетную запись на устройстве:</span><span class="sxs-lookup"><span data-stu-id="cd483-104">If that doesn't resolve the issue, reset the account on the device:</span></span> 
+<span data-ttu-id="b1299-103">Если вы видите неполные или неправильные данные, закройте приложение и откроете его заново.</span><span class="sxs-lookup"><span data-stu-id="b1299-103">If you are seeing incomplete or incorrect data, please close and reopen the app.</span></span>  <span data-ttu-id="b1299-104">Если это не решает проблему, сброс учетной записи на устройстве:</span><span class="sxs-lookup"><span data-stu-id="b1299-104">If that doesn't resolve the issue, reset the account on the device:</span></span> 
 
-<span data-ttu-id="cd483-105">**Откройте параметры > приложений > выберите учетную запись электронной почты > сброса учетной записи**</span><span class="sxs-lookup"><span data-stu-id="cd483-105">**Open our app > Settings > Select the email account > Reset Account**</span></span>
+<span data-ttu-id="b1299-105">**Откройте наше приложение > параметры > Выберите учетную запись электронной почты > учетную запись**</span><span class="sxs-lookup"><span data-stu-id="b1299-105">**Open our app > Settings > Select the email account > Reset Account**</span></span>

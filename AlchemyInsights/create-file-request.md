@@ -1,8 +1,8 @@
 ---
-title: Как создать файловый запрос
+title: Создание запроса на файл
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: db3169c3ffd69af0987d6beb8a8142b6ca385253
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: faf867f41679ad4f51b977b97678b62797488bd8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746952"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816024"
 ---
-# <a name="how-to-create-a-file-request"></a><span data-ttu-id="f66c7-102">Как создать файловый запрос</span><span class="sxs-lookup"><span data-stu-id="f66c7-102">How to create a file request</span></span>
+# <a name="how-to-create-a-file-request"></a><span data-ttu-id="1c851-102">Создание запроса на файл</span><span class="sxs-lookup"><span data-stu-id="1c851-102">How to create a file request</span></span>
 
-<span data-ttu-id="f66c7-103">Функция запроса файлов в OneDrive позволяет выбрать папку, в которую другие пользователи смогут отправлять файлы, используя ссылку, которую вы их отправили.</span><span class="sxs-lookup"><span data-stu-id="f66c7-103">The file request feature in OneDrive allows you to choose a folder where others can upload files using a link that you send them.</span></span> <span data-ttu-id="f66c7-104">Пользователи, которым вы запрашиваете файлы, не могут видеть, что находится в папке, могут отправлять в нее файлы.</span><span class="sxs-lookup"><span data-stu-id="f66c7-104">The users that you request files from cannot see what's in the folder--they can only upload files to it.</span></span>
+<span data-ttu-id="1c851-103">Функция запроса файлов в OneDrive позволяет выбрать папку, в которой другие могут загружать файлы по отправимой ссылке.</span><span class="sxs-lookup"><span data-stu-id="1c851-103">The file request feature in OneDrive allows you to choose a folder where others can upload files using a link that you send them.</span></span> <span data-ttu-id="1c851-104">Пользователи, которые запрашивают файлы, не могут видеть, что в папке— они могут загружать только файлы в нее.</span><span class="sxs-lookup"><span data-stu-id="1c851-104">The users that you request files from cannot see what's in the folder--they can only upload files to it.</span></span>
 
-<span data-ttu-id="f66c7-105">**Примечание**: администратор должен включить [все ссылки](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) в OneDrive для работы с файлами.</span><span class="sxs-lookup"><span data-stu-id="f66c7-105">**Note**: An administrator must enable [Anyone links](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) in OneDrive for file requests to work.</span></span>
+<span data-ttu-id="1c851-105">**Примечание.** Администратор должен включить [все ссылки](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) в OneDrive для работы файлов.</span><span class="sxs-lookup"><span data-stu-id="1c851-105">**Note**: An administrator must enable [Anyone links](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) in OneDrive for file requests to work.</span></span>
 
-- <span data-ttu-id="f66c7-106">Более подробную информацию можно узнать [в статье Создание файла запроса](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span><span class="sxs-lookup"><span data-stu-id="f66c7-106">For more info, see [Create a file request](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span></span>
+- <span data-ttu-id="1c851-106">Дополнительные сведения см. [в материалах Create a file request](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span><span class="sxs-lookup"><span data-stu-id="1c851-106">For more info, see [Create a file request](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span></span>
