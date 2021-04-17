@@ -1,8 +1,8 @@
 ---
-title: Проблема активации/входа — доверенный платформенный модуль работает
+title: Проблема активации и входов — сбой в работе доверенного модуля платформы
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: 13e6fcd18047e511452f0180dc2e4677466d4db3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 468d197ae1ad6a3ee13cbcc683a59f0d9f193af7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697534"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822900"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Исправление приложений Microsoft 365 "доверенный платформенный модуль вашего компьютера не работает должным образом" сообщение
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Исправление приложения Microsoft 365 "Модуль доверенных платформ компьютера не функционирует должным образом" сообщение
 
 Чтобы устранить эту ошибку, попробуйте выполнить следующие действия.
 
 1. Откройте приложение Office и [выйдите](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) из существующих учетных записей пользователей.   
-2. Использование учетных записей & учетных записей для **Settings**  >  **учетных**записей  >  **электронной почты**с параметрами Windows удалите существующие рабочие записи. 
-3. Использование **Settings**  >  **учетных записей**настроек Windows для  >  **доступа к работе или учебному заведению**отключите существующие учетные записи. 
+2. С помощью  >  **учетных записей параметров** Windows  >  **& учетные записи,** удалите существующие учетные записи. 
+3. С помощью windows **Settings**  >  **Accounts**  >  **Access work or school** отключите существующие учетные записи. 
 4. Сбросьте состояние активации Office. [Инструкции.](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 )
-5. Попытайтесь выполнить [процесс восстановления пользователей](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) , чтобы исправить ошибки ДОВЕРЕНного платформенного модуля.
+5. Попробуйте [процесс восстановления пользователей,](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) чтобы устранить сбои в работе модуля доверенных платформ (TPM).

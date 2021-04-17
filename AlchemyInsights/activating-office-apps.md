@@ -2,7 +2,7 @@
 title: Активация приложений Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236066"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823044"
 ---
 # <a name="activating-microsoft-365-apps"></a>Активация приложений Microsoft 365
 
@@ -36,7 +36,7 @@ ms.locfileid: "48236066"
 
 - [Что делать, если не удается установить или активировать Office для Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Совет**: на компьютерах с Windows можно диагностировать и автоматически устранять некоторые распространенные проблемы со входом в Office. Для использования нашего автоматического инструмента скачайте и запустите**[помощника по поддержке и восстановлению (Майкрософт)](https://aka.ms/SaRA-OfficeSignInScenario)**.
+**Совет**: на компьютерах с Windows можно диагностировать и автоматически устранять некоторые распространенные проблемы со входом в Office. Для использования нашего автоматического инструмента скачайте и запустите **[помощника по поддержке и восстановлению (Майкрософт)](https://aka.ms/SaRA-OfficeSignInScenario)**.
 
 Если вам не удается войти в приложения Microsoft 365, выполните указанные ниже действия.
 

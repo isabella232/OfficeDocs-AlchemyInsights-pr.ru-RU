@@ -2,7 +2,7 @@
 title: Добавление календаря SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 4a0dd39bbb1215008220f7c15fc77a7d7216cfe4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687627"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822360"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Добавление календаря SharePoint
 
-Календари SharePoint являются классическими типами списков, которые иногда путают с Microsoft 365 Group Calendars.
+Календари SharePoint — это классические типы списков, которые иногда путают с групповыми календарями Microsoft 365.
  
-Чтобы создать календарь SharePoint, выполните указанные ниже действия.
+Чтобы создать календарь SharePoint, выполните следующие действия:
  
-1.  Выберите значок шестеренки " **Параметры** " и нажмите кнопку **Добавить приложение**.
-2.  В поле Поиск **приложения** введите **Календарь** и нажмите клавишу ВВОД.
-3.  Выберите приложение календарь с названием " **Календарь**", а затем введите имя для своего календаря.
+1.  Выберите **значок передач "Параметры",** а затем **добавьте приложение.**
+2.  В поле **Поиск приложения** введите **календарь** и нажмите кнопку ввод.
+3.  Выберите приложение Под названием **Календарь,** а затем введите имя для календаря.
 
-Дополнительные сведения о группах Microsoft 365 можно узнать в [статье сведения о группах майкрософт 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Дополнительные сведения о группах Microsoft 365 см. в дополнительных сведениях [о группах Microsoft 365.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 
