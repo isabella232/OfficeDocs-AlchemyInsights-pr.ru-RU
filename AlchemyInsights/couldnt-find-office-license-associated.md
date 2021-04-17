@@ -1,8 +1,8 @@
 ---
-title: При исправлении приложений Microsoft 365, связанных с лицензиями Office, не удалось найти сообщение
+title: Исправление приложений Microsoft 365 Не удалось найти связанное сообщение с лицензиями office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: bd127d6287b4438f6105a6158abdbd5b964b7e70
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d717fce77de2f55dfc983d42b7f8d46a8c212e7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747708"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816501"
 ---
-# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Исправление сообщения о том, что приложение Microsoft 365 "не удалось найти связанные с лицензиями Office"
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Исправление приложения Microsoft 365 "Не удалось найти связанные с лицензиями office" сообщение
 
 Если вы получили это сообщение, попробуйте следующее:
 
-1. Проверьте брандмауэр, антивирусное программное обеспечение и параметры прокси-сервера, чтобы убедиться, что они не блокируют Интернет-доступ к приложениям Microsoft 365. См.: [URL-адреса и диапазоны IP-адресов Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
-2. Удалите и [переназначите лицензию на Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) для соответствующего пользователя. 
-3. Откройте приложение Office и [выйдите](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) из существующих учетных записей пользователей.
-4. Откройте раздел Параметры Windows > **учетных**записей & учетных записей  >  **электронной почты**и удалите все рабочие учетные записи, кроме затронутой учетной записи.
-5. Перейдите к разделу Параметры Windows > **учетных записей**  >  **работа или учебные**учетные записи и отключите все рабочие учетные записи, кроме затронутой учетной записи
+1. Проверьте параметры брандмауэра, антивирусного программного обеспечения и прокси-серверов, чтобы подтвердить, что они не блокируют доступ в Интернет к приложениям Microsoft 365. См. [диапазоны URL-адресов Microsoft 365 и IP-адресов.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+2. Удалите [и перенанаменуем лицензию Office для](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) пострадавшего пользователя. 
+3. Откройте приложение Office и [запишите все](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) существующие учетные записи пользователей.
+4. Перейдите к настройкам Windows > **учетных записей** электронной почты & учетных записей и удалите все учетные записи, кроме  >  затронутой учетной записи.
+5. Перейдите к параметрам Windows > **работе** или школе доступа к учетным записям и отключите все учетные записи, кроме  >  затронутой учетной записи.
 6. Сбросьте состояние активации Office. [Инструкции.](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)
-7. [Выполните вход](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) , используя затронутую учетную запись пользователя.
+7. [Во входе](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) с помощью учетной записи пострадавшего пользователя.
 
-Дополнительные решения по устранению неполадок приведены [в статье нелицензированные продукты и ошибки активации в Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Дополнительные решения по устранению неполадок см. в [врезке Unlicensed Product and activation errors in Office.](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)

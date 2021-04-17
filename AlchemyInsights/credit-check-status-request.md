@@ -1,8 +1,8 @@
 ---
-title: Запрос на получение состояния проверки кредита
+title: Запрос на проверку состояния кредита
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: a39d58a8957879e28c6308936d7323e09edf8db9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b183f344af3e4f26c3da2e134223e14ee111787
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746448"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815952"
 ---
-# <a name="credit-check-status-request"></a>Запрос на получение состояния проверки кредита
+# <a name="credit-check-status-request"></a>Запрос на проверку состояния кредита
 
-Ваш заказ находится в состоянии ожидания проверки кредита. Обычно это выполняется в течение 24 часов, но может занять до 48 часов. По завершении состояние подписки изменится с "ожидание на активный", а службы будут доступны для использования.
+Ваш заказ находится в ожидании проверки кредита. Обычно это завершится менее чем за 24 часа, но может занять до 48 часов. По завершению состояние подписки изменится с "Ожидание" на "Активный", и службы будут доступны для использования.
 
-Для получения дополнительных сведений Узнайте, [когда может потребоваться проверка кредита](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).
+Дополнительные сведения см. в дополнительных сведениях о том, когда [может потребоваться проверка кредита.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft)

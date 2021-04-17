@@ -1,8 +1,8 @@
 ---
-title: Устройства находятся в состоянии ожидания регистрации
+title: Устройства находятся в состоянии Ожидания регистрации
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730748"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815367"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Устройства находятся в состоянии "Ожидается регистрация"
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Устройства находятся в состоянии "Ожидание регистрации"
 
-В настольном средстве аналитики нет диагностических данных для этого устройства. 
+Desktop Analytics не имеет диагностических данных для этого устройства. 
 
-Эта проблема может возникать из-за того, что вы недавно добавили устройство в целевую коллекцию и еще не отправили данные. Это также может означать, что устройство неправильно обменивается данными со службой, и последние диагностические данные более 28 дней устарели.
+Эта проблема может возникнуть из-за того, что вы недавно добавили устройство в целевой набор и оно еще не отправило данные. Это также может означать, что устройство не правильно общается со службой, а последние диагностические данные старше 28 дней.
 
-Убедитесь, что устройство может связываться со службой. Более подробную информацию можно узнать в статье [конечные точки](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
+Убедитесь, что устройство может взаимодействовать со службой. Дополнительные сведения см. в [ок. Endpoints.](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)
 
-Более подробную информацию о состоянии регистрации можно узнать в статье [мониторинг работоспособности подключения](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Дополнительные сведения о состоянии ожидающих регистрации см. в см. [в записи Monitor Connection Health.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

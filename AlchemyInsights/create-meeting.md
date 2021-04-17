@@ -1,8 +1,8 @@
 ---
-title: Планирование собраний в Teams
+title: Расписание собрания в Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746916"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815988"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Планирование собраний в Teams
+# <a name="schedule-a-meeting-in-teams"></a>Расписание собрания в Teams
 
-**Важно!** Если у вас возникли проблемы с созданием собрания или в Teams не удается найти параметр собрание, убедитесь, что у затронутых пользователей есть включенный почтовый ящик Exchange в поддерживаемой версии для Microsoft Teams. Несмотря на то что рекомендуется использовать Exchange Online, локальные почтовые ящики Exchange поддерживаются в Exchange Server 2016 CU3 или более поздней версии, если OAuth успешно настроен между Интернет-и локальной. Дополнительные сведения см. [в статье Создание почтовых ящиков пользователей в Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) и [требования для почтовых ящиков, размещенных в локальной](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises)среде. 
+**Важно** Если у вас есть проблемы с созданием собрания или вы не можете найти вариант собрания в Teams, убедитесь, что затронутый пользователь (s) имеет включенный почтовый ящик Exchange в поддерживаемой версии для Microsoft Teams. Хотя Exchange Online рекомендуется, почтовые ящики Exchange On-Premises поддерживаются на Exchange Server 2016 cu3 или более поздней основе с успешной настройкой OAuth между Online и On-Premises. Дополнительные сведения см. в [дополнительных](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) сведениях о создании почтовых ящиков пользователей в Exchange Online и требованиях к почтовым ящикам, вмещаяся [в локальном доступе.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises) 
 
 1. Вы можете запланировать собрание, выбрав:
 
-    - Запланируйте значок собрания в беседе под полем Создать, чтобы **запланировать** собрание с людьми в чате.
+    - **Запланировать значок** собрания в чате ниже составить поле, чтобы заказать встречу с людьми в чате.
 
-    - Значок **календаря** в левой части приложения. Выберите **создать собрание** в верхнем правом углу или выберите диапазон времени в календаре, чтобы открыть форму планирования.
+    - **Значок** календаря в левой части приложения. Выберите **новое собрание** в правом верхнем ряду или выберите диапазон времени в календаре для открытия формы планирования.
 
-2. Как и при планировании собрания в Outlook, вы можете присвоить собранию название, пригласить людей и добавить сведения о собраниях.
+2. Как и планирование собрания в Outlook, вы дадим собранию название, пригласите людей и добавите сведения о собраниях.
 
-3. В правой части формы планирования можно добавить один или несколько участников или оставить их пустыми, чтобы запланировать частную встречу.
+3. На правой стороне формы планирования можно добавить канал или отдельных людей или оставить оба пустыми, чтобы запланировать частную встречу.
 
-Для получения дополнительных сведений о создании и планировании собраний в Microsoft Teams ознакомьтесь с разделом [Планирование собраний в Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+Дополнительные сведения о создании и планировании собраний в Microsoft Teams см. в графике собрания [в Teams.](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)
 
-Дополнительные сведения об ограничении и спецификациях для собраний приведены в [статье Limits and info for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Дополнительные сведения об ограничениях и спецификациях собраний см. в руб. в руб. Ограничения и [спецификации для Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)
 
-Справочные сведения по устранению неполадок в Teams и Exchange, особенно при планировании действий представителей, можно найти в [статье Устранение проблем взаимодействия Microsoft Teams и Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Для устранения неполадок teams и exchange взаимодействия, особенно для делегирования вопросов планирования, см. в рублях Устранение неполадок Microsoft Teams и Exchange Server [взаимодействия.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

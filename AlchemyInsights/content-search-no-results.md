@@ -1,8 +1,8 @@
 ---
-title: Поиск контента без результатов
+title: Поиск контента Без результатов
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680660"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816861"
 ---
-# <a name="no-results-from-content-searchexports"></a>Нет результатов из поиска и экспортов контента
+# <a name="no-results-from-content-searchexports"></a>Нет результатов поиска и экспорта контента
 
-Проблемы с поиском контента и экспортами не возвращают данные могут быть вызваны определенным администратором и не взаимодействующими со всеми администраторами.
+Проблемы с поиском и экспортом контента, не возвращая данные, могут быть вызваны определенным фильтром безопасности соответствия требованиям, который был настроен определенным администратором и не передает их всем администраторам.
 
-Чтобы устранить эту проблему, проверьте наличие фильтров безопасности соответствия, которые могут привести к этому.
-1. Подключение к PowerShell центра безопасности и соответствия требованиям
-2. Выполните следующую команду командлеты:
+Чтобы устранить это, проверьте, существуют ли фильтры безопасности соответствия требованиям, которые могут вызывать это:
+1. Подключение к Центру безопасности и соответствия требованиям Powershell
+2. Запустите следующие команды:
 <br>$org = "yourdomain.com"
-<br>Get – ComplianceSecurityFilter — организация $org
+<br>Get-ComplianceSecurityFilter -Organization $org
