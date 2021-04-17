@@ -1,8 +1,8 @@
 ---
-title: Не удается получить доступ к общедоступным папкам
+title: Невозможно получить доступ к общедоступным папкам
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812560"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819525"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook не удается подключиться к общедоступным папкам
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook не может подключаться к общедоступным папкам
 
-Если доступ к общедоступным папкам не работает для некоторых пользователей, попробуйте выполнить следующие действия:
+Если доступ к общедоступным папкам не работает для некоторых пользователей, попробуйте следующее:
 
-Подключитесь к EXO PowerShell и настройте параметр DefaultPublicFolderMailbox учетной записи пользователя, чтобы он был сопоставлен с параметром рабочей учетной записи пользователя.
+Подключись к EXO PowerShell и настройте параметр DefaultPublicFolderMailbox в учетной записи пользователя проблемы, чтобы соответствовать параметру рабочей учетной записи пользователя.
 
-Пример:
+Пример.
 
-Get/Mailbox Воркингусер | ft DefaultPublicFolderMailbox, Еффективепубликфолдермаилбокс
+Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Set — Mailbox Проблемусер — DefaultPublicFolderMailbox \<value from previous command>
+Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
 
-Чтобы изменения вступили в силу, подождите хотя бы один час.
+Подождите по крайней мере один час, пока изменение вступает в силу.
 
-Если проблема не устранена, выполните указанные ниже [действия](https://aka.ms/pfcte) , чтобы устранить проблемы с доступом к общим папкам с помощью Outlook.
+Если проблема сохраняется, выполните эту [процедуру,](https://aka.ms/pfcte) чтобы устранить проблемы с доступом к общедоступным папам с помощью Outlook.
  
-**Чтобы определить, какие пользователи могут получать доступ к общедоступным папкам с помощью Outlook**:
+**Управление доступом пользователей к общедоступным папкам с помощью Outlook:**
 
-1.  Используйте Set – CASMailbox <mailboxname> публикфолдерклиентакцесс $true или $false  
+1.  Используйте <mailboxname> Set-CASMailbox-PublicFolderClientAccess $true или $false  
       
     $true: Разрешить пользователям получать доступ к общедоступным папкам в Outlook  
       
     $false. Запретить пользователям получать доступ к общедоступным папкам в Outlook. Это значение используется по умолчанию.  
         
-2.  Set — OrganizationConfig — Публикфолдершовклиентконтрол $true   
+2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
       
-**Note (Примечание** ) Эта процедура позволяет управлять подключениями только с клиентами Outlook Desktop для Windows. Пользователь может продолжить доступ к общедоступным папкам с помощью OWA или Outlook для Mac.
+**Примечание** Эта процедура может управлять подключениями только с настольным компьютером Outlook для клиентов Windows. Пользователь может продолжить доступ к общедоступным папкам с помощью OWA или Outlook для Mac.
  
-Дополнительные сведения приведены в статье [объявления о поддержке управляемых подключений для общедоступных папок в Outlook](https://aka.ms/controlpf).
+Дополнительные сведения см. в анонсе "Поддержка контролируемых подключений к [общедоступным папкам в Outlook".](https://aka.ms/controlpf)

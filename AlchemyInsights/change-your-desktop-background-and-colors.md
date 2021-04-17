@@ -2,7 +2,7 @@
 title: Изменение фона и цветов рабочего стола
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 6454493827ada786f057aec6235978522ab25be5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793735"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818157"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Изменение фона и цветов рабочего стола
 
-Чтобы изменить параметры цвета, перейдите к разделу " **начать**  >  **настройку**  >  **цветов персонализации**"  >  **Colors**, а затем выберите свой цвет или позвольте Windows извлечь цвет из фона.
+Чтобы изменить параметр цвета, перейдите в Окрашивать параметры персонализации параметров, а затем выберите собственный цвет или дайте Windows вытащить цвет акцента  >    >    >  из фона.
 
-![Персонализация цветов в Windows.](media/windows-personalization-colors.png)
+![Персонализировать цвета в Windows.](media/windows-personalization-colors.png)
 
-Чтобы изменить фон рабочего стола, перейдите на страницу "Параметры **запуска**",  >  **Settings**  >  **Personalization**  >  **Background**а затем выберите рисунок, сплошной цвет или создайте слайд-шоу изображений. 
+Чтобы изменить фон рабочего стола, перейдите к фону персонализации параметров Начните, а затем выберите изображение, сплошной цвет или создайте  >    >    >  слайд-шоу изображений. 
 
-![Изменение фона рабочего стола Windows.](media/windows-desktop-background.png)
+![Измените фон рабочего стола Windows.](media/windows-desktop-background.png)
 
-Хотите увеличить число фоновых рисунков и цветов рабочего стола? Посетите [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) , чтобы выбрать один из десятков свободных тем.
+Хотите больше фонов и цветов для настольных компьютеров? Посетите [Microsoft Store,](https://www.microsoft.com/store/collections/windowsthemes) чтобы выбрать из десятков бесплатных тем.
