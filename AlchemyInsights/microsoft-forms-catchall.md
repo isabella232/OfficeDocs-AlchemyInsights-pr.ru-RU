@@ -1,8 +1,8 @@
 ---
-title: Microsoft Forms для Microsoft Forms
+title: Уловка Microsoft Forms
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2549"
 - "9000672"
-ms.openlocfilehash: eac1aea5cbd0117db0555ff6b4578d7242072d11
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5857219d88b7a6c5693940df523b6920abad4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724952"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823836"
 ---
-# <a name="get-information-about-microsoft-forms"></a>Получение сведений о Microsoft Forms
+# <a name="get-information-about-microsoft-forms"></a>Сведения о формах Майкрософт
 
-Для получения подробных сведений о Microsoft Forms поменяйте свой вопрос, чтобы описать свою ошибку, включая ошибки, функции и т. д. 
+Для получения определенных сведений о формах Майкрософт кратко перефразируйте вопрос, чтобы описать проблему, в том числе ошибки, функции, которые вы используете, и т.д. 
 
-Ниже приведены некоторые дополнительные ресурсы.
+Вот некоторые дополнительные ресурсы:
 
-- [Проверка активации лицензии и состояния Azure Коллабдбсервице для клиента](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43)
-- [Совместное использование контрольного опроса или формы в Microsoft Forms](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
-- [Управление возможностью доступа к внешним формам](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?#PickTab=Configure)
+- [Проверка активации лицензии и состояния Azure CollabDBService для клиента](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43)
+- [Поделитесь викториной или формой в Формах Майкрософт](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
+- [Управление возможностью внешнего обмена формами](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?#PickTab=Configure)
 - [Удаление формы или восстановление удаленной формы](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0)
 - [Печать результатов в виде сводки ответов](https://support.office.com/article/Print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc)
-- [Перемещение опроса, опроса или опроса в группу](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
-- [Передача прав владельца формы другому пользователю](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
+- [Перемещение опроса, викторины или опроса в группу](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
+- [Передача права собственности на форму другому пользователю](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)

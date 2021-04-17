@@ -2,7 +2,7 @@
 title: Классы Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001725"
 - "3829"
-ms.openlocfilehash: 68e78abcedecbf2f0e81426fa584fe70a7e04ce6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 23ed3bc86ef1f81aed11eb3083554750c4ea425e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691228"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824808"
 ---
 # <a name="teams-classes"></a>Классы Teams
 
-Если у вас есть клиент для образования, необходимо включить Microsoft Teams вручную. Для этого в Центре администрирования Microsoft 365 выберите **Параметры > Параметры > Microsoft Teams**. Если решение Microsoft Teams отсутствует в списке служб, снимите флажок**Попробовать новый Центр администрирования**, чтобы найти раздел **Параметры > Службы и надстройки > Microsoft Teams**. Дополнительные сведения см. в статье [Включение Microsoft Teams для вашего учебного заведения](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
+Если у вас есть клиент для образования, необходимо включить Microsoft Teams вручную. Для этого в Центре администрирования Microsoft 365 выберите **Параметры > Параметры > Microsoft Teams**. Если решение Microsoft Teams отсутствует в списке служб, снимите флажок **Попробовать новый Центр администрирования**, чтобы найти раздел **Параметры > Службы и надстройки > Microsoft Teams**. Дополнительные сведения см. в статье [Включение Microsoft Teams для вашего учебного заведения](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
 
 **Важно**. Чтобы изменения вступили в силу, может потребоваться до 24 часов. 
 

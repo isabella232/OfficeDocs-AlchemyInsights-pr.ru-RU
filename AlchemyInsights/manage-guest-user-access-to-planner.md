@@ -1,8 +1,8 @@
 ---
-title: Управление доступом гостей к планировщику
+title: Управление гостевых пользователей доступом к планировщику
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001705"
 - "3783"
-ms.openlocfilehash: 5ee138e42d0ab5a8e2a878fec33478adf362c720
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4b7852b101a342256ab64ef580e95512bfdb6860
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777984"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825492"
 ---
-# <a name="manage-guest-user-access-to-planner"></a>Управление доступом гостей к планировщику
+# <a name="manage-guest-user-access-to-planner"></a>Управление гостевых пользователей доступом к планировщику
 
-Гостевые пользователи могут создавать и удалять сегменты и задачи, изменять поля задач и изменять имя плана. Кроме того, гостевые пользователи получат некоторые уведомления, связанные с планом. Ниже приведено несколько часто запрашиваемых вопросов о гостевых пользователях в планировщике.
+Гостевики могут создавать и удалять ведра и задачи, изменять поля задач и изменять имя плана. Кроме того, гостевых пользователей также будут получать некоторые уведомления, связанные с планом. Вот некоторые часто запрашиваемые темы о гостевых пользователях в Planner:
 
-- Планировщик строится на [гостевом доступе в группах Microsoft 365](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6). 
+- Планировщик строится на [функции гостевого доступа Microsoft 365 Groups.](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6) 
 
-- Узнайте больше о том, как добавлять гостей в план, как гостевые пользователи могут покинуть план, а также какие гостевые пользователи могут выполнять действия в планировщике на [гостевом доступе в Microsoft Planner](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6).
+- Узнайте больше, как добавить гостевых пользователей в план, как гостевых пользователей может оставить план, а также то, что гостевых пользователей можно сделать в Planner в гостевом доступе [в Microsoft Planner](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6).

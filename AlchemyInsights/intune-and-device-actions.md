@@ -1,8 +1,8 @@
 ---
-title: Действия с Intune и Device
+title: Действия intune и устройства
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "7084"
 - "6700008"
-ms.openlocfilehash: ac8b489bc0f1799c13b7861ceb69dfc320cfc297
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 497844ebfea8850337407f2b0edfffd7b5b779e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947512"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824088"
 ---
-# <a name="intune-and-device-actions"></a>Действия с Intune и Device
+# <a name="intune-and-device-actions"></a>Действия intune и устройства
 
-Intune предоставляет администраторам возможность удаленного запуска действий устройств. С помощью этих удаленных действий на портале Intune можно перезапустить устройства, сбросить секретные коды, нахождение потерянных или украденных устройств и т. д. Изучите [портал действий устройств](https://docs.microsoft.com/mem/intune/remote-actions/) , чтобы узнать больше.
+Intune предоставляет администраторам возможность удаленного запуска действий устройства. С помощью этих удаленных действий с портала Intune можно перезапустить устройства, сбросить коды паролей, найти потерянные или украденные устройства и т. д. Узнайте больше о [портале Действий](https://docs.microsoft.com/mem/intune/remote-actions/) устройства.
