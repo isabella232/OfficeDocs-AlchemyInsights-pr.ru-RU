@@ -1,8 +1,8 @@
 ---
-title: Предоставление общего доступа к видео в Microsoft Stream
+title: Поделитесь своими видео в Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 622431bc1a06a4f0f919df840320890f99f3eb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8363706fbc6dc87ce06ead90a6ff68f809ca9ac4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727328"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828417"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a><span data-ttu-id="fef14-102">Предоставление общего доступа к видео в Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="fef14-102">Share your videos in Microsoft Stream</span></span>
+# <a name="share-your-videos-in-microsoft-stream"></a><span data-ttu-id="8e267-102">Поделитесь своими видео в Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="8e267-102">Share your videos in Microsoft Stream</span></span>
 
-<span data-ttu-id="fef14-103">Возможно, вы захотите поделиться видеороликами в Microsoft Stream с людьми, у которых нет доступа.</span><span class="sxs-lookup"><span data-stu-id="fef14-103">You may want to share videos in Microsoft Stream with people who don't otherwise have access.</span></span> <span data-ttu-id="fef14-104">Существует несколько способов совместного использования видео:</span><span class="sxs-lookup"><span data-stu-id="fef14-104">There are various ways to share your videos:</span></span>
+<span data-ttu-id="8e267-103">Возможно, вам захочется делиться видео в Microsoft Stream с людьми, у которых в противном случае нет доступа.</span><span class="sxs-lookup"><span data-stu-id="8e267-103">You may want to share videos in Microsoft Stream with people who don't otherwise have access.</span></span> <span data-ttu-id="8e267-104">Существуют различные способы обмена видео:</span><span class="sxs-lookup"><span data-stu-id="8e267-104">There are various ways to share your videos:</span></span>
 
-- [<span data-ttu-id="fef14-105">Предоставление общего доступа к видео в Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="fef14-105">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
+- [<span data-ttu-id="8e267-105">Поделитесь своими видео в Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="8e267-105">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
 
-- [<span data-ttu-id="fef14-106">Разрешения для видеоролика</span><span class="sxs-lookup"><span data-stu-id="fef14-106">Permissions on your video</span></span>](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
+- [<span data-ttu-id="8e267-106">Разрешения на видео</span><span class="sxs-lookup"><span data-stu-id="8e267-106">Permissions on your video</span></span>](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
