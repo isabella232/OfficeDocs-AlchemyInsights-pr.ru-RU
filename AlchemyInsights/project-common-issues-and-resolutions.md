@@ -1,8 +1,8 @@
 ---
-title: Общие проблемы и решения Project
+title: Общие проблемы и решения project
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: e044e70fb581896bce98b4e2d8e5853e28ae7411
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 969cf2812a60f4b9a03aad46c96c1eb7a0458816
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801737"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830847"
 ---
-# <a name="project-common-issues-and-resolutions"></a>Общие проблемы и решения Project
+# <a name="project-common-issues-and-resolutions"></a>Общие проблемы и решения project
 
-Вот несколько часто запрашиваемых вопросов, связанных с Project:
+Вот некоторые часто запрашиваемые темы с Project:
 
-1. Начало **работы с Project Online:**[Начните пользоваться Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) и Узнайте [, как планировать, внедрять и поддерживать Project Online](https://docs.microsoft.com/projectonline/project-online) в вашей среде.   Ознакомьтесь с [ограничениями по программному обеспечению и границами Project Online](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) , чтобы просмотреть важные ограничения.
+1. **Приступить к работе с Project Online.**  [Начните](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) использовать Project Online и узнайте, как [планировать,](https://docs.microsoft.com/projectonline/project-online) реализовывать и поддерживать Project Online в вашей среде. Проверьте ограничения и границы программного обеспечения Project [Online,](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) чтобы просмотреть важные ограничения.
 
-2. **Предоставление пользователям доступа к Project Online:** Добавление [пользователей, групп, ресурсов и общий доступ к Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) для совместной работы с другими пользователями. 
+2. **Предоставить пользователям доступ к Project Online:** Добавление [людей, групп, ресурсов и совместное](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) взаимодействие Project Online с другими. 
 
-3. **Настройка производительности Project Web App (PWA) в Project Online:** Изучите [влияние на производительность и компромиссы](https://docs.microsoft.com/projectonline/tune-project-online-performance) некоторых наиболее распространенных параметров Project Web App.
+3. **Настройка Project Web App (PWA) в Project Online:** Просмотрите [влияние производительности](https://docs.microsoft.com/projectonline/tune-project-online-performance) и компромиссы некоторых наиболее распространенных Project Web App параметров.
 
-4. **Подключение к Project Online с помощью клиента Project Desktop:** Используйте [клиент Project Online для настольных ПК](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) для подключения к Project Online в среде Microsoft 365. 
+4. **Подключение к Project Online с клиентом project Desktop:** Используйте клиент [Project Online Desktop для](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) подключения к Project Online в среде Microsoft 365. 
 
-5. **Install Project профессиональный:** [Установка и использование Project профессиональный](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) с версиями Project Online с подписками, а также версии Project 2019, 2016 или 2013, не относящихся к подпискам.
+5. **Установка Project Professional:** Установка и использование [Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) с версиями подписки Project Online и неавстанными версиями Project 2019, 2016 или 2013.

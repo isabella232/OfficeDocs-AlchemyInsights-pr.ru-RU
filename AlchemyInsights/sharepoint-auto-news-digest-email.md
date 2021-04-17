@@ -1,8 +1,8 @@
 ---
-title: Автоматическая сводка почты SharePoint
+title: Электронная почта Автоматическое дайджест SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751184"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831207"
 ---
-# <a name="sharepoint-auto-digest-email"></a>Автоматическая сводка почты SharePoint
+# <a name="sharepoint-auto-digest-email"></a>Электронная почта Автоматическое дайджест SharePoint
 
-Сводная сводка SharePoint автоматически отправляет сообщения электронной почты пользователям в вашей компании о последних записях новостей, которые они еще не прочитали.
+Дайджест Авто-Новостей SharePoint отправляет автоматизированную электронную почту пользователям в вашей компании о последних сообщениях новостей, которые они еще не читали, которые имеют отношение к ним.
 
-Для получения дополнительных сведений посетите страницу [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Дополнительные сведения можно получить на сайте [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- Microsoft 365 Путеводитель ID:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Время: целевые выпуски клиентов за середину  **июля (ранее Июнь**  и завершено для всех клиентов за  **середину августа (ранее в начале августа)**.
-- Развертывание: развертывание на уровне пользователя
-- Тип элемента управления: Пользовательский элемент управления, * * административный элемент управления через PowerShell (ожидается в ближайшее время)
+- ID дорожной карты Майкрософт 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Сроки: целевые клиенты выпуска в **середине июля (ранее** июнь и полный для всех клиентов к середине августа **(ранее в начале августа).**
+- Выкатка: выкатка уровня пользователя
+- Тип управления: управление пользователем, **Управление администратором с помощью PowerShell (скоро)

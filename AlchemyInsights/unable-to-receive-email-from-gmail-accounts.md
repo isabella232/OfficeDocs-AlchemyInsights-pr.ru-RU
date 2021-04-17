@@ -1,8 +1,8 @@
 ---
-title: Не удается получить электронную почту из учетных записей Gmail
+title: Невозможно получить электронную почту из учетных записей Gmail
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735464"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830406"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Не удается получить электронную почту из учетных записей Gmail
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Невозможно получить электронную почту из учетных записей Gmail
 
-**ПОЗВОЛЯ**
+**ISSUE**
 
-Мы осведомлены о том, что некоторые пользователи могут не иметь возможность получать электронную почту из учетных записей Gmail. Мы исследуем возможную проблему.
+Мы знаем, что некоторые пользователи могут не получать электронную почту из учетных записей Gmail. Мы исследуем возможную проблему.
 
-**ВРЕМЕННЫЕ**
+**ОБХОДНОЙ ПУТЬ**
 
 Убедитесь, что вы случайно не заблокировали домен Gmail при блокировке одного пользователя Gmail.
 
-1. Откройте [список заблокированных отправителей](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Откройте список [заблокированных отправителей.](https://go.microsoft.com/fwlink/?linkid=2121010)
 
-2. Если Gmail.com находится в списке, щелкните значок корзины рядом с записью и нажмите кнопку **сохранить**.
+2. Если Gmail.com в списке, щелкните значок корзины рядом с записью и нажмите **сохранить**.
