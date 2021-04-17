@@ -1,8 +1,8 @@
 ---
-title: Параметры общего доступа затемнены или недоступны
+title: Параметры общего доступа отображаются тусклыми или недоступными
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: 86d14adff3967a11fadf057302233764512e5b46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 217c18ddaf12d688f61f030f4c650183aa1e2a2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758546"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832611"
 ---
-# <a name="sharing-options-appear-dim-or-are-not-available"></a>Параметры общего доступа затемнены или недоступны
+# <a name="sharing-options-appear-dim-or-are-not-available"></a>Параметры общего доступа отображаются в тусклом цвете или недоступны
 
-Если при попытке совместного использования в SharePoint Online или OneDrive недоступны некоторые параметры общего доступа, то при [совместном использовании SharePoint Online или onedrive можно увидеть, что параметры общего доступа затенены](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).
+Если при попытке поделиться с SharePoint Online или OneDrive какие-либо параметры общего доступа недоступны, см. в разделе Параметры совместного доступа, которые не доступны при совместном использовании в SharePoint Online или [OneDrive.](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)

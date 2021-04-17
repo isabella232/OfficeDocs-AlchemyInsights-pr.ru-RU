@@ -1,8 +1,8 @@
 ---
-title: Удаление SFB
+title: Как удалить SFB
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000741"
 - "2669"
-ms.openlocfilehash: 4988c224ad03ef8c52390108ae8d16a13c266627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efe3a6aa8e7cd362285848fcffbef5dec1a2bb6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744234"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832215"
 ---
-# <a name="uninstall-skype-for-business"></a>Удаление Skype для бизнеса
+# <a name="uninstall-skype-for-business"></a>Удалить Skype для бизнеса
 
-За сведениями об удалении Skype для бизнеса обратитесь к следующим статьям:
+Сведения о том, как отстраить Skype для бизнеса, см. в следующих статьях:
 
-- [Удаление Skype для бизнеса](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)
-- [Удаление Skype для бизнеса на мобильном устройстве](https://support.office.com/article/uninstall-skype-for-business-on-a-mobile-device-9c9e6270-f88e-404c-b757-3ffb6ffb897a)
+- [Удалить Skype для бизнеса](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)
+- [Удалить Skype для бизнеса на мобильном устройстве](https://support.office.com/article/uninstall-skype-for-business-on-a-mobile-device-9c9e6270-f88e-404c-b757-3ffb6ffb897a)
