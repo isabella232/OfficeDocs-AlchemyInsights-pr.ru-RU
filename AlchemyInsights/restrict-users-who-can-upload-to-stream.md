@@ -1,8 +1,8 @@
 ---
-title: Ограничение числа пользователей, которые могут отправляться в поток
+title: Ограничение пользователей, которые могут загружать в Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: ff84a15bb765021d7b6a2aec76cd917823669f0b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 964087efb30bda9f6f78786d92e8ffb9a8f5b8a9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740848"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831315"
 ---
-# <a name="restrict-users-who-can-upload-to-stream"></a><span data-ttu-id="3981b-102">Ограничение числа пользователей, которые могут отправляться в поток</span><span class="sxs-lookup"><span data-stu-id="3981b-102">Restrict users who can upload to Stream</span></span>
+# <a name="restrict-users-who-can-upload-to-stream"></a><span data-ttu-id="3d628-102">Ограничение пользователей, которые могут загружать в Stream</span><span class="sxs-lookup"><span data-stu-id="3d628-102">Restrict users who can upload to Stream</span></span>
 
-<span data-ttu-id="3981b-103">В качестве организации вы можете ограничить сотрудников, которые могут отправлять видеоролики.</span><span class="sxs-lookup"><span data-stu-id="3981b-103">As an organization you may want to limit the employees who can upload videos.</span></span> <span data-ttu-id="3981b-104">По умолчанию все пользователи в организации могут отправлять видеоролики.</span><span class="sxs-lookup"><span data-stu-id="3981b-104">By default, everyone in your organization can upload videos.</span></span>
+<span data-ttu-id="3d628-103">Как организация вы можете ограничить сотрудников, которые могут загружать видео.</span><span class="sxs-lookup"><span data-stu-id="3d628-103">As an organization you may want to limit the employees who can upload videos.</span></span> <span data-ttu-id="3d628-104">По умолчанию все в вашей организации могут загружать видео.</span><span class="sxs-lookup"><span data-stu-id="3d628-104">By default, everyone in your organization can upload videos.</span></span>
 
-- [<span data-ttu-id="3981b-105">Ограничение сотрудников, которые могут создавать содержимое в Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="3981b-105">Restrict employees who can create content in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/restrict-uploaders)
+- [<span data-ttu-id="3d628-105">Ограничение сотрудников, которые могут создавать контент в Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="3d628-105">Restrict employees who can create content in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/restrict-uploaders)
