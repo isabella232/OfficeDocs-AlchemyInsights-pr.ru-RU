@@ -1,8 +1,8 @@
 ---
-title: Помещение приложений на Рабочий стол
+title: Поместите приложения на рабочий стол
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768260"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835860"
 ---
-# <a name="put-apps-on-the-desktop"></a>Помещение приложений на Рабочий стол
+# <a name="put-apps-on-the-desktop"></a>Поместите приложения на рабочий стол
 
-Выполните поиск приложения в меню " **Пуск** " и захватите значок приложения, удерживая левую кнопку мыши и переместив значок на Рабочий стол.
+Поиск приложения в меню **Пуск** и захват значка приложения, удерживая левую кнопку мыши и перемещая значок на рабочий стол.
 
-Вы также можете нажать клавишу **Windows + R** , а затем ввести следующую команду:
+Вы также можете нажать **клавишу Windows + R** и ввести в этой команде:
 
 `shell:appsfolder`
 
-Откроется папка **приложения** в **проводнике**. Теперь вы можете перетащить значок приложения на Рабочий стол.
+Это откроет папку **Applications** в **Проводнике файлов.** Теперь можно перетаскивать и отбросить значок приложения на рабочий стол.
