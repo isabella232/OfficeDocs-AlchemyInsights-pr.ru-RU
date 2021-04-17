@@ -1,8 +1,8 @@
 ---
-title: Миграция из Microsoft Stream (классическая) в новый поток Microsoft
+title: Миграция из Microsoft Stream (Classic) в новый Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "6450"
-ms.openlocfilehash: df9dab8a28ae0ca663279aa8805091c7076e3cbd
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 1443213e1d7c38f83098b6539b2fae6d387aad16
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236282"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829821"
 ---
-# <a name="migrate-from-microsoft-stream-classic-to-the-new-microsoft-stream"></a>Миграция из Microsoft Stream (классическая) в новый поток Microsoft
+# <a name="migrate-from-microsoft-stream-classic-to-the-new-microsoft-stream"></a>Миграция из Microsoft Stream (Classic) в новый Microsoft Stream
 
-Дополнительные сведения о переносе из классического потока в новый поток можно посмотреть, [переносить из Microsoft Stream (Classic) в новый поток Microsoft](https://docs.microsoft.com/stream/classic-migration) .
+Дополнительные сведения о переносе из Классического потока в New Stream см. в см. в примере Миграция из [Microsoft Stream (Classic) в новый Microsoft Stream](https://docs.microsoft.com/stream/classic-migration)

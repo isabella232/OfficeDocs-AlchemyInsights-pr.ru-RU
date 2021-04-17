@@ -1,8 +1,8 @@
 ---
-title: Teams для виртуализованной инфраструктуры настольных ПК
+title: Команды для виртуализированной инфраструктуры настольных компьютеров
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736445"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829425"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams для виртуализованной инфраструктуры настольных ПК
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Команды для виртуализированной инфраструктуры настольных компьютеров
 
-Подробную информацию о Teams для виртуализированной инфраструктуры настольных систем можно найти в статье [Teams for виртуализированной инфраструктуры для настольных](https://docs.microsoft.com/microsoftteams/teams-for-vdi)ПК.
+Подробные сведения о средах инфраструктуры настольных компьютеров Teams для виртуализированных настольных компьютеров см. в [руб. Teams for Virtualized Desktop Infrastructure.](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
 
-Известные проблемы и ограничения в средах VDI подробно описаны в разделе [Известные проблемы и ограничения ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) той же статьи, что включает в себя следующие темы:
- - Развертывание, установка и Настройка клиента
- - Звонки и собрания
+Известные проблемы и ограничения в средах VDI подробно описаны в разделе [Известные ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) проблемы и ограничения той же статьи, которая включает следующие темы:
+ - Развертывание, установка и установка клиентов
+ - Вызовы и собрания

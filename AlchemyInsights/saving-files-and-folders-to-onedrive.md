@@ -2,7 +2,7 @@
 title: Сохранение файлов и папок в OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003073"
 - "5903"
-ms.openlocfilehash: 1c612a91cc2674e097f108a3d57898e2b24e901b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d6a1b2b7c0aafd539ba2aee24ef70605627b3c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774256"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828633"
 ---
 # <a name="saving-files-and-folders-to-onedrive"></a>Сохранение файлов и папок в OneDrive
 
-Существуют различные методы сохранения файлов и сохранения файлов в OneDrive. Если при сохранении файлов в OneDrive возникают проблемы, попробуйте выполнить следующие действия:
+Существуют различные методы сохранения файлов и сохранения файлов в OneDrive. Если у вас возникли проблемы с сохранением файлов в OneDrive, попробуйте следующее:
 
-- Выберите синий облако на панели задач и исправьте все ошибки, отображаемые во всплывающем окне.
-- Сохраните файлы в другом месте, кроме папки OneDrive, а затем попытайтесь переместить их обратно в папку OneDrive.
-- Перезагрузите компьютер и повторите попытку сохранения. Во многих случаях, если в приложении открыт файл, OneDrive не сможет синхронизировать его до тех пор, пока приложение его больше не будет использовать.    
-- Попробуйте разорвать связь и повторно связать OneDrive, выбрав синий значок onedrive на панели задач > **Справка & параметры**  >  **Account**  >  »**Удалить ссылку на этот компьютер**. Снова выберите синий значок OneDrive на панели задач и выполните вход.
-- Если у вас возникла проблема с хранилищем, ознакомьтесь со статьей [Управление хранилищем OneDrive для работы или учебным хранилищем](https://support.microsoft.com/office/manage-your-onedrive-for-work-or-school-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
-- Дополнительные сведения об устранении неполадок приведены в разделе [Устранение проблем с синхронизацией OneDrive](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues).  
+- Выберите синее облако в панели задач и исправите все ошибки, которые отображаются в всплывающее окно.
+- Сохраните файлы в другом месте, кроме папки OneDrive, а затем попробуйте переместить файлы обратно в папку OneDrive.
+- Перезагружайте машину и снова пытайтесь сохранить. Во многих случаях, если приложение имеет открытый файл, OneDrive не может синхронизировать файл до тех пор, пока приложение не будет использовать его.    
+- Попробуйте разойтки и повторной ссылки OneDrive, выбрав синий значок OneDrive на панели задач > **помощь & Параметры** учетной записи  >    >  **Unlink этот компьютер**. Выберите синий значок OneDrive в панели задач и впишитесь.
+- Если у вас возникли проблемы с хранением, см. в выпуске [Управление oneDrive для работы или школьного хранения.](https://support.microsoft.com/office/manage-your-onedrive-for-work-or-school-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)
+- Дополнительные сведения о устранении неполадок см. в дополнительных сведениях [о проблемах синхронизации OneDrive.](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues)  
 
-Если вы хотите настроить возможности сохранения в Office и OneDrive, ознакомьтесь со [статьей Настройка возможности сохранения в Office](https://support.microsoft.com/office/customize-the-save-experience-in-office-786200a7-f5f2-4d26-a3ae-b78c60dd5d3b).
+Если вы хотите настроить свой опыт сохранения в Office и OneDrive, см. в этой ссылке Настройка опытом сохранения [в Office.](https://support.microsoft.com/office/customize-the-save-experience-in-office-786200a7-f5f2-4d26-a3ae-b78c60dd5d3b)

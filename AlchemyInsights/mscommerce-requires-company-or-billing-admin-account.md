@@ -1,8 +1,8 @@
 ---
-title: Подключение к модулю Мскоммерце
+title: Подключение к модульу MSCommerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702628"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829749"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>Для Мскоммерце требуется учетная запись администратора компании или выставления счетов
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce требует учетную запись администратора компании или биллинга
 
-Для модуля Мскоммерце требуется учетная запись с правами администратора организации или выставления счетов. Если вы получаете следующее сообщение об ошибке, вам потребуется повторно подключиться с другой учетной записью.
+Модуль MSCommerce требует учетную запись с привилегиями администратора компании или биллинга. Если вы получаете следующую ошибку, вам потребуется повторно подключиться к другой учетной записи.
 
-*ErrorMessage — удаленный сервер вернул ошибку: (403) запрещено. Еррордетаилс — в папке C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char: 5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError — Еррорконтекст $ _ $ Кустомеррормессаже "не удалось ретри...*<br>
+*ErrorMessage — удаленный сервер возвращает ошибку: (403) Запрещено. ErrorDetails — В C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError-ErrorContext $_ -CustomErrorMessage "Failed to retri ...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Категоринфо: НотспеЦифиед: (:) [Write – Error], Вритиррорексцептион*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Фулликуалифиедеррорид: Microsoft. PowerShell. Commands. Вритиррорексцептион, HandleError*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo : NotSpecified: (:) [Write-Error], WriteErrorException*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
 
-Если у вашей учетной записи нет полномочий администратора компании или выставления счетов, обратитесь к ИТ ИТ.
+Если у вашей учетной записи нет привилегий администратора компании или биллинга, обратитесь к ИТ-администратору.
