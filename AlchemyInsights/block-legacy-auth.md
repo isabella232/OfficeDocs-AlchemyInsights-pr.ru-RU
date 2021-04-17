@@ -1,8 +1,8 @@
 ---
-title: блокклегациаус
+title: BlockLegacyAuth
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685611"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820191"
 ---
 # <a name="blocking-legacy-authentication"></a>Блокировка устаревшей проверки подлинности
 
 Традиционная аутентификация — это термин, обозначающий запрос на проверку подлинности, который делают:
 
-- Старые клиенты Office, которые не используют современные проверки подлинности (например, Office 2010 Client).
+- Старые клиенты Office, которые не используют современную проверку подлинности (например, клиент Office 2010).
 
 - Любые клиенты, использующие устаревшие почтовые протоколы, например IMAP/SMTP/POP3.
 
-Для получения дополнительных сведений об блокировании устаревшей проверки подлинности и включении современного режима проверки [подлинности см.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)
+Дополнительные сведения о блокировке устаревшей проверки подлинности и в том, что касается включения современной проверки подлинности, обратитесь к [блокированию устаревшей проверки подлинности.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)
 
-Параметры безопасности по умолчанию в Azure Active Directory (Azure AD) упрощают защиту и защиту Организации. Параметры безопасности по умолчанию содержат предварительно настроенные параметры безопасности для распространенных атак.
-Дополнительные сведения о значениях по умолчанию для системы безопасности приведены в разделе [что такое параметры безопасности по умолчанию?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+По умолчанию безопасность в Azure Active Directory (Azure AD) упрощает безопасность и помогает защитить организацию. По умолчанию в безопасности содержатся преднастройные параметры безопасности для распространенных атак.
+Дополнительные сведения о дефолтах безопасности можно найти в этой [ссылке.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) 
 
-**Примечание**. Если ваш клиент был создан или после октября 22nd, 2019, возможно, вы столкнулись с новым поведением по умолчанию, а в клиенте уже включены параметры безопасности по умолчанию.  В целях защиты всех наших пользователей по умолчанию выполняется развертывание всех новых клиентов.
+**Примечание.** Если клиент был создан 22 октября 2019 г. или после него, возможно, вы столкнулись с новым поведением по умолчанию и уже включили в клиенте по умолчанию безопасность.  Чтобы защитить всех пользователей, для всех созданных новых клиентов в настоящее время выкатываются по умолчанию.

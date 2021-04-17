@@ -2,7 +2,7 @@
 title: Базовое правило
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e423e489d64bce211495b21e58cf74cbc7dc10df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686367"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820515"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Устранение неполадок, связанных с полномочиями MDM в Microsoft Intune
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Устранение неполадок с полномочиями MDM в Microsoft Intune
 
-Ниже приведены некоторые полезные статьи, посвященные началу работы с Intune.
+Вот несколько полезных статей о том, как начать работу с Intune:
 
 - [Что такое Intune?](https://docs.microsoft.com/intune/what-is-intune)
-- [Как настроить Intune в первый раз](https://docs.microsoft.com/intune/setup-steps)
-- [Использование и Навигация в Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+- [Настройка Intune в первый раз](https://docs.microsoft.com/intune/setup-steps)
+- [Использование и навигация по Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-Если у вас возникли проблемы с центром MDM, обратитесь к разделу [изменение центра INTUNE MDM Authority](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
+Если возникли проблемы с вашим органом MDM, обратитесь к авторитету [Change Intune MDM.](https://docs.microsoft.com/alchemyinsights/change-mdm-authority)
