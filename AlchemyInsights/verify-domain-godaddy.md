@@ -2,7 +2,7 @@
 title: Проверка домена с помощью GoDaddy
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 35ba58e3a28d57d490aee8eb91a8e77f20b14da4
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 248890e78f432015dbaa6eae712f42c96481afaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816194"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824340"
 ---
-# <a name="verify-your-domain-with-godaddy"></a><span data-ttu-id="e2cea-102">Проверка домена с помощью GoDaddy</span><span class="sxs-lookup"><span data-stu-id="e2cea-102">Verify your domain with GoDaddy</span></span>
+# <a name="verify-your-domain-with-godaddy"></a><span data-ttu-id="86bc2-102">Проверка домена с помощью GoDaddy</span><span class="sxs-lookup"><span data-stu-id="86bc2-102">Verify your domain with GoDaddy</span></span>
 
-<span data-ttu-id="e2cea-103">Чтобы проверить домен, необходимо добавить запись TXT в ваш регистратор доменных имен, чтобы убедиться, что вы владеете доменом.</span><span class="sxs-lookup"><span data-stu-id="e2cea-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="86bc2-103">Чтобы проверить домен, необходимо добавить запись TXT в регистратор домена, чтобы убедиться, что у вас есть домен.</span><span class="sxs-lookup"><span data-stu-id="86bc2-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="e2cea-104">Для начала следуйте указаниям [мастера добавления доменов](https://admin.microsoft.com/Adminportal#/Domains) , **Settings** выбрав пункт \> **домены**параметров, а затем **Добавить домен**.</span><span class="sxs-lookup"><span data-stu-id="e2cea-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="86bc2-104">Сначала следуйте [мастеру Добавить домен,](https://admin.microsoft.com/Adminportal#/Domains) выбрав **домены параметров,** \> а затем добавьте **домен**.</span><span class="sxs-lookup"><span data-stu-id="86bc2-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="e2cea-105">Пошаговые инструкции по [созданию записей DNS на сайте GoDaddy для Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) .</span><span class="sxs-lookup"><span data-stu-id="e2cea-105">See [Create DNS records at GoDaddy for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) for step-by-step instructions.</span></span>
+<span data-ttu-id="86bc2-105">Дополнительные инструкции по созданию записей DNS см. в [goDaddy для Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy)</span><span class="sxs-lookup"><span data-stu-id="86bc2-105">See [Create DNS records at GoDaddy for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) for step-by-step instructions.</span></span>

@@ -1,8 +1,8 @@
 ---
-title: Проблемы с входом в Teams
+title: Проблемы с входом в teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2688"
 - "9000744"
-ms.openlocfilehash: c3c1933a00fdb4cb0a71e6cbd19f499cb789957b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f484015d8a96730443ef4b35da5ec59af2419a55
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750680"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824736"
 ---
-# <a name="troubleshooting-teams-sign-in"></a><span data-ttu-id="37478-102">Устранение неполадок входа в Teams</span><span class="sxs-lookup"><span data-stu-id="37478-102">Troubleshooting Teams sign in</span></span> 
+# <a name="troubleshooting-teams-sign-in"></a><span data-ttu-id="425a1-102">Вход команд по устранению неполадок</span><span class="sxs-lookup"><span data-stu-id="425a1-102">Troubleshooting Teams sign in</span></span> 
 
-<span data-ttu-id="37478-103">У вас возникли проблемы с входом в Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="37478-103">Having issues signing in to Microsoft Teams?</span></span> <span data-ttu-id="37478-104">Дополнительные сведения можно найти в следующих статьях.</span><span class="sxs-lookup"><span data-stu-id="37478-104">Refer to the following articles for more information.</span></span>
+<span data-ttu-id="425a1-103">Возникли проблемы с входом в Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="425a1-103">Having issues signing in to Microsoft Teams?</span></span> <span data-ttu-id="425a1-104">Дополнительные сведения можно найти в следующих статьях.</span><span class="sxs-lookup"><span data-stu-id="425a1-104">Refer to the following articles for more information.</span></span>
 
-- [<span data-ttu-id="37478-105">Почему при входе в Microsoft Teams возникают проблемы?</span><span class="sxs-lookup"><span data-stu-id="37478-105">Why am I having trouble signing in to Microsoft Teams?</span></span>](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
-- [<span data-ttu-id="37478-106">Microsoft Teams слишком долго находится в цикле входа в Edge или Internet Explorer</span><span class="sxs-lookup"><span data-stu-id="37478-106">Microsoft Teams is stuck in a login loop in Edge or Internet Explorer</span></span>](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
-- [<span data-ttu-id="37478-107">Код состояния — 4c7 ошибка в Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="37478-107">Your status code is 4c7 error with Microsoft Teams</span></span>](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
-- [<span data-ttu-id="37478-108">Как получить доступ к Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="37478-108">How do I get access to Microsoft Teams?</span></span>](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)
+- [<span data-ttu-id="425a1-105">Почему у меня возникли проблемы с входом в Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="425a1-105">Why am I having trouble signing in to Microsoft Teams?</span></span>](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
+- [<span data-ttu-id="425a1-106">Microsoft Teams слишком долго находится в цикле входа в Edge или Internet Explorer</span><span class="sxs-lookup"><span data-stu-id="425a1-106">Microsoft Teams is stuck in a login loop in Edge or Internet Explorer</span></span>](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
+- [<span data-ttu-id="425a1-107">Код состояния — ошибка 4c7 в Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="425a1-107">Your status code is 4c7 error with Microsoft Teams</span></span>](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
+- [<span data-ttu-id="425a1-108">Как получить доступ к Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="425a1-108">How do I get access to Microsoft Teams?</span></span>](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)

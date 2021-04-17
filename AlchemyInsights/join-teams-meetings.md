@@ -1,8 +1,8 @@
 ---
-title: Присоединение к собраниям Teams
+title: Регистрация собраний Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772924"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824016"
 ---
-# <a name="join-a-meeting-in-teams"></a><span data-ttu-id="db9bb-102">Присоединение к собранию в Teams</span><span class="sxs-lookup"><span data-stu-id="db9bb-102">Join a meeting in Teams</span></span>
+# <a name="join-a-meeting-in-teams"></a><span data-ttu-id="637b9-102">Присоединиться к собранию в Teams</span><span class="sxs-lookup"><span data-stu-id="637b9-102">Join a meeting in Teams</span></span>
 
-<span data-ttu-id="db9bb-103">Чтобы присоединиться к собранию Teams, сначала настройте политики собраний, а затем направляйте пользователей из их основных устройств:</span><span class="sxs-lookup"><span data-stu-id="db9bb-103">To join a Teams meeting, first set meeting policies, then direct users to join from their preferred devices:</span></span>
+<span data-ttu-id="637b9-103">Чтобы присоединиться к собранию Teams, сначала установите политики собраний, а затем направь пользователей присоединяться со своих предпочтительных устройств:</span><span class="sxs-lookup"><span data-stu-id="637b9-103">To join a Teams meeting, first set meeting policies, then direct users to join from their preferred devices:</span></span>
 
-- <span data-ttu-id="db9bb-104">Настройка политик собраний, которые контролируют круг пользователей, которые смогут присоединиться к собранию в качестве [участников или гостей](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests).</span><span class="sxs-lookup"><span data-stu-id="db9bb-104">Set meeting policies that control who will be able to join the meeting as [participants or guests](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests).</span></span> 
+- <span data-ttu-id="637b9-104">Установите политики собраний, которые контролируют, кто сможет присоединиться к собранию в качестве участников [или гостей.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests)</span><span class="sxs-lookup"><span data-stu-id="637b9-104">Set meeting policies that control who will be able to join the meeting as [participants or guests](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests).</span></span> 
 
-- <span data-ttu-id="db9bb-105">Используйте [командлеты PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) для Microsoft Teams, чтобы внести изменения в политику.</span><span class="sxs-lookup"><span data-stu-id="db9bb-105">Use Microsoft Teams [PowerShell cmdlets](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) to make policy changes.</span></span>    
+- <span data-ttu-id="637b9-105">Чтобы изменить политику, используйте командлеты Microsoft Teams [PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)</span><span class="sxs-lookup"><span data-stu-id="637b9-105">Use Microsoft Teams [PowerShell cmdlets](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) to make policy changes.</span></span>    
 
-<span data-ttu-id="db9bb-106">**Примечание:** Для вступления изменений политики в силу может потребоваться до 24 часов.</span><span class="sxs-lookup"><span data-stu-id="db9bb-106">**Note:** It can take up to 24 hours for policy changes to take effect.</span></span>
+<span data-ttu-id="637b9-106">**Примечание:** Для внесения изменений в политику может занять до 24 часов.</span><span class="sxs-lookup"><span data-stu-id="637b9-106">**Note:** It can take up to 24 hours for policy changes to take effect.</span></span>
