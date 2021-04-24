@@ -1,5 +1,5 @@
 ---
-title: Политики хранения в центре администрирования Exchange не работают
+title: Политики хранения в Центре администрирования Exchange не работают
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740523"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952241"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a><span data-ttu-id="eb5b8-102">Политики хранения в центре администрирования Exchange</span><span class="sxs-lookup"><span data-stu-id="eb5b8-102">Retention Policies in Exchange Admin Center</span></span>
+# <a name="retention-policies-in-exchange-admin-center"></a><span data-ttu-id="74426-102">Политики хранения в Центре администрирования Exchange</span><span class="sxs-lookup"><span data-stu-id="74426-102">Retention Policies in Exchange Admin Center</span></span>
 
-<span data-ttu-id="eb5b8-103">Если вы хотите, чтобы мы выполняли автоматические проверки для указанных ниже параметров, нажмите кнопку "назад" <--в верхней части этой страницы, а затем введите адрес электронной почты пользователя, имеющего проблемы с политиками хранения.</span><span class="sxs-lookup"><span data-stu-id="eb5b8-103">If you want us to run automated checks for the settings mentioned below, select the back button <-- at the top of this page, and then enter the email address of the user who has problems with retention policies.</span></span>
+<span data-ttu-id="74426-103">Если вы хотите, чтобы мы запускали автоматические проверки указанных ниже параметров, выберите кнопку < -- в верхней части этой страницы, а затем введите адрес электронной почты пользователя, у которого возникли проблемы с политиками хранения.</span><span class="sxs-lookup"><span data-stu-id="74426-103">If you want us to run automated checks for the settings mentioned below, select the back button <-- at the top of this page, and then enter the email address of the user who has problems with retention policies.</span></span>
 
- <span data-ttu-id="eb5b8-104">**Вопрос:** Новые или обновленные политики хранения в центре администрирования Exchange не применяются к почтовым ящикам, а элементы не перемещаются в архивный почтовый ящик или не удаляются.</span><span class="sxs-lookup"><span data-stu-id="eb5b8-104">**Issue:** Newly created or updated retention policies in the Exchange Admin Center are not applying to mailboxes or items are not moved to the archive mailbox or deleted.</span></span> 
-  
- <span data-ttu-id="eb5b8-105">**Основные причины:**</span><span class="sxs-lookup"><span data-stu-id="eb5b8-105">**Root Causes:**</span></span>
-  
-- <span data-ttu-id="eb5b8-106">Это может быть вызвано тем, что помощник по работе с **управляемыми папками** не обработал почтовый ящик пользователя.</span><span class="sxs-lookup"><span data-stu-id="eb5b8-106">This may be because the **Managed Folder Assistant** has not processed the user's mailbox.</span></span> <span data-ttu-id="eb5b8-107">Помощник по работе с управляемыми папками пытается обрабатывать все почтовые ящики в облачной организации каждые семь дней.</span><span class="sxs-lookup"><span data-stu-id="eb5b8-107">The Managed Folder Assistant tries to process every mailbox in your cloud-based organization once every seven days.</span></span> <span data-ttu-id="eb5b8-108">Если вы измените тег хранения или примените другую политику хранения к почтовому ящику, вы можете дождаться обработки почтового ящика помощником для управляемых папок или запустить командлет Start-ManagedFolderAssistant, чтобы запустить помощник по работе с управляемыми папками для обработки определенного почтового ящика.</span><span class="sxs-lookup"><span data-stu-id="eb5b8-108">If you change a retention tag or apply a different retention policy to a mailbox, you can wait until the Managed Folder Assist processes the mailbox, or you can run the Start-ManagedFolderAssistant cmdlet to start the Managed Folder Assistant to process a specific mailbox.</span></span> <span data-ttu-id="eb5b8-109">Выполнение этого командлета полезно для тестирования или устранения неполадок с политикой хранения или параметрами тегов хранения.</span><span class="sxs-lookup"><span data-stu-id="eb5b8-109">Running this cmdlet is useful for testing or troubleshooting a retention policy or retention tag settings.</span></span> <span data-ttu-id="eb5b8-110">Для получения дополнительных сведений посетите страницу [Запуск помощника для управляемых папок](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).</span><span class="sxs-lookup"><span data-stu-id="eb5b8-110">For more information, visit [Run the Managed Folder Assistant](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).</span></span>
-    
-  - <span data-ttu-id="eb5b8-111">**Решение:** Выполните следующую команду, чтобы запустить помощник по работе с управляемыми папками для определенного почтового ящика:</span><span class="sxs-lookup"><span data-stu-id="eb5b8-111">**Solution:** Run the following command to start the Managed Folder Assistant for a specific mailbox:</span></span>
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+<span data-ttu-id="74426-104">Если у вас возникли проблемы с политиками хранения в Центре администрирования Exchange, которые не применяются к почтовым ящикам или не перемещаются в архивный почтовый ящик, проверьте следующее:</span><span class="sxs-lookup"><span data-stu-id="74426-104">If you have problems with retention policies in the Exchange Admin Center not applying to mailboxes or items not moving to the archive mailbox, check the following:</span></span>
 
-- <span data-ttu-id="eb5b8-112">Это также может произойти, если **ретентионхолд** был **включен** для почтового ящика.</span><span class="sxs-lookup"><span data-stu-id="eb5b8-112">This may also be occur if **RetentionHold** has been **enabled** on the mailbox.</span></span> <span data-ttu-id="eb5b8-113">Если почтовый ящик был включен в Ретентионхолд, политика хранения в почтовом ящике не будет обработана в течение этого времени.</span><span class="sxs-lookup"><span data-stu-id="eb5b8-113">If the mailbox has been placed on a RetentionHold, the retention policy on the mailbox will not be processed during that time.</span></span> <span data-ttu-id="eb5b8-114">Дополнительные информатон для параметра Ретентионхолд: [удержание для хранения почтовых ящиков](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).</span><span class="sxs-lookup"><span data-stu-id="eb5b8-114">For more informaton on the RetentionHold setting see: [Mailbox Retention Hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).</span></span>
-    
-    <span data-ttu-id="eb5b8-115">**Решению**</span><span class="sxs-lookup"><span data-stu-id="eb5b8-115">**Solution:**</span></span>
-    
-  - <span data-ttu-id="eb5b8-116">Проверьте состояние параметра Ретентионхолд в определенном почтовом ящике в [exo PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):</span><span class="sxs-lookup"><span data-stu-id="eb5b8-116">Check the status of the RetentionHold setting on the specific mailbox in [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):</span></span>
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+<span data-ttu-id="74426-105">**Корневые причины:**</span><span class="sxs-lookup"><span data-stu-id="74426-105">**Root Causes:**</span></span>
 
-  - <span data-ttu-id="eb5b8-117">Выполните следующую команду, чтобы **Отключить** ретентионхолд для определенного почтового ящика:</span><span class="sxs-lookup"><span data-stu-id="eb5b8-117">Run the following command to **disable** RetentionHold on a specific mailbox:</span></span>
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- <span data-ttu-id="74426-106">**Помощник управляемой папки** не обрабатывал почтовый ящик пользователя.</span><span class="sxs-lookup"><span data-stu-id="74426-106">**Managed Folder Assistant** has not processed the user's mailbox.</span></span> <span data-ttu-id="74426-107">Помощник управляемых папок пытается обрабатывать каждый почтовый ящик в облачной организации один раз в семь дней.</span><span class="sxs-lookup"><span data-stu-id="74426-107">The Managed Folder Assistant tries to process every mailbox in your cloud-based organization once every seven days.</span></span>
 
-  - <span data-ttu-id="eb5b8-118">Теперь повторно запустите помощник по работе с управляемыми папками:</span><span class="sxs-lookup"><span data-stu-id="eb5b8-118">Now, re-run the Managed folder Assistant:</span></span>
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  <span data-ttu-id="74426-108">**Решение:** Запустите помощник управляемой папки.</span><span class="sxs-lookup"><span data-stu-id="74426-108">**Solution:** Run the Managed Folder Assistant.</span></span>
 
- <span data-ttu-id="eb5b8-119">**Примечание:** Если размер почтового ящика не превышает 10 МБ, помощник по работе с управляемыми папками не будет автоматически обрабатывать этот почтовый ящик.</span><span class="sxs-lookup"><span data-stu-id="eb5b8-119">**Note:** If a mailbox is smaller than 10 MB, the Managed Folder Assistant will not automatically process the mailbox.</span></span>
+- <span data-ttu-id="74426-109">**Удержание** в **почтовом** ящике включено.</span><span class="sxs-lookup"><span data-stu-id="74426-109">**RetentionHold** has been **enabled** on the mailbox.</span></span> <span data-ttu-id="74426-110">Если почтовый ящик размещен на удержании, политика хранения в почтовом ящике не будет обработана в течение этого времени.</span><span class="sxs-lookup"><span data-stu-id="74426-110">If the mailbox has been placed on a RetentionHold, the retention policy on the mailbox will not be processed during that time.</span></span>
+
+  <span data-ttu-id="74426-111">**Решение:** Проверьте состояние параметра удержания хранения и обновления по мере необходимости.</span><span class="sxs-lookup"><span data-stu-id="74426-111">**Solution:** Check status of Retention Hold setting and update as needed.</span></span> <span data-ttu-id="74426-112">Подробные сведения см. [в материале Удержание хранения почтовых ящиков.](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)</span><span class="sxs-lookup"><span data-stu-id="74426-112">For details, see [Mailbox Retention Hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).</span></span>
  
-<span data-ttu-id="eb5b8-120">Более подробную информацию о политиках хранения в центре администрирования Exchange можно узнать в следующих статьях:</span><span class="sxs-lookup"><span data-stu-id="eb5b8-120">For more info on retention policies in the Exchange Admin Center, see:</span></span>
-- [<span data-ttu-id="eb5b8-121">Теги хранения и политики хранения</span><span class="sxs-lookup"><span data-stu-id="eb5b8-121">Retention tags and retention policies</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [<span data-ttu-id="eb5b8-122">Применение политики хранения к почтовым ящикам</span><span class="sxs-lookup"><span data-stu-id="eb5b8-122">Apply a retention policy to mailboxes</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [<span data-ttu-id="eb5b8-123">Добавление и удаление тегов хранения</span><span class="sxs-lookup"><span data-stu-id="eb5b8-123">Add or remove retention tags</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [<span data-ttu-id="eb5b8-124">Как определить тип удержания, примененного для почтового ящика</span><span class="sxs-lookup"><span data-stu-id="eb5b8-124">How to identify the type of hold placed on a mailbox</span></span>](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+<span data-ttu-id="74426-113">**Примечание:** Если размер почтового ящика меньше 10 МБ, помощник управляемых папок не будет автоматически обрабатывать почтовый ящик.</span><span class="sxs-lookup"><span data-stu-id="74426-113">**Note:** If a mailbox is smaller than 10 MB, the Managed Folder Assistant will not automatically process the mailbox.</span></span>
+ 
+<span data-ttu-id="74426-114">Дополнительные сведения о политиках хранения в Центре администрирования Exchange см. в рублях:</span><span class="sxs-lookup"><span data-stu-id="74426-114">For more info on retention policies in the Exchange Admin Center, see:</span></span>
+
+- [<span data-ttu-id="74426-115">Теги хранения и политики хранения</span><span class="sxs-lookup"><span data-stu-id="74426-115">Retention tags and retention policies</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+
+- <span data-ttu-id="74426-116">[Применить политику хранения к почтовым ящикам или](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) [добавить или удалить теги хранения](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)</span><span class="sxs-lookup"><span data-stu-id="74426-116">[Apply a retention policy to mailboxes](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) or [Add or remove retention tags](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)</span></span>
+
+- [<span data-ttu-id="74426-117">Как определить тип удержания, примененного для почтового ящика</span><span class="sxs-lookup"><span data-stu-id="74426-117">How to identify the type of hold placed on a mailbox</span></span>](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
