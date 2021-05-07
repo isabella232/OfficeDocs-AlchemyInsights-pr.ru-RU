@@ -1,5 +1,5 @@
 ---
-title: Руководство по настройке Office 365 с помощью FastTrack
+title: Процесс установки Office 365 с помощью FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6939"
-ms.openlocfilehash: 563d6c252740f577d9093febf2985f3cb65662e1
-ms.sourcegitcommit: c0b8e17c8696632e321e69b617aaff2958201e9b
+- "9419"
+ms.openlocfilehash: 4b8006959728192ba97fd1770f0caa71aaf7ca53
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50178943"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233763"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>Руководство по настройке Office 365 с помощью FastTrack
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>Процесс установки Office 365 с помощью FastTrack
 
-Если у вас есть право на помощь с Office 365 FastTrack, вы можете запросить помощь на портале. Если вы ищете самообнаправленную помощь или руководство от партнера, наши мастера настройки Office 365 или квалифицированный партнер могут помочь вам в этом процессе.
+Если вы имеете право на Office 365 FastTrack, вы можете запросить помощь через портал. Если вы ищете самостоятельное руководство или помощь от партнера, Office 365 или квалифицированный партнер могут помочь вам в этом процессе.
 
-1. Чтобы получить помощь на портале FastTrack, во sign in to the [FastTrack Portal](https://go.microsoft.com/fwlink/?linkid=2125443) and follow the steps to complete the Request for Assistance with Microsoft 365 form.
+- Чтобы получить помощь на портале FastTrack, вопишитесь на портал [FastTrack и](https://go.microsoft.com/fwlink/?linkid=2125443) выполните действия по завершению запроса на помощь с помощью Microsoft 365 форме.
 
     > [!NOTE]
-    > Если у вас возникают проблемы с входом или вам нужна дополнительная помощь, отправьте сообщение [электронной](mailto:ftcrfa@microsoft.com)почты ftcrfa@microsoft.com.
+    > Если у вас возникли проблемы с входом или вам требуется дополнительная помощь, отправьте электронное сообщение [ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
 
-2. Инструкции по настройке Office 365 см. в руководстве [по самостоятельной настройке.](https://go.microsoft.com/fwlink/?linkid=2125827)
-3. Чтобы найти поставщика решений, см. поиск [поставщика](https://go.microsoft.com/fwlink/?linkid=2125918)решения.
+- Для самостоятельной помощи для Office 365 см. [руководство по установке.](https://go.microsoft.com/fwlink/?linkid=2125827)
+- Чтобы найти поставщика решений, см. в этой [информации.](https://go.microsoft.com/fwlink/?linkid=2125918)

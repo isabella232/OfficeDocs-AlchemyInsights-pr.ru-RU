@@ -1,5 +1,5 @@
 ---
-title: Обновления Exchange Server безопасности
+title: О Exchange Server обновлениях
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726540"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233475"
 ---
-# <a name="about-exchange-server-security-updates"></a>Обновления Exchange Server безопасности
+# <a name="about-exchange-server-updates"></a>О Exchange Server обновлениях
 
-Корпорация Майкрософт выпустила ряд критически важных обновлений безопасности для Exchange Server локальной службы. Затронутые версии серверов — это уровни обновления Exchange Server 2010, 2013, 2016 и 2019 годов. Exchange Online не влияет, но если у вас есть некоторые локально серверы Exchange из-за гибридной конфигурации, они потенциально уязвимы.
+Корпорация Майкрософт обычно выпускает Exchange Server обновления во вторник (обновления безопасности) или ежекварталы (Накопительные обновления). Чтобы увидеть анонсы последних выпущенных обновлений, см. [в Exchange Team Blog.](https://aka.ms/ehlo)
 
-См. в следующем объявлении о расположении исправлений: [Released: March 2021 Exchange Server обновления безопасности](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Для инвентаризации Exchange серверов используйте скрипт проверки Exchange Server для проверки состояния здоровья [(GitHub, используйте последний выпуск).](https://aka.ms/ExchangeHealthChecker) При запуске этого скрипта указывается, Exchange серверы на обновлениях (CUs и SUs).
 
-**Важные примечания.**
+- Чтобы обновить до последнего накопительного обновления, [перейдите Exchange мастер](https://aka.ms/ExchangeUpdateWizard) обновления и выберите текущий cu и целевой cu. Выберите **Скажите, какие действия** необходимо предпринять для получения направлений для вашей среды.
 
-При установке обновлений вручную ознакомьтесь с разделом "Известные проблемы" обновления статей КБ для получения важных сведений. Обновления безопасности должны запускаться с повышенной подсказки CMD/PowerShell!
-
-Сведения об устранении неполадок можно [найти здесь.](https://aka.ms/exupdatefaq)
+- Если во время или после установки обновлений Exchange Server, см. в рублях Repair [failed installations of Exchange и security updates.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

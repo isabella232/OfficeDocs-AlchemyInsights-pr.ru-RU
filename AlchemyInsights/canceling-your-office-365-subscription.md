@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896880"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261605"
 ---
 # <a name="canceling-your-subscription"></a>Отмена подписки?
 
 Нам жаль, что вы идете, но если вы хотите отменить подписку, вот ваши параметры:
   
 - Если у вас меньше 25 назначенных лицензий, вы можете отменить подписку в Интернете. Перейдите на **страницу** \> **[Выписывка](https://go.microsoft.com/fwlink/p/?linkid=842054)** продуктов и найдите подписку, которую необходимо отменить. Нажмите **Дополнительные действия** (три точки) и выберите **Отменить подписку**.
-- Если пользователям назначено более 25 лицензий, позвоните в службу поддержки, [чтобы отменить подписку.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
+- Если пользователям назначено более 25 лицензий, позвоните в службу поддержки, [чтобы отменить подписку.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
 **Возврат. Любой прооценный кредит будет возвращен вам в течение следующего цикла вычета.**
 
