@@ -1,5 +1,5 @@
 ---
-title: ATP для SharePoint, OneDrive и Microsoft Teams
+title: Microsoft Defender для Office 365 для SharePoint, OneDrive и Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715574"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543590"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP для SharePoint, OneDrive и Microsoft Teams
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender для Office 365 для SharePoint, OneDrive и Microsoft Teams
 
-Выполните следующие действия, чтобы включить расширенную защиту от угроз.
+Выполните следующие действия, чтобы включить Microsoft Defender для Office 365:
 
-1. Перейдите к [https://protection.office.com](https://protection.office.com) учетной записи глобального администратора или администратора безопасности и войдите в нее.
+1. Войдите [https://protection.office.com](https://protection.office.com) и войдите с учетной записью глобального администратора или администратора безопасности.
 
-2. В левой области навигации в разделе **Управление угрозами**выберите **Policy** пункт \> **безопасные вложения**политики.
+2. В левой области навигации под **управлением Угрозы** выберите **политики** \> **Сейф вложения**.
 
-3. Выберите **включить ATP для SharePoint, OneDrive и Microsoft Teams**.
+3. Выберите **Включить защитник для Office 365 для SharePoint, OneDrive и Microsoft Teams**.
 
-4. [Создайте политику оповещений о действиях](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) для получения уведомлений при обнаружении вредоносных файлов.
+4. [Создайте политику оповещения о действиях для](/microsoft-365/compliance/create-activity-alerts) получения уведомлений при обнаружении вредоносных файлов.
 
-Подробные инструкции приведены в этой [статье](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Полные инструкции см. в этой Сейф вложения для [SharePoint, OneDrive и Microsoft Teams.](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
 
-**Примечание**: по дизайну ATP не сканирует каждый отдельный файл в SharePoint Online, OneDrive для бизнеса или Microsoft Teams. Файлы отсканированы асинхронно процессом, который использует операции общего доступа, гостевые действия и сигналы угроз для идентификации вредоносных файлов. Дополнительные сведения см. в этой [статье](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Примечание.** По проекту Microsoft Defender для Office 365 не сканирует каждый файл SharePoint Online, OneDrive для бизнеса или Microsoft Teams. Файлы сканируют асинхронно с помощью процесса, который использует действия общего доступа, действия гостей и сигналы угроз для выявления вредоносных файлов. Дополнительные сведения см. [в Сейф вложениях SharePoint, OneDrive и Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

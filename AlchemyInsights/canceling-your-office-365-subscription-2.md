@@ -1,5 +1,5 @@
 ---
-title: Отмена подписки на Microsoft 365?
+title: Отмена Microsoft 365 подписки?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 43c70e34ea89f5579309bb831b2c20db0d9e7d7d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232020"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543230"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Отмена подписки на Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Отмена Microsoft 365 подписки?
 
-К сожалению, вас не видно!
+Нам жаль, что вы идете!
   
-На основе данных организации мы считаем, что всем вашим текущим подпискам назначено более 25 лицензий. Прежде чем можно будет отменить:
+Основываясь на данных организации, мы считаем, что все текущие подписки имеют более 25 назначенных лицензий. Прежде чем отменить:
 
-1. Удалите лицензии у пользователей, пока не будет менее 25 лицензированных пользователей.
-2. Перейдите на страницу **"Выставление** \> **[счета вашим продуктам".](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-3. На **вкладке** "Продукты" найдите подписку, которую нужно отменить, выберите "Дополнительные **действия"** (три точки), а затем выберите **"Отмена подписки".**
+1. Удалите лицензии у пользователей до тех пор, пока у вас не будет менее 25 лицензированных пользователей.
+2. Перейдите на **страницу Выставление** \> **[купюруных продуктов.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+3. На **вкладке Продукты** найдите подписку, которую необходимо отменить, выберите три точки (больше действий), а затем выберите **Отмена подписки.**
 
 **Возмещение:** Пропорциональная сумма будет возвращена вам в следующем цикле выставления счетов.
 
-Дополнительные узнать см. в [подписок "Отмена подписки".](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Подробнее см. в [журнале Cancel your subscription.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: Отменяя свою подписку на Microsoft 365?
+title: Отмена Microsoft 365 подписки?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "86"
 - "1400001"
-ms.openlocfilehash: 0541c68ffc71503cccba47501f318939fc9e0a53
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 85ce33aaf5fbcde6a8c32c692977647f4f44c953
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416353"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543302"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Отменяя свою подписку на Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Отмена Microsoft 365 подписки?
 
-Приносим извинения!
+Нам жаль, что вы идете!
   
-На основе данных Организации мы считаем, что все текущие подписки имеют менее 25 рабочих мест. Чтобы отменить подписку в Интернете, перейдите на страницу **выставление счетов** по \> [продуктам](https://go.microsoft.com/fwlink/p/?linkid=842054) . На вкладке **продукты** Найдите подписку, которую требуется отменить, выберите пункт **Дополнительные действия** (три точки), а затем выберите **Отменить подписку**.
+Основываясь на данных организации, мы считаем, что все текущие подписки имеют менее 25 мест. Чтобы отменить подписку в Интернете, перейдите на страницу **Billing** \> [Your products.](https://go.microsoft.com/fwlink/p/?linkid=842054) На **вкладке Продукты** найдите подписку, которую необходимо отменить, выберите три точки (больше действий), а затем выберите **Отмена подписки.**
   
-**Возврат:** Любой кредит будет возвращен в течение следующего цикла выставления счетов.
+**Возмещение:** Пропорциональная сумма будет возвращена вам в следующем цикле выставления счетов.
 
-Чтобы узнать больше, ознакомьтесь со статьей [Отмена подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Подробнее см. в [журнале Cancel your subscription.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

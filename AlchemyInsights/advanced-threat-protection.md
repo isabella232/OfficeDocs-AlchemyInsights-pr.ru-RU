@@ -1,5 +1,5 @@
 ---
-title: Защитник Майкрософт для Office 365
+title: Microsoft Defender для Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801240"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542906"
 ---
-# <a name="microsoft-defender-for-office-365"></a>Защитник Майкрософт для Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender для Office 365
 
-- Безопасные вложения, безопасные ссылки и защита от фишинга входят в состав защитника Майкрософт для Office 365 (ATP). Корпоративный, образование A5 и Microsoft 365 бизнес премиум включают ATP. Для всех остальных планов требуется подписка на надстройку ATP.
+- Сейф Вложения, Сейф ссылки и защита от фишинга являются частью Microsoft Defender для Office 365. Enterprise E5, Education A5 и Microsoft 365 бизнес премиум microsoft Defender для Office 365. Все остальные планы требуют надстройки Microsoft Defender для Office 365 подписки.
 
-- Необходимо назначить соответствующие лицензии для защиты пользователей в Office 365 ATP. В [этом разделе](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) приведены инструкции по массовому применению лицензий для пользователей.
+- Необходимо назначить соответствующие лицензии для защиты пользователей microsoft Defender для Office 365. См. [в руб. Добавить](/microsoft-365/admin/add-users/add-users) пользователей и одновременно назначить лицензии для инструкций по массовому применении лицензий к пользователям.
 
-- Глобальные администраторы или Администраторы безопасности могут получать доступ к функциям Office 365 ATP в центре безопасности & соответствия требованиям в политике **угроз манагминт** \> **Policy** .
+- Глобальные администраторы или администраторы безопасности могут получить доступ к функциям Microsoft Defender для Office 365 в Центре & безопасности в **политике управления** \> **угрозами.**
 
-- Политики безопасных вложений и безопасных ссылок могут быть ограничены всей организацией, отдельными доменами или группами пользователей меньшего размера.
+- Сейф Политики вложений и Сейф ссылки можно расширить для всей организации, определенных доменов или меньших групп пользователей.
 
-- Отсутствует политика безопасных вложений ATP по умолчанию. Необходимо [создать политику](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) и применить ее к пользователям.
+- Политика вложения по Сейф по умолчанию не существует. Необходимо создать [политику и](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) применить ее к пользователям.
 
-- Существует политика безопасных ссылок ATP по умолчанию, которая применяется ко всем пользователям в Организации. Чтобы изменить эту политику или создать настраиваемые политики, обратитесь к [этой статье](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Существует политика ссылок Сейф по умолчанию, которая применяется ко всем в вашей организации. Чтобы изменить эту политику или создать настраиваемые политики, см. в Сейф ссылки в [Microsoft Defender для Office 365.](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)
