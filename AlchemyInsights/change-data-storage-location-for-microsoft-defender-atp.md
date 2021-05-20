@@ -1,5 +1,5 @@
 ---
-title: Изменение расположения хранилища данных для ATP Защитника Майкрософт
+title: Изменение расположения хранилища данных для ATP в Защитнике Microsoft
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001222"
 - "6032"
-ms.openlocfilehash: 08ee7b6d8ab3219a566e9b8cafc72e7fe96197c4
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: b01e113bd8c8387009f6f7b857c3a8bf977ec4fd
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50417219"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543122"
 ---
-# <a name="change-data-storage-location-for-microsoft-defender-atp"></a><span data-ttu-id="4f972-102">Изменение расположения хранилища данных для ATP Защитника Майкрософт</span><span class="sxs-lookup"><span data-stu-id="4f972-102">Change data storage location for Microsoft Defender ATP</span></span>
+# <a name="change-data-storage-location-for-microsoft-defender-atp"></a><span data-ttu-id="ac08e-102">Изменение расположения хранилища данных для ATP в Защитнике Microsoft</span><span class="sxs-lookup"><span data-stu-id="ac08e-102">Change data storage location for Microsoft Defender ATP</span></span>
 
-<span data-ttu-id="4f972-103">Чтобы изменить расположение хранилища данных, используемого службой ATP Microsoft Defender, откройте случай поддержки с Корпорацией Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="4f972-103">To change the data storage location used by the Microsoft Defender ATP service, open a support case with Microsoft.</span></span>
+<span data-ttu-id="ac08e-103">Чтобы изменить расположение хранилища данных, используемого ATP в Защитнике Microsoft, откройте случай поддержки в Корпорации Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="ac08e-103">To change the data storage location used by the Microsoft Defender ATP, open a support case with Microsoft.</span></span>
