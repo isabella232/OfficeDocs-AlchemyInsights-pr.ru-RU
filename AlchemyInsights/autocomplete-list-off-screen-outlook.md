@@ -13,17 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: afc84866a3dd9ecb30562bd185239c3d1695fd10
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 17e25e4d017f8a829c18a7987dfa332783efc0b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261902"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543787"
 ---
 # <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>Список AutoComplete прокручивается с экрана в Outlook Desktop
 
-После обновления Outlook версии 2104 (сборка 13929.20296) список AutoComplete неожиданно поднимается и может прокручиваться с экрана. Возможно, вы не увидите все записи AutoComplete в списке и не сможете прокручиваться, чтобы получить к ним доступ.
+Эта проблема устранена в версии 2104 Сборка 13929.20386. Ожидается, что обновление с фиксированной сборкой будет ходить в текущую версию канала в неделю 17 мая. 
 
-**СОСТОЯНИЕ: ИССЛЕДОВАНИЕ**  Группа Outlook изучает проблему и обновляет эту статью, когда будут доступны дополнительные сведения.
-
-Для последнего состояния см. список [AutoComplete,](https://support.microsoft.com/office/autocomplete-list-scrolls-off-the-screen-in-outlook-0247f165-697f-4238-b424-b03cd2582e2d?ui=en-US&rs=en-US&ad=US)который прокручивается с экрана в Outlook.
+Чтобы подтвердить, когда фиксированная сборка доступна, см. в Приложения Microsoft 365 [обновления (перечислены по дате).](/officeupdates/update-history-microsoft365-apps-by-date)

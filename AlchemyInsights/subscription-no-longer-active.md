@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 59db84b9068843333ee28f47b9e69cf8b805b184
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489326"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544267"
 ---
 # <a name="subscription-no-longer-active"></a>Подписка больше неактивна
 
@@ -26,8 +26,8 @@ ms.locfileid: "48489326"
 **Повторная активация подписки**
 
 1. В Центре администрирования перейдите на страницу **Выставление счетов** > [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. На вкладке **Продукты** найдите подписку, которую нужно повторно активировать. Нажмите **Дополнительные действия** (три точки) и выберите **Повторно активировать эту подписку**.
+2. На вкладке **Продукты** найдите подписку, которую нужно повторно активировать. Щелкните три точки (другие действия) и выберите **Повторно активировать эту подписку**.
 3. В области **Повторно активировать эту подписку** выберите способ оплаты из раскрывающегося списка или нажмите **Добавить способ оплаты**.
 4. Нажмите **Сохранить**.
 
-Дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Дополнительные сведения см. в статье [Повторная активация подписки](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

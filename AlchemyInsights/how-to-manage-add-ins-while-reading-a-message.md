@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 163dfcc720cb15800ec6a6ae8a0ea909e588f191
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "49768480"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544013"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>Управление надстройками при чтении сообщений
 
 1. Выберите сообщение в Outlook в Интернете.
     
-2. В верхней части списка сообщений выберите элемент **Дополнительные действия**.
+2. В верхней части сообщения щелкните три точки (дополнительные действия).
 
 3. Перейдите в нижнюю часть списка и выберите **Получить надстройки**.
     

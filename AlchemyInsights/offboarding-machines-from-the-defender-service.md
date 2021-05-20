@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6024"
 - "9002913"
-ms.openlocfilehash: 693a1b0e8e06158691d5b23cb4bc2f4e3b828b71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbba15ad0d93f61d5a3fd2bb24ae54f17141ee8b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "49768440"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544699"
 ---
 # <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>Отключение компьютеров от ATP в Microsoft Defender
 
 Дополнительную информацию об отключении компьютеров от ATP в Defender можно найти в сборнике инструкций для операционной системы:  
 
-- Информацию для устройств с Windows 10 см. в статье [Отключение компьютеров от ATP в Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/offboard-machines#offboard-windows-10-devices).
-- Информацию для устройств с иной операционной системой (не Windows) см. в статье [Отключение устройств с ОС, отличной от Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#offboard-non-windows-devices)
+- Информацию для устройств с Windows 10 см. в статье [Отключение компьютеров от ATP в Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/offboard-machines#offboard-windows-10-devices).
+- Информацию для устройств с иной операционной системой (не Windows) см. в статье [Отключение устройств с ОС, отличной от Windows](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#offboard-non-windows-devices)

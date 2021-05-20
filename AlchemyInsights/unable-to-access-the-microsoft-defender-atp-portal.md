@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6030"
 - "9001222"
-ms.openlocfilehash: 1f8c52b4de1e5972c52428e947aac72bfd25426d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ceba944c8aba183d0622f528658ead8430faa2c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757690"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545425"
 ---
 # <a name="unable-to-access-the-microsoft-defender-atp-portal"></a>Не удается получить доступ к порталу Расширенной защиты от угроз в Microsoft Defender
 
 Получение этого сообщения означает, что **У вас нет прав доступа к порталу**. Расширенная защита от угроз в Microsoft Defender — это продукт, предназначенный для мониторинга, а также расследования инцидентов и реагирования на них. Доступ к нему ограничен и управляется пользователем. 
 
-Дополнительные сведения см. в статье [Предоставление пользователю прав доступа к Центру безопасности в Microsoft Defender](https://docs.microsoft.com/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection).
+Дополнительные сведения см. в статье [Предоставление пользователю прав доступа к Центру безопасности в Microsoft Defender](/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection).
