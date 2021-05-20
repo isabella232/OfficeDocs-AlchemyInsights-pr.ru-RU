@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810209"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569664"
 ---
 # <a name="reset-or-change-passwords"></a>Сброс или изменение паролей
 
-Пользователь может изменить собственный пароль из конфиденциальности **&**  >  [учетной записи.](https://portal.office.com/account/#security)
+Пользователь может изменить собственный пароль, выбрав свою фотографию пользователя или инициалы > **учетной записи View**.
   
 Если пользователь забыл пароль, администратор может сбросить пароль, переехав к пользователям Active, выберите пользователя и нажмите  >  [](https://portal.office.com/adminportal/home#/users) **кнопку Сброс пароля**.
   
-[Щелкните здесь, чтобы узнать](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)больше или позволить пользователям сбросить собственные забытые пароли.
+Дополнительные информацию о паролях и о том, как разрешить пользователям сбросить собственные пароли, см. в этой [информации.](/microsoft-365/admin/add-users/reset-passwords)

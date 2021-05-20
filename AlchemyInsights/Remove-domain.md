@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 8d0071360330248b93dbd5bbf42a2b595d287364
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f20d0ff5e724ceab17a6d3d965534d63b00bbee7
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804646"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569592"
 ---
 # <a name="trying-to-remove-your-domain"></a>Пытаетесь удалить домен?
 
-Следуйте инструкциям из статьи [Удаление домена](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain).
+Следуйте инструкциям из статьи [Удаление домена](/microsoft-365/admin/get-help-with-domains/remove-a-domain).
   
-Перед удалением домена необходимо обновить пользователей и группы, которые ему назначены. Другие стандартные решения см. в статье [Вопросы и ответы о доменах](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Перед удалением домена необходимо обновить пользователей и группы, которые ему назначены. Другие стандартные решения см. в статье [Вопросы и ответы о доменах](/microsoft-365/admin/setup/domains-faq).
   

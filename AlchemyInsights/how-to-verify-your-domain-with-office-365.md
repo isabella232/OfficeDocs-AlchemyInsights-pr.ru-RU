@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683879"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569628"
 ---
 # <a name="how-to-verify-your-domain"></a>Проверка домена
 
-Чтобы проверить домен, [следуйте](https://admin.microsoft.com/Adminportal#/Domains/Wizard)мастеру добавления домена или вручную перейдите к настройке домена   >    >  **"Добавить домен".**
+Чтобы проверить домен, следуйте [мастеру Добавить домен](https://admin.microsoft.com/Adminportal#/Domains/Wizard)или вручную перейдите к **домену Setting**  >  **Domains**  >  **Add**.
 
-Дополнительные сведения об изменениях DNS, необходимых для проверки домена, см. в инструкциях по добавлению [записей DNS для подключения домена.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+Дополнительные сведения об изменениях DNS, необходимых для проверки домена, см. в инструкциях по добавлению записей [DNS для подключения домена.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Другие вопросы о доменах см. в вопросы и ответы [по доменам.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
+Вопросы других доменов см. в [faQ доменов.](/microsoft-365/admin/setup/domains-faq)
