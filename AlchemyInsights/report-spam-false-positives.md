@@ -1,5 +1,5 @@
 ---
-title: 975 хотите сообщить о ложном срабатывании в корпорацию Майкрософт?
+title: 975 Хотите сообщить о ложном срабатывии нежелательной почты в Корпорацию Майкрософт?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692344"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540413"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Хотите ли вы сообщить о нежелательном нежелательном значении корпорации Майкрософт?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Хотите сообщить о ложном срабатывии нежелательной почты в Корпорацию Майкрософт?
 
-Как администратор, лучший способ определить, почему было доставлено сообщение с фишингом или нежелательной почтой, чтобы отправить пример в корпорацию Майкрософт в [обозревателе отправки](https://protection.office.com/reportsubmission). Для облегчения ИТ можно разрешить пользователям отправлять отчеты непосредственно в корпорацию Майкрософт с помощью [надстройки Report Message](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Как администратор, лучший способ определить, почему было доставлено сообщение фишинга или нежелательной почты, это отправить образец в Microsoft в [обозревателе отправки.](https://protection.office.com/reportsubmission) Чтобы сделать его более облегчим, вы можете разрешить пользователям напрямую сообщать в Корпорацию Майкрософт с помощью [надстройки Report Message.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-Если вы решили [пропустить фильтры нежелательной почты Microsoft 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters), мы рекомендуем соблюдать осторожность.
+Мы рекомендуем соблюдать осторожность, если вы решили обойти [Microsoft 365 фильтры нежелательной почты.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-**Знаете ли вы?**: Теперь вы можете послать примеры прямо из [трассировки сообщений](https://protection.office.com/messagetrace) , а клиенты с планом 2/с планом 2 могут отсылать образцы из [обозревателя угроз](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Знаете ли вы?**. Теперь вы [](https://protection.office.com/messagetrace) можете отправлять образцы непосредственно из трассировки сообщений и E5/Microsoft Defender для Office 365 2 клиенты плана 2 могут отправлять образцы из [Обозревателя угроз](/microsoft-365/security/office-365-security/threat-explorer).
