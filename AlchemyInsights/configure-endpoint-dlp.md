@@ -13,32 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 36af769b67f8c9aa4b8d17e9f4f3f3b82c8a8534
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: b9369b2c2ca31f7d2fceac37ef1e2252b82e933b
+ms.sourcegitcommit: 0c104e2bd34ccc09bcea389e470692e92bcf1f8f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402449"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52657942"
 ---
 # <a name="configure-endpoint-dlp"></a>Настройка защиты от потери данных в конечной точке
 
-Служба защиты от потери данных Microsoft Endpoint Protection позволяет расширить защиту и отслеживать конфиденциальную информацию на устройствах с Windows 10. После того как устройства будут интегрированы в Управление устройствами, вы сможете создавать политики защиты от потери данных. Чтобы отслеживать действия с конфиденциальными элементами, можно использовать обозреватель действий. Дополнительные сведения см. в статье [Интеграция устройств в управление устройствами](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
+Служба защиты от потери данных Microsoft Endpoint Protection позволяет расширить защиту и отслеживать конфиденциальную информацию на устройствах с Windows 10. После того как устройства будут интегрированы в Управление устройствами, вы сможете создавать политики защиты от потери данных. Чтобы отслеживать действия с конфиденциальными элементами, можно использовать обозреватель действий. Дополнительные сведения см. в статье [Интеграция устройств в управление устройствами](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
 
 Чтобы приступить к работе с защитой от потери данных в конечной точке:
 
-- Убедитесь, что у вас есть соответствующая лицензия на SKU или по подписке. Дополнительные сведения см. в статье [Лицензирование SKU и по подписке](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing)
-- Проверьте разрешения, необходимые для управления устройствами, доступ к странице интеграции либо включите или выключите наблюдение за устройствами. Дополнительные сведения см. в статье [Разрешения](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
-- Внедрите устройства в средство управления устройствами, следуя соответствующей процедуре. Если вы не видите вариант "Интеграция устройства (предварительная версия)" в **настройках** в разделе соответствия требованиям в Microsoft 365, убедитесь, что у вас есть соответствующая лицензия и разрешения, указанные выше. Дополнительные сведения см. в статье [Интеграция устройств](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
-- Создайте политики защиты от потери данных для защиты конфиденциальных элементов. Дополнительные сведения см. в статье [Сценарии политики защиты от потери данных в конечной точке](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios &preserve-view=true).
+- Убедитесь, что у вас есть соответствующая лицензия на SKU или по подписке. Дополнительные сведения см. в статье [Лицензирование SKU и по подписке](/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing)
+- Проверьте разрешения, необходимые для управления устройствами, доступ к странице интеграции либо включите или выключите наблюдение за устройствами. Чтобы узнать больше, см. [Разрешения](/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
+- Внедрите устройства в средство управления устройствами, следуя соответствующей процедуре. Дополнительные сведения см. в статье [Интеграция устройств](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
+- Создайте политики защиты от потери данных для защиты конфиденциальных элементов. Дополнительные сведения см. в статье [Сценарии политики защиты от потери данных в конечной точке](/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
 
-Дополнительные сведения о защите от потери данных можно найти в статье [Подробнее о защите от потери данных Microsoft Endpoint в Microsoft 365 (предварительная версия)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
+Дополнительные сведения о защите от потери данных можно найти в статье [Подробнее о защите от потери данных Microsoft Endpoint в Microsoft 365 (предварительная версия)](/microsoft-365/compliance/endpoint-dlp-learn-about).
 
 **Важные шаги сбора данных, если требуется поддержка:**
 
-1. Скачайте предварительную версию анализатора клиентов MDATP с сайта [https://aka.ms/betamdatpanalyzer](https://aka.ms/betamdatpanalyzer "https://aka.ms/betamdatpanalyzer")
-2. Запустите средство от имени администратора из окна командной строки:
-3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
-4. При появлении запроса "Введите количество минут для сбора трассировок:" введите количество минут, необходимое для выполнения сценария
-5. Выполните сценарий
+1. Скачайте [предварительную версию анализатора клиентов MDATP](https://aka.ms/betamdatpanalyzer).
+1. Запустите средство от имени администратора из окна командной строки:
+
+    **MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t**
+
+1. При появлении запроса **Введите количество минут для сбора трассировок:** введите количество минут, необходимое для выполнения сценария.
+1. Выполните сценарий
 
 Получите выходной ZIP-файл для предоставления агенту службы поддержки.
