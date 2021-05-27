@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: a3ad6d9769dab948cb83c04232bb3d8e937a5dc2
-ms.sourcegitcommit: 6900c2b7208ca51a9873dfc2e00be6f66cb25e3c
+ms.openlocfilehash: 2c9a390f38ecbba94698a352348e2e533a50ee17
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50243928"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626126"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>Устранение неполадок со входом в OneDrive
 
@@ -29,6 +29,7 @@ ms.locfileid: "50243928"
 
 **Устранение неполадок со входом в клиент синхронизации OneDrive**
 
+- Инструкции по устранению ошибки с кодом 0x004de40 см. в статье [Код ошибки 0x8004de40 при входе в OneDrive](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive).
 - Войдите в OneDrive или на сайт SharePoint и нажмите кнопку **Синхронизировать** в верхней части строки меню на сайте.
 - Войдите в OneDrive для бизнеса, а не в OneDrive.com. Если введенный URL-адрес начинается с onedrive.live.com, это не расположение OneDrive для бизнеса. Простой способ войти в OneDrive для бизнеса — воспользоваться ссылкой https://portal.office.com/onedrive, а затем использовать рабочую или учебную учетную запись для входа.
 - Если у вас по-прежнему возникают проблемы, попробуйте [сбросить OneDrive](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c).
@@ -47,5 +48,5 @@ ms.locfileid: "50243928"
 
 **Другие советы по устранению неполадок**
 
-Если вы являетесь глобальным администратором, администратором лицензий или администратором пользователей, [назначьте затронутому пользователю нужную лицензию](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Если вы являетесь глобальным администратором, администратором лицензий или администратором пользователей, [назначьте затронутому пользователю нужную лицензию](/microsoft-365/admin/manage/assign-licenses-to-users).
 
