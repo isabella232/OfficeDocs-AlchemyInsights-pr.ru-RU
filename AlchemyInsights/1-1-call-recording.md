@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733862"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696971"
 ---
 # <a name="11-call-recording"></a>Запись вызова 1:1
 
-Администраторам необходимо принять меры, чтобы разрешить пользователям записывать вызовы 1:1.
- 
-Начиная с 12 апреля 2021 г. мы начнем применять новый параметр Политики вызовов команд *AllowCloudRecordingForCalls.* 
+Если **в** вызове 1:1 кнопка "Начните запись" сеет, необходимо изменить параметры политики для пользователя, находящегося под влиянием.   
 
-В настоящее время возможности записи вызовов 1:1 контролируются параметром *AllowCloudRecording* в teams Meeting Policies. Если пользователям разрешено записывать собрания teams, они также могут записывать вызовы 1:1.
+Начиная с 31 мая 2021 г. мы начнем применять новую политику вызовов Teams *AllowCloudRecordingForCalls*. До этого изменения запись вызовов 1:1 контролируется политикой *собрания AllowCloudRecording* Teams. Это изменение задокументировано в сообщении Центра сообщений: [(Обновлено) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)Введение политики записи вызовов .  
 
-Если вы предпочитаете блокировать для всех пользователей запись звонков 1:1, вам не нужно принимать никаких действий. *Параметр политики вызова AllowCloudRecordingForCalls* будет $False по умолчанию.
+*AllowCloudRecordingForCalls*   Параметр политики вызовов установлен **для** $False по умолчанию. Если вы предпочитаете блокировать для всех пользователей запись звонков 1:1, вам не нужно принимать никаких действий.  
 
-Это изменение задокументировано в следующей публикации Центра сообщений: [(Обновлено) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Введение политики записи вызовов, чтобы задать параметр Teams Calling Policy, который необходимо использовать [Teams PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-install)
+Чтобы включить запись вызовов для всех пользователей в 1:1, используйте Teams PowerShell для запуска следующего cmdlet: 
 
-**Включить запись вызова в 1:1 вызовов:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-Отключение записи вызовов при **звонках 1:1:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+Кроме того, можно создать новую политику и задать **-AllowCloudRecordingForCalls** для $true и назначить эту политику пользователям.  
 
+Дополнительные сведения см. в 1:1 Элемент управления политиками записи [вызовов : (Почти!) Здесь](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).

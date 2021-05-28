@@ -1,5 +1,5 @@
 ---
-title: Can't Find the Teams Meeting Recording
+title: Не может найти запись Teams собрания
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50257598"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696949"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Can't Find the Teams Meeting Recording
+# <a name="cant-find-the-teams-meeting-recording"></a>Не может найти запись Teams собрания
 
-Если вам не удается найти запись собраний Teams, обратитесь к следующей документации по устранению неполадок:
+Если вы не можете найти или найти запись Teams собрания, сначала запустите диагностику записи отсутствующих собраний, введя **diag: Missing Recording** в поле выше. 
 
-[Устранение неполадок записи собраний Teams — microsoft Teams | Документы Майкрософт](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Записи находятся в Stream, OneDrive или SharePoint в зависимости от настройки клиента и от того, была ли запись для собрания канала. Инструкции по поиску записи собрания вручную см. в инструкции: 
 
-Запись собрания будет расположена в Stream, OneDrive или SharePoint в зависимости от конфигурации клиента.
+[Выпуск 2. Ссылка на запись собрания не отображается в окне чата](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Инструкции по поиску записи собрания см. в:
-
-**[Проблема 2. Ссылка для записи собрания не отображается в окне чата](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Дополнительные сведения см. [в дополнительных сведениях о проблемах с записями собраний.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
