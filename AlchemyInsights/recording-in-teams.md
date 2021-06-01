@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809776"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697043"
 ---
 # <a name="recording-in-teams"></a>Запись в Teams
 
-Записи собраний Microsoft Teams теперь можно хранить в OneDrive или SharePoint. Для получения дополнительных сведений и участия см. следующую публикацию в центре сообщений: [(Обновлено) Microsoft Teams: сохранение записей собраний в OneDrive и SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640).
+Если кнопка **Начать запись** неактивна или отсутствует в собрании Teams, попробуйте запустить диагностику записи собрания, введя **Diag: Meeting Recording** в поле выше. 
 
-При перемещении расположения хранилища в OneDrive или SharePoint исключается действовавшее ранее требование о доступности Stream в вашем регионе.
+Записи собраний Microsoft Teams теперь можно хранить в OneDrive SharePoint. Перемещение места хранения в OneDrive и SharePoint устраняет проблему, из-за которой записи собраний не работали из-за недоступности Stream в вашем регионе. Дополнительные сведения см. в разделе [Вопросы и ответы о Microsoft Stream](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
-Чтобы узнать, как **включить и настроить функцию записи** в Teams для вашей организации, **в том числе элементы управления для включения или отключения записи собраний для отдельных пользователей**, см. статью [Запись собрания Teams в облаке](https://docs.microsoft.com/microsoftteams/cloud-recording).
+Дополнительные сведения о сохранении записей собраний см. в публикации Центра сообщений: [(обновлено) Microsoft Teams: сохранение записей собраний в OneDrive и SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640).
 
-Если вам **не удается записывать собрания в Teams или вы хотите понять, как пользоваться записью** в Teams, прочтите следующие статьи.
+Чтобы узнать, как включить и настроить функцию записи в Teams для вашей организации, в том числе элементы управления для включения или отключения записи собраний для отдельных пользователей, см. статью  [Запись собрания Teams в облаке](/microsoftteams/cloud-recording). 
 
-- Если вы еще не воспользовались хранилищем OneDrive или SharePoint для записи собраний Teams, обратите внимание, что эти возможности зависят от доступности Stream в вашей стране или регионе. Если вы не можете записать собрание, убедитесь в [доступности Stream в вашей стране или регионе](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Дополнительные сведения см. в следующей публикации в центра сообщений на портале администрирования: [Обновленная функция: региональное управление хранилищем облачных записей Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
+Если вам по-прежнему не удается записывать собрания в Teams или вы хотите понять, как пользоваться записью в Teams, прочтите следующие статьи. 
 
-- Для записи собраний в Teams [требуется назначить специальные лицензии и политики](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), в том числе лицензии Stream для отправки и скачивания записей собраний в Microsoft Stream.
+[Обновленная функция: региональное управление хранилищем облачных записей Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- После выполнения всех требований, в том числе связанных с лицензиями, политиками и региональной доступностью Stream, см. статью [Запись собрания в Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+Для записи собраний в Teams требуется назначить специальные лицензии и политики, в том числе лицензии Stream для отправки и скачивания записей собраний в Microsoft Stream. Подробнее см. в разделе [Предварительные условия для записи собраний Teams в облаке](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
+
+После выполнения всех требований, в том числе связанных с лицензиями, политиками и региональной доступностью Stream, см. статью  [Запись собрания в Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24). 
