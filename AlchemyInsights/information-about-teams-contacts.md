@@ -13,26 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: 49f813e7ae4942c11033260d5abd62827a92da1b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c855ce4df75cd169719d51f380de2e3f0a348394
+ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898313"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "52783126"
 ---
-# <a name="information-about-teams-contacts"></a><span data-ttu-id="dea54-102">Сведения о контактах Teams</span><span class="sxs-lookup"><span data-stu-id="dea54-102">Information about Teams contacts</span></span>
+# <a name="information-about-teams-contacts"></a><span data-ttu-id="d3a78-102">Сведения о контактах Teams</span><span class="sxs-lookup"><span data-stu-id="d3a78-102">Information about Teams contacts</span></span>
 
-<span data-ttu-id="dea54-103">Если контакты не синхронизируются для одного или нескольких пользователей, сделайте следующее.</span><span class="sxs-lookup"><span data-stu-id="dea54-103">If contacts are not synching for one or several users, do the following:</span></span>
-- <span data-ttu-id="dea54-104">Разместите почтовый ящик Exchange пользователя в сети (а не локально).</span><span class="sxs-lookup"><span data-stu-id="dea54-104">Ensure the user's Exchange mailbox is hosted online (not on-premises).</span></span> <span data-ttu-id="dea54-105">Дополнительные сведения см. в статье [Взаимодействие Microsoft Teams и Exchange](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).</span><span class="sxs-lookup"><span data-stu-id="dea54-105">For more information, see [How Exchange and Microsoft Teams interact](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).</span></span>
-- <span data-ttu-id="dea54-106">Добавьте номер телефона контакта в контактные данные.</span><span class="sxs-lookup"><span data-stu-id="dea54-106">Ensure the contact's phone number is added to the contact information.</span></span>
+<span data-ttu-id="d3a78-103">В Teams используются следующие контакты:</span><span class="sxs-lookup"><span data-stu-id="d3a78-103">Teams uses these contacts:</span></span>
 
-<span data-ttu-id="dea54-107">В Teams используются следующие контакты:</span><span class="sxs-lookup"><span data-stu-id="dea54-107">Teams uses these contacts:</span></span>
+- <span data-ttu-id="d3a78-104">Контакты в службе Active Directory организации</span><span class="sxs-lookup"><span data-stu-id="d3a78-104">Contacts in your organization's Active Directory</span></span>
+- <span data-ttu-id="d3a78-105">Контакты, добавленные в папку пользователя Outlook по умолчанию</span><span class="sxs-lookup"><span data-stu-id="d3a78-105">Contacts added to the user's Outlook default folder</span></span>
 
-- <span data-ttu-id="dea54-108">Контакты в службе Active Directory организации</span><span class="sxs-lookup"><span data-stu-id="dea54-108">Contacts in your organization's Active Directory</span></span>
-- <span data-ttu-id="dea54-109">Контакты, добавленные в папку пользователя Outlook по умолчанию</span><span class="sxs-lookup"><span data-stu-id="dea54-109">Contacts added to the user's Outlook default folder</span></span>
+<span data-ttu-id="d3a78-106">Если контакты неполные или не синхронизированы для одного или нескольких пользователей, сделайте следующее.</span><span class="sxs-lookup"><span data-stu-id="d3a78-106">If contacts are not complete or do not sync for one or several users, do the following:</span></span>
 
-<span data-ttu-id="dea54-110">Пользователи Teams могут общаться с любыми пользователями из службы Active Directory организации и добавлять любых пользователей из Active Directory организации в качестве контактов и в свои списки контактов, выбрав **"Чат > Контакты" или "Звонки > Контакты"**.</span><span class="sxs-lookup"><span data-stu-id="dea54-110">Teams users can communicate with anyone in your organization's Active Directory and can add anyone in your organization's Active Directory as a contact and to their contact lists by going to **Chat > Contacts or Calls > Contacts**.</span></span>
-
-<span data-ttu-id="dea54-111">Пользователи Teams также могут добавить в качестве контакта человека, которого нет в службе Active Directory организации, выбрав **Звонки > Контакты**.</span><span class="sxs-lookup"><span data-stu-id="dea54-111">Teams users can also add a person who isn't in your organization's Active Directory as a contact by going to **Calls > Contacts**.</span></span>
+- <span data-ttu-id="d3a78-107">Разместите почтовый ящик Exchange пользователя в сети (а не локально).</span><span class="sxs-lookup"><span data-stu-id="d3a78-107">Ensure the user's Exchange mailbox is hosted online (not on-premises).</span></span> <span data-ttu-id="d3a78-108">Дополнительные сведения см. в статье [Взаимодействие Microsoft Teams и Exchange](/microsoftteams/exchange-teams-interact).</span><span class="sxs-lookup"><span data-stu-id="d3a78-108">For more information, see [How Exchange and Microsoft Teams interact](/microsoftteams/exchange-teams-interact).</span></span>
+- <span data-ttu-id="d3a78-109">Добавьте номер телефона контакта в контактные данные.</span><span class="sxs-lookup"><span data-stu-id="d3a78-109">Ensure the contact's phone number is added to the contact information.</span></span>
+- <span data-ttu-id="d3a78-110">Выполните поиск электронной почты контакта на панели **Поиск**.</span><span class="sxs-lookup"><span data-stu-id="d3a78-110">Search for the contact's email in the **Search** bar.</span></span> <span data-ttu-id="d3a78-111">Контакты, которые можно получить, синхронизированы со списком контактов.</span><span class="sxs-lookup"><span data-stu-id="d3a78-111">Contacts you can retrieve sync to the Contacts list.</span></span>
 
 

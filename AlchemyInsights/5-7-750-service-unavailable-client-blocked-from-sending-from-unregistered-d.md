@@ -1,5 +1,5 @@
 ---
-title: 1048 служба 5.7.750 недоступна. Клиент блокировал отправку с незарегистрированных доменов
+title: 1048 5.7.750 Служба недоступна. Клиент заблокирован от отправки из незарегистрированных доменов
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,17 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 731aa2e155ba3fdaaca7fed9dd51b3e4a3f20f29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5879c5996a28e8e9e61c696c51e7c590d1245ba1
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664255"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774264"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="86806-103">5.7.750 Отправка клиентом из незарегистрированного домена заблокирована</span><span class="sxs-lookup"><span data-stu-id="86806-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="6e4db-103">5.7.750 Отправка клиентом из незарегистрированного домена заблокирована</span><span class="sxs-lookup"><span data-stu-id="6e4db-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="86806-104">Ошибка возникает, когда большой объем сообщений отправляется из доменов, которые не были подготовлены в клиенте (добавлены как обслуживаемые домены и проверены).</span><span class="sxs-lookup"><span data-stu-id="86806-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
+<span data-ttu-id="6e4db-104">Ошибка возникает, когда большой объем сообщений отправляется из доменов, которые не предусмотрены в клиенте (добавлены в качестве принятых доменов и проверены).</span><span class="sxs-lookup"><span data-stu-id="6e4db-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
 
-<span data-ttu-id="86806-105">Чтобы избежать этой ошибки, вы можете использовать соединитель почтовых ящиков на основе сертификатов, в котором домен сертификата является подготовленным доменом, или можно подготовить все отправные домены.</span><span class="sxs-lookup"><span data-stu-id="86806-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+<span data-ttu-id="6e4db-105">Чтобы избежать этой ошибки, вы можете использовать соединителю потока почты на основе сертификата, где домен сертификата является предварительным доменом, или вы можете укажете все отправляя домены.</span><span class="sxs-lookup"><span data-stu-id="6e4db-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+
+<span data-ttu-id="6e4db-106">Дополнительные сведения см. в статье [Устранение проблем с доставкой электронной почты для кодов ошибок с 5.7.700 по 5.7.750 включительно в Exchange Online](https://go.microsoft.com/fwlink/?linkid=2164955).</span><span class="sxs-lookup"><span data-stu-id="6e4db-106">For more information, see [Fix email delivery issues for error codes 5.7.700 through 5.7.750 in Exchange Online](https://go.microsoft.com/fwlink/?linkid=2164955).</span></span>

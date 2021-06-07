@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8001"
 - "5300030"
-ms.openlocfilehash: 8c8b703281b33cf564873509080ea98f903cfa4d
-ms.sourcegitcommit: 4e2d640a618c786700e8b276533554d51956f080
+ms.openlocfilehash: 52d7a58384c286e9852caa4b2c234b11f0998470
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50716151"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774300"
 ---
-# <a name="migrate-files-from-google-drive"></a><span data-ttu-id="8d5d3-102">Перенос файлов из Google Диска</span><span class="sxs-lookup"><span data-stu-id="8d5d3-102">Migrate files from Google Drive</span></span>
+# <a name="migrate-files-from-google-drive"></a><span data-ttu-id="cc886-102">Перенос файлов из Google Диска</span><span class="sxs-lookup"><span data-stu-id="cc886-102">Migrate files from Google Drive</span></span>
 
-<span data-ttu-id="8d5d3-103">При переходе с Google Диска на SharePoint Online можно использовать **Mover**.</span><span class="sxs-lookup"><span data-stu-id="8d5d3-103">If you are migrating from Google Drive to SharePoint Online, you may consider using **Mover**.</span></span>
+<span data-ttu-id="cc886-103">Работайте из единого центра, перенеся документы, данные и пользователей Google Диска в OneDrive, SharePoint и Teams в Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="cc886-103">Collaborate all in one place by migrating your Google Drive documents, data, and users to OneDrive, SharePoint, and Teams in Microsoft 365.</span></span>
 
-<span data-ttu-id="8d5d3-104">Подробнее см. в статье [Авторизация соединителя G Suite](https://docs.microsoft.com/sharepointmigration/mover-gsuite).</span><span class="sxs-lookup"><span data-stu-id="8d5d3-104">For more information, see [Authorizing the G Suite Connector](https://docs.microsoft.com/sharepointmigration/mover-gsuite).</span></span>
+<span data-ttu-id="cc886-104">Дополнительные сведения см. в статье [Перенос рабочей области Google в Microsoft 365 с помощью диспетчера переноса данных](/sharepointmigration/mm-google-overview).</span><span class="sxs-lookup"><span data-stu-id="cc886-104">For more information, see [Migrate Google Workspace to Microsoft 365 with Migration Manager](/sharepointmigration/mm-google-overview).</span></span>
