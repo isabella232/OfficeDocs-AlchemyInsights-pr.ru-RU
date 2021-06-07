@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8002"
 - "5300030"
-ms.openlocfilehash: 1596df1f15a032663194ac897fc7dc63ceaa60d5
-ms.sourcegitcommit: 4e2d640a618c786700e8b276533554d51956f080
+ms.openlocfilehash: a9ca35432a152b33be46a7c42f47b924473d6897
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50716187"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774336"
 ---
 # <a name="migrate-files-from-dropbox"></a>Перенос файлов из Dropbox
 
-При переходе с Dropbox на SharePoint Online можно использовать **Mover**.
+Работайте из единого центра, перенеся документы, данные и пользователей Dropbox в OneDrive, SharePoint и Teams в Microsoft 365.
 
-Дополнительные сведения см. в статье [Авторизация соединителя Dropbox](https://docs.microsoft.com/sharepointmigration/mover-dropbox).
+Дополнительные сведения см. в статье [Перенос Dropbox в Microsoft 365 с помощью диспетчера переноса данных](/sharepointmigration/mm-dropbox-overview).
 
