@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823044"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798621"
 ---
 # <a name="activating-microsoft-365-apps"></a>Активация приложений Microsoft 365
+
+**Примечание**. Если вы используете более старую версию Windows (например, Windows 7), по умолчанию включите протокол TLS 1.2. Дополнительные сведения см. в статье [Обновление для включения TLS 1.1 и TLS 1.2 в качестве стандартных протоколов защиты в WinHTTP в Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
 Сведения об активации Office см. в следующих статьях:
 
@@ -27,7 +29,7 @@ ms.locfileid: "51823044"
 
 - [Активация Office на компьютере Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Примечание.** У вас должна быть подписка на Office 365 или Microsoft 365, в состав которой входят [клиентские приложения Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), например Microsoft 365 бизнес стандарт, приложения Microsoft 365 для бизнеса или приложения Microsoft 365 для предприятий. Кроме того, для учетной запись пользователя, с которой вы входите в приложение Office, [должна быть назначена лицензия](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Примечание.** У вас должна быть подписка на Office 365 или Microsoft 365, в состав которой входят [клиентские приложения Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), например Microsoft 365 бизнес стандарт, приложения Microsoft 365 для бизнеса или приложения Microsoft 365 для предприятий. Кроме того, для учетной запись пользователя, с которой вы входите в приложение Office, [должна быть назначена лицензия](/microsoft-365/admin/manage/assign-licenses-to-users).
 
 Сведения об устранении проблем с активацией Office см. в следующих статьях:
 
@@ -46,6 +48,6 @@ ms.locfileid: "51823044"
 
 3. Выберите **Параметры Windows > Учетные записи > Доступ к учетной записи места работы или учебного заведения** и отключите старые или неиспользуемые рабочие учетные записи.
 
-4. [Сбросьте состояние активации Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), а затем [войдите в приложения Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) с помощью новой учетной записи.
+4. [Сбросьте состояние активации Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), а затем [войдите в приложения Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) с помощью новой учетной записи.
 
-Дополнительные инструкции по устранению неполадок см. в статье [При открытии приложения Microsoft 365 появляется уведомление о подписке](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).
+Дополнительные инструкции по устранению неполадок см. в статье [При открытии приложения Microsoft 365 появляется уведомление о подписке](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).

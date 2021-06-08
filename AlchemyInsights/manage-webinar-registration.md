@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: c5b0721d286b07d7e0f84199885b6f527a2b42a2
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 0db6f434fa74970ac6083501ab26762cc6b7885f
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783143"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798657"
 ---
 # <a name="manage-webinar-registration"></a>Управление регистрацией в вебинаре
 
 Управляйте тем, кто может регистрироваться в вебинарах Teams, с помощью команд PowerShell Teams. Сведения об установке PowerShell Teams см. в разделе [Teams PowerShell](/microsoftteams/teams-powershell-install). 
 
-По умолчанию параметр *whoCanRegister* включен и ему присвоено значение **EveryoneInCompany**. Чтобы разрешить регистрацию всем, в том числе анонимным пользователям, присвойте политике собраний значение **Все** с помощью команды PowerShell:
+По умолчанию параметр *whoCanRegister* включен и ему присвоено значение **Все**. 
+
+Если в приглашении на собрание вы не видите параметр, разрешающий регистрацию для всех пользователей, повторно запустите параметр *WhoCanRegister* со значением "Все" и подождите 24 часа. Чтобы повторно запустить параметр *WhoCanRegister*, используйте команду Powershell:
 
 `Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
 
