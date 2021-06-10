@@ -12,25 +12,27 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 9c879512c5fbdfafe6162490cafacd0f409792db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
+ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755683"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52853882"
 ---
 # <a name="information-about-gdpr"></a>Сведения о GDPR
 
-- Начало работы с [порталом доверия службы.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- [Упростил GDPR: руководство для малого бизнеса](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- Для всех, связанных с **соглашением об обработке данных** (DPA), ознакомьтесь с разработкой:
+- Начало работы с [порталом доверия к службам.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
-  - [Ресурсы по защите данных](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+- Для всего, что связано с соглашением об **обработке данных** (DPA), просмотрите:
+
+  - [Ресурсы защиты данных](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
   - [Отчеты об аудите](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Сведения о **запросах субъектов данных** (DSR) — обнаружение, доступ, исправить, ограничить, удалить, экспортировать [здесь.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Сведения о **запросах** субъекта данных (DSR) - откройте, доступ, исправление, ограничение, удаление, экспорт [здесь.](/microsoft-365/compliance/gdpr-dsr-office365)
 
-- [Здесь приведены](https://servicetrust.microsoft.com/ViewPage/GDPRBreach) сведения об **уведомлении о нарушении безопасности данных** .
+- Сведения об **уведомлении о нарушении данных** [здесь.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
-- Сведения о **расположении данных** [приведены здесь.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Сведения о **расположениях данных** [здесь.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
