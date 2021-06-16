@@ -2,6 +2,7 @@
 title: Настройка Advanced eDiscovery
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: f3a74bf74fb0786227e3f6c9bd53af1c8bebe098
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
+ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795545"
+ms.lasthandoff: 06/10/2021
+ms.locfileid: "52882702"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Настройка Advanced eDiscovery
 
-С помощью Advanced eDiscovery можно анализировать неструктурированные данные, чтобы снизить расходы на обнаружение электронных данных. Возможно применение анализа текста, машинного обучения, релевантного и прогнозирующего кодирования.  Чтобы использовать функцию Advanced eDiscovery, необходимо одно из указанных ниже.
+С помощью Advanced eDiscovery вы можете применять анализ текста, машинное обучение, релевантное и прогнозирующее кодирование. Чтобы использовать функцию Advanced eDiscovery, необходим один из указанных ниже компонентов.
 
-- Подписка Microsoft 365 E5 или Office 365 E5
+- Подписка Microsoft 365 E5 или Office 365 E5
 
-- Подписка Microsoft 365 E3 с дополнительной надстройкой для соответствия требованиям E5
+- Подписка Microsoft 365 E3 с дополнительной надстройкой для соответствия требованиям E5
 
-- Подписка Office 365 E3 с надстройкой Advanced Compliance
+- Подписка Office 365 E3 с надстройкой Advanced Compliance
 
 Ниже приведены общие сведения о шагах по настройке и управлению Advanced eDiscovery.
 
@@ -39,4 +40,6 @@ ms.locfileid: "47795545"
 
 **4. Создание варианта использования Advanced eDiscovery**
 
-Сведения о шагах, необходимых для настройки Advanced eDiscovery, см. в статье [Начало работы с Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide).
+Сведения о шагах, необходимых для настройки Advanced eDiscovery, см. в статье [Начало работы с Advanced eDiscovery](/microsoft-365/compliance/get-started-with-advanced-ediscovery).
+
+Сведения о создании дел и управлении ими см. в статье [Создание дел Advanced eDiscovery и управление ими в Microsoft 365](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case).
