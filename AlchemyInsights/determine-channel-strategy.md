@@ -13,16 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9144"
 - "9005291"
-ms.openlocfilehash: d3288bc4da83bcd8ddc82b0ce40482453a822aad
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+- "11089"
+- "9006490"
+ms.openlocfilehash: c47218035155a8138caeac01e03fbe9d9e1aca4d
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50530122"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989670"
 ---
 # <a name="determine-channel-strategy"></a>Определение стратегии каналов
 
-Microsoft Edge публикуется в четырех каналах, задающих частоту обновления браузера. Более подробный обзор каждого канала см. в разделе [Обзор каналов](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels#channel-overview).
+Microsoft Edge публикуется в четырех каналах, задающих частоту обновления браузера. Более подробный обзор каждого канала см. в разделе [Обзор каналов](/DeployEdge/microsoft-edge-channels#channel-overview).
 
 Для большинства устройств подойдет стабильный канал, однако следует рассмотреть вариант развертывания нескольких каналов и устройств.
 

@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608885"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989910"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Просмотр состояния управления приложениями Майкрософт с помощью Microsoft Edge для устройств с iOS или Android
 
-Чтобы получить доступ к журналам приложений для использования при устранении неполадок в управляемых приложениях для iOS или Android, откройте Microsoft EDGE и введите **около: интунехелп** в поле адрес. Microsoft Edge запускается в режиме устранения неполадок.
+Чтобы получить доступ к журналам приложений для устранения неполадок в управляемых приложениях с iOS или Android, откройте Microsoft Edge и введите в адресном окне **около:intunehelp.** Microsoft Edge запускается в режиме устранения неполадок.
 
-Список параметров, хранящихся в журналах приложений, представлен в статье [Проверка журналов защиты клиентских приложений](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
+Список параметров, хранимых в журналах приложений, см. в журнале [Review client app protection logs.](/mem/intune/apps/app-protection-policy-settings-log)
 
-Сведения о том, как просматривать журналы приложений на устройствах с Android, можно найти в разделе [Отправка и электронная почта журналы](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
+Чтобы узнать, как просматривать журналы приложений на устройствах Android, [см. Upload и журналы электронной почты.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
