@@ -12,13 +12,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9139"
+- "11088"
 - "9005291"
-ms.openlocfilehash: ad2c42ad77cd4a4606365bc616547846ae3c2c65
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+- "9006490"
+ms.openlocfilehash: 9a51b0cbf6ccb0254ea2ef162530067bbfb5f215
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529359"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989766"
 ---
 # <a name="deploy-microsoft-edge"></a>Развертывание Microsoft Edge
 
@@ -26,13 +28,13 @@ ms.locfileid: "50529359"
 
 Для развертывания Microsoft Edge доступны следующие инструменты:
 
-- [Microsoft Intune для Windows](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge) или [Microsoft Intune для macOS](https://docs.microsoft.com/mem/intune/apps/apps-edge-macos)
-- [Диспетчер конфигураций](https://docs.microsoft.com/DeployEdge/deploy-edge-with-configuration-manager)
+- [Microsoft Intune для Windows](/mem/intune/apps/apps-windows-edge) или [Microsoft Intune для macOS](/mem/intune/apps/apps-edge-macos)
+- [Диспетчер конфигураций](/DeployEdge/deploy-edge-with-configuration-manager)
 - Еще один инструмент, использующий [MSI-файл для Microsoft Edge](https://www.microsoft.com/edge/business/download)
 
 **Проверка развертывания**
 
-После развертывания в пилотной группе соберите отзывы пользователей. Обратите внимание на следующее:
+После развертывания в пилотной группе соберите отзывы пользователей. Примите во внимание следующее:
 - **Совместимость**. Найдите сайты, относящиеся к списку сайтов предприятия, которые не были выявлены в процессе обнаружения сайтов.
 - **Настройка политик**. Убедитесь в том, что пользователям доступны основные функции и они могут работать с соблюдением рекомендаций по безопасности.
 - **Простота использования и новые возможности**. Основываясь на вопросах пользователей, определите области, для освоения которых следует разработать и выполнить программу обучения.

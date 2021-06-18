@@ -1,5 +1,5 @@
 ---
-title: Переименование SharePoint домена
+title: Переименование домена SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "5300028"
 ms.openlocfilehash: fc80a6ac234f2998e0620ac79e43a3d46aeee9c9
 ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 06/17/2021
 ms.locfileid: "52990230"
 ---
-# <a name="rename-your-sharepoint-domain"></a>Переименование SharePoint домена
+# <a name="rename-your-sharepoint-domain"></a>Переименование домена SharePoint
 
-В настоящее время существует закрытый предварительный просмотр для возможности переименовать домен SharePoint.
+В настоящее время доступна закрытая предварительная версия, позволяющая переименовать домен SharePoint.
 
-Дополнительные сведения о процессе переименования и ограничениях можно получить на сайте [https://aka.ms/SPOTenantRename](https://aka.ms/SPOTenantRename) .
+Дополнительные сведения о процессе переименования и ограничениях см. на странице [https://aka.ms/SPOTenantRename](https://aka.ms/SPOTenantRename).
 
-Если вы хотите выдвинуть себя в частный предварительный просмотр, вы можете сделать это в [https://aka.ms/SPOTenantRenameNomination](https://aka.ms/SPOTenantRenameNomination) . Обратите внимание, что номинация не обязательно означает, что вы будете приняты. Мы проверяем их на индивидуальной основе и будем связываться только в том случае, если вы приняты.
+Если вы хотите предложить себя для добавления в закрытую предварительную версию, это можно сделать на странице [https://aka.ms/SPOTenantRenameNomination](https://aka.ms/SPOTenantRenameNomination). Обратите внимание, что такое предложение не обязательно означает, что вы будете приняты. Проверка осуществляется в индивидуальном порядке. Мы свяжемся с вами только в том случае, если вы приняты.
