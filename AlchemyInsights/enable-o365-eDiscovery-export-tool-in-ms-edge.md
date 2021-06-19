@@ -1,5 +1,5 @@
 ---
-title: Включение средства экспорта обнаружения электронных данных Office 365 в Microsoft Edge
+title: Включить Office 365 eDiscovery Export Tool в Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576458"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023188"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Включение средства экспорта обнаружения электронных данных Office 365 в Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Включить Office 365 eDiscovery Export Tool в Microsoft Edge
 
-По умолчанию поддержка ClickOnce больше не включена в Microsoft Edge. Для продолжения использования средства экспорта электронных данных Microsoft Office 365 необходимо использовать Microsoft Internet Explorer или включить поддержку ClickOnce в Microsoft EDGE на основе Чромиум, как показано ниже.
+Поддержка ClickOnce больше не включается в Microsoft Edge по умолчанию. Чтобы продолжить использование средства экспорта Microsoft Office 365 электронного поиска, необходимо использовать Microsoft Internet Explorer или включить ClickOnce поддержку в Chromium основе Microsoft Edge, следующим образом:
 
-1. Выберите edge://flags/#edge — один раз.
-1. Для параметра **Поддержка ClickOnce** измените значение с " **по умолчанию** " или " **отключено** " на " **включено**".
-1. В нижней части окна браузера нажмите кнопку **перезапустить**. Изменения вступят в силу после перезапуска Microsoft Edge.
+1. Перейдите в edge://flags/#edge-click-once.
+1. Для **параметра ClickOnce поддержка** измените значение **с** по умолчанию или **отключено на** **включенное.**
+1. В нижней части окна браузера нажмите кнопку **Перезапустить**. Изменение вступит в силу после перезапуска Microsoft Edge.
 
-Чтобы узнать больше, ознакомьтесь [со статьей использование средства экспорта электронных данных Office 365 в Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
+Подробнее см. в Office 365 [eDiscovery Export Tool in Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)

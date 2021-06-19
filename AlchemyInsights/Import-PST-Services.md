@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721649"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023116"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Служба импорта
 
@@ -29,9 +29,9 @@ ms.locfileid: "52721649"
 
 1. В левой области центра соответствия M365 в **статье Solutions** выберите импорт **управления**  >  **информацией.**
 
-1. На странице **Импорт** выберите **новое задание импорта.**
+1. На странице **Импорт** выберите **новое задание импорта.** Введите имя задания и выберите **Далее**.
 
-1. Чтобы выполнить действия мастера, см. в папке Использование сетевой загрузки для импорта [PST-файлов организации для Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
+1. Выберите **Upload данные для** использования параметра загрузки сети для типа **импортных рабочих мест.** Подробные действия см. в материалах [Use network upload to import your organization's PST files to Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
 
 Чтобы получить доступ **к странице Импорт,** убедитесь, что вам назначены соответствующие разрешения. Дополнительные сведения см. в [материалах Использование сетевой загрузки для импорта PST-файлов.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 

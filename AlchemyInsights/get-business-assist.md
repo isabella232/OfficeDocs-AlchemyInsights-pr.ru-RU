@@ -13,17 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 3adb6fb2beb8d959d170ab08ca0592a81bc62d76
-ms.sourcegitcommit: a739b533b13a9dd4c4b63f91df5629e27cc86d3d
+ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "52963911"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023152"
 ---
 # <a name="get-business-assist"></a>Get Business Assist
 
-1. В Центр администрирования Microsoft 365 перейдите к **подпискам**  >  **Бизнес Assist**.
-
-1. Выберите **покупку**  >  **бизнес-помощи** и следуйте за мастером, чтобы приобрести бизнес-помощь.
+1. В Центр администрирования Microsoft 365 перейдите на страницу [Бизнес-помощник для Microsoft 365,](https://go.microsoft.com/fwlink/p/?linkid=2158423)выберите частоту вы выставления счета, а затем выберите **Купить**.
+2. Выполните действия, чтобы проверить.
 
 Подробнее см. в [Бизнес-помощник для Microsoft 365.](/microsoft-365/admin/misc/business-assist)
