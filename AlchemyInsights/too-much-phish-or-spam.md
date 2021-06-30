@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d5db78a8427c45c272a72435f2bf1e485a3a366b
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544843"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195533"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Вы получаете слишком много фишинга или нежелательной почты в почтовом ящике?
 
@@ -27,3 +27,7 @@ ms.locfileid: "52544843"
 Чтобы сделать его более облегчим, вы можете разрешить пользователям напрямую сообщать в Корпорацию Майкрософт с помощью [надстройки Report Message.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
 **Знаете ли вы?**. Теперь вы [](https://security.microsoft.com/messagetrace) можете отправлять образцы непосредственно из трассировки сообщений и E5/Microsoft Defender для Office 365 2 клиенты плана 2 могут отправлять образцы из [Обозревателя угроз](/microsoft-365/security/office-365-security/threat-explorer).
+
+Дополнительные новости о отправке сообщений для анализа на портале Microsoft 365 Defender см. в видеоролике Отправка образцов [для анализа.](https://go.microsoft.com/fwlink/?linkid=2166435)
+
+Дополнительные сведения о расследовании ложных негативов в Microsoft Defender для Office 365 см. в стратегии видео [False Negative.](https://go.microsoft.com/fwlink/?linkid=2166434)
