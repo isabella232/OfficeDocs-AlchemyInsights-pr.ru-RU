@@ -1,5 +1,5 @@
 ---
-title: Поддержка Microsoft Edge Application Guard для защитника Microsoft
+title: Microsoft Edge поддержки Application Guard в Microsoft Defender
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576634"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346075"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a><span data-ttu-id="c1313-102">Поддержка Microsoft Edge Application Guard для защитника Microsoft</span><span class="sxs-lookup"><span data-stu-id="c1313-102">Microsoft Edge's support for Microsoft Defender Application Guard</span></span>
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a><span data-ttu-id="69268-102">Microsoft Edge поддержки Application Guard в Microsoft Defender</span><span class="sxs-lookup"><span data-stu-id="69268-102">Microsoft Edge's support for Microsoft Defender Application Guard</span></span>
 
-<span data-ttu-id="c1313-103">Приложение Application Guard предназначено для Windows 10 и Microsoft EDGE, которое позволяет пользователю перемещаться по недоверенному сайту из изолированного контейнера с поддержкой Hyper-V, отделенного от операционной системы узла.</span><span class="sxs-lookup"><span data-stu-id="c1313-103">Designed for Windows 10 and Microsoft Edge, Application Guard uses a hardware-isolation approach that lets a user navigate an untrusted site from inside an isolated, Hyper-V–enabled container, separated from the host operating system.</span></span>
+<span data-ttu-id="69268-103">Microsoft Defender for Identity предоставляет центральное расположение, где администраторы могут идентифицировать, обнаруживать и исследовать локально угрозы удостоверений.</span><span class="sxs-lookup"><span data-stu-id="69268-103">Microsoft Defender for Identity provides a central location where admins can identify, detect, and investigate on-premises identity threats.</span></span> 
 
-<span data-ttu-id="c1313-104">Администратор предприятия определяет список надежных веб-сайтов, облачных ресурсов и внутренних сетей.</span><span class="sxs-lookup"><span data-stu-id="c1313-104">An enterprise admin defines a list of trusted websites, cloud resources, and internal networks.</span></span> <span data-ttu-id="c1313-105">Когда пользователь посещает сайт, которого нет в списке, Microsoft Edge откроет сайт в контейнере.</span><span class="sxs-lookup"><span data-stu-id="c1313-105">When a user visits a site that's not on the list, Microsoft Edge will open the site in the container.</span></span> <span data-ttu-id="c1313-106">Это означает, что если сайт станет вредоносным, ведущий компьютер останется защищенным, а злоумышленник не получит доступ к корпоративным данным.</span><span class="sxs-lookup"><span data-stu-id="c1313-106">This means that if the site turns out to be malicious, the host PC will remain protected and the attacker won't get to the enterprise data.</span></span>
+<span data-ttu-id="69268-104">Используйте руководство [по настройке Microsoft Defender для удостоверений,](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) чтобы убедиться, что вы удовлетворены всеми условиями среды; создайте экземпляр, подключите к Active Directory и установите датчик.</span><span class="sxs-lookup"><span data-stu-id="69268-104">Use the [‎Microsoft Defender for Identity‎ setup guide](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) to verify that you've satisfied all environment prerequisites; create an instance, connect to Active Directory, and install your sensor.</span></span> 
 
-<span data-ttu-id="c1313-107">Установка расширений в контейнере поддерживается в Microsoft Edge версии 81, и ее можно контролировать с помощью политики.</span><span class="sxs-lookup"><span data-stu-id="c1313-107">Installation of extensions in the container is supported as of Microsoft Edge version 81, and it can be controlled via a policy.</span></span> <span data-ttu-id="c1313-108">Адрес Упдатеурл, который будет использоваться в политике Екстенсионинсталлфорцелист, должен быть добавлен в качестве нейтрального ресурса в политиках сетевой изоляции, используемых Application Guard.</span><span class="sxs-lookup"><span data-stu-id="c1313-108">The updateURL address that gets used in the ExtensionInstallForcelist policy should be added as a Neutral Resource in the Network Isolation policies used by Application Guard.</span></span>
-
-<span data-ttu-id="c1313-109">Дополнительные сведения см. в разделе [Поддержка Microsoft Edge для Application Guard в защитнике Microsoft](https://go.microsoft.com/fwlink/?linkid=2134229).</span><span class="sxs-lookup"><span data-stu-id="c1313-109">For more info, see [Microsoft Edge support for Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2134229).</span></span>
+<span data-ttu-id="69268-105">По его завершению отслеживаются удостоверения пользователей, и можно немедленно принять меры к любой вредоносной деятельности, которая компрометировала вашу организацию.</span><span class="sxs-lookup"><span data-stu-id="69268-105">When you've finished, users' identities are monitored, and immediate action can be taken against any malicious activity that compromises your organization.</span></span>
