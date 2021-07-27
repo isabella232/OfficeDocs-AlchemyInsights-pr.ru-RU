@@ -1,5 +1,5 @@
 ---
-title: Устранение неполадок рабочих процессов в SharePoint
+title: Устранение неполадок в SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800261"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586947"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Устранение неполадок рабочих процессов в SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Устранение неполадок в SharePoint
 
-**Устранение неполадок и Отладка рабочих процессов в SharePoint**
+**Устранение неполадок и отладка процессов в SharePoint**
 
-Ознакомьтесь с [разрешениями об ошибках проверки рабочих процессов SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) и [отладке рабочих процессов SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Дополнительные сведения см. в указанных ниже статьях.
+
+- [Устранение SharePoint ошибок проверки рабочего процесса](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Отладка SharePoint рабочего процесса](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- [Сбор SharePoint 2013 г. Устранение неполадок рабочего процесса с помощью ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
 **Power Automate**
 
-Если вы только начинаете работать с рабочими процессами, рассмотрите [возможности автоматизации](https://docs.microsoft.com/power-automate/modern-approvals) , а не классические решения для рабочих процессов SharePoint.
+Если вы только начинаете работать с рабочего [](/power-automate/modern-approvals) процесса, Power Automate вместо классических решений SharePoint рабочего процесса.
 
-Дополнительные сведения см в разделе [рабочие процессы SharePoint](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
+Дополнительные сведения [см. в SharePoint](/alchemyinsights/sharepoint-workflows-retiring)рабочего процесса.

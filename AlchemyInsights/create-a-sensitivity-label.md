@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 69beadfaaa9303ddb4b89d288da38b7f7f9a925c
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543662"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532196"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Как создать метку конфиденциальности
 
-1. Выберите Центр безопасности и соответствия требованиям Office 365 > **Классификация** > **Метки конфиденциальности**.
+1. Выберите Центр соответствия требованиям Microsoft 365 > **Защита информации** > **Метки**.
 
 1. Щелкните **+ Создать метку**, чтобы запустить мастер создания метки конфиденциальности.
 

@@ -9,27 +9,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "5200004"
+- "5766"
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 9bec2f71465e43e1c3cba038e0e68949672ceb8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 396efbf9772b5398427a4fcc76e104fa95820af6
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771221"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532232"
 ---
-# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Проблемы при создании сайта с подключением к группе в SharePoint
+# <a name="common-issues-when-creating-a-group-connected-site-in-sharepoint"></a>Распространенные проблемы при создании сайта, связанного с группой в SharePoint
 
-1. Некоторые распространенные проблемы, возникающие при создании или повторном создании подключенного к группе сайта.
-Если вы удалили группу и подключенный сайт и хотите создать другой сайт с тем же URL-адресом, необходимо удалить предыдущий сайт без возможности восстановления.
+1. Если вы удалили группу и связанный с ней сайт и хотите создать другой сайт с тем же URL-адресом, вам потребуется окончательно удалить предыдущий сайт.
 
-   - Загрузка [командной консоли SPO](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
-   - Более подробную информацию о начале работы с PowerShell можно узнать в статье [Начало работы с консолью управления SharePoint Online](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
-   - Удалите сайт из удаленных сайтов с помощью командлета PowerShell [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) . Для окончательного удаления групп сайтов требуется PowerShell.
+   - Загрузка [оболочки управления SPO](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+   - Дополнительные сведения о том, как начать работу с Powershell, см. в SharePoint [Online Management Shell.](/powershell/module/sharepoint-online/remove-sposite)
+   - Удалите сайт из удаленных сайтов с помощью [cmdlet Remove-SPODeletedSite](/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell. Powershell необходимо постоянно удалять сайты групп.
 
-1. Если вы создаете сайт с подключением к группе и получаете предупреждение: **уже существует другая группа с таким же псевдонимом**, проверьте существующие группы из [центра администрирования Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Чтобы устранить эту проблему, удалите существующую группу, если она больше не нужна, или создайте сайт с другим назначенным псевдонимом.
+1. Если вы создаете сайт, подключенный к группе, и получаете **предупреждение:** другая группа с тем же псевдонимом уже существует, проверьте существующие группы из [Центр администрирования Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Чтобы устранить проблему, удалите существующую группу, если она больше не нужна, или создайте сайт с другим псевдонимом.
 
 1. Существуют различные способы создания и использования современных групп с SharePoint.
 
-   - Вы можете подключить существующие сайты к группе Microsoft 365. Для получения дополнительных сведений обратитесь [к разделу Подключение группы Microsoft 365 с помощью пользовательского интерфейса SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Чтобы создать сайт, подключенный к группе Microsoft 365, необходимо создать [сайт группы](https://admin.microsoft.com/sharepoint).
+   - Вы можете подключить существующие сайты к Microsoft 365 группе. Дополнительные сведения [см. в Подключение группе Microsoft 365 с помощью пользовательского интерфейса SharePoint.](/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)
+   - Чтобы создать Microsoft 365, связанный с группой, необходимо создать сайт [Team Site.](https://admin.microsoft.com/sharepoint)
