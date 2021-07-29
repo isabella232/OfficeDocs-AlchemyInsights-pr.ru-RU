@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669224"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630154"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Единые политики хранения в Центре безопасности и соответствия требованиям
 
@@ -31,6 +31,6 @@ ms.locfileid: "47669224"
       
 Дополнительные сведения о политиках хранения данных для содержимого, в частности, электронной почты, OneDrive, SharePoint и содержимого Teams, см. в статье [Общие сведения о политиках хранения](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Если вы используете политики хранения параллельно в Центре администрирования Exchange и Центре безопасности и соответствия требованиям, см. эту рекомендацию по [Использованию политики хранения вместо более старых функций](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Если вы используете политики хранения параллельно в Центре администрирования Exchange и Центре безопасности и соответствия требованиям, см. эту рекомендацию по [Использованию политики хранения вместо более старых функций](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
     
-Дополнительные сведения о хранении в Teams, см. в статье [Политики хранения в Teams](https://docs.microsoft.com/microsoftteams/retention-policies).
+Дополнительные сведения о хранении в Teams, см. в статье [Политики хранения в Teams](/microsoftteams/retention-policies).

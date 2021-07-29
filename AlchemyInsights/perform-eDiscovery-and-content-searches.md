@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668527"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630226"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Как выполнять поиск контента и поиск eDiscovery
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Выполнение поиска по контенту и поиска по электронным данным
 
-**Чтобы выполнить поиск контента:**
+**Для выполнения поиска контента:**
 
-1. Перейдите в [Центр безопасности & соответствия требованиям](https://protection.office.com) и войдите в нее.
-2. Щелкните **поиск > контента.**
-3. Нажмите **кнопку "Создать поиск",** чтобы создать новый поиск.
+1. Перейдите в центр Microsoft 365 соответствия требованиям и войдите.
+2. Выберите **поиск > контента**.
+3. Выберите **Новый поиск,** чтобы создать новый поиск.
 4. Введите необходимые условия поиска, включая ключевые слова и расположения контента.
-5. Нажмите **кнопку "& выполнить",** чтобы назвать поиск, запустите его и просмотрите результаты.
+5. Выберите **сохранить &,** чтобы назвать поиск, запустить его и просмотреть результаты.
 
 > [!NOTE]
-> In the **M365 Compliance Center**, under **Solutions,** choose expand **eDiscovery** and select your desired eDiscovery tool.
+> В **Microsoft 365 Центра** решений по обеспечению соответствия требованиям расширяйте поиск электронных данных и выберите нужный инструмент для поиска  >  электронных данных. 
 
-Подробные инструкции по поиску контента, экспорту результатов и созданию [](https://docs.microsoft.com/microsoft-365/compliance/content-search) дел eDiscovery для хранения данных см. в описании дел поиска контента и [eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+Подробные инструкции по поиску контента, экспорту результатов и созданию дел по обнаружению электронных данных для хранения данных см. в материалах [Content Search](/microsoft-365/compliance/content-search) и [eDiscovery cases.](/microsoft-365/compliance/ediscovery-cases)
 
 **Дополнительные сведения:**
 
-- Дополнительные сведения о средствах eDiscovery в Microsoft 365 см. в [электронном обнаружении.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
-- Узнайте о разрешениях, требованиях и ограничениях, необходимых для выполнения поиска eDiscovery из разрешений, необходимых для поиска [eDiscovery,](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) а также требования и [ограничения.](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)
-- If you are troubleshooting eDiscovery issues, see [eDiscovery Troubleshooting common issues](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) and [investigating partially indexed items](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Дополнительные сведения о средствах электронного Microsoft 365 в Microsoft 365 см. [в eDiscovery.](/microsoft-365/compliance/ediscovery)
+- Узнайте о разрешениях, требованиях и ограничениях, необходимых для [](/microsoft-365/compliance/assign-ediscovery-permissions) выполнения поисков по электронным данным, из разрешений, необходимых для поиска по электронным данным, а также требований и [ограничений.](/microsoft-365/compliance/limits-for-content-search)
+- Если вы устраняете проблемы с электронным открытием, см. в статьи [Устранение](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) распространенных проблем и исследование частично [индексных элементов.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
