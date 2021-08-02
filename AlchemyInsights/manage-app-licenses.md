@@ -3,6 +3,8 @@ title: Управление лицензиями приложений
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, micurn
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 8414b288dca9edae321fa0f6f7fcc5b5a394f8bb
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: cfed9a827219a20c6ff204134eb2b5a05a707ba7
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545660"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689383"
 ---
 # <a name="manage-app-licenses"></a>Управление лицензиями приложений
 
@@ -29,7 +31,7 @@ ms.locfileid: "52545660"
 2. На **вкладке Продукты** в разделе **Приложения** найдите приложение, которое необходимо управлять. Выберите три точки (больше действий), а затем выберите **купить лицензии**.
 3. Если вы хотите уменьшить количество лицензий, в верхней части области лицензий **Купить** выберите **удаление лицензий.**
 4. Чтобы купить или удалить лицензии, в поле **New number** in the **Total licenses** введите общее количество лицензий, которые нужны для этой подписки. Например, если у вас 100 лицензий и вы хотите добавить еще пять, введите 105. Если вы хотите удалить пять из них, введите 95.
-5. Нажмите **Сохранить**.
+5. Нажмите кнопку **Сохранить**.
 
 ## <a name="to-assign-app-licenses"></a>Назначение лицензий приложений
 

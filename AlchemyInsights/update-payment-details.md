@@ -3,6 +3,8 @@ title: Обновление сведений о банковской карте
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8aa177ed01fbd6c3b5c3e99ce5300111b19c76d5
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830334"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685531"
 ---
 # <a name="update-credit-card-information"></a>Обновление сведений о банковской карте
 
@@ -41,4 +44,4 @@ ms.locfileid: "51830334"
 
 При возникновении проблем с загрузкой страниц попробуйте открыть веб-страницу в другом браузере или в приватном окне браузера, например в окне InPrivate в Microsoft Edge или режиме инкогнито в Google Chrome. 
 
-Подробнее см. в статье [Управление способами оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Подробнее см. в статье [Управление способами оплаты](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

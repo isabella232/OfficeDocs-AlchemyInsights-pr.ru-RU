@@ -3,6 +3,7 @@ title: Вопросы и ответы о подписке Microsoft 365 E3
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: sctov
+ms.reviewer: ?, ?
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002554"
 - "5392"
-ms.openlocfilehash: 8bcf109173278cf5b235afa24340b8ee5c4468a5
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 01d653201f05903fec0533f335d4ed228de1565f
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602485"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686863"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Вопросы и ответы по управлению лицензией и подпиской Microsoft 365 E3
 
@@ -26,7 +28,7 @@ ms.locfileid: "50602485"
 - Сведения о **смене плана** см. в статье [Переход на другой план](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - Чтобы **назначить** пользователям лицензии E3, выберите **Выставление счетов > [Лицензии](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Дополнительные сведения см. в статье [Назначение лицензий пользователям](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Чтобы **купить или удалить** лицензии E3, выберите **Выставление счетов > [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Дополнительные сведения см. в статье [Покупка и удаление лицензий](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
-- Чтобы **отменить** подписку E3, выберите **Выставление счетов > [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054)**, щелкните свою подписку и нажмите **Отменить подписку** в разделе **Параметры подписки и платежей**. Дополнительные сведения см. в статье [Отмена подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Чтобы **отменить** подписку E3, выберите **Выставление счетов > [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054)**, щелкните свою подписку и нажмите **Отменить подписку** в разделе **Параметры подписки и платежей**. Дополнительные сведения см. в статье [Отмена вашей подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Сведения об **активации** подписки E3 см. в статье [Активация вашей подписки](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Сведения о **повторной активации** подписки E3 см. в статье [Повторная активация подписки](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Сведения о **продлении** пробной подписки E3 см. в статье [Продление пробной версии](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).

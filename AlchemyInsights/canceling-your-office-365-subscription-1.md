@@ -3,6 +3,7 @@ title: Отмена Microsoft 365 подписки?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 audience: Admin
 ms.topic: article
@@ -11,21 +12,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 485bfab1afac5f025cb28204638b987440dfaab2
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 33c0aaca36aab200c98aedf1bae7785520166e65
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543266"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688087"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Отмена Microsoft 365 подписки?
 
 Мы сожалеем, что вы идете, вот шаги, чтобы отменить подписку:
 
 1. В центре администрирования перейдите на страницу **"Выставление** счета  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** продуктам", а затем выберите **вкладку Продукты.**
-2. Найдите подписку, которую хотите отменить. Выберите три точки (больше действий), а затем выберите **отмену подписки.**
+2. Найдите подписку, которую хотите отменить. Щелкните три точки (другие действия) и выберите **Отменить подписку**.
 3. В области **Отмена подписки** выберите причину, по которой вы отменяете подписку. Вы можете предоставить отзыв.
 4. Нажмите **Сохранить**.
 

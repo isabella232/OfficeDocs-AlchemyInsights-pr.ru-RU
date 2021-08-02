@@ -3,6 +3,7 @@ title: Вопросы и ответы по лицензиям и подписк�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002903"
 - "5582"
 - "5583"
-ms.openlocfilehash: 2406001aa64704025d0013521c2f76f99eafdc46
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 9911832f9d147e565c83a39995f8909f24a70405
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286723"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689239"
 ---
 # <a name="license-or-subscription-faq"></a>Вопросы и ответы по лицензиям и подпискам
 

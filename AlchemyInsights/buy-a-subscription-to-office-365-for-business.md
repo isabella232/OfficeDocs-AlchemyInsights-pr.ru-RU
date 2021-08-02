@@ -1,8 +1,10 @@
 ---
-title: Приобретение подписки на Microsoft 365 для бизнеса из бесплатной пробной версии
+title: Купить подписку на Microsoft 365 для бизнеса из бесплатной пробной пробной пробной
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,32 +12,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: e4e2024031ea539ae5107569481eb30e20649067
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: b45615a13d566c4c66b55bc989971864890ded9c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416218"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686071"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Приобретение подписки на Microsoft 365 из бесплатной пробной версии
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Купить подписку на Microsoft 365 бесплатной пробной пробной версия
 
-Вы пробовали Microsoft 365, и теперь готовы к приобретению. У вас есть два варианта приобретения Microsoft 365 из пробной версии:
+Вы уже Microsoft 365, и теперь вы готовы к покупке. При покупке Microsoft 365 версии у вас есть два варианта:
   
  **Приобретение того же плана, что и в пробной версии**
   
 1. В Центре администрирования перейдите на страницу **Выставление счетов** \> [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. На вкладке **продукты** выберите подписку, которую вы хотите купить.
-3. На странице "сведения о подписке" в разделе **Лицензия** выберите пункт **приобрести платную подписку**, а затем выполните действия, необходимые для извлечения.
+2. На **вкладке Продукты** выберите подписку, которую необходимо купить.
+3. На странице подробные сведения о подписке в разделе **Лицензия** выберите **купить** платную подписку сейчас и выполните действия, чтобы проверить.
  
-**Приобретение другой подписки**
+**Покупка другой подписки**
   
-1. В центре администрирования перейдите на страницу Услуги по **выставлению счетов** \> [покупки](https://go.microsoft.com/fwlink/p/?linkid=868433) .
-2. Найдите подписку, которую вы хотите приобрести, нажмите кнопку **купить**и выполните действия, необходимые для извлечения.
+1. В центре администрирования перейдите на страницу **Службы** покупки \> [биллинга.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+2. Найдите подписку, которую вы хотите купить, выберите **Купить** и выполните действия, чтобы проверить.
 
-Чтобы узнать больше, ознакомьтесь со статьей [приобрести подписку из бесплатной пробной версии](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
+Дополнительные дополнительные информации см. [в журнале Buy a subscription from your free trial.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
 
 **Устранение неполадок**
 

@@ -3,6 +3,8 @@ title: Выставление и оплата
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820407"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686899"
 ---
 # <a name="billing-and-payment"></a>Выставление и оплата
 
@@ -52,10 +55,10 @@ ms.locfileid: "51820407"
 
 7. Новый способ оплаты уже выбран в раскрывающемся списке. Нажмите кнопку **Заменить**.
 
-Дополнительные сведения см. в статье [Управление методами оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Дополнительные сведения см. в статье [Управление методами оплаты](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Частота вы выставления счета**
 
 Счета создаются ежемесячно или ежегодно в зависимости от частоты вы выставления счетов, выбранной при выезде.  
 
-**Примечание.** Заказы с ежегодным выставлением счета могут получать счет в среднесрочной перспективе, если были внесены изменения, такие как добавление или удаление лицензий. [Изменение частоты вы выставления счета.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Примечание.** Заказы с ежегодным выставлением счета могут получать счет в среднесрочной перспективе, если были внесены изменения, такие как добавление или удаление лицензий. [Изменение частоты вы выставления счета.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

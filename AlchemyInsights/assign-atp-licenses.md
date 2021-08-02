@@ -1,8 +1,10 @@
 ---
-title: Назначение лицензий Microsoft Defender для Office 365
+title: Назначение Microsoft Defender для Office 365 лицензий
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, argani
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +12,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: 0b6dea84c1342ef17f23180d3b917b052158cf46
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 803455035383dcf5c19739a30e28d740e351ec39
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601837"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688231"
 ---
-# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Назначение лицензий Microsoft Defender для Office 365
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Назначение Microsoft Defender для Office 365 лицензий
 
-Microsoft Defender для Office 365 может быть назначен пользователям в Центре администрирования Microsoft 365.
+Microsoft Defender для Office 365 могут быть назначены пользователям в центре Microsoft 365 Admin.
 
 1. Перейдите **к**  >  [лицензиям на выставление купюру.](https://go.microsoft.com/fwlink/p/?linkid=842264)
 2. Выберите продукт, для которого нужно назначить лицензии.
@@ -30,4 +33,4 @@ Microsoft Defender для Office 365 может быть назначен пол
 5. Нажмите **кнопку Включить приложения и службы, чтобы**  назначить или удалить.
 6. Нажмите **кнопку Назначить** и  **закрыть**.
 
-Сведения о приобретении и удалении лицензий см. в статье [Покупка и удаление лицензий](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Сведения о приобретении и удалении лицензий см. в статье [Покупка и удаление лицензий](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

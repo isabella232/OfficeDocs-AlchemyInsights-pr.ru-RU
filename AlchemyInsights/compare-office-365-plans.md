@@ -3,6 +3,7 @@ title: Сравнение подписок Майкрософт
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: drjones, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 0542cc6cbd9ca7a8d0845e2866be831631c8e389
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 5c141320f08b4610e9ebedf21107bfda54193f56
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416604"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689023"
 ---
-# <a name="compare-upgrade-or-purchase-subscriptions"></a>Сравнение, обновление и подписка на покупку
+# <a name="compare-upgrade-or-purchase-subscriptions"></a>Сравнение, обновление или покупка подписки
   
-Подписки доступны для [бизнеса](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?tab=2&rtc=1)и предприятий [корпоративного уровня](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1). Кроме того, Microsoft 365 доступен для [учебных](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1)заведений, [правительственных организаций](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1)и [некоммерческих](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit-plans-and-pricing?&rtc=1&activetab=tab%3aprimaryr1)организаций.
+Подписки доступны для [бизнеса](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?tab=2&rtc=1)и предприятий [корпоративного уровня.](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1) Кроме того, Microsoft 365 для [академических](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1)учреждений, государственных [организаций](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1)и [некоммерческих организаций.](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit-plans-and-pricing?&rtc=1&activetab=tab%3aprimaryr1)
   
-Если ваша организация заинтересована в сравнении всех планов и цен, ознакомьтесь со схемой [сравнение всех подписок](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1).
+Если ваша организация заинтересована в сравнении всех планов и цен, просмотрите [сравнение всех подписок.](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1)
   
-Если ваша организация уже приобрела подписки и заинтересована в переходе на другой план, это можно сделать в центре администрирования Microsoft 365. Перейдите на страницу **выставление счетов** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) и выберите подписку, которую нужно изменить. На странице "сведения о подписке" в разделе **сведения о продукте и обновления**выберите элемент **Просмотр обновлений, рекомендуемых для** Организации, чтобы просмотреть список новых доступных планов.
+Если ваша организация уже приобрела подписки и заинтересована в переходе на другой план, вы можете сделать это из Центр администрирования Microsoft 365. Перейдите на **страницу Выставление** платы за \> [продукты](https://go.microsoft.com/fwlink/p/?linkid=842054) и выберите подписку, которую необходимо изменить. На странице подробные сведения о подписке в статье Сведения о **продукте** и обновлениях выберите просмотр обновлений, рекомендуемых для вашей **организации,** чтобы просмотреть список новых планов, которые доступны.
   
-Организация также может сочетать и сопоставлять подписки для удовлетворения потребностей пользователей и требований к функциям. В центре администрирования перейдите на страницу Услуги по **выставлению счетов** \> [покупки](https://go.microsoft.com/fwlink/p/?linkid=868433) . 
+Ваша организация также может смешивать и соответствовать подпискам для удовлетворения потребностей и требований к функции пользователей. В центре администрирования перейдите на страницу **Службы** покупки \> [биллинга.](https://go.microsoft.com/fwlink/p/?linkid=868433) 

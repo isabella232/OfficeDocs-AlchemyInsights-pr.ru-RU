@@ -1,35 +1,37 @@
 ---
-title: Добавление и изменение Ватид
+title: Добавление или изменение vatID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
+ms.reviewer: jmueller, tugu
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 7f31038370b09fef179ac7d42e28e9d57b57d24d
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: a2a9b189ba8228cd6487c2f268c9d71affaa3519
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489074"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686323"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Добавление и изменение Ватид
+# <a name="how-to-add-or-edit-a-vatid"></a>Добавление или изменение vatID
 
 > [!NOTE]
-> Если вы в стране, в которой используется налог на добавленную налоговую сумму (НДС), например, Великобритания, Microsoft для выставления счетов вычисляет НДС и применяет сумму к счетам. Дополнительную информацию можно узнать в статье [VIES заявление об отказе](https://go.microsoft.com/fwlink/p/?LinkID=841741) , опубликованном Европейской комиссией.
+> Если вы находитесь в стране, использующей налог на добавленную стоимость (НДС), например в Великобритании, Microsoft Invoicing вычисляет НДС для вас и применяет сумму к вашим счетам. Дополнительные сведения см. в [публикации viES disclaimer,](https://go.microsoft.com/fwlink/p/?LinkID=841741) опубликованной Европейской комиссией.
 
-**Добавление или изменение Ватид**
+**Добавление или редактирование vatID**
 
 1. В Центре администрирования перейдите на страницу **Выставление счетов** \> [Ваши продукты](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. На вкладке **продукты** выберите подписку, которую вы хотите обновить.
-3. На странице "сведения о подписке" в разделе **адрес использования службы** выберите **изменить адрес использования службы**.
-4. В области **изменить адрес для использования службы** введите свой идентификатор НДС в поле **номер НДС** , а затем нажмите кнопку **сохранить**. После этого НДС не будет взиматься на следующий счет.
+2. На вкладке **Продукты** выберите подписку, которую нужно обновить.
+3. На странице сведения о подписке в разделе Адрес использования **службы** выберите **адрес использования службы Редактирование.**
+4. В поле **Изменить адрес использования** службы введите номер НДС в поле **номерОВ** НДС, а затем выберите **Сохранить**. После этого НДС не будет взиматься с следующего счета.
 
-Чтобы узнать больше, посмотрите, [какой налог будет взиматься в Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Подробнее см. в статье Какой налог будет взиматься [за Microsoft 365?.](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)

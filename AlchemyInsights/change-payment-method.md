@@ -3,25 +3,28 @@ title: Изменение метода оплаты
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 185de725abca43ca5ff378adb5bae95c1b6030c8
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601164"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685315"
 ---
 # <a name="change-payment-method"></a>Изменение метода оплаты
 
-Метод оплаты можно изменить в **центре администрирования Microsoft 365.**
+Метод оплаты можно изменить с **Центр администрирования Microsoft 365.**
   
 1. В центре администрирования перейдите в раздел **Выставление счетов** > **Счета и платежи** > [Методы оплаты](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Выберите строку метода оплаты, который нужно заменить. В области справа выводится список всех профилей выставления счетов и отдельных подписок, использующих выбранный метод оплаты.
@@ -33,6 +36,6 @@ ms.locfileid: "50601164"
 6. В области **Добавление метода оплаты** введите сведения об учетной записи и нажмите **Сохранить**.. Необходимо использовать способ оплаты из той же страны, что и у вашего клиента.
 7. Новый способ оплаты уже выбран в раскрывающемся списке. Нажмите кнопку **Заменить**.
 
-Чтобы узнать, как добавлять, обновлять, заменять или удалять методы оплаты, см. в публикации [Управление методами оплаты.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Чтобы узнать, как добавлять, обновлять, заменять или удалять методы оплаты, см. в публикации [Управление методами оплаты.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Подробнее об изменении методов оплаты см. в журнале [How to pay for your subscription.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Подробнее об изменении методов оплаты см. в журнале [How to pay for your subscription.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
