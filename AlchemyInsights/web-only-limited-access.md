@@ -1,5 +1,5 @@
 ---
-title: Web-Only ограниченный доступ
+title: Ограниченный доступ (только веб-доступ)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004169"
 - "7314"
-ms.openlocfilehash: 9f53219bd504425295302500965dc526cbf75106
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f62a3fff61dd005423574e77c70cedb4e3516d3012c69b0095246aa194154e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907931"
 ---
-# <a name="web-only-limited-access"></a>Web-Only ограниченный доступ
+# <a name="web-only-limited-access"></a>Ограниченный доступ (только веб-доступ)
 
-Web-Only ограниченный доступ — это вариант уровня разрешений "ограниченный доступ", который позволяет пользователям получать доступ только к веб-объекту.
+Web-Only ограниченный доступ — это вариант уровня разрешений "Ограниченный доступ", который позволяет пользователям получать доступ только к веб-объекту.
 
-Для получения дополнительных сведений ознакомьтесь со статьей [уровни разрешений по умолчанию](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels).
+Дополнительные сведения см. в [сведениях об уровнях разрешений по умолчанию.](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels)

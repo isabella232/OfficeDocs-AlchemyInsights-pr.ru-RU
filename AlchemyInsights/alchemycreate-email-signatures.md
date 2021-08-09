@@ -1,5 +1,5 @@
 ---
-title: Алчеми — создание подписей электронной почты
+title: Алхимия — создание подписей электронной почты
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 563c1541-b4d3-4f7a-aaec-8b3b1477e517
-ms.openlocfilehash: 19bbb653d9ca5eaca45bc505e5212270d7373046
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a440239dae2978b548fdaa33bca60f2aff039756da283e86513b9ee2dbd3c59b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718850"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934090"
 ---
 # <a name="create-email-signatures"></a>Создание подписей электронной почты
 
-В следующих разделах приводятся сведения о том, как создавать электронные подписи в Outlook.
+См. следующие разделы, чтобы узнать, как создавать подписи электронной почты в Outlook.
   
-- Создайте электронную подпись для собственных сообщений: [Создание и Добавление подписи к сообщениям](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) , [а также создание и Добавление подписи электронной почты в Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).
+- Создайте подпись электронной почты [](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) для собственных сообщений: создайте и добавьте подпись к сообщениям или создайте и добавьте подпись электронной почты [в Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).
     
-- Создайте глобальную электронную подпись для всех сообщений, отправляемых из вашей компании (также известных как заявление об отказе): [заявления об отказе в Организации, подписи, нижние колонтитулы и заголовки](https://go.microsoft.com/fwlink/p/?linkid=391096).
+- Создайте глобальную подпись электронной почты для всех сообщений, отправленных из вашей компании (также известных как отказ от ответственности): отказы от сообщений, [подписей,](https://go.microsoft.com/fwlink/p/?linkid=391096)подносов или загонщиков по всей организации.
     
 
