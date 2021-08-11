@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 92d776675c2c70bfb651ce09e0f2d7b815366f22a87f2e468964fa4971d275f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822144"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934918"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>Включить внешние коммуникации и добавить контакты
 
-В Skype для бизнеса можно добавить людей в список контактов, чтобы они были всего в щелчке мыши. Каждый добавленный вами контакт становится участником одной или нескольких ваших групп контактов. Дополнительные [сведения о добавлении](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) контакта в Skype для бизнеса. 
+В Skype для бизнеса вы можете добавить людей в список контактов, чтобы они были всего одним щелчком мыши. Каждый добавленный вами контакт становится участником одной или нескольких ваших групп контактов. Дополнительные сведения о добавлении [контакта Skype для бизнеса](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) в обзоре. 
 
 Убедитесь, что администратор клиента следовал шагам, направленным на [разрешение внешних коммуникаций.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-Вы хотите, чтобы пользователи могли обращаться только к пользователям Skype? См. [в ленте Let Skype for Business users add Skype contacts.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
+Вы хотите, чтобы пользователи могли связаться только с Skype пользователями? См. [Skype для бизнеса добавить Skype контакты.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
