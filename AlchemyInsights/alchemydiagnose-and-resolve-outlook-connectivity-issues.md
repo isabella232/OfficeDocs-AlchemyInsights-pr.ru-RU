@@ -1,5 +1,5 @@
 ---
-title: Алчеми — диагностика и устранение проблем с подключением к Outlook
+title: Алхимия — диагностика и решение Outlook подключений
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,16 +14,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: b2cce7e7d87558a773e63f518e1a52192fefd92c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f10eb569be90ba8f5f5fafc50f70c79e15a4c693c7798f804da4206846eccecc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718706"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933730"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Диагностика и устранение проблем с подключением к Outlook
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Диагностика и решение Outlook подключений
 
-Чтобы диагностировать и исправить проблемы с подключением к Outlook, можно запустить [средство подключения Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) на затронутом компьютере.
+Чтобы диагностировать Outlook проблемы с подключением, можно [](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) запустить Outlook подключения на пострадавшем компьютере.
   
-Это средство выполнит диагностические проверки и предложит возможные решения для устранения проблем с подключением к Outlook.
+Этот инструмент выполнит диагностические проверки и предложит возможные решения для решения Outlook подключения.
   

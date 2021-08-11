@@ -1,5 +1,5 @@
 ---
-title: Onboard devices to Microsoft Defender for Endpoint
+title: Подключение устройств к Microsoft Defender для конечной точки
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967490"
 ---
-# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Onboard devices to Microsoft Defender for Endpoint
+# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Подключение устройств к Microsoft Defender для конечной точки
 
-Microsoft Defender для конечной точки предоставляет централизованный опыт работы с безопасностью для платформ Windows и не windows. Это помогает защитить сеть организации и использовать Центр безопасности Microsoft Defender для проверки оповещений из различных поддерживаемых операционных систем:
+Microsoft Defender для конечной точки предоставляет централизованную службу безопасности для Windows и Windows платформ. Это помогает защитить сеть организации и использовать Центр безопасности в Microsoft Defender для проверки оповещений из различных поддерживаемых операционных систем:
 
-- Для **машин с Windows 10 см.** в таблице [Onboarding tools and methods for Windows 10 devices.](https://go.microsoft.com/fwlink/?linkid=2143460)
-- Для **серверов Windows** см. на сайте [Onboard servers to the Microsoft Defender for Endpoint service.](https://go.microsoft.com/fwlink/?linkid=2143627)
-- Для **конечных точек,** не в windows, убедитесь, что ваша система соответствует требованиям для [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) или [Linux,](https://go.microsoft.com/fwlink/?linkid=2143462)а затем приступить к [onboarding](https://go.microsoft.com/fwlink/?linkid=2143628).
+- Для **Windows 10 машин** см. в таблице [Onboarding tools and methods for Windows 10 устройств.](https://go.microsoft.com/fwlink/?linkid=2143460)
+- Для **Windows серверов** см. на сайте [Onboard servers to the Microsoft Defender for Endpoint service.](https://go.microsoft.com/fwlink/?linkid=2143627)
+- Чтобы **не Windows** конечных точек, убедитесь, что ваша система соответствует требованиям для [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) или [Linux,](https://go.microsoft.com/fwlink/?linkid=2143462)а затем переходите к [onboarding](https://go.microsoft.com/fwlink/?linkid=2143628).
