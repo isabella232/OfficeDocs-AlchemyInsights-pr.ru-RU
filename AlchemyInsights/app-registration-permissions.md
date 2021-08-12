@@ -1,5 +1,5 @@
 ---
-title: Разрешения регистрации приложений
+title: Разрешения на регистрацию приложений
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7781"
-ms.openlocfilehash: 607d2a4405f22d9b154adfe7fdf14cfa273ee8fb
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: abd4d2600a29506efe74079709d6a974a6169260b74eb147a7787722c4b799c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49888317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951074"
 ---
-# <a name="app-registration-permissions"></a>Разрешения регистрации приложений
+# <a name="app-registration-permissions"></a>Разрешения на регистрацию приложений
 
-[Разрешения на регистрацию](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)приложений для настраиваемой роли в Azure Active Directory : в этой статье представлены доступные в настоящее время разрешения на регистрацию приложений для пользовательских определений ролей в Azure Active Directory (Azure AD).
+[Разрешения на регистрацию](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)приложений для пользовательских ролей в Azure Active Directory : В этой статье содержатся доступные в настоящее время разрешения на регистрацию приложений для пользовательских определений ролей в Azure Active Directory (Azure AD).

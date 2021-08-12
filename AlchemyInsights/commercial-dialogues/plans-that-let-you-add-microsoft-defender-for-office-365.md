@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 48e6f55c35a1a0af04453c17bb8dfe9cce194b5c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 890f55e87048d62121aaa07db24a518faddfe89db9c7162c593ef240de83f1b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916140"
 ---
 # <a name="plans-that-let-you-add-microsoft-defender-for-office-365"></a>Планы, которые позволит добавить Microsoft Defender для Office 365
 
-Если у вас есть один из следующих планов, вы можете добавить в него Microsoft Defender для Office 365:
+Если у вас есть один из следующих планов, вы можете добавить Microsoft Defender для Office 365 к ней:
 
-- Exchange Online Plan 1 или 2
+- Exchange Online План 1 или 2
 - Базовая подписка на Exchange Online
 - Exchange Online Protection
-- Основные бизнес-службы Office 365 или Бизнес Премиум
-- Office 365 Enterprise E1, E3 или F1
+- Office 365 бизнес базовый или бизнес-Premium
+- Office 365 корпоративный E1, E3 или F1
 - Office 365 A1 или A3

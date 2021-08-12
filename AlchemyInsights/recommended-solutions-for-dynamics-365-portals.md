@@ -1,5 +1,5 @@
 ---
-title: Рекомендуемые решения для порталов Dynamics 365
+title: Порталы Dynamics 365 Рекомендуемые решения
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 2c9a60453431bb965fda0c6ac1191f1c24420d3b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 701e7e74648ce09927f41b70945c7a2e9ba89e5d96a088343984c2054fda2343
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693064"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911063"
 ---
 # <a name="dynamics-365-portals-recommended-solutions"></a>Рекомендуемые решения для порталов Dynamics 365
 
-* [Просмотр подробных ошибок сервера, показанных на портале](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Просмотр подробной ошибки сервера, показанной на портале](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
 * [Сброс портала](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
 * [Очистка кэша на стороне сервера для портала](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Как изменить аудиторию и тип портала Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Изменение аудитории и типа портала Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
 * [Изменение базового URL-адреса портала](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
@@ -35,4 +35,4 @@ ms.locfileid: "47693064"
 
 * [Вопросы и ответы](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Начало работы с порталом Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Начало работы с порталом My Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

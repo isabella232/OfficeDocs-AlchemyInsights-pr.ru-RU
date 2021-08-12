@@ -1,5 +1,5 @@
 ---
-title: Идет обслуживание инцидента
+title: Инцидент службы в процессе
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,19 +13,19 @@ ms.custom:
 - "1891"
 - "1600011"
 - "9000287"
-ms.openlocfilehash: 8ed373939f82f7f96fd51587210dcc26f28e75f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fab6c1e12e750ab8fab046bf3d575a4bfc0d191495e4c8c2c48698dd98106aa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942264"
 ---
-# <a name="service-incident-in-progress"></a>Идет обслуживание инцидента
+# <a name="service-incident-in-progress"></a>Инцидент службы в процессе
 
-Возможно, вы затронем инцидент или рекомендации службы, которые сейчас изучены. Вы можете проверить последний статус, перейдя на страницу [работоспособности службы](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+На вас может повлиять инцидент службы или консультации, которые в настоящее время изучаются. Последний статус можно проверить, переехав на страницу ["Здоровье](https://admin.microsoft.com/adminportal/home#/servicehealth) службы".
   
-Для удобства можно найти краткие сведения об этом инциденте:
+Для вашего удобства вы можете найти сводку об этом инциденте ниже:
   
-> **Номер инцидента:**[{инЦидентид}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Номер инцидента:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Описание влияния: {Импактдескриптион}
+> Описание воздействия: {ImpactDescription}
