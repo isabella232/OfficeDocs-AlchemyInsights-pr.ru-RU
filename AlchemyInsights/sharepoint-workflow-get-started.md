@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 241cd2616fdb1fa9d02d204655946eeb1c95691f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2eb6798456770450cb7231afc2b883ce9451eef2390955c16f9125014b41c489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910415"
 ---
 # <a name="workflows-in-sharepoint"></a>Рабочие процессы в SharePoint
 
-Рабочие процессы в SharePoint позволяют моделировать и автоматизировать бизнес-процессы. SharePointподдерживает две основных среды разработки среды рабочих процессов: SharePoint Designer и Visual Studio. 
+Рабочий процесс в SharePoint позволяет моделировать и автоматизировать бизнес-процессы. SharePointподдерживает две основных среды разработки среды рабочих процессов: SharePoint Designer и Visual Studio. 
 
-Ознакомьтесь с разработкой [рабочих процессов SharePoint в SharePoint Designer и Visio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) или [Разработка рабочих процессов SharePoint с помощью Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) , чтобы оценить преимущества и недостатки каждого из них. 
+См. SharePoint разработки SharePoint [конструктора](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) и Visio или разработки SharePoint с помощью [Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) для оценки преимуществ и недостатков каждого из них. 
 
-Если вы пытаетесь определить, являются ли рабочие процессы решениями для использования в среде SharePoint или ищете общие сведения о начале работы, ознакомьтесь со статьей [Обзор рабочих процессов в SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).
+Если вы пытаетесь определить, являются ли рабочий процесс решением, которое можно использовать в SharePoint среде, или ищете общую информацию о том, как начать работу, см. в обзоре рабочего процесса в [SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).

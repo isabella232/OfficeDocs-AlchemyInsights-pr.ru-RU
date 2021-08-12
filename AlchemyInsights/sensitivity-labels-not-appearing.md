@@ -1,5 +1,5 @@
 ---
-title: Метки конфиденциальности не отображаются
+title: Метки чувствительности, которые не отображаются
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 824824257fee4aaaab1f2dd32597b4cdc858d035fabd357af90cf054dd35c9c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061445"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Метки конфиденциальности не отображаются
+# <a name="sensitivity-labels-not-appearing"></a>Метки чувствительности, которые не отображаются
 
-Метки конфиденциальности позволяют классифицировать и защищать конфиденциальное содержимое. Они могут быть созданы в центре соответствия требованиям Microsoft 365, центре безопасности 365 Майкрософт или Microsoft 365 центр соответствия требованиям & безопасности в разделе классификация > меток конфиденциальности. Чтобы узнать больше об этой функции, просмотрите раздел [Обзор меток конфиденциальности](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Метки конфиденциальности позволяют классифицировать и защищать конфиденциальный контент. Они могут быть созданы в центре Центр соответствия требованиям Microsoft 365, Microsoft 365 безопасности или в центре Microsoft 365 безопасности & в соответствии с метами Classification > Sensitivity. Дополнительные сведения об этой функции см. в [обзоре меток конфиденциальности.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Если вы настроили метки конфиденциальности, но они не отображаются в приложениях Microsoft 365, проверьте следующее:
+Если вы настроили метки конфиденциальности, но они не отображаются в Microsoft 365 приложениях, проверьте следующее:
 
-- Убедитесь, что метка конфиденциальности была [опубликована](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) для нужных пользователей и групп.
+- Подтверди, что метка конфиденциальности [была опубликована](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) пользователям и группам, которые вам нужны.
 
-- Убедитесь, что пользователь использует приложение, которое поддерживает метки чувствительности — просмотрите [метки конфиденциальности в документе](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
+- Подтверждение того, что пользователь использует приложение, которое поддерживает метки чувствительности, см. в документе [метки конфиденциальности.](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)
 
-- Если вы переносите [метки Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), учитывайте вопросы, приведенные в [этой статье](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Если вы переносят [метки Azure Information Protection,](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)будьте в курсе перечисленных [здесь соображений.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)
 
-- Поддержка защиты от потери данных (DLP): в настоящее время в качестве условия в политиках защиты от потери данных можно использовать только метки хранения.  Поддержка меток конфиденциальности в политике DLP пока недоступна, но мы работаем над этим.
+- Поддержка защиты от потери данных(DLP): В настоящее время в политиках DLP можно использовать только метки хранения.  Поддержка меток конфиденциальности в политике DLP еще недоступна, но мы работаем над ней.
 
-- Если для метки конфиденциальности включено шифрование, вы можете выбрать один из следующих вариантов:
+- Если шифрование включено на мете конфиденциальности, вы можете выбрать:
     - Назначение разрешений
     - Предоставление пользователям возможности назначать разрешения
 
 
-Дополнительные сведения о возможных проблемах приведены в статье [Известные проблемы с метками чувствительности](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Дополнительные сведения о возможных проблемах см. в выпуске [Known issues with sensitivity labels.](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
