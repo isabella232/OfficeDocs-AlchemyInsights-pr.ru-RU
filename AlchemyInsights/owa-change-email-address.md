@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 7ce9cda279435beb74d43eaa433cf3c4ce358ff4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b13d7dafeabb87d027cdd3ae7659ccde79be2abfc328682885bfb0f95c1b442
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961388"
 ---
 # <a name="change-your-email-address"></a>Изменение адреса электронной почты 
 
-Чтобы изменить адрес электронной почты, необходимы права администратора.
+Чтобы изменить адрес электронной почты, вам будут необходимы привилегии администратора.
   
-Следуйте инструкциям в статье [изменение имени пользователя и адреса электронной почты в Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+Следуйте инструкциям в [Change a user name and email address in Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
