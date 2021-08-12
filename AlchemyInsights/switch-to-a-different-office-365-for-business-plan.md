@@ -1,5 +1,5 @@
 ---
-title: Переключиться на другой Microsoft 365 для бизнес-плана
+title: Переключиться на другой Microsoft 365 бизнес-плана
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 81cbfc71f5cdbf616f998212ee4eb2734b09728c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6882f76deeaac4b2f7a67b955ce1fea977cd41697cb5fdacbc2d866b3933ef8a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909659"
 ---
-# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Переключиться на другую подписку на Microsoft 365 для бизнеса
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Переключиться на другой Microsoft 365 подписки для бизнеса
 
 При смене бизнеса или необходимости в дополнительных функциях можно перейти на новый план.
   

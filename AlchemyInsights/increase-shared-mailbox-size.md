@@ -1,5 +1,5 @@
 ---
-title: 1815 увеличить размер общего почтового ящика
+title: 1815 Увеличение размера общего почтового ящика
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912755"
 ---
 # <a name="increase-the-size-of-a-shared-mailbox"></a>Увеличение размера общего почтового ящика
 
-Вы можете увеличить размер общего почтового ящика, используя размер по умолчанию 50 ГБ до 100 ГБ, назначив общий почтовый ящик лицензией Exchange Online P2 (которая входит в состав лицензий E3 и водо). Когда вы назначаете лицензию P2 общему почтовому ящику в разделе [Активные пользователи](https://portal.office.com/adminportal/home), размер будет автоматически увеличен через 15 минут.
+Можно увеличить размер общего почтового ящика с 50 ГБ по умолчанию до 100 ГБ, назначив общему почтовому ящику лицензию Exchange Online P2 (которая входит в лицензии E3 и E5). При назначении лицензии P2 общему [](https://portal.office.com/adminportal/home)почтовому ящику активных пользователей размер автоматически увеличивается в течение 15 минут.

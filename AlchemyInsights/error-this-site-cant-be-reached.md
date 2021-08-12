@@ -1,5 +1,5 @@
 ---
-title: Этот сайт не может быть достигнут - ошибка при попытке получить доступ к сайту SharePoint из браузера или Teams
+title: Этот сайт не может быть достигнут - ошибка при попытке доступа к SharePoint сайта из браузера или Teams
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005378"
 - "9266"
-ms.openlocfilehash: 451544fb85522e0eececc9274825805699685ee9
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 5f8861e85df21082329273237679e26a1b31ce694e11ad6407d4690d7caf2fc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50718201"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946664"
 ---
-# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Ошибка "Этот сайт не может быть достигнута" при попытке получить доступ к сайту SharePoint из браузера или Teams
+# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Ошибка "Этот сайт не может быть достигнута" при попытке доступа к SharePoint сайта из браузера или Teams
 
-Пользователи могут получить ошибку "Этот сайт не может быть достигнут" при попытке получить доступ к сайту SharePoint из браузера или Teams. 
+Пользователи могут получить ошибку "Этот сайт не может быть достигнут" при попытке получить доступ к SharePoint сайта из браузера или Teams. 
 
 Чтобы устранить эту проблему, выполните следующие действия: 
 
