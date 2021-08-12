@@ -12,18 +12,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: dbdcb538a94567f32dee8b135822900ea50f94c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 566073563c6159bfa1d5fb2d2b105ce566accac7fc88f4c90ee1d8d41bbd061e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658351"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920552"
 ---
 # <a name="trying-to-remove-your-domain"></a>Пытаетесь удалить домен?
 
-Чтобы удалить домен из Майкрософт, выполните действия, описанные в этой статье: [Удаление домена](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
+Чтобы удалить домен из Microsoft, выполните действия в этой статье: [Удаление домена](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   
-Перед удалением домена необходимо обновить все пользователи и группы, которым назначено это имя домена.
+Перед удалением домена необходимо обновить пользователей или группы, которые назначены этому домену.
   
-[В статье Domains](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for другие распространенные решения.
+[Проверьте статью доменов для](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) других распространенных решений.
   

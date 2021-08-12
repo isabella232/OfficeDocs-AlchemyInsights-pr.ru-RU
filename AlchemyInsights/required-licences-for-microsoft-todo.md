@@ -14,12 +14,12 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972990"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Необходимые лицензии для Microsoft ToDo
 
@@ -33,7 +33,7 @@ ms.locfileid: "51828777"
 
 - Microsoft 365 Firstline F1
 
-- Любой корпоративный план Office 365
+- Любой Office 365 корпоративный
 
 - Безопасный производительный бизнес
 
@@ -41,19 +41,19 @@ ms.locfileid: "51828777"
 
 - Secure Productive Enterprise E5
 
-- Любой план образования Office 365
+- Любой Office 365 для образования
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-Помимо действующей лицензии на продукт, для синхронизации пользовательских данных для ToDo необходима одна из следующих версий Exchange Online:
+Помимо действующей лицензии на продукт, одна из следующих версий Exchange Online для того, чтобы ToDo мог синхронизировать данные пользователей:
   
 - Exchange Online (план 1)
 
 - Exchange Online (план 2)
 
-- Основные инструменты Exchange
+- Exchange Основные
 
 - Базовая подписка на Exchange Online
 
