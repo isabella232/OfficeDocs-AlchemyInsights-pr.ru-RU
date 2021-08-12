@@ -13,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 7cfe02546f6bed02282f544037cb5d84a711cd87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff05cbfe55642243cff035c63db1ec7b541324b5f3685cacbf2877e22445e8cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928634"
 ---
 # <a name="disable-onedrive"></a>Отключение OneDrive
 
-Существует несколько способов отключить доступ к OneDrive и его службам в зависимости от потребностей бизнеса:
+Существует несколько способов отключения доступа к OneDrive и его службам в зависимости от бизнес-потребностей:
 
-[Удаление связи, скрытие или удаление приложения OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[Unlink, hide or uninstall the OneDrive Application](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
 [Разрешить синхронизацию только для определенных организаций](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
-[Отключение создания сайта OneDrive для некоторых пользователей](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+[Отключение OneDrive для некоторых пользователей](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[Управление доступом к данным SharePoint Online и OneDrive на основе расположения в сети](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[Управление доступом к SharePoint и OneDrive в зависимости от расположения сети](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[Отключить синхронизацию личных OneDrive](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[Отключение личных приложение синхронизации OneDrive](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[Управление подключениями устройств с Windows к OneDrive и другим службам](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[Управление подключениями с Windows устройств для OneDrive и других служб](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 1314 дублирующее исправление объектов
+title: 1314 Повторная исправление объектов
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 5c071e1a161cd2885b10d082f3c78eb5ac65b0b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1901dd13291cc1e4b811d243a670b8d6c2998e712a8d1744effe7e3832c156da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964682"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Повторяющиеся ошибки синхронизации объектов
+# <a name="duplicate-object-synchronization-errors"></a>Дублирование ошибок синхронизации объектов
 
-При получении одной из следующих ошибок во время синхронизации:
+Если во время синхронизации вы получите одну из следующих ошибок:
 
-- Синхронизированный объект с таким же прокси-адресом уже существует в вашем каталоге Microsoft Online Services.
+- Синхронизированный объект с тем же прокси-адресом уже существует в Microsoft Online Services каталоге.
 
 - Аналогичное сообщение для UserPrincipalName.
 
-Используйте новую диагностику работоспособности AADConnect, чтобы устранить ошибки дублирования объектов. Дополнительные сведения см. в статье [Диагностика и исправление ошибок синхронизации атрибутов с повторениями](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Используйте новую диагностику AADConnect Health для устранения повторяют ошибки объекта. Дополнительные сведения см. в [документе Diagnose and remediate duplicated attribute sync errors.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)
