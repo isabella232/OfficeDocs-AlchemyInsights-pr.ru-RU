@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: 818a1bbc0d6e386a69f38aeee12e5be805013d42
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9610093d3ca87d2ba1ed3544bd2911a2154bd7fafb616fd077b42d5cce6c49fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832952"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963260"
 ---
 # <a name="learn-about-data-loss-prevention-dlp-in-microsoft-edge"></a>Сведения о предотвращении потери данных (DLP) в Microsoft Edge
 
@@ -25,4 +25,4 @@ ms.locfileid: "51832952"
 
 Конфиденциальные корпоративные данные включают финансовые данные и персональные идентифицируемые сведения (PII), такие как номера кредитных карт, номера социального страхования и записи о состоянии здоровья. Чтобы соответствовать бизнес-стандартам и отраслевым нормам, организации должны защищать конфиденциальные данные и предотвращать их несанкционированное раскрытие. DLP — это система технологий, которая позволяет организациям выполнять эту задачу.
 
-Дополнительные сведения о двух различных решениях DLP, поддерживаемых Microsoft Edge, см. в таблице [Microsoft Endpoint DLP](https://go.microsoft.com/fwlink/?linkid=2151765) и [Windows Information Protection (WIP).](https://go.microsoft.com/fwlink/?linkid=2151766)
+Дополнительные сведения о двух различных решениях DLP, поддерживаемых Microsoft Edge, см. в Windows [Microsoft Endpoint DLP.](https://go.microsoft.com/fwlink/?linkid=2151765) [](https://go.microsoft.com/fwlink/?linkid=2151766)

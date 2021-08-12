@@ -1,5 +1,5 @@
 ---
-title: 8000059 как изменить макет
+title: 8000059 Как изменить макет
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "993"
 - "8000059"
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: a74b6f938f3059c307f35e94e4abfbb590282a3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 153d908298e5fcfe8417f45ac89c911993f98d16ffe5c27abda4b6f3959002c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963764"
 ---
 # <a name="how-to-change-your-layout"></a>Изменение макета
 
-Вы можете легко изменить параметры в Outlook.com, чтобы он отображался и настроился так, как вы хотите. Выберите **наиболее популярные параметры на** панели инструментов.
+Легко изменить параметры в Outlook.com, чтобы он выглядел и вел себя так, как нужно. Выберите **Параметры** на панели инструментов для наиболее популярных параметров.
 
-Чтобы просмотреть все параметры макета, выберите пункт **Параметры**  >  **Mail**  >  [**макета**](https://outlook.live.com/mail/options/mail/layout)почты.
+Чтобы увидеть все параметры макета, **выберите Параметры**  >    >  [**макет почты**](https://outlook.live.com/mail/options/mail/layout).
   
