@@ -1,5 +1,5 @@
 ---
-title: Передача домена в корпорацию Майкрософт
+title: Передача домена Корпорации Майкрософт
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7304"
-ms.openlocfilehash: 8a8a13956237fe146340ff19024a626981138a43
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 17cd75fb3eacd35a5177affc0308c4864359b35ace3aebe317c0c126092b6bba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980982"
 ---
-# <a name="transfer-a-domain-to-microsoft"></a>Передача домена в корпорацию Майкрософт
+# <a name="transfer-a-domain-to-microsoft"></a>Передача домена Корпорации Майкрософт
 
-Регистрация и выставление счетов для доменов не могут быть перенесены в корпорацию Майкрософт.
+Регистрация доменов и выставление счета не могут быть переданы Корпорации Майкрософт.
 
-Чтобы добавить домен, который вы уже владеете, следуйте указаниям [мастера добавления доменов](https://admin.microsoft.com/Adminportal/Domains/Wizard)или **Settings** перейдите к разделу  >  **домены** параметров  >  **Добавить домен**.
+Чтобы добавить уже собственный домен, следуйте мастеру [Добавить](https://admin.microsoft.com/Adminportal/Domains/Wizard)домен или перейдите **в Параметры**  >    >  **Домены Добавить домен**.
 
-Для получения дополнительных сведений об изменениях DNS, необходимых для проверки домена, ознакомьтесь со статьей [Добавление DNS-записей для подключения к домену](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Дополнительные сведения об изменениях DNS, необходимых для проверки домена, см. в добавлении [записей DNS для подключения домена.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Вопросы, связанные с доменами, приведены в статье [вопросы и ответы по доменам](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Вопросы, касающиеся доменов, см. в [faq доменов.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

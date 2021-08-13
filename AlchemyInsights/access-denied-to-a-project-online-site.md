@@ -1,5 +1,5 @@
 ---
-title: Отказ в доступе к сайту Project Web App
+title: Доступ к веб-сайту Project Web App
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955358"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Предоставление пользователям разрешений в Project Online
+# <a name="give-users-permissions-in-project-online"></a>Дайте пользователям разрешения в Project Online
 
-Предоставление пользователям доступа к сайту Project Web App с помощью режима разрешений SharePoint:
+Предоставить пользователям доступ к веб-сайту Project Web App с помощью SharePoint режима разрешений:
 
-1. Выполните вход в Project Online в качестве администратора.
-2. На домашней странице Project Web App выберите пункт **общий доступ** в правом верхнем углу.
-3. В диалоговом окне **общий доступ к Project Web App** введите имя пользователя, которому вы хотите предоставить доступ, в поле **пригласить участников** .
-4. Выберите пункт **Показать параметры**, а затем в меню **Выбор уровня разрешений** выберите элемент **руководители проектов для Project Web App**.
-5. Нажмите кнопку **Поделиться**.
+1. Войдите в Project Online в качестве администратора.
+2. На домашней Project Web App выберите **Share** в правом верхнем углу.
+3. В **диалоговом окне Share Project Web App** введите имя пользователя пользователя, к нему необходимо предоставить доступ в поле **Invite People.**
+4. Выберите **Параметры показать,** а в меню **Выберите** уровень разрешений выберите **Project менеджеров для Project Web App**.
+5. Нажмите **Поделиться**.
 
-Если вы используете режим разрешений проекта или дополнительные сведения см. [в статье Добавление пользователей в Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Если вы используете Project или дополнительные сведения, см. в [Project Online.](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)

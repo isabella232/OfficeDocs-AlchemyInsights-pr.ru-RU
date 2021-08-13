@@ -1,5 +1,5 @@
 ---
-title: Project Web App отсутствует в семействе веб-сайтов SharePoint
+title: Project Web App отсутствует в коллекции SharePoint сайтов
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801593"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973098"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App отсутствует в семействе веб-сайтов SharePoint
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App отсутствует в коллекции SharePoint сайта
 
-Project Web App может отсутствовать в семействе веб-сайтов SharePoint по следующим причинам:
+Project Web App может быть пропущено из SharePoint сайта по следующим причинам:
 
-1. В организациях есть только лицензии на проект Online Essentials. Администраторам потребуется добавить лицензию Project Online Professional и/или Premium. В этой точке сайт будет доступен только для чтения. Более подробную информацию можно найти в статье [Сравнение решений по управлению проектами](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. В клиенте возникла ошибка подготовки, в результате которой подготовка сайта Project Web App задерживается. Если прошло более 24 часов, и вы по-прежнему столкнулись с проблемой, запишите запрос в службу поддержки. Мы понимаем, что 24 часа могут показаться долгим временем. Во многих случаях мы уже работаем над решением. Отправьте нам по крайней мере 24 часа для завершения решения.
+1. Организации имеют только Project Online базовый лицензию(ы). Администраторам необходимо добавить Project Online профессиональный или Premium лицензию. В этот момент сайт будет работать только для чтения. Дополнительные сведения см. в [Project средства управления.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. У клиента была проблема с подготовками, из-за которой Project Web App подготовка сайта была отложена. Если прошло более 24 часов и вы все еще испытываете проблему, войдите в систему поддержки. Мы понимаем, что 24 часа могут показаться долгим временем. Во многих случаях мы уже работаем над решением. Пожалуйста, дайте нам по крайней мере 24 часа, чтобы завершить решение.

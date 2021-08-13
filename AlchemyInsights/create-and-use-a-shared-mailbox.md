@@ -12,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c03a4285ecc837c0fc7657bd6eb893586bf4aca0733ea306d6f6c783ff402d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914916"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Создание и использование общего почтового ящика
 
 Общий почтовый ящик позволяет нескольким пользователям отправлять и получать почту, пользуясь одним и тем же адресом, например sales@contoso.com. Назначать лицензию каждому пользователю не нужно.
   
-- Чтобы приступить к работе, выполните указанные ниже [действия](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) в центре администрирования Microsoft 365. 
+- [Выполните следующие действия](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) в Центр администрирования Microsoft 365, чтобы начать работу. 
 
-Вы также можете ознакомиться со статьей [Создание общего почтового ящика](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) , в котором вы узнаете все, что вам нужно знать о общих почтовых ящиках, в том числе как их использовать.
+Вы также можете прочитать статью [Создание](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) общих почтовых ящиков, которая расскажет вам все, что вам нужно знать об общих почтовых ящиках, в том числе о том, как их использовать.
   

@@ -1,5 +1,5 @@
 ---
-title: Процесс установки Office 365 с помощью FastTrack
+title: Процесс Office 365 с помощью FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -13,18 +13,18 @@ ms.custom:
 - "9003885"
 - "6939"
 - "9419"
-ms.openlocfilehash: 4b8006959728192ba97fd1770f0caa71aaf7ca53
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 35b18e1fc353d3a757a4b2aded385111bd723f61386fe6d2f7c1315536cc30af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233763"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913404"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>Процесс установки Office 365 с помощью FastTrack
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>Процесс Office 365 с помощью FastTrack
 
-Если вы имеете право на Office 365 FastTrack, вы можете запросить помощь через портал. Если вы ищете самостоятельное руководство или помощь от партнера, Office 365 или квалифицированный партнер могут помочь вам в этом процессе.
+Если вы имеете право на Office 365 FastTrack помощь, вы можете запросить помощь через портал. Если вы ищете самостоятельное руководство или помощь от партнера, Office 365 или квалифицированный партнер могут помочь вам в этом процессе.
 
-- Чтобы получить помощь на портале FastTrack, вопишитесь на портал [FastTrack и](https://go.microsoft.com/fwlink/?linkid=2125443) выполните действия по завершению запроса на помощь с помощью Microsoft 365 форме.
+- Чтобы получить помощь через портал FastTrack, вопишитесь на портал [FastTrack и](https://go.microsoft.com/fwlink/?linkid=2125443) выполните действия по завершению запроса на помощь с помощью Microsoft 365 форме.
 
     > [!NOTE]
     > Если у вас возникли проблемы с входом или вам требуется дополнительная помощь, отправьте электронное сообщение [ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
