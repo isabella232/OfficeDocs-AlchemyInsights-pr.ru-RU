@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "6443"
 - "9003287"
-ms.openlocfilehash: 8171ec494197abf53a073cc87fce0898d23f9490
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 00eb6c5fdabc56a7d81b27c48bdc1f1e562cbac9bfb6046b9ea7c2c0f4920800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47941508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924557"
 ---
 # <a name="overview-of-microsoft-search"></a>Обзор Поиска (Майкрософт)
 
-Планирование поиска Microsoft Search Просмотр [сведений о поиске Майкрософт](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Чтобы спланировать Поиск (Майкрософт) [см. обзор Поиск (Майкрософт)](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
 
-- [Настройка Microsoft Search](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
-- Обнаружение [часто задаваемых вопросов](https://docs.microsoft.com/microsoftsearch/faqs)в Microsoft Search.
+- [Настройка Поиск (Майкрософт)](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
+- Откройте Поиск (Майкрософт) [часто задамые вопросы](https://docs.microsoft.com/microsoftsearch/faqs).

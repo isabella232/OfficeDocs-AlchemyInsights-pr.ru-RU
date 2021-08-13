@@ -1,5 +1,5 @@
 ---
-title: Лимит синхронизации Outlook 3,99 ГБ
+title: Outlook синхронизации 3,99 ГБ
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 07a87b1f672108ed1dd8ff76cc7e571b0138314f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc8dd130a727551181b05657d35c2872214a7b159ef42f0e52d8464fc38967b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702088"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924602"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Строка состояния синхронизации Outlook остается в 3,99 ГБ
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlook синхронизации сохраняется на уровне 3,99 ГБ
 
-Уменьшите размер содержимого папки или создайте фильтр синхронизации для больших папок в течение или почти 4 ГБ.
+Попробуйте уменьшить размер содержимого папки или создать фильтр синхронизации для больших папок на уровне или около 4 ГБ.
 
-[Для получения дополнительных сведений о](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)ходе выполнения строки состояния никогда не показывается больше 3,99 ГБ в начальной синхронизации больших папок.
+Дополнительные сведения см. в папке Status Bar progress, которая никогда не отображает более 3,99 ГБ, оставшихся на начальной синхронизации больших [папок.](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)

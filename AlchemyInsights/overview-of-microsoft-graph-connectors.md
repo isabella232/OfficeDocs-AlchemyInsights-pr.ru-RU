@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47941517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924556"
 ---
 # <a name="overview-of-microsoft-graph-connectors"></a>Обзор соединителей Microsoft Graph
 
-Для планирования соединителей Microsoft Graph посетите  [Обзор соединителей](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Чтобы спланировать подключение Graph Microsoft, см. [в обзоре соединители.](https://docs.microsoft.com/microsoftsearch/connectors-overview)
 
-- Почитайте соединители по [партнерам](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners) [корпорации Майкрософт](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) или соединители.
-- [Управление соединителем для поиска Майкрософт](https://docs.microsoft.com/microsoftsearch/manage-connector).
+- См. [соединители от Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) или  [Соединители партнеров](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
+- [Управление соединитетелем для Поиск (Майкрософт)](https://docs.microsoft.com/microsoftsearch/manage-connector).
 
-Чтобы запланировать Поиск Microsoft Search, ознакомьтесь со статьей  [Обзор Microsoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Чтобы спланировать Поиск (Майкрософт), см. [в обзоре Поиск (Майкрософт).](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)

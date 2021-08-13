@@ -10,23 +10,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: a3f717754a5ebe5c73624553521241d57b38a7da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2932a7cf3c6681e00455f8292716b46d911010a4d2c84d519f90b2ffa971b35f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960992"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP & параметры SMTP для Outlook в Интернете
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Pop, IMAP & SMTP для Outlook в Интернете
 
-Если вы хотите добавить свою учетную запись Microsoft 365 в другое почтовое приложение, поддерживающее POP, IMAP или SMTP, вам понадобятся следующие параметры сервера вручную:
+Если вы хотите добавить свою учетную запись Microsoft 365 в другое почтовое приложение, поддерживаюющее POP, IMAP или SMTP, вот параметры ручного сервера, которые вам нужны:
   
-- **Имя сервера IMAP:** Outlook.Office365.com
+- **Имя сервера IMAP:** outlook.office365.com
 - **Порт IMAP:** 993
-- **Способ шифрования IMAP:** SSL/TLS
-- **Имя сервера POP:** Outlook.Office365.com  
-- **Порт POP:** 995  
+- **Метод шифрования IMAP:** SSL/TLS
+- **Имя pop-сервера:** outlook.office365.com  
+- **Pop port:** 995  
 - **Метод шифрования POP:** SSL/TLS  
-- **Имя SMTP-сервера:** SMTP.Office365.com
-- **Порт SMTP:** 587
+- **Имя сервера SMTP:** smtp.office365.com
+- **SmTP-порт:** 587
 - **Метод шифрования SMTP:** STARTTLS
