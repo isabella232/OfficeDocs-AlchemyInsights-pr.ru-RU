@@ -11,24 +11,24 @@ ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 9ee728fa9eefc882d220d8484c8c92d4d8c9af4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d07d8e9206b4b7d0756277409d48b0cd299e5cf0fd7261e6c0ad75dfe8648f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957446"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Когда изменения профиля синхронизируются с приложением профиля пользователя SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Когда изменения профиля синхронизируются с SharePoint профилем пользователя?
 
-Для синхронизации изображений профилей в SharePoint Online требуется действие пользователя для инициирования синхронизации фотографий. Автоматическая синхронизация фотографий в SharePoint Online отсутствует. SharePoint Online синхронизирует только фотографии из Exchange Online, а не Azure Active Directory.
+Синхронизация изображений профилей в SharePoint Online требует действий пользователя для инициализации их фотографии. Автоматическая синхронизация фотографий с SharePoint Online. SharePoint В Интернете синхронизируется только Exchange Online, а не Azure Active Directory.
 
-Если пользователь никогда не выполнил действие, которое будет запрашивать синхронизацию или обновил изображение профиля, а новый профиль не отображается в SharePoint Online, пользователю может потребоваться выполнить синхронизацию. Вот как это можно сделать:
+Если пользователь никогда не выполнял действия, которые могли бы привести к синхронизации, или они обновили свою фотографию профиля, а новая не появится в SharePoint Online, пользователю может потребоваться его синхронизировать. Вот как они могут это сделать:
 
-1. Откройте веб-браузер в сеансе в частной или инкогнито, а затем [перейдите в раздел Office.com](https://www.office.com/).
+1. Откройте веб-браузер в сеансе In-Private или Инкогнито и перейдите на [Office.com](https://www.office.com/).
 
-2. Войдите с помощью рабочей или учебной учетной записи, а затем щелкните плитку OneDrive или SharePoint.
+2. Войдите в свою работу или учетную запись школы и щелкните OneDrive или SharePoint плитку.
 
 3. [Добавьте фотографию профиля в Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-[Сведения о синхронизации изображений профилей в Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
+[Сведения о синхронизации изображений профиля в Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 
