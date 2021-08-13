@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory (безопасность и удостоверение)
+title: Azure Active Directory (безопасность и удостоверение
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995454"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (безопасность и удостоверение)
 
 Выберите одно из следующих руководств по настройке:
 
-- **Azure Active Directory** [](https://go.microsoft.com/fwlink/?linkid=2071310) Соедините пользователей синхронизации с вашим каталогом Настройка синхронизации паролей или сквозной проверки подлинности, чтобы пользователи могли войти в свою электронную почту и в локальном Active Directory (контроллер домена) с помощью того же пароля. Вы также можете настроить вход федерации в службы Федерации Active Directory (AD FS).
+- **Azure Active Directory Подключение** [](https://go.microsoft.com/fwlink/?linkid=2071310) синхронизируйте пользователей с вашим каталогом Настройка синхронизации и проверки подлинности паролей, чтобы пользователи могли войти в свою электронную почту и на локальное устройство Active Directory (контроллер домена) с помощью того же пароля. Вы также можете настроить вход федерации в службы Федерации Active Directory (AD FS).
 
-- **Настройка руководства** по настройке azure AD функций [Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) Настройка расширенных функций, доступных в Azure Active Directory Premium, таких как многофакторная проверка подлинности, регистрация устройств и мониторинг безопасности.
+- **Настройка руководства по** настройке azure AD функций [Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) Настройка расширенных функций, доступных в Azure Active Directory Premium, таких как многофакторная проверка подлинности, регистрация устройств и мониторинг безопасности.

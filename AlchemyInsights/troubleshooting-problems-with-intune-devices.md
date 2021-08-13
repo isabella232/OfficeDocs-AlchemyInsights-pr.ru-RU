@@ -1,5 +1,5 @@
 ---
-title: Устранение неполадок с устройствами Intune
+title: Устранение проблем с устройствами Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003834"
 - "6851"
-ms.openlocfilehash: 80d09a9ccb9f76d35a12e5cc70903aa03ca0819e
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: bd00f075f52227cfc44655b86c99a6668360bcbb840f8261ea777a78c21a2494
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48785626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920912"
 ---
-# <a name="troubleshooting-problems-with-intune-devices"></a>Устранение неполадок с устройствами Intune
+# <a name="troubleshooting-problems-with-intune-devices"></a>Устранение проблем с устройствами Intune
 
-Если на управляемом устройстве Intune возникли проблемы, сначала просмотрите [Управление устройствами с помощью документации Intune](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) , чтобы подтвердить базовую конфигурацию и проверить состояние устройства.
+Если у управляемого устройства Intune возникли проблемы, сначала просмотрите управление устройствами с документацией [Intune,](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) чтобы подтвердить базовую конфигурацию и проверить состояние устройства.
 
-Проблемы, такие как отсутствующие или отложенные политики, неправильные политики, непредвиденный доступ или отсутствие доступа могут быть вызваны тем, что устройство не синхронизировано с Intune. Ознакомьтесь с документацией по [синхронизации устройств](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) , чтобы получить дополнительные сведения.
+Такие проблемы, как отсутствие или задержка политик, неправильные политики, неожиданный доступ или отсутствие доступа, могут быть вызваны тем, что устройство не синхронизируется с Intune. Дополнительные [сведения просмотрите документацию](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) по синхронизации устройств.
 
-Распространенные проблемы, связанные с возвратом устройства, синхронизацией политик и конфигурацией устройств, можно найти в разделе [вопросы и ответы](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) , посвященные [политике и устранению неполадок](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) .
+Общие проблемы, связанные с регистрацией устройств, синхронизацией политики и [](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) конфигурацией устройств, можно найти в документации по общим вопросам и ответам или устранению [неполадок.](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)

@@ -1,5 +1,5 @@
 ---
-title: Блокировка загрузки для SharePoint и OneDrive
+title: Блокировать загрузки для SharePoint и OneDrive
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004146"
 - "7241"
-ms.openlocfilehash: aa6440f36c832d2cd5576ee0adf13ba14518485c
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: 87f0b48f5c3ef68af5053414b893adc66ad35d28e163154db8c3f2b3a52cf4a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348843"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969110"
 ---
-# <a name="block-downloads-for-sharepoint-and-onedrive"></a>Блокировка загрузки для SharePoint и OneDrive
+# <a name="block-downloads-for-sharepoint-and-onedrive"></a>Блокировать загрузки для SharePoint и OneDrive
 
-Существует несколько способов блокировки загружаемых файлов из SharePoint и OneDrive. Дополнительные сведения можно найти в следующих статьях.
+Существуют различные способы блокировки скачивания из SharePoint и OneDrive. Дополнительные сведения см. в статьях ниже.
 
-- [Блокировка скачивания файлов только для просмотра в SharePoint и OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
+- [Блокирование возможности скачивания файлов только для просмотра в SharePoint и OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
 - [Управление доступом с неуправляемых устройств](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 - [Управление доступом к данным SharePoint и OneDrive с учетом расположения в сети](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)

@@ -1,5 +1,5 @@
 ---
-title: Открытие библиотеки SharePoint в проводнике
+title: Откройте библиотеку SharePoint в Проводнике файлов
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 97466d2505cccecb2087f15b1df97a5d46868b72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0f6be42831594615db474c8f7f0f0b5e2da787a8a91f4943fb2c27ec57abb2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957950"
 ---
 # <a name="credential-messages-in-sharepoint-or-onedrive"></a>Сообщения учетных данных в SharePoint или OneDrive
 
-При попытке открыть документы пользователи могут периодически запрашивать учетные данные для SharePoint Online или OneDrive.
+Пользователи могут периодически быть вызваны Office для учетных данных SharePoint Online или OneDrive при попытке открыть документы.
 
-Если вы столкнулись с этими симптомами, выполните действия, описанные в [этой статье](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
+Если вы испытываете эти симптомы, попробуйте действия, расположенные в [этой статье](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
 
-Кроме того, если вы используете единый вход (SSO) для проверки подлинности, ознакомьтесь с [этой статьей](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) .
+Кроме того, если для проверки подлинности используется один вход (SSO), обратитесь к [этой статье.](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10)
