@@ -1,5 +1,5 @@
 ---
-title: Как Microsoft Edge использует SmartScreen защитника Microsoft Defender?
+title: Как Microsoft Edge использует фильтр SmartScreen в Microsoft Defender?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,17 +15,17 @@ ms.custom:
 - "6897"
 - "8331"
 - "9004625"
-ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: b1b8125961c1033b58fa5d560de855e03c967718dffec65eba7ac59a66cd3f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398634"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926942"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Как Microsoft Edge использует SmartScreen защитника Microsoft Defender
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Использование Microsoft Edge фильтр SmartScreen в Microsoft Defender
 
-Чтобы сохранить безопасность в Интернете, Microsoft Edge использует Microsoft Defender SmartScreen в качестве системы раннего предупреждения против веб-сайтов, которые совершают фишинговые атаки и распространяют вредоносные программы с помощью целенаправленных атак.
+Чтобы сохранить безопасность в Интернете, Microsoft Edge использует фильтр SmartScreen в Microsoft Defender в качестве системы раннего предупреждения против веб-сайтов, совершающих фишинговые атаки и распространяющих вредоносные программы с помощью целенаправленных атак.
 
-Администраторы могут настраивать SmartScreen Microsoft Defender с помощью параметров групповой политики, Microsoft Intune или управления мобильными устройствами (MDM). В зависимости от того, как настроить SmartScreen Защитника Майкрософт, вы можете показать пользователям страницу предупреждения и позволить им продолжить работу на сайте или полностью заблокировать сайт.
+Администраторы могут настраивать фильтр SmartScreen в Microsoft Defender с помощью параметров групповой политики, Microsoft Intune или управления мобильными устройствами. Основываясь на том, как фильтр SmartScreen в Microsoft Defender, вы можете показать пользователям страницу предупреждения и позволить им продолжить работу на сайте или полностью заблокировать сайт.
 
-Дополнительные дополнительные дополнительные информации см. в [веб-сайте Microsoft Edge support for Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) и [Microsoft Defender Application Guard.](https://go.microsoft.com/fwlink/?linkid=2132839)
+Дополнительные дополнительные [Microsoft Edge поддержки фильтр SmartScreen в Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2133081) и [Application Guard в Microsoft Defender.](https://go.microsoft.com/fwlink/?linkid=2132839)
