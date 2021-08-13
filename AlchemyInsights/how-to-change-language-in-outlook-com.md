@@ -14,19 +14,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 015912482c29766789bb23ae18a1a36353915746
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 662870da708a37d4e39fd0c783b580737a9d4c5cc5bb443322d517023bd938d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780864"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913296"
 ---
 # <a name="change-your-language"></a>Изменение языка
 
-1. Для того чтобы заменять язык в Outlook, перейдите в раздел Параметры [**языка и времени**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Параметры** \> **Просмотр всех параметров Outlook**—  >  **Общий**  >  **язык и время**).
+1. Чтобы перейти к языку в Outlook, перейдите к настройкам языка и времени **(Параметры** [](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) просмотреть все параметры Outlook общий язык \>   >    >  **и время).**
 
 2. Выберите язык.
 
 3. Нажмите кнопку **Сохранить**.
 
-Дополнительные сведения см в разделе [Изменение часового пояса и языковых параметров в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Дополнительные дополнительные новости см. [в сайте Change the time zone and language settings in Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=873132)

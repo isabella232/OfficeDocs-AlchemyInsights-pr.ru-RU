@@ -13,20 +13,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913151"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Переключение подписок на увеличение размера почтового ящика
 
 Если размер почтового ящика уже 100 ГБ, его не увеличить.
   
-Если размер почтового ящика составляет 50 ГБ, его можно увеличить до 100 ГБ, перейдя на [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) или [Office 365 Enterprise E5.](https://products.office.com/business/office-365-enterprise-e5-business-software) Ниже перейти на другую подписку.
+Если размер почтового ящика составляет 50 ГБ, его можно увеличить до 100 ГБ, [переключившись](https://products.office.com/business/office-365-enterprise-e3-business-software) на Office 365 корпоративный E3 [или Office 365 корпоративный E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Ниже перейти на другую подписку.
   
-1. В центре администрирования Microsoft 365 перейдите на страницу **Billing** \> **[Your products.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. В Центр администрирования Microsoft 365 перейдите на страницу **Выставление** купюру \> **[продуктов.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Выберите подписку, которую необходимо обновить.
 
