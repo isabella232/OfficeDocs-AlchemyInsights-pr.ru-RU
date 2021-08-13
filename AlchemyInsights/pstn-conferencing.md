@@ -13,18 +13,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: e1461582b8aa88116c600559855d32e6115cdf03
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 028e4623b7db7c0ee7a8eaab2e8971587d8cf0318c7c918ba6621f0d57b116be
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828925"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943640"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>Вызов PSTN в Skype для бизнеса Online
+# <a name="pstn-calling-with-skype-for-business-online"></a>Вызов PSTN с Skype для бизнеса Online
 
-Чтобы сделать вызовы PSTN в Microsoft 365, вам потребуется план вызовов [Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) или подключение к локальной инфраструктуре телефонии PSTN. Дополнительные сведения см. в следующих источниках: 
+Чтобы сделать вызовы PSTN Microsoft 365, вам [](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) потребуется Microsoft 365 или подключение к локальной инфраструктуре телефонии PSTN. Дополнительные сведения см. на следующих ресурсах: 
 
-- [Доступность страны и региона для аудиоконференций и планов вызова Microsoft Teams](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Доступность страны и региона для аудиоконференций и Microsoft Teams звонков](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
 - [Общие вопросы об аудиоконференциях](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Пополнение средств и управление кредитами на связь](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [Звонители PSTN не могут присоединиться к конференц-звонкам Skype для бизнеса](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Звонители PSTN не могут присоединиться к Skype для бизнеса конференц-звонкам](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

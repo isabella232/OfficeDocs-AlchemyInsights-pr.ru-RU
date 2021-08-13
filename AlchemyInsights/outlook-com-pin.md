@@ -1,5 +1,5 @@
 ---
-title: ПИН-код Outlook.com 9000233
+title: 9000233 Outlook.com PIN-код
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 430d4782ed17fe880f326e5ff6f4c96d51e1edf590ff75efd5ce59fe4ee1c379
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983862"
 ---
 # <a name="change-your-pin"></a>Изменение ПИН-кода
 
-Outlook.com не использует ПИН-код, но вы можете войти на компьютер с помощью ПИН-кода или Windows Hello. Чтобы изменить ПИН-код в Windows 10, выполните указанные ниже действия.
+Outlook.com не использует ПИН-код, но вы можете войти на компьютер с ПИН-кодом или Windows Hello. Изменение ПИН-кода в Windows 10:
 
-1. Нажмите кнопку "Пуск" или нажмите клавишу Windows на клавиатуре, а **затем выберите параметры**  >  **входа учетных записей**  >  **Sign-in options**.
-2. Нажмите кнопку **изменить** в разделе **ПИН-код**.
-3. Введите текущий ПИН-код, а затем введите и подтвердите новый ПИН-код под ним.
+1. Выберите кнопку Начните или нажмите клавишу Windows клавиатуры, а затем **выберите Параметры** учетных записей.  >    >  
+2. Выберите **кнопку Изменение** в **PIN-коде**.
+3. Введите текущий ПИН-код, а затем введите и подтвердите свой новый ПИН-код.
 
-[Узнайте больше о Windows Hello.](https://support.microsoft.com/help/17215/)
+[Дополнительные дополнительные Windows Hello.](https://support.microsoft.com/help/17215/)

@@ -1,5 +1,5 @@
 ---
-title: Восстановление удаленного сайта OneDrive
+title: Восстановление удаленного OneDrive сайта
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991296"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>Восстановление удаленного сайта OneDrive
+# <a name="restore-a-deleted-onedrive-site"></a>Восстановление удаленного OneDrive сайта
 
-При удалении пользователя в Центре администрирования Microsoft 365 (или удалении пользователя с помощью синхронизации Active Directory) хранилище OneDrive пользователя сохраняется в течение срока, указанного в Центре администрирования OneDrive. (Сведения см. [в статье Настройка хранения файлов по умолчанию для удаленных пользователей OneDrive](https://docs.microsoft.com/onedrive/set-retention)).
+При удалении пользователя в Центре администрирования Microsoft 365 (или удалении пользователя с помощью синхронизации Active Directory) хранилище OneDrive пользователя сохраняется в течение срока, указанного в Центре администрирования OneDrive. (Сведения см. в [перенастройки о](https://docs.microsoft.com/onedrive/set-retention)том, как установить хранение файлов по умолчанию для удаленных OneDrive пользователей.)
 
-* [Восстановление удаленного сайта OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [Восстановление удаленного OneDrive сайта](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Если многие файлы OneDrive будут удаляться, перезаписаны, повреждены или заражены вредоносными программами, вы можете восстановить все OneDrive в предыдущее время.
+Если многие файлы OneDrive удаляются, перезаписываются, повреждены или заражены вредоносными программами, вы можете восстановить все OneDrive до предыдущего времени.
 
 * [Восстановление OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

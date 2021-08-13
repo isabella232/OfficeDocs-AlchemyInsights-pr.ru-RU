@@ -1,5 +1,5 @@
 ---
-title: Специализированная поддержка Microsoft Flow
+title: Microsoft Flow Специализированная поддержка
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725060"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975942"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Специализированная поддержка Microsoft Flow
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Специализированная поддержка
 
-Чтобы получить специализированную поддержку Microsoft Flow, перейдите в раздел новый [центр администрирования Power Platform](https://aka.ms/flowadminsupport). Новый портал предоставляет более прямой путь к технической поддержке, оптимизированной для Microsoft Flow и других продуктов Power Platform.
+Для специализированной Microsoft Flow обратитесь в центр администрирования новой [платформы Power.](https://aka.ms/flowadminsupport) Новый портал предоставляет более прямой путь к поддержке, оптимизированной для Microsoft Flow и других продуктов платформы Power.
 
 Дополнительные сведения
-- [Сведения о свободных лицензиях Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Последовательность вопросов и ответов Организации](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Планы Microsoft 365 и Dynamics 365, включающие Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Вопросы по выставлению счетов и измерениям Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [Сведения о бесплатных Microsoft Flow лицензий](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow в faQ организации](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 и Dynamics 365, которые включают Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow вопросы вычета и учета](https://go.microsoft.com/fwlink/?linkid=2072612)
