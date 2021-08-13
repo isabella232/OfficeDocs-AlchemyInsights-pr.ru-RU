@@ -1,5 +1,5 @@
 ---
-title: Заметки о контактах недоступны для изменения
+title: Заметки контактов не могут быть изменены
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: ea4e9f4f41629f4207be6ff56f3ff8f7a4989cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f48e158e8ddf682df8d8748b929b3d4d687d5b183254c64116834210a238020d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680949"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915348"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Не удается изменить поле "Заметки" для контакта в Outlook
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Не может изменить поле примечаний для контакта в Outlook
 
-Это известная проблема. Мы работаем над устранением этой проблемы, и вы можете увидеть самый последний статус в [поле заметки контакта](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe), которое не может быть изменено.
+Это известная проблема. Мы работаем над его исправлением, и вы можете увидеть последний статус в [поле Can't edit the notes field for a contact.](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)
 
-**Решение**: Если вы используете учетную запись Microsoft 365 или Outlook.com, вы можете редактировать контакты с помощью веб-сайта. Если вы используете учетную запись IMAP или POP, в настоящее время временно не будет доступен.
+**Обходное решение.** Если вы используете учетную запись Microsoft 365 или Outlook.com, вы можете изменить контакты с помощью Интернета. Если вы используете учетную запись IMAP или POP, в настоящее время обходное решение не доступно.

@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: f59e817192ee38bdafb5ad0de64ed12f0a4f0392
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b9552e8a1f28138bf72fbc97b9cdb1ab7545b5021acbfe417602d49d351de4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937330"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>Активация Office с помощью лицензирования на основе устройств
 
-Лицензирование на основе устройств для Microsoft 365 Apps для предприятия доступно в качестве лицензии только для некоторых коммерческих клиентов и некоторых образовательных клиентов. Подробные сведения см. в описании: лицензирование на основе устройств [для microsoft 365 Apps для предприятия](https://docs.microsoft.com/deployoffice/device-based-licensing)
+Лицензирование на основе устройств для Приложения Microsoft 365 для предприятий доступно в качестве лицензии только для некоторых коммерческих клиентов и некоторых образовательных клиентов. Подробные сведения см. в [описании: лицензирование](https://docs.microsoft.com/deployoffice/device-based-licensing) на основе устройств для Приложения Microsoft 365 для предприятий
 
-Чтобы активировать приложения Microsoft 365 для предприятий с помощью лицензирования на основе устройств, см. в этой записи:
+Чтобы активировать Приложения Microsoft 365 для предприятий с помощью лицензирования на основе устройств, см.:
 
-- [Требования к использованию лицензирования на основе устройств для microsoft 365 Apps для предприятия](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Действия по настройке лицензирования на основе устройств для microsoft 365 Apps для предприятия](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Требования к использованию лицензирования на основе устройств для Приложения Microsoft 365 для предприятий](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Действия по настройке лицензирования на основе устройств для Приложения Microsoft 365 для предприятий](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
-Инструкции по устранению неполадок см. в инструкции по устранению неполадок на основе лицензий на устройства [для Microsoft 365 Apps для предприятия](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+Инструкции по устранению неполадок см. в инструкции [по](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise) устранению неполадок на основе Приложения Microsoft 365 для предприятий
 
 > [!NOTE]
-> Если приложения Microsoft 365 уже установлены и активированы с помощью пользовательского лицензирования подписки или активации общего компьютера, необходимо сбросить состояние лицензии на устройстве, прежде чем оно переехает на лицензирование на основе устройств. Чтобы сбросить состояние активации, см. [в записи Reset Microsoft 365 Apps для состояния активации предприятия](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
+> Если Приложения Microsoft 365 уже установлены и активированы с помощью лицензирования подписки на основе пользователя или активации общего компьютера, необходимо сбросить состояние лицензии на устройстве, прежде чем он переехав на лицензирование на основе устройств. Чтобы сбросить состояние активации, см. [в Приложения Microsoft 365 для предприятий состояние активации](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)

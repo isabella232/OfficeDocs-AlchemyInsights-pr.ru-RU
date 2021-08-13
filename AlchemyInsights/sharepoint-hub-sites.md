@@ -11,16 +11,16 @@ ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
 ms.custom:
 - "1591"
 - "5300012"
-ms.openlocfilehash: 99e4cc09df3e7e687e192069c09af229202b55af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d95c282ef6b6fb33736cce1bd8112476639cb0ecacc04a99e06869bf3feb830f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093801"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>Общие сведения о центральных сайтах SharePoint
 
-Центральные сайты SharePoint помогают удовлетворить потребности вашей организации, подключаясь и упорядочивая сайты на основе проекта, отдела, подразделения, региона и т. д., что упрощает выполнение следующих задач:
+SharePoint сайты-концентраторы помогают вам удовлетворять потребности организации, подключая и организуя сайты на основе проектов, отделов, подразделений, регионов и т. д. Упрощая:
 
 - Обнаружение связанного контента, например новостей и других действий сайтов.
 
@@ -28,10 +28,10 @@ ms.locfileid: "47800801"
 
 - выполнять поиск по всем связанным сайтам;
 
-Дополнительные сведения о центральных сайтах можно найти в следующих статьях:
-- [Создайте центральный сайт в SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Узнайте, как создать центральный сайт из нового центра администрирования или PowerShell.
+Дополнительные сведения о сайтах концентраторов см. в следующих сведениях:
+- [Создание сайта концентратора в SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Узнайте, как создать узел сайта из нового центра администрирования или PowerShell.
 
-- [Свяжите сайт SharePoint с центральным сайтом](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): сведения о связывании существующих сайтов с центральным сайтом из нового центра администрирования или PowerShell.
+- [Ассоциативное SharePoint](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)сайта с веб-узлом концентратора. Узнайте о том, как связать существующие сайты с сайтом концентратора из нового центра администрирования или PowerShell.
 
-- [Удаление центрального сайта](https://docs.microsoft.com/sharepoint/remove-hub-site): сведения об удалении существующего центрального сайта в новом центре администрирования или PowerShell.
+- [Удаление сайта концентратора.](https://docs.microsoft.com/sharepoint/remove-hub-site)Узнайте, как удалить существующий узел узла в новом центре администрирования или PowerShell.
 

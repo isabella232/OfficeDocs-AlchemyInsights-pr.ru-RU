@@ -1,5 +1,5 @@
 ---
-title: Проблемы с производительностью — SharePoint или OneDrive
+title: Проблемы с производительностью- SharePoint или OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,31 +9,31 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 39ec9b746c47414f1cfaad1342491b8f33a47d6f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08bdc2527147279063e3f66a1767203e5ccdc1dd4fd8b871f2800d3f71b9a233
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093785"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint или OneDrive работает медленнее, недоступно или недоступно для нескольких пользователей
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint или OneDrive, недоступно или недоступно для нескольких пользователей
 
-Если сайт OneDrive или SharePoint недоступен нескольким пользователям, у которых ранее был доступ, может возникнуть временная ошибка службы. [Проверьте панель мониторинга работоспособности службы](https://portal.office.com/adminportal/home#/servicehealth).
+Если веб OneDrive или SharePoint не доступен нескольким пользователям, у которых ранее был доступ, может возникнуть временная проблема с обслуживанием. [Проверьте панель мониторинга состояния службы.](https://portal.office.com/adminportal/home#/servicehealth)
 
-**Добавление и лицензия пользователя**
+**Добавление и лицензирование пользователя**
 
-Убедитесь, что вы [назначаете пользователям лицензии в Microsoft 365 для бизнеса](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Убедитесь, что вы назначаете лицензии пользователям [в Microsoft 365 для бизнеса.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
 
 **Назначение разрешений**
 
-Если пользователю назначена лицензия SharePoint и по-прежнему получается сообщение об отказе в доступе, убедитесь, что для него назначен [соответствующий уровень разрешений](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .
+Если пользователю назначена лицензия Sharepoint и он по-прежнему получает сообщение об [](https://docs.microsoft.com/sharepoint/understanding-permission-levels) отказе в доступе, убедитесь, что ему назначен соответствующий уровень разрешений.
 
-**Рассмотрите возможность использования функции запросов на доступ**
+**Рассмотрите возможность использования функции запроса доступа**
 
-[Функция запросов на доступ](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) позволяет пользователям запрашивать доступ к контенту, на просмотр которого у них нет разрешения.
+Функция [запроса доступа](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) позволяет пользователям запрашивать доступ к контенту, который в настоящее время не имеет разрешения на просмотр.
 
-**Разрешить настраиваемый скрипт может вызывать проблемы, связанные с доступом**
+**Разрешение настраиваемой скрипт может привести к отказу в доступе**
 
-Существуют некоторые сценарии, в которых функции " *Разрешить пользовательскому сценарию* " может быть предоставлен отказ в доступе. Список затронутых компонентов, рекомендации по безопасности и возможность отключения этой функции. Воспользуйтесь [разделом разрешить или запретить пользовательский сценарий](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Существуют определенные сценарии, в которых функция *Разрешить* настраиваемый сценарий может представлять отказ в доступе. Список затронутых функций, соображений безопасности и возможности отключить эту функцию. Пожалуйста, [посетите Разрешить или предотвратить настраиваемый сценарий](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 

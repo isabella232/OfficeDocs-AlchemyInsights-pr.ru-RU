@@ -1,5 +1,5 @@
 ---
-title: Подготовка пользователей
+title: Предоставление пользователя
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004348"
 - "8428"
-ms.openlocfilehash: bd415b2d44bccf0c2b3eccb4e38452498b748b3a
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: 12490df735ca8c524058404df92db79c6c5682fe2ecafe2b42baed70fa3ab142
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971352"
 ---
-# <a name="user-provisioning"></a>Подготовка пользователей
+# <a name="user-provisioning"></a>Предоставление пользователя
 
 - Используйте возможность [подготовка по](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) запросу для предоставления пользователю и получения подробных диагностических данных о предпринятых действиях.
 - Чтобы устранить проблемы, с которыми вы сталкиваетесь при подготовке пользователей и групп, ознакомьтесь с руководством по устранению неполадок [Подготовка пользователей не выполняется](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-config-problem-no-users-provisioned).

@@ -1,5 +1,5 @@
 ---
-title: Использование расширений Microsoft Edge
+title: Использование Microsoft Edge расширений
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004621"
 - "8313"
-ms.openlocfilehash: 4a7e83e27aa78e064c2f8261c3b66bfe0468f300
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: ac0c7b9f05c34c95d20539104af1317b43203b5a05882372d93c98b80632ced3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971568"
 ---
-# <a name="use-microsoft-edge-extensions"></a>Использование расширений Microsoft Edge
+# <a name="use-microsoft-edge-extensions"></a>Использование Microsoft Edge расширений
 
-[Расширения —](https://go.microsoft.com/fwlink/?linkid=2135619) это надстройки, которые можно установить в Microsoft Edge для блокировки рекламы, управления паролями, перевода текста и настройки работы с браузером многими другими способами.
+[Расширения —](https://go.microsoft.com/fwlink/?linkid=2135619) это надстройки, которые можно установить в Microsoft Edge, чтобы блокировать рекламу, управлять паролями, переводить текст и настраивать просмотр во многих других отношениях.
