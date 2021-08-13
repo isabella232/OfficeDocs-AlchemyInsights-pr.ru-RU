@@ -1,5 +1,5 @@
 ---
-title: Пробная версия клиента Microsoft 365 заблокирована Спамхаус
+title: Клиент Microsoft 365, заблокированный Spamhaus
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -12,13 +12,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 9c126ea41a376bdad2ec6b85d97442bab6a4f0a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d671b12f6b4b7cbbf92a494b1e72e5a3debe12b0517fa90285b1d4664d5486a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940100"
 ---
-# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Ошибка, когда пробный пользователь Microsoft 365 отправляет электронную почту: узел клиента заблокирован с помощью Спамхаус
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Ошибка при отправке Microsoft 365 электронной почты: клиентский хост заблокирован с помощью spamhaus
 
-Кажется, что вы отправляете электронную почту из новой пробной организации Microsoft 365. Для предотвращения нарушения безопасности мы блокируйте ранее известные IP-адреса. Эта конкретная проверка больше не применяется после начала использования платных лицензий. Вы можете получить временный сброс, запросив нового IP-адреса у поставщика услуг Интернета или удалив блок с веб-сайта [спамхаус](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+Похоже, что вы отправляете электронную почту из Microsoft 365 пробной организации. Чтобы предотвратить злоупотребления, мы блокировали IP-адреса, которые, как известно, ранее были скомпрометированы. Эта конкретная проверка больше не выполняется после начала использования платных лицензий. Возможно, вы сможете получить временное облегчение, запросив новый IP-адрес у поставщика интернет-услуг (ISP) или удалив блокировку с веб-сайта [Spamhaus.](https://go.microsoft.com/fwlink/p/?linkid=123245)
