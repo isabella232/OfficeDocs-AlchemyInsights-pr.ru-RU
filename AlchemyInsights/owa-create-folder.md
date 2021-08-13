@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000009"
 - "1994"
-ms.openlocfilehash: 85762dad63607ff9e141d275266233687d7bdad2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214f563f51d7e5d73145decb67a77e1cad201ab05098874145691e42b94c65e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961244"
 ---
 # <a name="create-a-folder"></a>Создание папки
 
-1. В нижней части области папок в Outlook в Интернете выберите пункт **создать папку**. Возможно, вам потребуется прокрутить панель папок вниз, чтобы увидеть кнопку **создать папку** .
-1. В текстовом поле введите имя папки и нажмите клавишу ВВОД.
+1. В нижней части области папки в Outlook в Интернете выберите **новую папку**. Может потребоваться прокрутка в области папок, чтобы увидеть кнопку **Новая папка.**
+1. В текстовом окне введите имя папки и нажмите кнопку Ввод.
 
-Чтобы узнать больше, ознакомьтесь [со статьей работа с папками сообщений в Outlook в Интернете](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Дополнительные дополнительные сообщения см. в [Outlook в Интернете.](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)
