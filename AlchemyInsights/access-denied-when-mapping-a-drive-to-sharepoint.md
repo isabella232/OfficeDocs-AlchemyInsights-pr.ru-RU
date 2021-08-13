@@ -1,5 +1,5 @@
 ---
-title: Отказано в доступе при сопоставлении диска с SharePoint
+title: Доступ отказано при сопоставлении диска с SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 8fc866390d63443c94beef76b6a53a628b85d6d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ed67ec926c3e73f7a16b927729255505dfe93a0ae442a5dff9400afafb41d8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938744"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Устранение проблем с библиотеками SharePoint, сопоставленными с сетевыми дисками
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Устранение проблем с SharePoint библиотек, относя к сетевым дискам
 
-При просмотре подключенного сетевого диска может появиться одно из следующих сообщений:
+При просмотре на сетевом диске с картой можно увидеть одно из следующих сообщений:
   
-- **\\Путь недоступен. Возможно, у вас нет разрешения на использование этого сетевого ресурса. Обратитесь к администратору этого сервера, чтобы узнать, есть ли у вас разрешения на доступ.**
+- **\\Путь не доступен. Возможно, у вас нет разрешения на использование этого сетевого ресурса. Обратитесь к администратору этого сервера, чтобы узнать, есть ли у вас разрешения на доступ.**
 
-- **Доступ запрещен. Перед открытием файлов в этом расположении необходимо сначала добавить веб-сайт в список надежных сайтов, перейти на веб-сайт и выбрать автоматический вход.**
+- **Доступ отказано. Прежде чем открывать файлы в этом расположении, сначала необходимо добавить веб-сайт в список доверенных сайтов, просмотреть веб-сайт и выбрать вариант автоматического входа.**
 
-[Справка по устранению неполадок подключенных сетевых дисков](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+[Получить справку по устранению неполадок, отбирающих сетевые диски.](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
   
-Сопоставление библиотеки как сетевого диска является временным и поддерживается только в Internet Explorer. Вместо этого [синхронизируйте файлы SharePoint с новым клиентом синхронизации OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , который включает [файлы по требованию](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Получите доступ ко всем своим файлам в OneDrive без использования локального хранилища.
+Сопоставление библиотеки как сетевого диска является временным и поддерживается только в Internet Explorer. Вместо этого [синхронизируйте SharePoint с новым клиентом приложение синхронизации OneDrive,](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) который включает файлы по [требованию.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx) Получите доступ ко всем своим файлам в OneDrive без использования локального хранилища.
   
