@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online или OneDrive "Настройка"
+title: SharePoint Online или OneDrive 'Setting up'
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093611"
 ---
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online или OneDrive "Настройка"
 
-При добавлении пользователя в существующий клиент могут отображаться значки SharePoint Online или OneDrive для бизнеса, приведенные в статье "Настройка" или "Мы по-прежнему работаем над сбором файлов", пока процесс подготовки не будет завершен. Следуйте этому [руководству по устранению неполадок](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) для получения справки.
+Когда пользователь добавляется к существующему клиенту, он может видеть значки SharePoint Online или OneDrive для бизнеса, перечисленные как "Настройка" или "Мы по-прежнему работаем над установкой файлов" до завершения процесса подготовка. Следуйте этому [руководству по устранению](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) неполадок.
 
-Если после первого последующего использования этой ситуации прошло более 24 часов, запишите в журнал обращение в службу поддержки.
+Если прошло более 24 часов с тех пор, как вы впервые увидели эту проблему, войдите в случае поддержки.
 
-Мы понимаем, что 24 часа могут показаться долгим временем. Во многих случаях мы уже работаем над решением. Отправьте нам по крайней мере 24 часа для завершения решения.
+Мы понимаем, что 24 часа могут показаться долгим временем. Во многих случаях мы уже работаем над решением. Пожалуйста, дайте нам по крайней мере 24 часа, чтобы завершить решение.
