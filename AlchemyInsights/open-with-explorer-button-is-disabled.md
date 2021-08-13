@@ -1,5 +1,5 @@
 ---
-title: Кнопка "Открыть с помощью проводника" отключена
+title: Отключена кнопка Открыть с помощью кнопки Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 4bfb877c52bab26eb3e43c95901857ef731d0bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694685"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944612"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>Кнопка "Открыть с помощью проводника" недоступна
+# <a name="the-open-with-explorer-button-is-disabled"></a>Отключена кнопка Open with Explorer
 
-- Перейдите к расположению SharePoint или OneDrive в Internet Explorer 10 или Internet Explorer 11. Кнопка несовместима с другими веб-браузерами.
+- Просмотрите SharePoint или OneDrive в Internet Explorer 10 Internet Explorer 11. Кнопка не совместима с другими веб-браузерами.
     
 > [!NOTE]
-> Открыть библиотеку в проводнике удобно, если вам нужно скопировать или переместить несколько файлов и папок один раз, но если вы хотите регулярно работать в библиотеке, рекомендуем синхронизировать ее. Дополнительные сведения и устранение неполадок, связанных с открытием в проводнике, можно найти в статье [Открыть в проводнике](https://go.microsoft.com/fwlink/?linkid=871665). Сведения о настройке синхронизации можно найти в статье [Синхронизация файлов SharePoint с помощью нового клиента синхронизации OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Открытие библиотеки в Проводнике файлов удобно, если необходимо скопировать или переместить несколько файлов и папок один раз, но если вы хотите регулярно работать в библиотеке, рекомендуется синхронизировать ее. Дополнительные справки и устранение других проблем, открываемой в Проводнике файлов, см. в [справке Open in Explorer.](https://go.microsoft.com/fwlink/?linkid=871665) Сведения о настройке синхронизации см. в SharePoint sync с новым [клиентом приложение синхронизации OneDrive.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 
