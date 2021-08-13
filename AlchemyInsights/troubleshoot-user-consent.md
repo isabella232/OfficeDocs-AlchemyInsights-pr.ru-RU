@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7785"
-ms.openlocfilehash: 7249bafe1b047c66d9351a79f1782cfcc1a936a1
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: db784c133fec554604ad09f5b27941879d97ff238f926ff6338d0f3b7c3c4105
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49897760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007911"
 ---
 # <a name="troubleshoot-user-consent"></a>Устранение неполадок согласия пользователя
 
-1. Вы можете настроить, как конечные пользователи соглашаются с приложениями с помощью портала Azure или PowerShell. Дополнительные [сведения см. в](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) параметрах согласия пользователя.
-1. Администратор также может использовать [API Microsoft Graph](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) для предоставления согласия на делегирование разрешений от имени одного пользователя. Дополнительные сведения см. в сведениях о том, как получить доступ [от имени пользователя.](https://docs.microsoft.com/graph/auth-v2-user)
-1. [Ошибки согласия](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)пользователя : в этой статье обсуждаются ошибки, которые могут возникнуть в процессе согласия приложения. Если вы устраняете непредвиденные запросы на согласие, не содержащие сообщений об ошибках, см. сценарии проверки подлинности [для Azure AD.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
+1. Вы можете настроить согласие конечных пользователей на приложения через портал Azure или PowerShell. Дополнительные [сведения см. в параметрах](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) согласия пользователя.
+1. Администратор также может использовать [API microsoft Graph для](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) предоставления согласия на делегирование разрешений от имени одного пользователя. Дополнительные сведения [см. в статью Получить](https://docs.microsoft.com/graph/auth-v2-user)доступ от имени пользователя.
+1. [Ошибки согласия пользователя:](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)в этой статье обсуждаются ошибки, которые могут возникать в процессе согласия на приложение. Если вы устраняете непредвиденные запросы согласия, не содержащие сообщений об ошибках, см. в тексте Сценарии проверки подлинности [для Azure AD.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)

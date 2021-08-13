@@ -1,5 +1,5 @@
 ---
-title: Настройка контроля
+title: Настройка надзора
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915456"
 ---
-# <a name="configure-supervision-policies"></a>Настройка политик контроля
+# <a name="configure-supervision-policies"></a>Настройка политик надзора
 
-Политики контроля в Microsoft 365 позволяют отслеживать электронную почту Exchange, Skype для бизнеса Online, Microsoft Teams и общения, отправляемые внутри и за пределами Организации. Назначенные проверяющие могут проверить отслеживаемые сообщения, чтобы убедиться, что они соответствуют политикам организации, управлению рисками и стандартам соответствия нормативным требованиям, и разрешают их с помощью типа классификации.
+Политики надзора в Microsoft 365 позволяют отслеживать сообщения электронной Exchange, Skype для бизнеса Online, Microsoft Teams и 3-й стороны, отправленные внутри и за ее пределами. Назначенные рецензенты могут изучить отслеживаемую сообщения, чтобы убедиться, что они соответствуют политикам организации, управлению рисками и нормативным стандартам соответствия требованиям, и разрешать их с помощью типа классификации.
 
-Чтобы использовать политики контроля в Организации, необходимо выполнить следующие действия:
+Чтобы использовать политики надзора в организации, необходимо:
 
-- Определите связь для отслеживания.
-- Определите, кто будет выполнять проверку на связь.
-- Политики надзора по настройке
+- Определение отслеживаемой связи.
+- Определите, кто будет выполнять обзор сообщений.
+- Политики установки надзора
 
 Дополнительные сведения
 
-- [Обзор политик контроля](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Настройка политик контроля](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Обзор политик надзора](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Настройка политик надзора](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
