@@ -6,8 +6,8 @@
 
 # <a name="troubleshoot-presence-issues-in-outlook"></a>Устранение проблем с присутствием в Outlook
 
-Чтобы диагностировать и исправлять проблемы со статусом присутствия пользователя в Outlook, скачайте и запустите сценарий присутствия Microsoft Support and Recovery assistant > [Teams.](https://aka.ms/SaRA-TeamsPresenceScenario)
+Чтобы диагностировать и исправлять проблемы со статусом присутствия пользователя в Outlook, скачайте и запустите сценарий присутствия Microsoft помощник по поддержке и восстановлению > [Teams.](https://aka.ms/SaRA-TeamsPresenceScenario)
 
-Чтобы вручную устранить проблему с присутствием в Outlook, выполните действия в области проблем с состоянием присутствия пользователей [в Outlook.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
+Чтобы вручную устранить проблему с присутствием в Outlook, выполните действия в области проблем с состоянием присутствия пользователей [в Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook).
 
-Если состояние присутствия не обновляется в Teams, см. в нем, как вы видите, фактическое состояние присутствия не [отражается в Teams.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
+Если состояние присутствия не обновляется в Teams, [см.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)в Teams.

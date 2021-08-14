@@ -1,5 +1,5 @@
 ---
-title: Рекомендации по решению проблем с хранилищем Dynamics 365
+title: Рекомендации по решению проблем служба хранилища dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81e39b5fb798ce83f02acece353883286e507812c8eac90fbfe4e03316fa635e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922964"
 ---
 # <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Рекомендации по решению проблем с хранилищем Dynamics 365
 
-* В качестве глобального администратора просмотрите разбивку хранилища по средам, 10 таблицам верхнего уровня и т. д.
+* Как глобальный администратор просмотр разбивки хранилища по среде, топ-10 таблиц и более
 
-* [Вопросы выставления счетов и подписки на хранилище](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [служба хранилища и вопросы о подписке](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [Рекомендации по лицензированию Dynamics 365 и лицензированию](https://dynamics.microsoft.com/pricing/)
+* [Руководство по ценообразованию и лицензированию Dynamics 365](https://dynamics.microsoft.com/pricing/)
 
-* [Приобретение дополнительных запоминающих устройств](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [Как приобрести больше хранилища](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
 * [Как освободить хранилище](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

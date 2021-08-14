@@ -1,5 +1,5 @@
 ---
-title: OneDrive для бизнеса Web OneDrive перенаправляет в Delve
+title: OneDrive для бизнеса Веб-OneDrive перенаправляется в Delve
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 295dea987cd14ea848d2bf802f57429642d554b9661dc4dbfc805a447b7d0ede
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923000"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Перенаправлено в Delve после нажатия OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Перенаправлено Delve после нажатия OneDrive
 
 См. в нашем [подробном руководстве по устранению неполадок.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Чтобы устранить эту проблему, администратор должен предоставить пользователям право создавать свой сайт "Мои сайты". Это происходит потому, что страница OneDrive для бизнеса создается на моих сайтах.
+Чтобы устранить эту проблему, администратор должен предоставить пользователям право создавать свой сайт "Мои сайты". Это происходит потому, что OneDrive для бизнеса страница создается на моих сайтах.
 
 Чтобы предоставить это право, выполните следующие действия:
 

@@ -1,5 +1,5 @@
 ---
-title: Немедленный платеж
+title: Немедленная оплата
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: 4a4f258a7a13f02ba8fe49dd50392a4dc766b222
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: d3f4f05f858d7cf87e38bb8cfb14d331f3720c2f305a37993db82280e3dc0816
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755668"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945242"
 ---
-# <a name="make-an-immediate-payment"></a>Немедленный платеж
+# <a name="make-an-immediate-payment"></a>Немедленная оплата
 
-На основе описания проблемы мы нашли решение для вас. Большинство клиентов смогли самостоятельно решить свою проблему после того, как мы сдали нашу документацию.
+На основе описания проблемы мы нашли решение для вас. Большинству клиентов удалось самостоятельно решить проблему после того, как мы высмеяли документацию.
 
-С помощью соглашения с клиентом Майкрософт (MCA) ваши способы оплаты связаны с профилями [вы выставления счета.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+С соглашением о клиентах Майкрософт (MCA) методы оплаты связаны с [профилями вы выставления счета.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
 
-Если у вас есть компания MCA, методом оплаты по умолчанию является банковский перевод или банковский перевод. Получив первый счет, вы сможете найти инструкции по оплате банковским переводом или банковским переводом в нижней части первой страницы счета.
+Если у вас есть компания MCA, ваш метод оплаты по умолчанию является чеком или проводной передачей. После того как вы получили первый счет, вы сможете найти инструкции по оплате чеком или проводным переводом в нижней части первой страницы счета.
 
-Для оплаты счетов с помощью кредитной карты на портале Azure необходимо иметь счет-фактуру, владельца профиля выставления счетов или роль участника.
+Для оплаты счетов с помощью кредитной карты на портале Azure необходимо иметь учетную запись для выставления счетов, владельца профиля выставления счетов или роль вкладчика.
 
-1. Во sign in to the [Azure portal](https://portal.azure.com/).
-2. Поиск по *управлению затратами + выставлению счета.*
-3. В меню слева выберите счета **в**    *пункте "Выставление счетов".*
-4. Если какой-либо из ваших счетов-фактуры должен быть или был сплачен, вы увидите синюю ссылку *"Оплатить"* для этого   счета. Выберите **"Оплатить" сейчас.**
-5. В новой ветви нажмите кнопку **"Выбрать способ** оплаты",   чтобы выбрать существующую кредитную карту или добавить новую.
-6. После выбора метода оплаты нажмите кнопку **"Оплатить" .**
+1. Вход на портал [Azure.](https://portal.azure.com/)
+2. Поиск по *управлению затратами и выставлению счета.*
+3. В левом меню выберите **Счета в** соответствии   с *биллингом.*
+4. Если какие-либо из счетов-фактур должны быть или засвечены, вы увидите голубую ссылку *Pay для*   этого счета. Выберите **Pay сейчас**.
+5. В новом лезвии выберите **метод оплаты,** чтобы выбрать существующую кредитную карту   или добавить новую.
+6. После выбора метода оплаты щелкните **Pay now**.
 
-Состояние счета-фактуры будет обновлено до оплаты в blade счета-фактуры.
+Состояние счета-фактуры будет обновлено до оплаты в лезвии счетов.
 
 **Рекомендуемые документы**
 
-- [Изменение способа оплаты — faq](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Изменение способа оплаты для профиля вы выставления счета](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
-- [Проверка доступа к соглашению с клиентом Майкрософт](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
-- [Роли вы выставления счета для соглашений с клиентами Майкрософт](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+- [Изменение метода оплаты - FAQ](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Изменение метода оплаты для профиля выставления счетов](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [Проверка доступа к Клиентскому соглашению Майкрософт](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Роли биллинга для соглашений о клиентах Майкрософт](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
