@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 827db0139d2793a5e4d850aeb5463dab272e4d64
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 13a75338e3784d3df2ec93e8096380f85494317b7161040c7ad60ad830f9211d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813629"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978102"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Устранение ошибок, открывающих или сохранения файлов Word
 
 Если у вас возникли проблемы с открытием или сохранением документов Word, попробуйте следующее:
 
-- [Установка обновлений Office.](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) Список последних обновлений Office см. в [выпуске Последние обновления.](https://docs.microsoft.com/officeupdates/office-updates-msi)
+- [Установка Office обновлений](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Список последних обновлений Office см. в выпуске ["Последние обновления".](https://docs.microsoft.com/officeupdates/office-updates-msi)
 - [Устранение неполадок поврежденных документов в Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
-- [Ремонт приложения Office.](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [Ремонт Office приложения](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 - Если в документе содержатся отслеживаемые изменения, используйте предложения в [Word,](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) замедляющие или перестающие отвечать, если для решения проблемы имеются чрезмерные отслеживаемые изменения или комментарии.
 
-Если вы получили ошибку, как одна из следующих, используйте предложения в сообщении об ошибке в Office, когда файл блокируется настройками политики [реестра:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
+Если вы получили ошибку, как одна из следующих, используйте предложения в сообщении об ошибке в Office, когда файл заблокирован настройками политики [реестра:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
 
 - Попытка открыть файл, заблокированный параметрами политики реестра.
 - Была предпринята попытка сохранения типа файла **\<File Type\>**, который был заблокирован параметрами блокировки файлов в центре управления безопасностью.

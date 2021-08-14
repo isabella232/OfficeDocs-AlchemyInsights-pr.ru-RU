@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986715"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Файлы, которые не могут быть загружены в SharePoint Online
 
-Если файл не будет загружаться в SharePoint Online, убедитесь, что:
+Если файл не будет загружен в SharePoint Online, убедитесь:
   
 - Размер не превышает 15 ГБ.
     
@@ -29,6 +29,6 @@ ms.locfileid: "50709191"
     
 - Имя файла не содержит символов " \* : \< \> ? / \ | и не в списке [недействительных имен.](https://go.microsoft.com/fwlink/?linkid=866430)
     
-Если вы пытаетесь загрузить файл с помощью настольного [](https://go.microsoft.com/fwlink/p/?LinkID=717734) приложения OneDrive, см. ограничения и ограничения при синхронизации файлов и папок или проблемы синхронизации [OneDrive.](https://go.microsoft.com/fwlink/?linkid=866431)
+Если вы пытаетесь загрузить файл с помощью OneDrive настольного [](https://go.microsoft.com/fwlink/p/?LinkID=717734) приложения, см. ограничения и ограничения при синхронизации файлов и [папок](https://go.microsoft.com/fwlink/?linkid=866431)или устранение приложение синхронизации OneDrive проблем .
   
 

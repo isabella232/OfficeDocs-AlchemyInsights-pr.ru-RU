@@ -1,5 +1,5 @@
 ---
-title: Общие сведения о регистрации для Android Enterprise
+title: Регистрация Enterprise Android — обзор
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2496"
-ms.openlocfilehash: 23ce3850639f29324118f3d1e98d17e8b3d88c65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9561496aa8c28fe729b048561241ec39612fb42a66626eb5c83c73fdbe61d904
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932902"
 ---
-# <a name="android-enterprise-enrollment---overview"></a>Общие сведения о регистрации для Android Enterprise
+# <a name="android-enterprise-enrollment---overview"></a>Регистрация Enterprise Android — обзор
 
-Чтобы использовать регистрацию в Организации для Android Enterprise, сначала необходимо [Подключить учетную запись Intune к управляемой учетной записи Google Воспр](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise). 
+Чтобы использовать android Enterprise в организации, необходимо сначала Подключение учетную запись Intune на свою учетную запись [Управляемый Google Play.](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise) 
 
-После успешного подключения вы можете выбрать соответствующие действия для типа регистрации Android, который будут выполнять пользователи:
+После успешного подключения вы можете выбрать соответствующие действия для типа регистрации на Android, которые необходимо выполнять пользователям:
 
-- [Настройка регистрации устройств рабочего профиля для системы Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
-- [Настройка регистрации Intune для корпоративных выделенных устройств Android](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
-- [Настройка регистрации Intune для полностью управляемых устройств Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
+- [Настройка регистрации устройств профилей Enterprise Android](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
+- [Настройка регистрации Intune специальных устройств Enterprise Android](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
+- [Настройка регистрации Intune для устройств с Enterprise устройствами с полностью управляемым управлением](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
 
-Для рабочего процесса установки и регистрации устройств с Android, а также вопросов, связанных с проверкой, ознакомьтесь с [Разстройкой и устранением неполадок устройств Android Enterprise в Microsoft Intune](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
+Для рабочего процесса установки и регистрации устройств Android Enterprise наряду с обзором faQ см. в этой ссылке Настройка и устранение неполадок [android Enterprise Devices в Microsoft Intune](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
 
-Сведения об устранении неполадок с регистрацией устройств в целом и некоторых ошибках регистрации Android приведены [в разделе Устранение неполадок с регистрацией устройств в Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Сведения об устранении неполадок в регистрации устройств в целом и некоторых ошибках регистрации на Android см. в [Microsoft Intune.](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-Если вы заинтересованы в менсоде регистрации QR для устройств КОСУ, обратитесь к [этому блогу](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
+Если вас интересует ментод регистрации кода QR для устройств COSU, см. [в этом блоге.](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184)
 
-Вы также можете использовать [содержимое, описывающее статью об устранении неполадок Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , чтобы определить, какие проблемы с регистрацией возникают у пользователей.
+Вы также можете использовать содержимое, описывающие лезвие устранения неполадок [Intune,](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) чтобы определить, какие проблемы с регистрацией испытывают пользователи.
