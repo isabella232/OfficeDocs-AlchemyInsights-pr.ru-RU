@@ -1,5 +1,5 @@
 ---
-title: Состояние Outlook.com всегда отображается как доступное
+title: Outlook.com состояние всегда показывается как доступное
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6b19c87862d205fd4351a51331fd666d9c93ce98d48088629f054fe22b68c53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095159"
 ---
-# <a name="my-status-always-shows-as-available"></a>Состояние всегда отображается как доступное
+# <a name="my-status-always-shows-as-available"></a>Мое состояние всегда показывается как Доступное
 
-Каждый раз, когда вы входите в Outlook.com, состояние вашей учетной записи будет сброшено до "доступно". Вы можете предотвратить изменение состояния, не выходя из Outlook.com. Чтобы остаться в системе при закрытии браузера, установите флажок **всегда вход в** систему на странице входа в Outlook.com.
+При каждом входе в Outlook.com состояние учетной записи будет сброшено на доступное. Вы можете предотвратить изменение состояния, не выехав из Outlook.com. Чтобы оставаться во входе при закрытии браузера, выберите подпись Keep **me signed in** box на странице Outlook.com.

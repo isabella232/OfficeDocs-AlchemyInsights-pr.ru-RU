@@ -1,5 +1,5 @@
 ---
-title: Требуются инструкции для другой версии Outlook?
+title: Нужны ли инструкции для другой версии Outlook?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: 20dfad09d53d43078de3b57fde7874819582adf3
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: e69deeb4e036dc803a8cf076e3212c255beef4204c6ca78a104750332b5d3a71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947528"
 ---
-# <a name="do-you-need-instructions-for-another-version-of-outlook"></a>Требуются инструкции для другой версии Outlook?
+# <a name="do-you-need-instructions-for-another-version-of-outlook"></a>Нужны ли инструкции для другой версии Outlook?
 
 - [Восстановление удаленных сообщений электронной почты в Outlook.com](https://support.microsoft.com/office/restore-deleted-email-messages-in-outlook-com-cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)
 

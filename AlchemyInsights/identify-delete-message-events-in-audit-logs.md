@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630082"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868431"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Журналы аудита удаленных сообщений электронной почты
 
@@ -34,6 +34,6 @@ ms.locfileid: "53630082"
 
 В результатах выберите запись аудита. Подробнее об этом читайте в материале **"Дополнительные сведения".** Дополнительные сведения об удалении элемента (например, строке субъекта и расположении элемента при его удалении) отображаются в **поле AffectedItems.** Свойство **ClientInfoString** покажет, произошло ли удаление в Outlook, Outlook в Интернете (ранее известном как Outlook Web App) или любом другом устройстве.
 
-Дополнительные сведения см. в сообщении Определение того, кто настроил отправку электронной почты [для почтового ящика.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
+Дополнительные сведения см. в сообщении Определение того, кто настроил отправку электронной почты [для почтового ящика.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
 **Примечание.** Вы не можете получить удаленные элементы с помощью функции журнала аудита. Чтобы получить удаленные сообщения в Outlook в Интернете, см. в [Outlook Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)
