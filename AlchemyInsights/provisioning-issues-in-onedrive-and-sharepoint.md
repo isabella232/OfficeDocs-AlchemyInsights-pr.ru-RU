@@ -1,5 +1,5 @@
 ---
-title: Проблемы с предоставлением в OneDrive и SharePoint
+title: Проблемы с подготовкаю в OneDrive и SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,16 +7,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: aee565878fe2d879f0d74cd20dcff044e08abc12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5b416da323c1c02bde2a85b52027ba582aca7dc49bcf4db7fcede5100d0ed7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943784"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Проблемы с предоставлением в OneDrive и SharePoint
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Проблемы с подготовкаю в OneDrive и SharePoint
 
-При добавлении пользователя в существующий клиент могут отображаться значки SharePoint Online или OneDrive для бизнеса, которые перечислены как "Настройка", пока процесс подготовки не будет завершен. Для новых учетных записей пользователям необходимо войти в центр администрирования Microsoft 365 с собственной учетной записью, а затем нажать кнопку OneDrive, чтобы вручную запустить подготовку сайта OneDrive.
+Когда пользователь добавляется к существующему клиенту, он может видеть значки SharePoint Online или OneDrive для бизнеса, перечисленные как "Настройка" до завершения процесса подготовка. Для вновь созданных учетных записей пользователям необходимо войти в Центр администрирования Microsoft 365 с собственной учетной записью, а затем OneDrive, чтобы вручную начать предоставление OneDrive сайта.
   
-Если после первого последующего использования этой ситуации прошло более 24 часов, запишите в журнал обращение в службу поддержки. Во многих случаях мы уже работаем над решением. Отправьте нам по крайней мере 24 часа для завершения решения.
+Если прошло более 24 часов с тех пор, как вы впервые увидели эту проблему, войдите в случае поддержки. Во многих случаях мы уже работаем над решением. Пожалуйста, дайте нам по крайней мере 24 часа, чтобы завершить решение.
   
