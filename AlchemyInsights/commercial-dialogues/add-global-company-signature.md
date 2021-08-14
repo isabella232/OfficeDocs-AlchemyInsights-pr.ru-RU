@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: cbd92f9c4a78139eac4e3672dd0632b173472757
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: b020e9823bac91ee6f40aed48f2abcba01a265ab2d2f77021a745e69af5a5366
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50508602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930516"
 ---
 # <a name="add-a-global-company-signature-or-disclaimer-for-all-users"></a>Добавление подписи или отказ от глобальной компании для всех пользователей
 
 Совет. Подпись на всей организации также называется отказом от ответственности, независимо от того, что она включает.
 
-1. В центре администрирования выберите **центры администрирования**  >  **Exchange.**
+1. В центре администрирования выберите **центры**  >  **администрирования Exchange**.
 2. В разделе "поток обработки почты" выберите пункт **правила**.
 3. Щелкните значок " **+**" (Добавить) и выберите пункт **Применить заявления об отказе**.
 4. Задайте имя правила.

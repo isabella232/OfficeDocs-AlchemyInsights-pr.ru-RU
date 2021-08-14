@@ -1,5 +1,5 @@
 ---
-title: Добавление наложения в календарь SharePoint
+title: Добавление наложения в SharePoint календаря
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ceed47bf94350b52da3633da5afbff1a70a8ca6d651576bc1d89acdbaf7af65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822072"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953038"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Добавление наложения в календарь SharePoint
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Добавление наложения в SharePoint календаря
 
-Календари SharePoint — это классические типы списков, которые иногда путают с групповыми календарями Microsoft 365.
+SharePoint Календари — это классические типы списков, которые иногда путают с Microsoft 365 групповыми календарями.
  
-Если на сайте используется календарь SharePoint, можно наложение на него собственного календаря Exchange для создания объединенного представления календаря. Кроме того, можно наложение другого календаря SharePoint до тех пор, пока оба календаря SharePoint находятся в одной и той же коллекции сайтов.
+При использовании календаря SharePoint на сайте можно наложение собственного Exchange на него для создания объединенного представления календаря. Кроме того, можно наложение другого SharePoint до тех пор, пока SharePoint календари находятся в одной и той же коллекции сайтов.
  
-Чтобы добавить наложение в классический календарь SharePoint, выполните действия в [overlay a SharePoint calendar with a calendar from Exchange или SharePoint.](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)
+Чтобы добавить наложение в классический календарь SharePoint, выполните действия в [overlay a SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)календаря с календарем из Exchange или SharePoint .

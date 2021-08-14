@@ -1,5 +1,5 @@
 ---
-title: Контекст клиента — нет зарегистрированных устройств
+title: Контекст клиента — никакие зарегистрированные устройства
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "2630"
-ms.openlocfilehash: 99e882467bdfceab4226399d3bea3950192817d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a5738d933ebe63d6ffb7e1a1008b6e3d5ea2ad47f453a4aa0028e566f344ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930552"
 ---
-# <a name="client-context---no-enrolled-devices"></a>Контекст клиента — нет зарегистрированных устройств
+# <a name="client-context---no-enrolled-devices"></a>Контекст клиента — никакие зарегистрированные устройства
 
-У вашего клиента нет зарегистрированных устройств управления мобильными устройствами (MDM) с Intune. Если вы хотите зарегистрировать ваши устройства и управлять ими с помощью Intune MDM, изучите документацию [здесь](https://docs.microsoft.com/intune/device-enrollment) , чтобы найти нужную платформу. Если вы используете сторонние функции MDM или только функции защиты приложений, никаких действий не требуется. 
+Клиент не имеет зарегистрированных устройств с помощью Intune для управления мобильными устройствами (MDM). Если вы хотите зарегистрироваться и управлять устройствами через Intune MDM, просмотрите документацию здесь [для](https://docs.microsoft.com/intune/device-enrollment) нужной платформы. Если вы используете сторонний MDM или только функции защиты приложений, не требуется никаких действий. 
