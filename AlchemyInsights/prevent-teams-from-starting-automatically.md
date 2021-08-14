@@ -1,5 +1,5 @@
 ---
-title: Предотвращение автоматического запуска Teams
+title: Предотвращение Teams автоматического запуска
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: cc5951a271173d1f6849df0d9d2b67df8b776bdc
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923811"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>Предотвращение автоматического запуска Teams
+# <a name="prevent-teams-from-starting-automatically"></a>Предотвращение Teams автоматического запуска
 
-По умолчанию команды автоматически открываются при запуске устройства.
+По умолчанию Teams автоматически при запуске устройства.
 
-Чтобы изменить этот параметр, выберите рисунок профиля группы, а затем выберите **Параметры**  >   **Общие**. В разделе  **приложение**снимите флажок  **автоматически запускаемое приложение**.
+Чтобы изменить этот параметр, выберите Teams профиль, а затем **выберите Параметры**  >   **General**. В  **приложении** un-check  **Auto-start application**.
 
-Дополнительные сведения см в разделе  [изменение параметров в Teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).
+Дополнительные сведения см. в [Teams.](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7)
