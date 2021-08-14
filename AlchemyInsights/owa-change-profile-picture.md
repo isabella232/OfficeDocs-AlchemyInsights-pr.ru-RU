@@ -1,5 +1,5 @@
 ---
-title: Изменение рисунка профиля в Outlook в Интернете
+title: Измените изображение профиля в Outlook в Интернете
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 07e53a48a6846adc9f73eb5905ff6e6ee9744f53
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: b57d5fc7085d38c2f844a56e6d06ea6dcae3026360a8288cb73baed5d1280a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095339"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Изменение рисунка профиля в Outlook в Интернете
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Измените изображение профиля в Outlook в Интернете
 
-1. В верхней части страницы выберите свое имя или изображение профиля.
-1. В области " **Моя учетная запись** " выберите изображение профиля.
-1. В диалоговом окне **изменение фотографии** нажмите кнопку **отправить новую фотографию**.
-1. Выберите фотографию для отправки и нажмите кнопку **Применить**.
+1. В верхней части страницы выберите имя или фотографию профиля.
+1. В области **"Моя учетная запись"** выберите изображение профиля.
+1. В **диалоговом окте Изменение** фотографии выберите Upload **новую фотографию.**
+1. Выберите фотографию для отправки и выберите **Apply**.
 
 *Примечание:* Новая фотография появится при следующем входе в Microsoft 365.
 
-Дополнительные сведения см. [в статье изменение сведений о фотографиях и учетных записях в Outlook в Интернете](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Дополнительные сведения см. в [Outlook в Интернете.](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)

@@ -1,5 +1,5 @@
 ---
-title: Делегированные разрешения для почтовых ящиков в гибридной среде
+title: Делегирование разрешений почтовых ящиков в гибридной среде
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "685"
 - "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: 84ce7c1a31ad3d44b10c892c1d6a1a5ef85de58d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e2b8e8948becbb1ac07ca340fb13038caf16f6093988a894e85e0cefb8a64a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948716"
 ---
-# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Делегированные разрешения для почтовых ящиков в гибридной среде
+# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Делегирование разрешений почтовых ящиков в гибридной среде
 
-В зависимости от версии Exchange, установленной в локальной организации, может потребоваться выполнить некоторые дополнительные действия, чтобы настроить делегированные разрешения для почтового ящика между локальной организацией и Exchange Online в Microsoft 365. Для получения дополнительных сведений о том, как настроить делегированные разрешения, ознакомьтесь со страницей [Настройка Exchange для поддержки делегированных разрешений почтовых ящиков в гибридном развертывании](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).
+В зависимости от версии Exchange, установленной в локальной организации, может потребоваться предпринять дополнительные действия для установки разрешений делегирования почтовых ящиков между локальной организацией и Exchange Online в Microsoft 365. Дополнительные сведения о настройке делегируемых разрешений можно найти на Exchange configure Exchange для поддержки делегирования разрешений почтовых ящиков в [гибридном развертывании.](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx)
   

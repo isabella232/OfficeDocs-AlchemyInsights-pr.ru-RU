@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7760"
 - "9004346"
-ms.openlocfilehash: 5ab56ec1eda10ea059e600e8933ce85bb143b76e
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: c843e9315776f3dbab2f25c864ebe8b0c41000b8ce70046fe4eb386fce143635
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009585"
 ---
 # <a name="sso-configuration-issues"></a>Ошибки конфигурации единого входа
 
@@ -26,7 +26,7 @@ ms.locfileid: "49886911"
 2. В зависимости от приложения и выбранного [варианта единого входа](https://docs.microsoft.com/azure/active-directory/manage-apps/sso-options), выполните следующие действия: а. Чтобы настроить **локальное приложение** для **единого входа на основе SAML**, см. статью [Единый вход SAML для локальных приложений с использованием прокси-сервера приложений](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps).
     б. Чтобы настроить **облачное приложение** для **единого входа на основе паролей**, см. статью [Настройка единого входа с помощью пароля](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-password-single-sign-on-non-gallery-applications).
     в. Чтобы настроить **локальное приложение** для **единого входа через прокси-сервер приложения**, см. статью [Настройка хранилища паролей для единого входа с помощью прокси-сервера приложения](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
-3. **Устранение неполадок, связанных с прокси-сервером приложения**. Рекомендуется начать с изучения процесса устранения неполадок в статье [Отладка проблем с соединителем прокси-сервера ](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), чтобы определить, правильно ли настроены соединители прокси-сервера приложения.. Если у вас по-прежнему возникают проблемы с подключением к приложению, выполните действия по устранению неполадок в статье [Отладка проблем с прокси приложения](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). Вы можете [определить ошибки CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues), выполнив следующие действия по отладке браузера: Запустите браузер и перейдите в веб-приложение.
+3. **Устранение неполадок, связанных с прокси-сервером приложения**. Рекомендуется начать с изучения процесса устранения неполадок в статье [Отладка проблем с соединителем прокси-сервера](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), чтобы определить, правильно ли настроены соединители прокси-сервера приложения.. Если у вас по-прежнему возникают проблемы с подключением к приложению, выполните действия по устранению неполадок в статье [Отладка проблем с прокси приложения](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). Вы можете [определить ошибки CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues), выполнив следующие действия по отладке браузера: Запустите браузер и перейдите в веб-приложение.
     б. Нажмите клавишу **F12**, чтобы вывести консоль отладки.
     в. Попробуйте воспроизвести транзакцию и посмотреть сообщение консоли. Нарушение CORS вызывает консольную ошибку о происхождении.
     г. Некоторые проблемы CORS невозможно решить, например истечение срока действия маркера доступа, когда приложение перенаправляется на login.microsoftonline.com для проверки подлинности. В результате истечения срока действия маркера доступа, вызов CORS завершается ошибкой. Временное решение для этого сценария — продлить жизненный цикл маркера доступа, чтобы предотвратить истечение его срока действия в течении сеанса пользователя. Дополнительные сведения о том, как это сделать, см. в статье [Настраиваемые жизненные циклы маркеров на платформе удостоверений Майкрософт](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
