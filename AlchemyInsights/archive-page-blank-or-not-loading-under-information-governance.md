@@ -1,5 +1,5 @@
 ---
-title: Страница архива пуста или не загружается в области управления сведениями
+title: Страница архива пустая или не загружается под управлением информацией
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "8262"
-ms.openlocfilehash: eae42c31b7faf024e16ec5eb132abe30bd228b7a
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d484d7a0cb5d4556a08639513071a9211875479a223e1da3228c7074fadcf4c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232805"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997363"
 ---
-# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Страница архива пуста или не загружается в области управления сведениями
+# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Страница архива пустая или не загружается под управлением информацией
 
-Если страница **"Архив"** в области "Управление сведениями" в Центре  безопасности и соответствия требованиям пуста или не загружается, используйте параметр "Архив" в новом Центре соответствия требованиям M365.
+Если страница **Archive в** центре управления информацией в центре безопасности и соответствия требованиям является пустой или не загружается, используйте параметр **Archive** в новом центре соответствия требованиям M365.
 
 1. Перейти к [https://compliance.microsoft.com](https://compliance.microsoft.com/)
-1. Выберите "Управление информацией".
-1. Затем щелкните параметр **"Архив".**
+1. Выберите управление информацией.
+1. Затем щелкните **параметр Archive.**
 
 Или следуйте этому URL-адресу: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)
