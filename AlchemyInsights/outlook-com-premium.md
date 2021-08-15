@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: 6858d989135fac55c6a15f79c3be0ce37e884a60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254cd25b76a5bc7d58f08eee5686c021c88ee28880b0b1135fba8e2119355721
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983466"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com Premium
 
-**Существующие высококачественные абоненты**
+**Существующие Premium абоненты**
 
-- Если у вас уже есть подписка на Outlook.com Premium, ознакомьтесь со страницей " [вопросы и ответы" Outlook.com Premium](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
+- Если у вас уже есть Outlook.com Premium подписка, ознакомьтесь с [Outlook.com Premium faQs](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
 
 **Новые подписчики**
 
-- К сожалению, Outlook.com Premium теперь закрыта для новых подписчиков.
-- Многие [функции и преимущества](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) теперь включены в [подписки на Microsoft 365 Home и Microsoft 365 персональный](https://go.microsoft.com/fwlink/?linkid=2017122).
+- К сожалению, Outlook.com Premium теперь закрыт для новых подписчиков.
+- Многие [функции и преимущества](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) теперь включены в подписки на [Microsoft 365 и Microsoft 365 персональный](https://go.microsoft.com/fwlink/?linkid=2017122).

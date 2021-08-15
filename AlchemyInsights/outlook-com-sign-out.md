@@ -14,22 +14,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 2f13415cd8d9bdb0f4ede297655dae75ca4501f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67fb641ec34934116ed716ce824119476e64fe9e1c4d96e78a4d022f799763e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802286"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983394"
 ---
-# <a name="how-to-sign-out-of-outlookcom"></a>Выход из Outlook.com
+# <a name="how-to-sign-out-of-outlookcom"></a>Как выйти из Outlook.com
 
-1. Выберите свое имя или изображение в правом верхнем углу.
+1. Выберите свое имя или фотографию в правом верхнем углу.
 
-    Если вы не видите изображение в верхней части экрана, проверьте, включена ли блокировка AD. Иногда аватар не отображается по этой причине.
+    Если вы не видите изображение в верхней части экрана, проверьте, включена ли блокировка рекламы. Иногда аватар не отображается по этой причине.
 
-2. Нажмите кнопку **выход**.
+2. Выберите **Выйти**.
 
-    Чтобы прекратить автоматический вход, снимите флажок **сохранить вход** в систему на странице, где вы введете пароль.
+    Чтобы автоматически прекратить вход, отключите  поле для входа на страницу, на которой вы вводите пароль.
 
-Чтобы узнать больше, Узнайте, [как войти в Outlook.com или выйти из нее](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Дополнительные дополнительные информации см. в документе [How to sign in to or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   
