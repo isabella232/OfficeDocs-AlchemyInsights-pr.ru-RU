@@ -1,5 +1,5 @@
 ---
-title: 8000049 общение с семьей и друзьями в Skype в Outlook.com
+title: 8000049 поговорите с семьей и друзьями по Skype в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: e6eaf11337a580395a116e8f4a8efee799c6094a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f1f7e8d0aa59fa3951ae9b3b974a42935976dbff1fbeda7d58fcc52bb39de98a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659143"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956744"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Общение с семьей и друзьями в Skype в Outlook.com
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Поговорите с семьей и друзьями по Skype в Outlook.com
 
-Клиенты Outlook.com могут общаться с друзьями и родственниками, используя функции чата, голосовой связи и видео в Skype. При [объединении учетных записей Майкрософт и Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)автоматически получается доступ к Skype в интернете в Outlook.com.
+Outlook.com клиенты могут общаться с друзьями и родственниками с помощью функций чата, голосовой связи и видео в Skype. При [объединении учетных](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)записей Microsoft и Skype, вы автоматически Skype доступ к веб-Outlook.com.
   
-Узнайте больше о том, как [общаться с семьей и друзьями в Skype в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
+Узнайте больше о том, как общаться с семьей и [друзьями на Skype в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Однозваный вход в Microsoft Edge
+title: Один вход в Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005624"
 - "9656"
-ms.openlocfilehash: 1dea46bf80fec9aa014d81b562c490cf4d2a92cb
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 57da6c3b93bb4f700547ce5b7378e3dbd63618eba32f3269b1caf8e356357cb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403878"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956852"
 ---
-# <a name="single-sign-on-sso-in-microsoft-edge"></a>Однозваный вход (SSO) в Microsoft Edge
+# <a name="single-sign-on-sso-in-microsoft-edge"></a>Однорегистрный вход (SSO) в Microsoft Edge
 
-Microsoft Edge поддерживает следующие типы единой входной записи (SSO):
+Microsoft Edge поддерживает следующие типы одного входного знака (SSO):
 - SSO на основе PRT
 - Бесшовный SSO
 - SSO на основе WIA

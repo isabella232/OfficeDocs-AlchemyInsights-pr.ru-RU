@@ -1,5 +1,5 @@
 ---
-title: Справка по регистрации iOS
+title: Справка о регистрации на iOS
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c4249b81e218b5d7d133c9d96b34fd5051277fb7ed849b0f6e90b2c18fb0e0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001413"
 ---
-# <a name="ios-enrollment-help"></a>Справка по регистрации iOS
+# <a name="ios-enrollment-help"></a>Справка о регистрации на iOS
 
-Обратите внимание, что у вас могут возникнуть проблемы с регистрацией для iOS. Вот некоторые статьи, которые могут помочь: 
+Мы заметили, что у вас могут возникнуть проблемы с регистрацией на iOS. Вот некоторые статьи, которые, как мы считаем, могут помочь: 
 
-[Общие ошибки и решения для регистрации iOS](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[Распространенные ошибки и решения для регистрации iOS](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
 [Начало работы с Intune и iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Общие сведения об устранении неполадок при регистрации](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Устранение неполадок при общей регистрации](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Использование портала устранения неполадок Intune для диагностики и устранения распространенных ошибок регистрации](https://docs.microsoft.com/intune/help-desk-operators)
+[Использование портала устранения неполадок Intune для диагностики и устранения распространенных сбоев регистрации](https://docs.microsoft.com/intune/help-desk-operators)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 15943bdc6e8d69e6a48cc0dd081afdee150e95a34823657156fd9abe111824d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817401"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978786"
 ---
 # <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Изменения в извлечении имен компании в SharePoint Online
 
-Начиная с 15 ноября 2019 г. мы удалим извлечение имен компании из [SharePoint Online.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) Извлечение имен компании в SharePoint позволяет системе поиска извлекать имена компаний из контента в определенном наборе условий с помощью предварительно заполненного словаря или с помощью списков включений или исключений компании. В то время как извлечение имен компании стало самостоятельным решением для получения одного или более имен компании из контента в SharePoint Online, словарь и его набор элементов устарели.
+Начиная с 15 ноября 2019 г. мы удалим извлечение имен компании из [SharePoint Online.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) Извлечение имен компании в SharePoint позволяет системе поиска извлекать имена компаний из контента в определенном наборе условий с помощью предварительно заполненного словаря или с помощью списков включений или исключений компании. В то время как извлечение имен компании стало самостоятельным решением для получения одного или более имен компании из контента SharePoint Online, словарь и его набор элементов устарели.
 
 - [Как узнать, включена ли извлечения имени компании для свойства?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 

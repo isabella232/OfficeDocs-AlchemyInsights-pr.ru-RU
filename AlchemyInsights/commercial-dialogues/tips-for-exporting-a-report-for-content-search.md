@@ -1,5 +1,5 @@
 ---
-title: Советы по экспорту отчета для поиска контента
+title: Советы для экспорта отчета для поиска контента
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464811"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978894"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Советы по экспорту отчета для поиска контента
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Советы для экспорта отчета для поиска контента
 
 Возможно, вам потребуется просмотреть отчет о поиске контента, а не экспортировать полные результаты поиска. В этом случае можно экспортировать только отчет о результатах поиска. Ниже приведено несколько советов.
 
