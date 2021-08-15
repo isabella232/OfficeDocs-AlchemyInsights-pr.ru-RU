@@ -1,5 +1,5 @@
 ---
-title: Закрытие учетной записи Outlook.com
+title: Закройте учетную запись Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,20 +14,20 @@ ms.custom:
 - "206"
 - "8000005"
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
-ms.openlocfilehash: c38a1d4dab108fee74262aa908fc237b29f1c03b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30919543e0e1c80c1bc97fc808bef2bb3029e2380fcd5f66f2995aedc4e4282f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024867"
 ---
-# <a name="close-your-outlookcom-account"></a>Закрытие учетной записи Outlook.com
+# <a name="close-your-outlookcom-account"></a>Закройте учетную запись Outlook.com
 
-1. Перейдите на страницу [закрытие учетной записи](https://go.microsoft.com/fwlink/p/?linkid=845493) .
-2. Следуйте инструкциям на странице, чтобы убедиться, что ваша учетная запись готова к закрытию, и нажмите кнопку **Далее**.
-3. Прочтите список и установите флажки, чтобы подтвердить, что вы прочитали каждый элемент.
-4. В раскрывающемся списке **выберите причину** выберите причину, по которой вы закрываете учетную запись.
-5. Выберите пункт **пометить учетную запись для закрытия**.
+1. Перейдите на [страницу Закрыть учетную запись.](https://go.microsoft.com/fwlink/p/?linkid=845493)
+2. Следуйте инструкциям на странице, чтобы убедиться, что ваша учетная запись готова к закрытию, и выберите **Далее**.
+3. Ознакомьтесь со списком и проверьте флажки, чтобы подтвердить, что вы прочитали каждый элемент.
+4. В **списке Выберите причину, по** которой вы закрываете учетную запись.
+5. Выберите **учетную запись Mark для закрытия.**
 
-Чтобы узнать больше, ознакомьтесь со статьей [закрытие учетной записи Outlook.com](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).
+Дополнительные дополнительные отчеты см. в [Outlook.com.](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy)
   

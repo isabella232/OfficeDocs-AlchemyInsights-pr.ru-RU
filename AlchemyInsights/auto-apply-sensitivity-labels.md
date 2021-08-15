@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969316"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Метки конфиденциальности автоматического применения
 
@@ -32,7 +32,7 @@ ms.locfileid: "50707247"
 
 Мы работаем над поддержкой, которая в будущем не потребует клиент единой маркировки Azure Information Protection.
 
-В настоящее время только Windows поддерживает клиента единой маркировки.  Функция еще не поддерживается на Mac, iOS и Android.
+В настоящее время Windows поддерживает клиент единой маркировки.  Функция еще не поддерживается на Mac, iOS и Android.
 
 Дополнительные сведения о метких меток конфиденциальности и их автоматическом применении к содержимому см. в.
 
