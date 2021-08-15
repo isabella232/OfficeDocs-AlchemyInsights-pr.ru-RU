@@ -1,5 +1,5 @@
 ---
-title: Что такое адрес электронной почты Outlook.com?
+title: Какой мой электронный Outlook.com?
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 0282d565d4fb05f22f41e227d280ddeee23e4b8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb714428b29cde80ac379d59a1ca4a46f07cfbebbdc459c73ef100b7a17a72b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992016"
 ---
-# <a name="see-your-own-outlookcom-email-address"></a>Просмотр собственного адреса электронной почты Outlook.com
+# <a name="see-your-own-outlookcom-email-address"></a>См. собственный адрес электронной почты Outlook.com
 
-Чтобы просмотреть адрес электронной почты по умолчанию, который вы используете при отправке электронной почты, перейдите к [параметрам синхронизации электронной почты](https://outlook.live.com/mail/options/mail/accounts) и просмотрите раздел **задать адрес по умолчанию**.
+Чтобы увидеть адрес электронной почты по умолчанию, который используется при отправке электронной почты, перейдите к настройкам электронной почты [Sync](https://outlook.live.com/mail/options/mail/accounts) и посмотрите в **статье Set default From address.**
 
-Если вы подключили к своей учетной записи Outlook.com другую учетную запись электронной почты, вы можете отправить сообщение с этого адреса.
+Если вы подключили другую учетную запись электронной почты к своей учетной записи Outlook.com, вы можете отправить электронную почту с этого адреса.
 
-1. Выбор трех точек <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- в нижней части окна создания и выберите **Показать из**   , чтобы увидеть строку от.
-2. Над строкой кому выберите **из**   и выберите адрес электронной почты, который необходимо использовать.
+1. Выберите три точки <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ в нижней части окна составить и выберите **Показать, чтобы** увидеть строку From.
+2. Над строкой To выберите **Из** и выберите адрес электронной почты, который вы хотите использовать.
 
-Узнайте больше об [отправке электронной почты с другого адреса в Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Дополнительные информацию об [отправке электронной почты](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)с другого адреса в Outlook.com .
