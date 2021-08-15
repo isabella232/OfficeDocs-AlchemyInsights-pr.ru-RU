@@ -1,5 +1,5 @@
 ---
-title: Нужна помощь с моей Outlook.com учетной записью
+title: Нужна помощь с учетной записью Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0b2e5e92eb009f7027e9795e358485f3d22e979fb7126285694dd2b3a7ea70b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025767"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Нужна помощь с моей Outlook.com учетной записью
+# <a name="need-help-with-my-outlookcom-account"></a>Нужна помощь с учетной записью Outlook.com
 
-Если вам нужна помощь с Outlook.com службой, у нас есть специальная помощь для оказания вам помощи. Чтобы получить поддержку непосредственно в веб-приложении: 
+Если вам нужна помощь в службе Outlook.com, у нас есть специальная помощь для оказания вам помощи. Чтобы получить поддержку непосредственно в веб-приложении: 
 
 1. Нажмите кнопку ? значок в правом верхнем справа от экрана. 
 
