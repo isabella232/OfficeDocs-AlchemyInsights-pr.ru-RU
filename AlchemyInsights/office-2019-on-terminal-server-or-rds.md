@@ -1,5 +1,5 @@
 ---
-title: Office 2019 на терминале Server или RDS
+title: Office 2019 г. на терминале Server или RDS
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: 3b61f0396c4698aaa54df74d6612d1a35d37f652
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24691e0b523fad22f0b6ee3ed07ff08afd5b81d12c787f843aa94c5b6835915b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790993"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011565"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Развертывание Office 2019 для общего использования в RDS, terminal Server или VDI
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Развертывание Office 2019 г. для общего использования в RDS, Terminal Server или VDI
 
-Если Office уже установлен на сервере RDS с помощью любых других планов Office, удалить его. Например, перейдите на **панель управления,** чтобы удалить  >  **программу.** Если возникли проблемы, удалить с помощью [помощника по](https://aka.ms/SARA-OfficeUninstall-Alchemy)поддержке и восстановлению Майкрософт. 
+Если Office уже установлена на сервере RDS с помощью любых других Office, удалить его. Например, перейдите на **панель управления,** чтобы удалить  >  **программу.** Если возникли проблемы, удалить с помощью [Microsoft помощник по поддержке и восстановлению.](https://aka.ms/SARA-OfficeUninstall-Alchemy) 
 
-Для установки Office используйте средство развертывания Office (ODT). Подробные действия см. [в обзоре Deploy Office 2019.](https://docs.microsoft.com/deployoffice/office2019/deploy)
+Используйте средство Office развертывания (ODT) для установки Office. Подробные действия см. в [Office 2019 г.](https://docs.microsoft.com/deployoffice/office2019/deploy)
 
 Для активации [см. обзор активации тома Office.](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)
