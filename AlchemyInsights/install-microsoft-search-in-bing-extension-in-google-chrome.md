@@ -1,5 +1,5 @@
 ---
-title: Установка расширения Microsoft Search в расширении Bing в Google Chrome
+title: Установите Поиск (Майкрософт) в Bing в Google Chrome
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9262"
-ms.openlocfilehash: 25126eda542beeb51d86b812e60795fcc9c78df2
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a313ee2188c9581d8db5174b0640e32e55b619286f11f79d1a0293b66cc7c374
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014625"
 ---
-# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Установка расширения Microsoft Search в расширении Bing в Google Chrome
+# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Установите Поиск (Майкрософт) в Bing в Google Chrome
 
-Чтобы установить microsoft Search в расширении Bing в Google Chrome, сделайте следующее:
+Чтобы установить Поиск (Майкрософт) в Bing в Google Chrome, сделайте следующее:
 
 1. Убедитесь, что устройство [соответствует критериям](https://go.microsoft.com/fwlink/?linkid=2152236) установки расширения.
-2. Выберите установку расширения, настроив соответствующие параметры в разделе **Microsoft Search** центра администрирования Microsoft 365.
-3. На устройстве пользователя установите фоновую службу microsoft Search в Bing. Эта фоновая служба включена в Microsoft 365 Apps для предприятия.
+2. Выберите установку расширения, настроив соответствующие **параметры** в Поиск (Майкрософт) раздела Центр администрирования Microsoft 365.
+3. На устройстве пользователя установите фоновую службу для Поиск (Майкрософт) в Bing. Эта фоновая служба включена в Приложения Microsoft 365 для предприятий.
 
-Дополнительные сведения см. в дополнительных сведениях о том, как устанавливается расширение [Microsoft Search в Bing для Google Chrome?](https://go.microsoft.com/fwlink/?linkid=2150992)
+Дополнительные сведения см. в Поиск (Майкрософт) расширения [Bing Google Chrome?](https://go.microsoft.com/fwlink/?linkid=2150992)

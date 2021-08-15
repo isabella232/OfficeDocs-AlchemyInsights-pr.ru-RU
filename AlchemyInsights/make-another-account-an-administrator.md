@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 94a5d0347172ace52a874ada19b20e61f48f8cc43e5f849d4a8400a2288aeb88
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993222"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Изменение стандартной учетной записи пользователя на администратора в Windows 10
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Измените стандартную учетную запись пользователя на администратора в Windows 10
 
 Вот как изменить стандартную учетную запись пользователя на администратора в Windows 10:
 
-1. Перейдите **к семейство** параметров учетной записи & другими людьми (или другими людьми, если вы  >    >    >   используете Windows 10 Enterprise). 
+1. Перейдите   >  **к Параметры**  >  **учетной** записи & других людей (или других  >   людей, если вы используете Windows 10 Корпоративная).
 2. Выберите учетную запись, которую хотите сделать администратором, и выберите **Изменить учетную запись**.
 3. В **Тип учетной записи** выберите **Администратор**, а затем **ОК**.
 
