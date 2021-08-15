@@ -14,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: 681bdc16efac19c4b8ea0b91b13aa38cd4e9007c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 16240588ac763c9da180dad94cb1dcc3eb1ecdf3b65eff99aadf478331b91d59
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819417"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979614"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Устранение неполадок синхронизации Basic Outlook
+# <a name="basic-outlook-sync-troubleshooting"></a>Основные Outlook синхронизации устранения неполадок
 
 Если возникли проблемы с синхронизацией, попробуйте следующее:
 
 - Запустите [этот диагностический инструмент](https://aka.ms/sara-outlooksendreceive) на пострадавшем компьютере.
-- Уменьшите количество папок в основном или общем почтовом ящике. См. проблемы с производительностью Outlook, когда в кэшной папке или папке файлов pst слишком много элементов или [папок.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)
+- Уменьшите количество папок в основном или общем почтовом ящике. См. Outlook проблемы с производительностью, когда слишком много элементов или папок в кэшной папке .ost или [PST-файле.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)
 - Отключение кэшинга всех общих папок.
-- Измените конфигурацию вторичного почтового ящика Exchange на вторую учетную запись Exchange в профиле.
+- Измените конфигурацию вторичного почтового ящика Exchange на второй Exchange учетной записи в профиле.
 - Убедитесь, что пользователь может подключиться к Интернету. 
 - [Убедитесь, что вы находитесь в Интернете](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
 - [Определите, применяется ли правило.](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)
-- **Убедитесь, что загрузка** общих папок включена, переехав в **Параметры** учетной записи Файловой учетной записи  >    >    >  **Дополнительные параметры**  >  **Расширенные**.
+- Убедитесь, что **загрузка** общих папок включена, переехав в **учетную** запись Параметры учетную запись  >    >  **Параметры** более  >  **Параметры**  >  **Advanced**.

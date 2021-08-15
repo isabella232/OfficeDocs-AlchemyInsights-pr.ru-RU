@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000100"
 - "7470"
-ms.openlocfilehash: e86b999f44973cbea597f6f48d9a620879bc1b34
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 583fec061c38a4270fb662a84c5f660415a0e2a2d6ac78994d9cb8d8b6b3d8b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49665616"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023319"
 ---
 # <a name="sharepoint-files-are-missing"></a>Отсутствуют файлы SharePoint
 
-Если многие файлы OneDrive или SharePoint удаляются, перезаписываются, повреждены или заражены вредоносными программами, мы даем пользователям различные возможности для помощи в процессе восстановления.
+Если множество файлов OneDrive или SharePoint удаляются, перезаписываются, повреждены или заражены вредоносными программами, мы даем пользователям различные возможности для оказания помощи в процессе восстановления.
 
-Дополнительные сведения см. в том, как восстановить отсутствующие, удаленные или поврежденные элементы [в SharePoint Online и OneDrive для бизнеса.](https://go.microsoft.com/fwlink/?linkid=2110774)
+Дополнительные сведения см. в [Восстановление отсутствующих, удаленных или поврежденных элементов в SharePoint Online и OneDrive для бизнеса](https://go.microsoft.com/fwlink/?linkid=2110774).
