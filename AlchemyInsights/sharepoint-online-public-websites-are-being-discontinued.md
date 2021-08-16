@@ -1,5 +1,5 @@
 ---
-title: Общие веб-сайты SharePoint Online не поддерживаются
+title: SharePoint Общедоступные веб-сайты в Интернете прекращаются
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719930"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051283"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Общие веб-сайты SharePoint Online не поддерживаются
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Общедоступные веб-сайты в Интернете прекращаются
 
-Если вы создали общедоступный веб-сайт SharePoint Online, вы можете продолжить его использование до 31 марта 2018 г. Если вы хотите продолжить работу с общедоступным веб-сайтом, необходимо создать новый поставщик с новым поставщиком. Содержимое общедоступного веб-сайта SharePoint Online будет удалено, поэтому необходимо скопировать контент, который вы хотите сохранить.
+Если вы создали веб-сайт SharePoint Online, вы можете использовать его до 31 марта 2018 г. Если вы хотите продолжать иметь общедоступный веб-сайт, необходимо создать новый веб-сайт с новым поставщиком. Содержимое на вашем SharePoint веб-сайте будет удалено, поэтому необходимо скопировать любое содержимое, которое вы хотите сохранить.
   
-Теперь баннер отображается в верхней части общедоступного веб-сайта SharePoint Online в качестве уведомления о том, что сайт будет удален. Вы не можете отключить этот баннер. Сведения о сохранении и копировании контента на веб-сайт партнера можно узнать [в статье сведения о процессе](https://go.microsoft.com/fwlink/?linkid=866980)прекращения работы компонента.
+Баннер теперь отображается в верхней части SharePoint Веб-сайте в качестве уведомления о том, что сайт будет удален. Вы не можете отключить этот баннер. Сведения о сохранении и копировании контента на веб-сайте партнеров см. в материале [Details about the feature discontinuation process.](https://go.microsoft.com/fwlink/?linkid=866980)
   

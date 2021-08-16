@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 704091ede595bfa7e721f8059241825daddb20db
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034695"
 ---
 # <a name="get-started-with-communication-compliance"></a>Начало работы с соответствием требованиям к обмену данными
 
 Перед началом работы в организации должна быть одна из следующих подписок или надстройок:
 
-* Подписка на Microsoft 365 E5 (платная или пробная версия)
-* Подписка microsoft 365 E3 + надстройка соответствия требованиям Microsoft 365 E5
-* Подписка microsoft 365 E3 + надстройка для управления рисками для инсайдеров Microsoft 365 E5
-* Подписка microsoft 365 A5 (платная или пробная версия)
-* Подписка microsoft 365 A3 + надстройка соответствия требованиям Microsoft 365 A5
-* Подписка microsoft 365 A3 + надстройка microsoft 365 A5 Для управления рисками
-* Подписка microsoft 365 G5 (платная или пробная версия)
-* Подписка microsoft 365 G5 + надстройка соответствия требованиям Microsoft 365 G5
-* Подписка microsoft 365 G5 + надстройка microsoft 365 G5 Insider Risk Management
-* Подписка на Office 365 Enterprise E5 (платная или пробная версия)
-* Подписка на Office 365 Enterprise E3 + надстройка Office 365 Advanced Compliance (больше недоступна для новых подписок, см. примечание)
+* Microsoft 365 E5 подписки (платная или пробная версия)
+* Microsoft 365 E3 подписка + Соответствие требованиям Microsoft 365 E5 надстройка
+* Microsoft 365 E3 + надстройка Microsoft 365 E5 insider Risk Management
+* Microsoft 365 A5 подписки (платная или пробная версия)
+* Microsoft 365 A3 + надстройка Microsoft 365 A5 соответствия требованиям
+* Microsoft 365 A3 + надстройка Microsoft 365 A5 управления рисками
+* Microsoft 365 Подписка на G5 (платная или пробная версия)
+* Microsoft 365 Подписка на G5 + надстройка Microsoft 365 соответствия требованиям G5
+* Microsoft 365 Подписка на G5 + Microsoft 365 надстройка управления рисками для инсайдеров G5
+* Office 365 корпоративный Подписка на E5 (платная или пробная версия)
+* Office 365 корпоративный Подписка на E3 + Office 365 Advanced Compliance надстройка (больше недоступна для новых подписок, см. примечание)
 
     > [!NOTE]
-    > Если у вас нет существующего плана Office 365 Enterprise E5 и вы хотите попробовать управление рисками изнутри, вы можете добавить [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) в существующую подписку или зарегистрироваться на пробную проверку Office 365 Enterprise E5.
+    > Если у вас нет существующего плана Office 365 корпоративный E5 и вы хотите попробовать [](https://go.microsoft.com/fwlink/?linkid=2130508) управление рисками, вы можете добавить Microsoft 365 к существующей подписке или зарегистрироваться на пробную Office 365 корпоративный E5.

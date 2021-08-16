@@ -1,5 +1,5 @@
 ---
-title: Настройка и устранение неполадок подключенных сетевых дисков
+title: Настройка и устранение неполадок в сетевых дисках
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,15 +14,15 @@ ms.custom:
 - "5300002"
 - "3180"
 ms.assetid: ''
-ms.openlocfilehash: 604340aadadaa2f268dd72320a8c5efcb9abe984
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1e9d007024fa3edce359123425df2b8209a5e131162832a16c651ff3fd6b5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48278454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044461"
 ---
-# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>Настройка и устранение неполадок подключенных сетевых дисков
+# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>Настройка и устранение неполадок в сетевых дисках
 
-Сопоставление библиотеки в качестве сетевого диска является временным решением и поддерживается только в Internet Explorer. Вместо этого [синхронизируйте файлы SharePoint с новым клиентом синхронизации OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) , который предоставляет [файлы по запросу](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e). Получите доступ ко всем своим файлам в OneDrive без использования локального хранилища.
+Сопоставление библиотеки в качестве сетевого диска является временным решением и поддерживается только в Internet Explorer. Вместо этого синхронизируйте SharePoint с новым [клиентом приложение синхронизации OneDrive,](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) который предоставляет [файлы по запросу.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) Получите доступ ко всем своим файлам в OneDrive без использования локального хранилища.
 
 * [Устранение неполадок сопоставленных сетевых дисков, подключаемых к SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
