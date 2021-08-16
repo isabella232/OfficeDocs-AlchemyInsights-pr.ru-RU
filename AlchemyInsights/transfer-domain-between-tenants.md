@@ -1,5 +1,5 @@
 ---
-title: Передача домена между клиентами
+title: Передача домена между арендаторами
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: d696c9d095fb6b2b374d8c5872e94cc7e32dceb8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 942ca306951fdd8e971ea27da88af5601325185b7c169b4df3dfd9e43e1650c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560665"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048637"
 ---
-# <a name="transfer-domain-between-tenants"></a>Передача домена между клиентами
+# <a name="transfer-domain-between-tenants"></a>Передача домена между арендаторами
 
-Пользовательский домен, такой как forthcoffee.com, можно вручную удалить из одного клиента, а затем проверить в новом клиенте.
+Настраиваемый домен, например forthcoffee.com, может быть вручную удален из одного клиента и затем проверен в новом клиенте.
 
-Чтобы [удалить домен](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain), выполните указанные ниже действия. Затем в новом клиенте перейдите к **Settings** разделу  >  **домены** параметров  >  **Добавить домен**.
+Выполните следующие действия, [чтобы удалить домен.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain) Затем в новом клиенте перейдите **Параметры**  >  **Домены Добавить**  >  **домен**.
 
-Для более сложных сценариев можно ознакомиться с миграцией между клиентами и клиентами [Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
+Более сложные сценарии см. в Microsoft 365 миграции от клиента [к арендатору.](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations)
 
-**Также обратите внимание**:
-- Исходный домен onmicrosoft.com невозможно удалить или переместить между клиентами.
-- Пользовательский домен, приобретенный от Майкрософт, не может перемещаться между клиентами.
+**Также обратите внимание:**
+- Исходный onmicrosoft.com не может быть удален или перемещен между арендаторами.
+- Пользовательский домен, приобретенный в Корпорации Майкрософт, не может быть перемещен между арендаторами.

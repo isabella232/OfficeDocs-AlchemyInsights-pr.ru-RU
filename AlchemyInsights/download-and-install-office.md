@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 5950c130b82e435eacaf9fb096faae8482b50c15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f6306811fad43af92e195467703b6cc1416ca7d6d6e6fcde56901e895f8c8239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004839"
 ---
 # <a name="download-and-install-office"></a>Загрузка и установка Office
 
-Подписка **на business Essentials** не включает приложения Microsoft 365. Чтобы получить Office, необходимо перейти на подписку **Бизнес** или **Бизнес Премиум.** Ознакомьтесь с доступными подписками в Office здесь: [Microsoft 365 для бизнеса](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+Подписка **на business Essentials** не включает Microsoft 365 приложений. Чтобы получить Office, необходимо перейти на подписку  на бизнес или **бизнес Premium.** Ознакомьтесь с доступными подписками Office здесь: [Microsoft 365 для бизнеса](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 
