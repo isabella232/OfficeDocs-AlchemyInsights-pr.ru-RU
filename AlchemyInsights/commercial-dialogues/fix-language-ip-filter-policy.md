@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7b4cbc70db75af36ce35160f39d06e51e21e7513
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737545"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017109"
 ---
 # <a name="fix-languageip-filter-policy"></a>Исправлена политика языковых и IP-фильтров
 
 На это сообщение повлияла настраиваемая политика по борьбе со спамом в клиенте. Чтобы просмотреть политику, сделайте следующее:
 
-1. Перейдите в Центр обеспечения безопасности [Office 365 &,](https://go.microsoft.com/fwlink/p/?linkid=2077143)а затем перейдите в центр по борьбе со спамом политики управления   >    >  [угрозами.](https://go.microsoft.com/fwlink/?linkid=2101518)
+1. Перейдите в [центр Office 365 безопасности &,](https://go.microsoft.com/fwlink/p/?linkid=2077143)а затем перейдите в центр по борьбе со спамом политики управления   >    >  [угрозами.](https://go.microsoft.com/fwlink/?linkid=2101518)
 2. На **вкладке Custom**  выберите политику фильтра нежелательной почты по умолчанию или любую другую созданную вами настраиваемую политику, а затем выберите **политику редактирования.**
 3. **Расширь параметр "Международный** нежелательной почты" и просмотрите параметры.
 

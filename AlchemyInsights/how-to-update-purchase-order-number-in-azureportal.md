@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7293"
-ms.openlocfilehash: df35af1925e9389fff810bed17f580f087e88e20
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 2873afabc5320fd69d219886187231b64569dd3bedf0ffe34a8ed2485456f966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028809"
 ---
 # <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Обновление номера заказа на покупку на портале Azure
 
-Вы можете обновить номер заказа на покупку (PO) на портале Azure. Для этого необходимо иметь роль владельца или участника для счета выставления счетов для соглашения о клиентах Майкрософт (MCA). 
+Номер заказа на покупку (PO) можно обновить на портале Azure. Для этого необходимо иметь роль владельца или участника в учетной записи вы выставления счетов для Соглашения о клиентах Майкрософт (MCA). 
 
-Чтобы обновить номер заказа на покупку, выполните следующие действия:
-1. Войдите на портал Azure и перейдите к разделу **Управление затратами + выставление счетов**.
-1. Нажмите кнопку **Профили выставления счетов** и выберите профиль выставления счетов для обновления номера заказа на покупку.
-1. Нажмите кнопку **Свойства** и выберите пункт **обновить номер заказа на покупку**. 
+Чтобы обновить po-номер:
+1. Войдите на портал Azure и перейдите на **управление затратами + Биллинг**.
+1. Щелкните **Профили биллинга** и выберите профиль вы выставления счета для обновления номера PO.
+1. Нажмите **кнопку Свойства** и **выберите номер ОБНОВЛЕНИЯ PO**. 
 
 **Рекомендуемая документация**
 
-- [Общие сведения о счете MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
-- [Обновление параметров учетной записи выставления счетов](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Понимание счета MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [Обновление параметров учетной записи для вы выставления счетов](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

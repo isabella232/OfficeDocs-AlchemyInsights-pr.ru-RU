@@ -1,5 +1,5 @@
 ---
-title: Узнайте, как Microsoft EDGE поддерживает Windows Information Protection (НЗП)
+title: Узнайте, Microsoft Edge поддерживает Windows защиты информации (WIP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054331"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Узнайте, как Microsoft EDGE поддерживает Windows Information Protection (НЗП)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Узнайте, Microsoft Edge поддерживает Windows защиты информации (WIP)
 
-При увеличении числа удаленных сотрудников, поэтому количество персональных и рабочих действий, выполняемых на корпоративных устройствах. Это, в свою очередь, повышает риск того, что корпоративные данные могут стать общедоступными. Для устранения этого риска Microsoft EDGE (версии 81 или более поздней версии) поддерживает Windows Information Protection (WIP): функция Windows-10, которая помогает защитить корпоративные данные от несанкционированных и случайных раскрытия.
+По мере увеличения числа удаленных сотрудников увеличивается и количество личных и рабочих действий, которые происходят на корпоративных устройствах. Это, в свою очередь, повышает риск того, что корпоративные данные могут быть общими за пределами рабочего места. Чтобы уменьшить этот риск, Microsoft Edge (версия 81 или более поздней версии) поддерживает Windows защиты информации (WIP): функцию Windows-10, которая помогает защитить корпоративные данные от несанкционированного и случайного раскрытия.

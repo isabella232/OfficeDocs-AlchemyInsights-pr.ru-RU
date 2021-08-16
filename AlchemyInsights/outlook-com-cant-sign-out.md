@@ -1,5 +1,5 @@
 ---
-title: Outlook.com не удается выйти
+title: Outlook.com не может выйти
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984654"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Не удается выйти из Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Невозможно выйти из Outlook.com
 
-Чтобы выйти из Outlook.com, выберите свое имя или изображение в правом верхнем углу экрана, а затем нажмите кнопку **выход**.
+Чтобы выйти из Outlook.com, выберите свое имя или фотографию в правом верхнем углу экрана, а затем выберите **Sign out**.
 
-Если вы не видите изображение в верхней части экрана, проверьте, включена ли блокировка AD. Иногда аватар не отображается по этой причине.
+Если вы не видите изображение в верхней части экрана, проверьте, включена ли блокировка рекламы. Иногда аватар не отображается по этой причине.
 
-Если вы по-прежнему не можете выйти из Outlook.com, щелкните  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) Закрыть все окна браузера.
+Если вы все еще не можете выйти из Outlook.com, нажмите кнопку [https://login.live.com/logout.srf](https://login.live.com/logout.srf) закрыть все окна браузера.

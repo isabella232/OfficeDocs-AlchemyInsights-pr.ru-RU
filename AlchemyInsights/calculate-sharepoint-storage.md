@@ -1,5 +1,5 @@
 ---
-title: Расчет хранилища SharePoint
+title: Расчет SharePoint хранения
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000355"
 - "10010"
-ms.openlocfilehash: aaabcc52b4811c1eea9cd3f0c65e2bf81644354b
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 7feac3177052b8647ff571f875f6978e84b046e06283bc8ac5ba48cc148f14a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51406750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046441"
 ---
-# <a name="calculate-sharepoint-storage"></a>Расчет хранилища SharePoint
+# <a name="calculate-sharepoint-storage"></a>Расчет SharePoint хранения
 
-**Формула хранения:** 1 ТБ плюс 10 ГБ на лицензию приобретаемого плана, а также любую приобретенную надстройку дополнительного хранилища файлов **[Office 365.](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)
+**служба хранилища:** 1 ТБ плюс 10 ГБ [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) на лицензию **[](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** приобретенного плана, Office 365 с дополнительным хранилищем приобретенной надстройки.
 
-Дополнительные сведения см. в [раздел Ограничения хранения SharePoint по плану.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+Дополнительные сведения см. [в SharePoint ограничения хранения по плану.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
