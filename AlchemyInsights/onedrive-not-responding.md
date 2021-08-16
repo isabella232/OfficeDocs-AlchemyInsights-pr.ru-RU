@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
-ms.openlocfilehash: 1e186ed1394f88c63930f6bcc3eae62ebf3f08e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 812b9e781022370c5109dedf1cb9ec5a4655e19838a258b47508ca8e955a1250
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025371"
 ---
 # <a name="onedrive-not-responding"></a>OneDrive не отвечает
 
-Для новых учетных записей пользователям необходимо войти в центр администрирования Microsoft 365 с собственной учетной записью и нажать кнопку OneDrive, чтобы вручную запустить подготовку сайта OneDrive.
+Для вновь созданных учетных записей пользователям необходимо войти в Центр администрирования Microsoft 365 с собственной учетной записью и OneDrive, чтобы вручную приступить к предоставлению OneDrive сайта.
   
-Тем не менее, если пользователь уже выбрал OneDrive и его личный сайт не подготовлен в течение 24 часов, запишите билет поддержки для получения дополнительной помощи.
+Однако, если пользователь уже нажал OneDrive и его личный сайт не был предусмотрен в течение 24 часов, зайдите в журнал билета поддержки для дальнейшей помощи.
   
 
