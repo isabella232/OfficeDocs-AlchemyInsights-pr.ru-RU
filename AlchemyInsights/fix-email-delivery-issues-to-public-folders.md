@@ -1,5 +1,5 @@
 ---
-title: Устранение проблем с доставкой электронной почты для общедоступных папок, поддерживающих почту
+title: Устранение проблем с доставкой электронной почты в общедоступные папки с поддержкой почты
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: 74a26306766ed7952a3bbbcb06f1f0113a113024
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: ff1400f694ae037a8658356af068b4c20b8fa9d9908dafedb90db7bb6859530f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068825"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Устранение проблем с доставкой электронной почты для общедоступных папок, поддерживающих почту
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Устранение проблем с доставкой электронной почты в общедоступные папки с поддержкой почты
 
-Если внешние отправители не могут отправлять сообщения в общедоступные папки с включенной поддержкой почты, а отправители не получают сообщение об ошибке **(550 5.4.1)**, убедитесь, что домен электронной почты для общедоступной папки настроен как домен внутренней ретрансляции, а не уполномоченный домен:
+Если внешние отправители не могут отправлять сообщения в общедоступные папки с поддержкой почты, а отправители получают ошибку: не удалось найти **(550 5.4.1),** убедитесь, что домен электронной почты для общедоступных папок настроен как домен внутренней ретрансляции вместо авторитетного домена:
 
-1. Откройте [центр администрирования Exchange](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. Откройте центр [администрирования Exchange (EAC).](https://docs.microsoft.com/Exchange/exchange-admin-center)
 
-2. Перейдите в раздел **поток обработки почты** \> **обслуживаемые домены**, выберите обслуживаемый домен и нажмите кнопку **изменить**.
+2. Перейдите **к потоку** \> **почты принятых доменов,** выберите принятый домен, а затем нажмите **кнопку Изменить**.
 
-3. На открывшейся странице "Свойства", если для типа домена задано значение " **удостоверяющий**", измените значение на " **Внутренняя ретрансляция** " и нажмите кнопку **сохранить**.
+3. На открываемой странице свойств, если тип домена установлен  до **"Авторитетный",** измените значение на внутреннюю ретранслятор, а затем нажмите **кнопку Сохранить**.
 
-Если внешние отправители получают сообщение об ошибке, у **которого нет разрешения (550 5.7.13)**, выполните следующую команду в [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) , чтобы просмотреть разрешения для анонимных пользователей в общедоступной папке:
+Если внешние отправители получают ошибку, у вас нет разрешения **(550 5.7.13),** запустите следующую команду в [Exchange Online PowerShell,](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) чтобы увидеть разрешения анонимных пользователей в общедоступных папках:
 
-`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous` Пример: `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous` .
+`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous` Например, `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous` .
 
-Чтобы разрешить внешним пользователям отправлять электронную почту в эту общедоступную папку, добавьте право доступа CreateItems для анонимного пользователя. Например, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.
+Чтобы позволить внешним пользователям отправлять электронную почту в эту публичную папку, добавьте право доступа CreateItems к пользователю Anonymous. Например, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.

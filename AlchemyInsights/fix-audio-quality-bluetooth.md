@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11508"
 - "9005365"
-ms.openlocfilehash: 20627d950af44b799a23a6d1f177f71cca7f275b
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: 04073a0adbd9ce47e36bb59c7363c5e11a04cede5e339e1876eb6aa374b3762c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721727"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068861"
 ---
 # <a name="fix-the-audio-quality-of-my-bluetooth-device"></a>Исправление качества звука устройства Bluetooth
 
@@ -26,7 +26,7 @@ ms.locfileid: "52721727"
 
 - Убедитесь, что звук воспроизводится через устройство Bluetooth. Нажмите кнопку **Пуск** и выберите пункт **Параметры** > **Система** > **Звук**. В разделе **Выберите устройство вывода** выберите звуковое устройство Bluetooth.
 
-- Приостановите другие функции, которые могут использовать Bluetooth, такие как общий доступ к файлам по Bluetooth. Дополнительные сведения см. в статье [Устранение проблем со звуком в Windows 10](https://support.microsoft.com/ru-RU/help/4026994).
+- Приостановите другие функции, которые могут использовать Bluetooth, такие как общий доступ к файлам по Bluetooth. Дополнительные сведения см. в статье [Устранение проблем со звуком в Windows 10](https://support.microsoft.com/en-us/help/4026994).
 
 - Убедитесь, что выбрано стерео, чтобы обеспечить наилучшее качество звука для устройства Bluetooth:
     1. В правой части панели задач выберите **Громкость**, а затем значок шеврона, чтобы выбрать устройство воспроизведения.
