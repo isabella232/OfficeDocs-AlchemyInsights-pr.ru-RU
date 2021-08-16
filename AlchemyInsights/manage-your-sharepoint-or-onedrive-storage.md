@@ -1,5 +1,5 @@
 ---
-title: Управление хранилищем SharePoint или OneDrive
+title: Управление SharePoint или OneDrive хранения
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9653f61da65f6aeb77ba33cb7eaf7f508ec7da8d38c3b32c2c30ea519d31ada6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077807"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Управление хранилищем SharePoint или OneDrive
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Управление SharePoint или OneDrive хранения
 
  **SharePoint Online**
   
-Для большинства организаций Управление хранилищем SharePoint осуществляется автоматически, поэтому нет необходимости устанавливать пределы для каждого семейства веб-сайтов. Чтобы проверить, какой объем хранилища SharePoint вы используете:
+Для большинства организаций SharePoint хранения управляется автоматически, поэтому не нужно устанавливать ограничения для каждого набора сайтов. Чтобы проверить, сколько SharePoint у вас есть:
   
-- В новом центре администрирования SharePoint в правом верхнем углу страницы "сайты" найдите доступное и общее хранилище.
+- В новом центре администрирования SharePoint в правом верхнем справа от страницы сайтов и посмотрите на доступное и общее хранилище.
     
-Для получения сведений о том, как вычисляется предельное значение, ознакомьтесь с [ограничениями SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Чтобы приобрести дополнительное хранилище, ознакомьтесь со статьей [изменение дискового пространства для подписки](https://go.microsoft.com/fwlink/?linkid=866428).
+Сведения о том, как рассчитывается ограничение, см. в SharePoint [Online Limits.](https://go.microsoft.com/fwlink/p/?LinkID=856113) Чтобы купить дополнительное хранилище, [см. в журнале Change storage space for your subscription.](https://go.microsoft.com/fwlink/?linkid=866428)
   
  **OneDrive**
   
-Чтобы изменить хранилище по умолчанию для новых и существующих пользователей OneDrive, выполните указанные ниже действия.
+Изменение хранилища по умолчанию для новых и существующих OneDrive пользователей:
   
-- Перейдите на [страницу "хранение" в центре администрирования OneDrive](https://admin.onedrive.com/?v=StorageSettings)и введите новое значение в ГБ.
+- Перейдите [служба хранилища страницу центра администрирования](https://admin.onedrive.com/?v=StorageSettings)OneDrive и введите новую сумму в ГБ.
     
-Чтобы узнать, сколько места для хранения вы используете в OneDrive, ознакомьтесь со статьей [Управление хранилищем в onedrive для бизнеса](https://go.microsoft.com/fwlink/?linkid=866429). Сведения о хранилище, которое поставляется с каждым планом, можно узнать в статье [Описание службы OneDrive для бизнеса](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Чтобы узнать, сколько хранилища используется в вашем OneDrive, см. в OneDrive для бизнеса [хранения.](https://go.microsoft.com/fwlink/?linkid=866429) Сведения о хранилище, которое поставляется с каждым планом, см. в OneDrive для бизнеса [службы.](https://go.microsoft.com/fwlink/p/?LinkID=826071)
   
 
