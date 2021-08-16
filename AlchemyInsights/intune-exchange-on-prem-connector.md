@@ -1,5 +1,5 @@
 ---
-title: Локальный соединитель Exchange Intune
+title: Intune Exchange локального соединиттеля
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013977"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Локальный соединитель Exchange Intune
+# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange локального соединиттеля
 
-Дополнительные сведения о настройке соединителя между Intune и Exchange, размещенными в локальной среде, можно найти в следующей документации:
+Подробные сведения о настройке соединитетеля между Intune и Exchange, который находится в локальной среде, см. в следующей документации:
 
-[Настройка локального соединителя Exchange Intune в Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
+[Настройка локального соединитетеля Intune Exchange в Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
 
 **Вопросы и ответы:**
 
-В: я вижу сообщение об ошибке "версия Exchange Connector не поддерживается" при попытке настроить соединитель Exchange Connector. Что может быть причиной?
+В. При попытке настроить соединитетор Exchange я вижу ошибку, например "версия Exchange соединители". В чем может быть причина?
 
-Ответ: используемая учетная запись является лицензированной, она должна иметь активную лицензию Intune
+Ответ: Учетная запись, используемая вами, имеет соответствующую лицензию — она должна иметь активную лицензию Intune.
 
-В. можно ли использовать несколько соединителей Exchange?
+В. Возможно ли иметь несколько соединители Exchange?
 
-A: вы можете настроить только один соединитель Exchange Connector для каждого клиента Intune в организации Exchange. Соединитель можно установить только на одном сервере в организации Exchange с несколькими серверами.
+О. Можно настроить только один соединитель Exchange для клиента Intune на Exchange организации. Соединитель можно установить только на одном сервере в организации обмена несколькими серверами.
 
-Кроме того, вы не можете использовать соединители, настроенные как для локальной среды Exchange, так и для Exchange Online, настроенные в одном клиенте.
+Также нельзя настроить соединители для локального Exchange и Exchange Online в одном клиенте.
 
-Вопрос: может использовать в качестве подключения к Exchange массив CAS?
+В. Может ли соединитатель использовать массив CAS в качестве подключения к Exchange?
 
-А: указание массива CAS не поддерживается в настройке соединителя. Необходимо указать только один сервер, который должен быть жестко задан в файле конфигурации соединителя, который можно найти в
+О. Указание массива CAS — это не поддерживаемая конфигурация в установке соединитетеля. Только один сервер должен быть указан и должен быть жесткокодирован в файле конфигурации соединитела, который можно найти в
 
-Программа дата\микрософт\микрософт Intune на локальном соединителе Exchange \ OnpremiseExchangeConnectorServiceConfiguration.xml
+данные программы\Microsoft\Microsoft Intune на локальном Exchange\OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Откройте следующую запись ```<ExchangeWebServiceURL />``` и замените URL-адрес на сервер Exchange.
+Найдите следующую запись ```<ExchangeWebServiceURL />``` и замените URL-адрес на сервер exchange.
 
-**Примеры**
+**Пример:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Дополнительные сведения об устранении неполадок можно найти в следующей документации: [Устранение неполадок в локальном соединителе Exchange Intune](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+См. следующую документацию по устранению неполадок: устранение неполадок локального [Exchange Intune](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
 
-**Включение подробного ведения журнала для соединителя Exchange**
+**Включение журнала Verbose для соединиттеля Exchange**
 
-1. Откройте файл конфигурации трассировки Exchange Connector для редактирования.  
-Файл находится по адресу:%Програмдата%\микрософт\виндовс Intune Exchange Connector\TracingConfiguration.xml  
+1. Откройте файл конфигурации Exchange соединители для редактирования.  
+Файл расположен по адресу: %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Примеры**
+**Пример:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Откройте Трацесаурцелине со следующим ключом: Онпремисесексчанжеконнекторсервице  
+2. Найдите TraceSourceLine со следующим ключом: OnPremisesExchangeConnectorService  
   
-3. Измените значение узла Саурцелевел с Information АктивититраЦинг (по умолчанию) на Verbose АктивититраЦинг  
+3. Измените значение узла SourceLevel с "Отслеживание информационной активности" (по умолчанию) на "Многословное отслеживание действий"  
 
 **Пример:**
 ```
@@ -74,6 +74,6 @@ A: вы можете настроить только один соедините
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. Перезапуск службы Microsoft Intune Exchange  
-5. Полную синхронизацию на портале Intune, пока не завершится, а затем замените XML обратно на "Information АктивититраЦинг" и перезапустите службу Microsoft Intune Exchange.  
+4. Перезапустите службу Microsoft Intune Exchange  
+5. Полная синхронизация на портале Intune, пока он не завершится, а затем измените XML на "Отслеживание информационной активности" и перезапустите службу Microsoft Intune Exchange.  
 6. Расположение журналов: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

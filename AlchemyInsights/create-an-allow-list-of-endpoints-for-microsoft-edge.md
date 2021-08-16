@@ -1,5 +1,5 @@
 ---
-title: Создание списка разрешенных конечных точек для Microsoft Edge
+title: Создание списка допустимого списка конечных точек для Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003932"
 - "6987"
-ms.openlocfilehash: d29364e683893e21d5d0a47ecdcc619f102e5bb3
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: cabea25a316a22c9eb3b63daf74c6ac213d24f35be5319276cff641b1d9a27b9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49600156"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032103"
 ---
-# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Создание списка разрешенных конечных точек для Microsoft Edge
+# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Создание списка допустимого списка конечных точек для Microsoft Edge
 
-Чтобы получить полный массив функций Microsoft EDGE на вашем распоряжении, необходимо подключить его к Интернету. Кроме того, чтобы браузер мог общаться через брандмауэры и другие механизмы безопасности в Интернете, необходимо добавить набор URL-адресов домена в [список разрешенных конечных точек](https://go.microsoft.com/fwlink/?linkid=2135054).
+Чтобы иметь полный массив Microsoft Edge в вашем распоряжении, необходимо, чтобы он был подключен к Интернету. Кроме того, чтобы браузер общался с помощью брандмауэров и других механизмов безопасности в Интернете, необходимо добавить набор URL-адресов домена в список допустимые конечные [точки.](https://go.microsoft.com/fwlink/?linkid=2135054)
