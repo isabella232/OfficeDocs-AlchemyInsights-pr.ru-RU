@@ -1,5 +1,5 @@
 ---
-title: Несоответствие PUID OneDrive
+title: OneDrive Несоответствие PUID
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653273"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096743"
 ---
-# <a name="onedrive-puid-mismatch"></a>Несоответствие PUID OneDrive
+# <a name="onedrive-puid-mismatch"></a>OneDrive Несоответствие PUID
 
-Похоже, вы столкнулись с несоответствием [ИД](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в OneDrive для бизнеса. Чтобы помочь вам в самых ранних шагах, сделайте следующее:
+Похоже, что в [](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) OneDrive для бизнеса вы столкнулись с несоответствием OneDrive для бизнеса. Чтобы помочь вам как можно раньше, необходимо предпринять следующие действия:
 
-1. Щелкните **"Обратиться в службу** поддержки", а затем **"Новый запрос на обслуживание".**
-2. Оставьте название и описание несоответствием ИД пользователя сайта **OneDrive.**
-3. После отправки билета обновим его следующими сведениями:
-    - Затронутый URL-адрес сайта OneDrive.
-    - Имя основного пользователя (UPN) затронутого пользователя.
+1. Нажмите  **кнопку Поддержка контактов,** а затем  **новый запрос на службу**.
+2. Оставьте название и описание **как OneDrive iD-интерфейса сайта.**
+3. После отправки билета обнови его с помощью следующих сведений:
+    - OneDrive url-адрес сайта, на который влияет.
+    - Имя пользователя основного пользователя (UPN) затронутого пользователя.

@@ -1,5 +1,5 @@
 ---
-title: Не удается удалить фотографии или файлы из файлов в Outlook.com
+title: Не может удалить фотографии или файлы из Файлов в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: da04d3d8c9bca3f6e0e44a3a55b158e1d7b00fde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98118c2db5468b1bca9f00014dc8221469fba7b050f4d93ec8d4707812517de9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753128"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064325"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a>Не удается удалить файлы или фотографии из файлов
+# <a name="cant-delete-files-or-photos-from-files"></a>Не может удалить файлы или фотографии из Файлов
 
-В Outlook.com **файлы** отображаются файлы и фотографии, вложенные в сообщения в вашем почтовом ящике. Чтобы удалить файлы и фотографии из файлов, необходимо удалить сообщения электронной почты, к которым они присоединены. После удаления сообщений необходимо также удалить их из папки "Удаленные".
+В Outlook.com **Файлы** показывают файлы и фотографии, прикрепленные к сообщениям в почтовом ящике. Чтобы удалить файлы и фотографии из Files, необходимо удалить подключенные к нему сообщения электронной почты. После удаления сообщений также необходимо удалить их из папки "Удаленные элементы".
 
-Чтобы узнать больше, прочитайте, [как удалять файлы и фотографии в Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
+Дополнительные данные читайте в [публикации How to delete files or photos in Outlook.com.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy)
