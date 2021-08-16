@@ -1,5 +1,5 @@
 ---
-title: Настройка параметров политики Microsoft Edge в Windows
+title: Настройка параметров Microsoft Edge политики на Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "9004632"
 - "6894"
 - "8358"
-ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a7c092ac606cc599b37a0d9442dd82e0f493465508a6e5d24fa0589d0f3bb19a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978714"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Настройка параметров политики Microsoft Edge в Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Настройка параметров Microsoft Edge политики на Windows
 
-Чтобы настроить параметры политики и управляемые обновления для Microsoft Edge, используйте объекты групповой политики (GPOs). Вы также можете создать политику через реестр; это подходит для устройств Windows, присоединив их к домену Microsoft Active Directory, а также для (2) экземпляров Windows 10 Pro и Enterprise, зарегистрированных для управления устройствами в Microsoft Intune.
+Чтобы настроить параметры политики и управляемые обновления для Microsoft Edge, используйте объекты групповой политики (GPOs). Вы также можете создать политику через реестр; это будет уместно для (1) Windows устройств, присоединимых к домену Microsoft Active Directory, а также для (2) Windows 10 Pro и Enterprise экземпляров, зарегистрированных для управления устройствами в Microsoft Intune.
 
 Чтобы настроить Microsoft Edge с помощью GPOs, сделайте следующее:
 
 1. Перейдите в Центральный магазин групповой политики в домене Active Directory или в папку шаблонов определения политики на отдельных компьютерах, установите все административные шаблоны, добавляя правила и параметры для Microsoft Edge.
 2. Настройка определенных политик, которые необходимо установить.
 
-Дополнительные дополнительные новости см. в [веб-сайте Настройка параметров](https://go.microsoft.com/fwlink/?linkid=2135024)политики Microsoft Edge в Windows.
+Дополнительные новости см. в [Microsoft Edge параметры](https://go.microsoft.com/fwlink/?linkid=2135024)политики Windows.
