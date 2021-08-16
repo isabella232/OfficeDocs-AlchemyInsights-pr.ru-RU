@@ -1,5 +1,5 @@
 ---
-title: Определение удержаний, включенных в почтовые ящики
+title: Определение хламов, размещенных в почтовых ящиках
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987582"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Определение удержаний, включенных в почтовые ящики
+# <a name="identify-holds-placed-on-mailboxes"></a>Определение деспонятов, размещенных в почтовых ящиках
 
-Есть ли у вас хранение содержимого Microsoft 365, которое не **может быть** определено **удержанием** ? Нужно **узнать** , где находится удержание, в **почтовом ящике** ? Удержания (*функции хранения*) могут быть применены одним из следующих способов:
+Есть ли Microsoft 365 контент, который  сохраняется в удержании, **которое** невозможно идентифицировать? Необходимо **выяснить,** где находится удержание в **почтовом ящике?** *Удержание (функции* хранения) может применяться одним из следующих методов:
   
 - Хранение для судебного разбирательства
 
-- удержание eDiscovery
+- удержание электронных обнаружений
 
 - Хранение на месте
 
-- Политика хранения Microsoft 365 
+- Microsoft 365 хранения 
 
-  - Политики хранения определенного расположения
+  - Определенные политики хранения расположения
 
-  - Политики хранения на уровне Организации
+  - Политики хранения на всей организации
 
-- Метки Microsoft 365
+- Microsoft 365 метки
 
-Чтобы определить, какой тип удержания применяется к почтовому ящику пользователя, Узнайте, [как определить тип удержания, размещенного в почтовом ящике Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Чтобы определить, какой тип удержания применяется к почтовому ящику пользователя, см. в примере How [to identify the type of hold placed on an Exchange Online mailbox.](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
