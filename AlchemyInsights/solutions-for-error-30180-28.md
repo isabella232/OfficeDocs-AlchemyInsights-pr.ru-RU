@@ -13,12 +13,12 @@ ms.assetid: 2caadb7a-3b1e-4332-b928-03c1d51da8d3
 ms.custom:
 - "832"
 - "2000020"
-ms.openlocfilehash: 94b36f823522823f1f4bb9e9d707e6bf4b861f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 686a48c7d7e4efa7e76f2a04c3bd7089ffcd8554c7fba21539beaa376cb808ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021897"
 ---
 # <a name="solutions-for-error-30180-28"></a>Решения для ошибки 30180-28
 
@@ -26,4 +26,4 @@ ms.locfileid: "51825132"
   
 - Перезапустите компьютер и [обновите Office.](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA)
 
-- Следуйте вышеперечисленным шагам, но при обновлении Office используйте проводное подключение.
+- Следуйте вышеперечисленным шагам, но используйте проводное подключение при обновлении Office.
