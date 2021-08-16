@@ -1,5 +1,5 @@
 ---
-title: Экспорт истории чата в Teams
+title: Экспортная история чата в Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom:
 - "9003839"
 - "6887"
-ms.openlocfilehash: afce8ac024a03d51473cfdad0131be0556915cdb
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: dfa1d13f863a913e2c6de6111a2946b0a95ad8038b7b4ab15091ca3e1271e7a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48840633"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100487"
 ---
-# <a name="export-chat-history-in-teams"></a>Экспорт истории чата в Teams
+# <a name="export-chat-history-in-teams"></a>Экспортная история чата в Teams
 
-- Экспорт, архивация, печать и архивация журнала бесед в настоящее время недоступен пользователям непосредственно из Microsoft Teams. Проведите голосование за эту возможность в [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20).
-- Как администратор или диспетчер eDiscovery вы можете создать [Поиск контента](https://docs.microsoft.com/microsoft-365/compliance/content-search?view=o365-worldwide)  в центре соответствия требованиям Microsoft 365 для поиска, а затем экспортировать беседы с помощью мгновенных сообщений в Организации. Дополнительную информацию можно найти в статье [Экспорт результатов поиска контента](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide).
+- Экспорт, архивка, печать и архивативная история бесед в настоящее время недоступны пользователям непосредственно из Microsoft Teams. Пожалуйста, проголосуйте по этой возможности в [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20).
+- В качестве администратора или менеджера по обнаружению электронных сообщений можно создать поиск контента в Центр соответствия требованиям Microsoft 365 поиска, а затем экспортировать беседы с мгновенными сообщениями в организации. [](https://docs.microsoft.com/microsoft-365/compliance/content-search?view=o365-worldwide) Дополнительные сведения см. в [результатах поиска по экспорту контента.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide)

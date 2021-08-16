@@ -1,5 +1,5 @@
 ---
-title: Ошибка автофильтра Excel
+title: Excel Проблема AutoFilter
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: c7d6bee548a8b7feeb5c9103c594d71754c4fc4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b50a0c2bcc72674c55938608f09de324a18433879b4126fb0e9c3314480dc180
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100559"
 ---
-# <a name="excel-autofilter-issue"></a>Ошибка автофильтра Excel
+# <a name="excel-autofilter-issue"></a>Excel Проблема AutoFilter
 
-Если при использовании Excel 2016 в раскрывающемся списке автофильтра не отображаются все доступные флажки, или эти флажки не поддерживаются, это может быть вызвано известной ошибкой в более ранних сборках Excel. 
+При использовании Excel 2016, если ваш автофильм не показывает все доступные флажки, или флажки не являются щелкаемыми, это может быть связано с известной проблемой в более ранних сборках Excel. 
   
-Теперь эта проблема исправлена в **версии 1707 (8326,2073)** или более поздней версии. Чтобы немедленно получить обновление, откройте Excel и выберите Обновить **File** \> Параметры обновления **учетных записей** файлов \> **Update Options** \> **Update Now**.
+Эта проблема исправлена в **версии 1707 (8326.2073)** или более поздней версии. Чтобы получить обновление немедленно, откройте Excel и выберите **обновление** параметров обновления учетной записи \>  \>  \> **файла.**
   
 
