@@ -1,5 +1,5 @@
 ---
-title: Отложенная отправка в Outlook.com
+title: Отложенная отправка Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041419"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Задержка или планирование отправки сообщений электронной почты
+# <a name="delay-or-schedule-sending-email-messages"></a>Задержка или расписание отправки сообщений электронной почты
 
-К сожалению, вы не можете отложить или запланировать отправку сообщений электронной почты в мобильном приложении или веб-браузере. Для этого используйте [Outlook для Windows или Outlook для Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Извините, но вы не можете отложить или запланировать отправку сообщений электронной почты в мобильном приложении или веб-браузере. Для этого используйте [Outlook для Windows или Outlook для Mac.](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
 
-**Отменить отправку**
+**Отмена отправки**
 
-Вы можете изменить параметры Outlook.com, чтобы отложить отправку сообщения в течение 10 секунд. Вы можете отменить отправку сообщения в течение этого периода. Чтобы включить эту функцию, откройте параметры [отмены отправки](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
+Вы можете изменить параметры Outlook.com, чтобы отложить отправку сообщения на срок до 10 секунд. В этот период можно отменить отправку сообщения. Чтобы включить эту функцию, откройте [параметры отправки undo.](https://outlook.live.com/mail/options/mail/messageContent/undoSend)
 
-Узнайте больше о [отзыве электронной почты в Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Дополнительные информацию об отзыве электронной почты в [Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).

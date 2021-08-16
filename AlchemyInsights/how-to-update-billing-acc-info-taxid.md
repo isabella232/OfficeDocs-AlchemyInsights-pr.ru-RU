@@ -1,5 +1,5 @@
 ---
-title: Обновление сведений об учетной записи для выставления счетов
+title: Обновление сведений об учетных записях счетов
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015345"
 ---
-# <a name="how-to-update-billing-account-information"></a>Обновление сведений об учетной записи для выставления счетов
+# <a name="how-to-update-billing-account-information"></a>Обновление сведений об учетных записях счетов
 
-Перед покупкой услуг со сбором необходимо добавить или изменить рабочий адрес Организации, контактный адрес электронной почты и имя контакта.
+Перед покупкой платных служб необходимо добавить или обновить бизнес-адрес организации, контактный адрес электронной почты и имя контакта.
 
-Для вычисления налога с продаж и НДС используется рабочий адрес. Если вы хотите обновить свой налоговый или налоговый номер, владелец учетной записи выставления счетов для вашего соглашения о клиенте корпорации Майкрософт может сделать это, выполнив следующие действия:
+Мы используем бизнес-адрес для расчета налога с продаж и НДС. Если вы хотите обновить номер TAX/VAT, владелец учетной записи счетов для клиента Майкрософт может сделать это, следуя следующим шагам:
 
-**Обновление сведений об учетной записи выставления счетов и обновление идентификатора налога**:
+**Обновление сведений об учетных записях** счетов и обновление налогового ИД:
 
-1. Войдите в [Microsoft Store для бизнеса](https://businessstore.microsoft.com/).
-1. Щелкните **Управление**  >  **учетными записями выставления счетов**.
-1. В разделе **Обзор** выберите **изменить сведения об учетной записи выставления счетов**.
-1. Внесите изменения, а затем нажмите кнопку **сохранить**. 
+1. Во входе [в Microsoft Store для бизнеса](https://businessstore.microsoft.com/).
+1. Нажмите **кнопку Управление**  >  **счетами** счетов .
+1. Из **обзоров** щелкните **Изменить сведения учетной записи счетов для биллинга.**
+1. Сделайте обновления и нажмите кнопку **Сохранить**. 
 
 **Рекомендуемые документы**
 
-- [Общие сведения о счете MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [Понимание счета MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 
 - [Просмотр и скачивание налоговых документов для счета Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
 
-- [Обновление параметров учетной записи выставления счетов](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Обновление параметров учетной записи для вы выставления счетов](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
