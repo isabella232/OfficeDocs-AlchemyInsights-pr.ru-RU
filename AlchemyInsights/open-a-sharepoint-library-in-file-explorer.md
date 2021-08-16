@@ -1,5 +1,5 @@
 ---
-title: Открытие библиотеки SharePoint в проводнике
+title: Откройте библиотеку SharePoint в Проводнике файлов
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b47bbec23a6e96559d5ed516b9470c36fa06335a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bdf4b5975095bf35808a78ec301c375b5744df49b685e033406a38151141597
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729092"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025263"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Открытие библиотеки SharePoint в проводнике
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Откройте библиотеку SharePoint в Проводнике файлов
 
-1. Перейдите к библиотеке в Internet Explorer 10 или Internet Explorer 11. 
+1. Просмотрите библиотеку в Internet Explorer 10 или Internet Explorer 11. 
     
-2. Щелкните значок представления в правом верхнем углу, а затем выберите пункт **Просмотр в проводнике**.
+2. Щелкните значок Просмотр в правом верхнем справа, а затем **нажмите кнопку Просмотр в проводнике файлов**.
     
 > [!NOTE]
-> Открыть библиотеку в проводнике удобно, если вам нужно скопировать или переместить несколько файлов и папок один раз, но если вы хотите регулярно работать в библиотеке, рекомендуем синхронизировать ее. Устранение неполадок, возникающих при открытии в проводнике, представлено в разделе [Открыть в проводнике](https://go.microsoft.com/fwlink/?linkid=871665). Сведения о настройке синхронизации можно найти в статье [Синхронизация файлов SharePoint с помощью нового клиента синхронизации OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Открытие библиотеки в Проводнике файлов удобно, если необходимо скопировать или переместить несколько файлов и папок один раз, но если вы хотите регулярно работать в библиотеке, рекомендуется синхронизировать ее. Чтобы устранить проблемы, открываемые в Проводнике файлов, см. [в руб. Open in Explorer.](https://go.microsoft.com/fwlink/?linkid=871665) Сведения о настройке синхронизации см. в SharePoint sync с новым [клиентом приложение синхронизации OneDrive.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

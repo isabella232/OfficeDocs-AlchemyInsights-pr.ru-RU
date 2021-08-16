@@ -1,5 +1,5 @@
 ---
-title: Политики Организации не разрешают делиться ими с этими пользователями
+title: Политики организации не позволяют обмениваться данными с этими пользователями
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "7523"
-ms.openlocfilehash: 11263e6f41ae66c5a806bde6fa277121e29162d3
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: 90be6f740a00c1f4007a37e80888df7827ba07bd615db36921ee8f01cc5ea05c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49600153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025227"
 ---
-# <a name="organizations-policies-do-not-allow-you-to-share-with-these-users"></a>Политики Организации не разрешают делиться ими с этими пользователями
+# <a name="organizations-policies-do-not-allow-you-to-share-with-these-users"></a>Политики организации не позволяют обмениваться данными с этими пользователями
 
-При попытке предоставить общий доступ к элементу или сайту в SharePoint Online или OneDrive для бизнеса отображается сообщение об ошибке "[политики вашей организации не разрешают предоставлять доступ этим пользователям](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error)".
+При попытке поделиться элементом или веб-сайтом в SharePoint Online или OneDrive для бизнеса, вы видите ошибку["Политики](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error)организации не позволяют вам делиться с этими пользователями".
