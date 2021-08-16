@@ -1,5 +1,5 @@
 ---
-title: Добавление Microsoft Defender для Office 365 в подписку
+title: Добавление microsoft Defender для Office 365 подписки
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5dbd3e3b7744f48c5737b0909765576453e8769e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ea3addc8bd1e7bb3026132512f75ecdbafcec06036ec14943fb3aed554e25757
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006255"
 ---
-# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Добавление Microsoft Defender для Office 365 в подписку
+# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Добавление microsoft Defender для Office 365 подписки
 
-Для этого сделайте следующее:
+Выполните следующие действия:
 
 1. В центре администрирования перейдите к **службам покупки**  >  [биллинга.](https://go.microsoft.com/fwlink/p/?linkid=868433)
-2. На странице **Службы покупки** нажмите **кнопку CTRL+F,** чтобы открыть поле поиска, а затем ищите **Microsoft Defender для Office 365.** Если надстройка не находится, это происходит из-за того, что ваш план не поддерживает ее добавление.
+2. На странице **Службы покупки** нажмите **кнопку CTRL+F,** чтобы открыть поле поиска, а затем ищите **Microsoft Defender для Office 365**. Если надстройка не находится, это происходит из-за того, что ваш план не поддерживает ее добавление.
 3. Выберите **Купить сейчас,** а затем следуйте подсказкам на странице.

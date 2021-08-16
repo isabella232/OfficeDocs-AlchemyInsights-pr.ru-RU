@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994194"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Создание политики и профилей Intune
 
@@ -26,7 +26,7 @@ ms.locfileid: "50704655"
 
 - **Профили регистрации:** предварительное перенастройка устройств по платформе, возможность сродства пользователей, использование многофакторной проверки подлинности и другие.
 
-  [Что такое регистрация устройств](https://docs.microsoft.com/intune/device-enrollment)и создание профилей регистрации для [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)и [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) являются хорошими ресурсами.
+  [Что такое регистрация устройств](https://docs.microsoft.com/intune/device-enrollment)и создание профилей регистрации для [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)и Windows [являются](https://docs.microsoft.com/intune/windows-enrollment-methods) хорошими ресурсами.
 
 - **Политики соответствия требованиям.** Определите правила и параметры, за которые должны следовать устройства, чтобы быть совместимыми. Вы также можете использовать политики соответствия требованиям для мониторинга устройств и уведомления пользователей о несоблюдении.
 
