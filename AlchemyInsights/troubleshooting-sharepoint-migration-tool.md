@@ -1,5 +1,5 @@
 ---
-title: Устранение неполадок и ошибок средства миграции SharePoint
+title: Устранение неполадок SharePoint средства миграции и ошибок
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,17 +14,17 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 4277c524f5900ef92d39608655453a210f4ed601
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96b9dc16251701bd24e59153a72ec9a82f75663166b0dac796276e6f66c6424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735752"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020673"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Устранение неполадок и ошибок средства миграции SharePoint
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Устранение неполадок SharePoint средства миграции и ошибок
 
-При использовании средства миграции SharePoint (SPMT) могут возникать некоторые распространенные проблемы и ошибки. Для получения дополнительных сведений ознакомьтесь со ссылками ниже.
+При использовании средства миграции SharePoint (SPMT) могут возникнуть некоторые распространенные проблемы и ошибки. Дополнительные сведения см. в ссылке на ссылки ниже.
 
 - [Устранение распространенных проблем и ошибок SMTP](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 
-- [Устранение проблем с установкой SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
+- [Устранение неполадок при установке SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)

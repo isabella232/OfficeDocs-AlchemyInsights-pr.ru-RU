@@ -1,5 +1,5 @@
 ---
-title: Руководство по обновлению Teams
+title: Teams обновления
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334259"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998704"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>В Teams используются больше ресурсов компьютера, чем ожидалось
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams использует больше ресурсов компьютера, чем ожидалось
 
-Лучшая производительность и удобство работы пользователей — самые распространенные вопросы корпорации Майкрософт. Время запуска Teams было усовершенствовано, и мы будем продолжать улучшать Teams, в том числе общее потребление ресурсов.  
+Большая производительность и пользовательский опыт являются главными задачами в Корпорации Майкрософт. Teams время запуска улучшается, и мы будем продолжать улучшать Teams, включая общее потребление ресурсов.  
 
-Сведения об использовании Teams и ресурсов, Узнайте о [том, как Microsoft Teams использует память](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  , а  [рабочие группы замедляются во время видеоконференций на ноутбуках, прикрепленных к мониторам 4 КБ/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Сведения о Teams и использовании ресурсов [](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) см. в Microsoft Teams, как Teams использует память и Teams во время видеоконферентов на ноутбуках, пристыкованных к [мониторам 4K/HDR.](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)

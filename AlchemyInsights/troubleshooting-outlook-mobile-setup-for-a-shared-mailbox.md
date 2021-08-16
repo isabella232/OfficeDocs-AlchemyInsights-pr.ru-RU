@@ -1,5 +1,5 @@
 ---
-title: 1800014 устранение неполадок с настройкой Outlook Mobile для общего почтового ящика
+title: 1800014 устранения неполадок Outlook установки для общего почтового ящика
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: 598e6a5b-daca-45b8-a1e4-99ce018aa64c
-ms.openlocfilehash: 856560dbe7e66460fd2c6690aed1f32174d5dd7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78e015918f7b1ebfea3898a7ede5518b847c7be19971d5ef59854da8b005667f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020709"
 ---
-# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Устранение неполадок с настройкой Outlook Mobile для общего почтового ящика
+# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Устранение неполадок Outlook настройки для общего почтового ящика
 
-Нельзя открывать общий почтовый ящик из приложения Outlook, установленного на мобильном устройстве. Вам нужна эта возможность? Разрешите группе разработчиков Outlook знать. [Проголосуйте здесь](https://go.microsoft.com/fwlink/?linked=862116)!
+Нельзя открывать общий почтовый ящик из приложения Outlook, установленного на мобильном устройстве. Вам нужна эта возможность? Дайте знать Outlook инженерии. [Голосуйте здесь!](https://go.microsoft.com/fwlink/?linked=862116)
   
-Вы можете использовать только общий почтовый ящик на мобильном устройстве, открыв браузер, войдя в систему, а затем перейдя в Outlook в Интернете. Инструкции см в разделе [Добавление общего почтового ящика в Outlook в Интернете](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207). Через приложение Outlook в Интернете вы можете открыть общий почтовый ящик.
+Вы можете использовать общий почтовый ящик только на мобильном устройстве, открыв браузер, входя и Outlook в Интернете. Инструкции см. в [раздел Добавить общий почтовый ящик в Outlook в Интернете.](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207) Через приложение Outlook в Интернете вы можете открыть общий почтовый ящик.
   
-Дополнительные сведения: [Получение справки по приложениям для Outlook для iOS и Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Дополнительные справки: помощь в приложении [для Outlook для iOS и Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
 
