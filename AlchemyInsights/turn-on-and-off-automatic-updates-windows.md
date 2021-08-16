@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005716"
 - "9932"
-ms.openlocfilehash: 56e1ce994353c83d4735682daada233faa5ae8ad
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ea51c9e54e18418daf0696ed43fa0636af2b8f5cda5b1a876f2b6cc13eaad6fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038566"
 ---
 # <a name="turn-on-and-off-automatic-updates-in-windows"></a>Включение и отключение автоматических обновлений в Windows
 
@@ -60,5 +60,5 @@ ms.locfileid: "51123152"
 
 **Примечание.** Вы не можете удалить активную тему. Если вы хотите удалить активную тему, сначала выберите другую тему для использования. Приложение "Параметры" также не позволяет удалять стандартные темы.
 
-Подробные сведения см. в статье [Получение новых тем и фонов рабочего стола](https://support.microsoft.com/windows/get-new-themes-and-desktop-backgrounds-09e3e0a6-02e3-5ecd-22a1-5d048e3cb0d3).
+Дополнительные сведения см. в статье [Получение новых тем и фонов рабочего стола](https://support.microsoft.com/windows/get-new-themes-and-desktop-backgrounds-09e3e0a6-02e3-5ecd-22a1-5d048e3cb0d3).
 

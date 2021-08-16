@@ -1,5 +1,5 @@
 ---
-title: 8000001 отключить сортировку почты
+title: 8000001 отключение сфокусированного почтового ящика
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,19 +15,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: eb881f0d0c5ef9dbc90b14c4f351509f55614415
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ab443c16069b44563a342948ca29a65d61a6616a5bdb8184978e70191eebcbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797093"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038710"
 ---
-# <a name="turn-off-focused-inbox"></a>Отключить сортировку почты
+# <a name="turn-off-focused-inbox"></a>Отключение сфокусированного почтового ящика
 
-1. Выберите **Параметры** \> **Сортировка папки "Входящие"**.  
+1. Выберите **Параметры** \> **"Входящие".**  
 
-2. В разделе **при получении электронной почты**выберите пункт **не сортировать сообщения**.
+2. В **соответствии с тем, когда электронная почта получена,** выберите Не **сортировать сообщения**.
 
-3. Нажмите кнопку **ОК**.
+3. Нажмите **ОК**.
 
-Чтобы узнать больше, ознакомьтесь со статьей [Сортировка почты для Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).
+Дополнительные дополнительные сообщения см. в [Outlook.](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy)

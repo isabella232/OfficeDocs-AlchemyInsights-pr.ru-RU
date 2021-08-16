@@ -1,5 +1,5 @@
 ---
-title: Интерфейс API REST Microsoft Graph
+title: Интерфейс API Graph MICROSOFT Graph REST
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 3c9bf956624775c394534ab150d39193e5e10144
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d8ef9f22e495feba26ecc1d3e21b996b199cbe16c6d3fdbf8e2e50893fe15942
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027207"
 ---
-# <a name="microsoft-graph-rest-api-interface"></a>Интерфейс API REST Microsoft Graph
+# <a name="microsoft-graph-rest-api-interface"></a>Интерфейс API Graph MICROSOFT Graph REST
 
-API Graph — наборы для конечной точки v 1.0 находятся в состоянии общего доступа (GA) и прошли тщательный процесс проверки и обратной связи с клиентами для удовлетворения практичных и производственных потребностей.
+Наборы API Graph для конечной точки v1.0 находятся в состоянии общей доступности (GA) и прошли тщательный процесс проверки и обратной связи с клиентами для удовлетворения практических производственных потребностей.
 
-- Для получения дополнительных сведений о Graph API версии 1.0 обратитесь к [справочной системе Microsoft Graph REST API версии 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
-- Для получения дополнительных сведений о бета-версии API Graph ознакомьтесь со статьей [Справочник по конечной точке бета-версии Microsoft Graph](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
+- Дополнительные сведения о Graph API v1.0 см. в Graph API REST [v1.0.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0) 
+- Дополнительные сведения о бета Graph версии API см. в Graph ссылке на [бета-конечную точку.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta)
 
-Для получения дополнительных сведений о Microsoft Graph обратитесь [к документации по Microsoft Graph](https://docs.microsoft.com/graph/).
+Дополнительные сведения о microsoft Graph см. в [документации microsoft Graph.](https://docs.microsoft.com/graph/)
 
 

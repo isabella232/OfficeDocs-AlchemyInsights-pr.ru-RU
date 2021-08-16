@@ -14,17 +14,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e1c7df87bbd879d2a5d6983b699c3edb585eab475e449f5b95775927d704361e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812524"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996499"
 ---
 # <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Не удается добавить или создать новую подпись в Outlook
 
-Это известная проблема. Мы работаем над устранением этой проблемы, и состояние будет Обновлено в [Outlook зависает нажатие кнопки подпись](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Это известная проблема. Мы работаем, чтобы исправить это, и состояние будет обновлено в Outlook [замораживает](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)нажатие кнопки Подпись .
 
-Чтобы обойти эту проблему, сначала [выполните действия](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) по удалению предварительно установленных приложений для настольных систем Microsoft Office. 
+Чтобы решить эту проблему, сначала попробуйте удалить предварительно установленные Microsoft Office настольные приложения. [](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) 
 
-Если это не повлияет на затронутом компьютере, попробуйте воспользоваться [обходным путем на основе реестра](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Если это не работает для пострадавшей машины, попробуйте обходное решение на основе [реестра.](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)
