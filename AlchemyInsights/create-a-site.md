@@ -8,23 +8,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
-ms.openlocfilehash: ecbaf5a52a0867893c470f759a030bafea376e34
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2aeb4e943311143be7d9c1477c81d9652067a02c739dc258e4187deb79cade7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747420"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032319"
 ---
 # <a name="create-a-site"></a>Создание сайта
 
-- Перейдите на [страницу сайты в центре администрирования Microsoft 365](https://portal.office.com/adminportal/home#/SitesList)и выберите **Добавить сайт**. 
+- Перейдите на [страницу Сайты в Центр администрирования Microsoft 365,](https://portal.office.com/adminportal/home#/SitesList)а затем выберите **Добавить сайт**. 
     
-- В новом центре администрирования SharePoint на странице "сайты" нажмите кнопку **создать**. 
+- В новом центре администрирования SharePoint на странице Сайты нажмите кнопку **Создать**. 
     
-**Примечание:** Невозможно создать новый сайт с таким же URL-адресом и существующим сайтом. 
+**Примечание:** Невозможно создать новый сайт с одинаковым URL-адресом с существующим сайтом. 
   
-Более подробную информацию о создании сайта можно узнать в статье [Создание сайта](https://go.microsoft.com/fwlink/?linkid=866295).
+Дополнительные сведения о создании сайта см. в [сайте Create a site.](https://go.microsoft.com/fwlink/?linkid=866295)
   
-Сведения о том, как разрешить пользователям создавать собственные сайты, можно найти [в статье Управление созданием сайтов в SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+Сведения о том, как разрешить пользователям создавать собственные сайты, см. в SharePoint [Online.](https://go.microsoft.com/fwlink/?linkid=866296)
   
 
