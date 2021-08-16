@@ -1,5 +1,5 @@
 ---
-title: 8000037 не получает сообщения электронной почты в Outlook.com
+title: 8000037 не получает электронную почту в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 671d53ba9687f55b9c7f91c097bb623430ea5ab9a18226caacabdc92f6b410d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772491"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097355"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Не получается почта в Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>Не получение почты в Outlook.com
 
-Если вы не получаете электронную почту от определенного отправителя, например из банковских выверки или сообщений о сбросе пароля, вам нужно обратиться к отправителю и сообщить вам, что вы не будете получать электронную почту по своей учетной записи Outlook.com. Обратитесь к отправителю [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) , чтобы найти сведения о рекомендациях, рекомендации по устранению неполадок и ссылку для обращения в службу поддержки отправителей.
+Если вы не получаете сообщение от конкретного отправитель, например банковские выписки или сообщения сброса паролей, вам потребуется связаться с отправитель и дать им знать, что вы не получаете электронную почту на вашей учетной записи Outlook.com. Обратитесь к отправителю, где он может найти сведения о рекомендациях, рекомендовать устранение неполадок и ссылку на контакт с нашей командой поддержки [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) отправитель.
   
-Если ваша учетная запись Outlook.com не получает сообщения электронной почты, ознакомьтесь со статьей [Устранение проблем с синхронизацией электронной почты Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Если учетная запись Outlook.com вообще не получает электронную почту, см. в Outlook.com проблемы синхронизации [электронной почты.](https://go.microsoft.com/fwlink/p/?linkid=874363)
   
 

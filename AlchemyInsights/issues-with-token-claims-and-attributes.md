@@ -1,5 +1,5 @@
 ---
-title: Проблемы с утверждениями и атрибутами маркера
+title: Проблемы с утверждениями и атрибутами маркеров
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004347"
 - "7761"
-ms.openlocfilehash: 4c12f768ab4bf4547f48abc19736743fa555c477
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: 0c9827ee312d6b236c86f5a2973fa61fdc78c49b8565dd4ceb41f9a3a48140bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50029990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012897"
 ---
-# <a name="issues-with-token-claims-and-attributes"></a>Проблемы с утверждениями и атрибутами маркера
+# <a name="issues-with-token-claims-and-attributes"></a>Проблемы с утверждениями и атрибутами маркеров
 
-**Обновление, настройка и удаление утверждений маркеров**
+**Обновление, настройка или удаление утверждений маркеров**
 
-1. С помощью Azure Active Directory (Azure [](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) AD) можно настроить тип утверждения роли в маркере ответа, который вы получаете после авторизации приложения.
-2. Разработчики приложений могут использовать необязательные утверждения в своих приложениях Azure AD, чтобы указать, какие утверждения они хотят использовать в маркерах, от отправленных приложению. Дополнительные сведения см. в [подзагодии "Предоставление необязательных утверждений для вашего приложения".](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
-3. [Настройка групповых утверждений для приложений с помощью Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims)
-4. При использовании простого единого вход в приложении см. настройки утверждений, выдаемых в [маркере SAML для корпоративных приложений.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
+1. С помощью Azure Active Directory Azure AD можно [](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) настроить тип утверждения для утверждения роли в маркере ответа, который вы получаете после авторизации приложения.
+2. Разработчики приложений могут использовать необязательные утверждения в своих приложениях Azure AD, чтобы указать, какие утверждения они хотят в маркерах, отправленных в их приложение. Дополнительные сведения см. в [приложении Provide optional claims to your app.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
+3. [Настройка групповых утверждений для приложений с помощью Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
+4. При использовании бесшовного единого входного знака в приложении см. в документе настройка утверждений, выдаемых в [маркере SAML для корпоративных приложений.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
 
 **Сопоставление атрибутов утверждений**
 
-1. Чтобы настроить политику сопоставления утверждений с помощью PowerShell, см. "Настройка утверждений, выдаваемых в маркерах для определенного приложения в клиенте [(предварительная версия)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)".
-2. Атрибуты расширения схемы каталогов предоставляют способ хранения дополнительных данных в Azure Active Directory для объектов пользователей и других объектов каталогов, таких как группы, сведения о клиенте, основные службы. Только атрибуты расширения в объектах-пользователях можно использовать для выдания утверждений приложениям. [Использование атрибутов](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) расширения схемы каталогов в утверждениях описывает использование атрибутов расширения схемы каталогов для отправки пользовательских данных приложениям в утверждениях маркеров.
+1. Чтобы настроить политику сопоставления утверждений с помощью PowerShell, см. в приложении [Customize claims emitted in tokens for a specific app in a tenant (Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
+2. Атрибуты расширения схемы каталогов предоставляют способ хранения дополнительных данных в Azure Active Directory объектах пользователей и других объектах каталога, таких как группы, сведения об клиентах, директорах служб. Только атрибуты расширения на объектах пользователей можно использовать для излучания утверждений в приложениях. [Использование атрибутов](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) расширения схемы каталогов в утверждениях описывает использование атрибутов расширения схемы каталогов для отправки данных пользователей приложениям в утверждениях маркеров.
 
-Дополнительные сведения об утверждениях маркеров см. в:
+Дополнительные сведения о утверждениях маркеров см. в:
 
 - [Утверждения в маркерах доступа](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
 - [Утверждения в id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
-- [Утверждения,](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) которые можно ожидать в маркерах ID и маркерах доступа, выдав azure AD B2C
-- [Справочник по утверждениям маркеров SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)
+- [Утверждения,](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) которые можно ожидать в маркерах ID и маркерах доступа, выданных Azure AD B2C
+- [Ссылка на ссылку на утверждения маркера SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)

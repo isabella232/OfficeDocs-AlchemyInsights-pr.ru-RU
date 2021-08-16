@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6d454a78feca7ece7c3d7d6c93f8eb5d343106b68029b96839b5ff28077d0f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645180"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013041"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Проблемы при установке Exchange Server обновлений
 
-Если вам нужно обновить до последнего накопительного обновления (CU) для Exchange Server, вы можете использовать, чтобы получить подробный набор действий для обновления от текущего cu до целевого [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) cu.
+Если вам нужно обновить последнее накопительное обновление (CU) для Exchange Server, вы можете использовать для получения подробного набора действий для обновления от текущего ТС до целевого [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) ТС.
 
-Если во время или после установки обновлений Exchange Server есть какие-либо ошибки, см. в разделе "Лучшие практики" статьи Обновление Exchange до последнего [накопительного обновления](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Очень важно установить обновления безопасности с помощью повышенной подсказки CMD (если обновления не устанавливаются с помощью Microsoft Update).
+Если во время или после установки обновлений Exchange Server есть ошибки, см. в разделе "Лучшие практики" статьи Обновление Exchange до последнего накопительного [обновления](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Очень важно установить обновления безопасности с помощью повышенной подсказки CMD (если обновления не устанавливаются с помощью Microsoft Update).
 
-Если вы видите ошибки при установке обновлений безопасности или после установки обновлений, см. в рублях Ремонт неудачных установок [обновлений Exchange Cumulative и Security.](https://aka.ms/exupdatefaq)
+Если вы видите ошибки при установке обновлений безопасности или после установки обновлений, см. в рублях Ремонт неудающихся установок Exchange накопительных обновлений и [обновлений безопасности.](https://aka.ms/exupdatefaq)
