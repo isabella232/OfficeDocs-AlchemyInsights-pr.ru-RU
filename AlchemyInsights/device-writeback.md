@@ -1,5 +1,5 @@
 ---
-title: Переописка устройства
+title: Возвращение устройства
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50255173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101963"
 ---
-# <a name="device-writeback"></a>Переописка устройства
+# <a name="device-writeback"></a>Возвращение устройства
 
-Переописка устройства используется в следующих сценариях:
+Возвращение устройства используется в следующих сценариях:
 
-- Включить [Windows Hello для бизнеса с помощью гибридного развертывания с доверием на сертификаты](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Включить условный доступ на основе устройств в защищенных приложениях ADFS (2012 R2 или более высоких) (отношения доверия с отношениями
+- Включить [Windows Hello для бизнеса с помощью гибридного развертывания доверия сертификата](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Включить условный доступ на основе устройств к защищенным приложениям ADFS (2012 R2 или выше) (доверчивые доверяющие стороны)
 
     > [!NOTE]
-    > Для записи устройств необходима подписка на Azure AD Premium.
+    > Подписка на Azure AD Premium требуется для списания устройств.
 
-Это обеспечивает дополнительную безопасность и гарантии того, что доступ к приложениям предоставляется только доверенным устройствам. Дополнительные сведения об условном [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) доступе см. в под управлением рисками с помощью условного доступа и настройке локального условного доступа с помощью [службы регистрации устройств Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/devices/overview)
+Это обеспечивает дополнительную безопасность и уверенность в том, что доступ к приложениям предоставляется только доверенным устройствам. Дополнительные сведения об условном [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) доступе см. в рублях Управление рисками с помощью условного доступа и настройка локального условного доступа с Azure Active Directory [регистрации устройств.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
-Дополнительные сведения о включаемой записи устройства для устройств см. в этой [теме.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)
+Дополнительные сведения о включаемой записи устройств для устройств см. в [статью Включение записи устройств.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)
