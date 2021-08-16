@@ -1,5 +1,5 @@
 ---
-title: Пример политики защиты от фишинга Microsoft Defender для Office 365
+title: Пример Microsoft Defender для Office 365 политики защиты от фишинга
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737874"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035019"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Пример политики защиты от фишинга Microsoft Defender для Office 365
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Пример Microsoft Defender для Office 365 политики защиты от фишинга
 
 Эти параметры позволяют политику под названием *Домен и CEO*. Эта политика обеспечивает защиту пользователя и домена от обезличения, а затем применяет политику ко всем электронным письмам, полученным пользователями в домене. Сначала добавьте следующую информацию для создания политики:
 
@@ -33,4 +33,4 @@ ms.locfileid: "50737874"
   - **Добавление надежных отправителей и доменов:** В этом примере не нужно определять переопределения.
 - После просмотра параметров выберите **Создать** эту политику или **сохранить,** если это необходимо.
 
-Дополнительные новости см. в веб-сайте Политики защиты от фишинга [в Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)
+Дополнительные дополнительные новости см. [в Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)
