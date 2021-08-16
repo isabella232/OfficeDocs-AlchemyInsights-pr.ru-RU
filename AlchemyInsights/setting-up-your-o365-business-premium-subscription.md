@@ -1,5 +1,5 @@
 ---
-title: Настройка подписки на Office 365 бизнес премиум
+title: Настройка подписки на бизнес-Premium O365
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -11,14 +11,14 @@ ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.custom:
 - "31"
 - "1600002"
-ms.openlocfilehash: 3b7728796c941e1190bb7447a6d4279ecd1b44a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0253198b20f32497f1316284017a6d337c3d88c64fba9a3c8e05c0057b655d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023499"
 ---
-# <a name="setting-up-your-o365-business-premium-subscription"></a>Настройка подписки на Office 365 бизнес премиум
+# <a name="setting-up-your-o365-business-premium-subscription"></a>Настройка подписки на бизнес-Premium O365
 
-Если вам нужна помощь в настройке подписки на Microsoft 365, выполните действия, описанные в [этой статье](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) , чтобы завершить настройку.
+Если вам нужна помощь в настройке Microsoft 365 подписки, выполните действия в этой статье, чтобы завершить настройку. [](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium)
   

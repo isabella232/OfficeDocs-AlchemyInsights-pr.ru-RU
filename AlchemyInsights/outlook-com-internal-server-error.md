@@ -1,5 +1,5 @@
 ---
-title: Внутренняя ошибка сервера Outlook.com 9000234
+title: 9000234 Outlook.com ошибка внутреннего сервера
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c7f3f2188ef72cbcd3123b92c50fbf99c86cdbbc3c102ed151df341dc6f5910
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671601"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024543"
 ---
 # <a name="internal-server-errors-in-outlookcom"></a>Внутренние ошибки сервера в Outlook.com
 
-О, нет! Если отображается сообщение об ошибке "ошибка 500" или "Внутренняя ошибка сервера", это не то, что нам нужно.
+О, нет! Если вы видите сообщение "Ошибка 500" или "Внутренняя ошибка сервера", это мы, а не вы .
 
-Ознакомьтесь со [страницей состояние службы Office](https://portal.office.com/servicestatus) , чтобы убедиться в том, что ничего не происходит, но наилучшее решение — выполнить прерывание в течение нескольких минут, а затем обновите браузер, нажав клавиши **CTRL** и **F5**.
+Проверьте страницу [Office](https://portal.office.com/servicestatus) состояния службы, чтобы убедиться, что больше ничего не происходит, но лучшим решением является перерыв на несколько минут, а затем обновить браузер, нажав **CTRL** и **F5**.

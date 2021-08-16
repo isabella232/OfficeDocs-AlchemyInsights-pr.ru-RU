@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004158"
 - "7249"
-ms.openlocfilehash: 0f33b4987e11680e5e853b7b747b93767094b8ac
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: 06ee2c529795b165b3ace6bf0aac993410ed0776902155b511f920a09d133d84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49356572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099191"
 ---
 # <a name="mail-delays-when-sending-to-office-365"></a>Задержки почты при отправке в Office 365
 
-Если вы передаете почту через Пруфпоинт или другие системы обмена сообщениями SendMail и задерживается Отправка почты в Exchange Online, ознакомьтесь со статьей: [Настройка защиты электронной почты пруфпоинт с помощью Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/configure-proofpoint-with-exchange).
+Если вы маршрутизите почту через ProofPoint или другие системы обмена сообщениями SendMail и испытываете задержки с отправкой почты в Exchange Online, см. в этой статье: Настройка защиты электронной почты [Proofpoint](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/configure-proofpoint-with-exchange)с помощью Exchange Online .
 
-Используйте эту возможность для настройки изменений, позволяющих устранить проблемы с задержкой почты.
+Используйте это для настройки изменений для решения проблем с задержкой почты.
