@@ -1,5 +1,5 @@
 ---
-title: 8000077 не удается войти в систему Hotmail или Outlook.com?
+title: 8000077 Не можете войти в Hotmail или Outlook.com?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1198"
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
-ms.openlocfilehash: 851694cd42cf8ab0bcdf1d343c5fc268128779b6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de094f65a216d6d3548d3a222511e0b750e578071c506319f838550a69e02d29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683847"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071777"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Не удается войти в систему Hotmail или Outlook.com?
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Не можете войти в Hotmail или Outlook.com?
 
-Чтобы ваша учетная запись Outlook.com активна, необходимо войти в учетную запись по крайней мере раз в каждые 365 дней. После 365 дней бездействия ваше сообщение будет удалено и не будет восстановлено.
+Чтобы сохранить активную Outlook.com, необходимо войти в учетную запись не реже одного раза в 365 дней. После 365 дней бездействия ваша электронная почта будет удалена и не может быть восстановлена.
   
-Если вы выполнили вход в течение 365 дней, но по-прежнему не можете получить доступ к учетной записи Hotmail или Outlook.com, прочитайте [о том, как войти в Outlook.com или выйти из нее](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Если вы зарегистрировались в течение 365 дней, но все еще не можете получить доступ к вашей учетной записи Hotmail или Outlook.com, прочитайте, как войти или выйти [из Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   
