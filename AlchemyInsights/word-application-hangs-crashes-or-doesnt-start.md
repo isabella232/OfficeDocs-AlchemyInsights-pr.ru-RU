@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 6eb8f22931c8ca0518a6f5e6219904eea01f0328
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c77271b1ee5ea871ddd921ccb4c47c699564c052ea0d19ccb5aabec2cfb5edc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072569"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word сбои или не отвечает
 
@@ -29,10 +29,10 @@ ms.locfileid: "51825888"
 
 Если Word не начинается, попробуйте следующее:
 
-1.   На рабочем столе Windows закрой Outlook и нажмите кнопку CTRL+ALT+DEL, чтобы открыть диспетчер задач. 
+1.   На рабочем Windows закрой Outlook и нажмите кнопку CTRL+ALT+DEL, чтобы открыть диспетчер задач. 
 2. На **вкладке Processes,** если процессы Word запущены, выберите их и выберите **end Task**. Кроме того, рекомендуется перезагрузать, чтобы очистить все из памяти.
 
-    Если Word продолжает сбой или зависает во время запуска, откройте [приложения Microsoft 365](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) в безопасном режиме на компьютере Windows, чтобы запустить его в безопасном режиме.
+    Если Word продолжает сбой или зависает во время запуска, Microsoft 365 приложения [Open Microsoft 365](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) в безопасном режиме на компьютере Windows, чтобы запустить его в Сейф режиме.
 
 Если у вас по-прежнему возникают проблемы, см. в следующих статьях: 
 - [Я получаю сообщение об ошибке "Прекращена работа..." при запуске приложений Office на моем компьютере](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
