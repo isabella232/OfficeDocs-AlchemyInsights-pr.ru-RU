@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500029"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895504"
 ---
 # <a name="change-payment-method"></a>Изменение метода оплаты
 
@@ -36,6 +36,6 @@ ms.locfileid: "54500029"
 6. В области **Добавление метода оплаты** введите сведения об учетной записи и нажмите **Сохранить**.. Необходимо использовать способ оплаты из той же страны, что и у вашего клиента.
 7. Новый способ оплаты уже выбран в раскрывающемся списке. Нажмите кнопку **Заменить**.
 
-Чтобы узнать, как добавлять, обновлять, заменять или удалять методы оплаты, см. в публикации [Управление методами оплаты.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Чтобы узнать, как добавлять, обновлять, заменять или удалять методы оплаты, см. в публикации [Управление методами оплаты.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Подробнее об изменении методов оплаты см. в журнале [How to pay for your subscription.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Подробнее об изменении методов оплаты см. в журнале [How to pay for your subscription.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

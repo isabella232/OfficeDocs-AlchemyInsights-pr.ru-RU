@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dac6690b66181455a1c9c0f40a642b71f2af3516d91ea0853d06564b017b03a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059609"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Контроль параметров лобби и уровня участия в Teams
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Управление настройками лобби и уровнем участия в Teams
 
 Если вы хотите разрешить всем пользователям, включая пользователей dial-in, внешних и анонимных, обходить **лобби,** используйте PowerShell для выполнения этой задачи. Вот пример изменения глобальной политики собраний для организации.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Этот командлет в настоящее время требует использования модуля Skype для бизнеса PowerShell. Чтобы настроиться на использование этого комлета, ознакомьтесь с политиками [управления с помощью PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
+Этот командлет в настоящее время требует использования Skype для бизнеса PowerShell. Чтобы настроиться на использование этого комлета, ознакомьтесь с политиками [управления с помощью PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
 
 После того как вы настроили политику, ее необходимо применить к пользователям; или, если вы изменили глобальную политику, она будет автоматически применяться к пользователям. Для любых изменений политики необходимо подождать не менее 4 часов до **24** часов, чтобы политики вступили в силу. 
 
 Не забудьте просмотреть ниже документацию, прежде чем вносить эти изменения, чтобы точно понять, что это позволяет.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Понимание элементов управления политикой лоббирования в собраниях teams
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Понимание Teams элементов управления политикой лоббирования собраний
 
 Эти параметры контролируют, какие участники собраний ждут в вестибюле, прежде чем они будут допущены к собранию, и уровень участия в собрании. Вы можете использовать PowerShell для обновления параметров политики собраний, которые еще не реализованы (помечены как "скоро") в центре администрирования Teams. См. ниже, например, cmdlet PowerShell, который позволяет всем пользователям обходить вестибюль.
 
@@ -44,4 +44,4 @@ ms.locfileid: "51820047"
 
 - Разрешить организаторам переопределять параметры лобби (в ближайшее **время)**— это политика для каждого организатора,  которая контролирует,  может ли организатор собрания переопределять параметры лобби, установленные администратором в Автоматическом впуске людей, и разрешить пользователям в диалоговом режиме обход вестибюля при запланировании нового собрания. [](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon)
 
-**Примечание:** Ознакомьтесь [с политиками управления собраниями в Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) для полного обзора политик собраний Microsoft Teams.
+**Примечание:** Ознакомьтесь [с политиками управления собраниями в Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) для полного Microsoft Teams политик собраний.

@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 2a770796fe535725e3bfbbd28ac759eca0c61e3d9c9be94465af2d0988bff7c9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7ffab72bc4c00ecc1c6d0e92263800c99858980c11764d307914635370306087
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53939186"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890315"
 ---
 # <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Устранение неполадок с Microsoft Defender для Office 365
 
@@ -29,4 +29,4 @@ ms.locfileid: "53939186"
     4. Выберите **Применение безопасных ссылок на сообщения, отправленные в организации.**
     5. Сохраните политику и разрешите применять изменения до 30 минут.
 
-- Дополнительные справки по Microsoft Defender для Office 365 см. в [Office 365.](/microsoft-365/security/office-365-security/office-365-atp)
+- Дополнительные справки по Microsoft Defender для Office 365 см. в [Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)

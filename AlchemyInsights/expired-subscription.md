@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029745"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895900"
 ---
 # <a name="expired-subscription"></a>Просроченная подписка
 
@@ -35,7 +35,7 @@ ms.locfileid: "54029745"
 3. В области **Повторно активировать эту подписку** выберите способ оплаты из раскрывающегося списка или нажмите **Добавить способ оплаты**.
 4. Нажмите **Сохранить**.
 
-Дополнительные сведения см. в статье [Повторная активация подписки](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Сделать новую покупку**
   
@@ -44,4 +44,4 @@ ms.locfileid: "54029745"
 3. Введите необходимое количество лицензий и выберите, платить ли каждый месяц или в течение всего года. Выберите, следует ли автоматически назначать лицензии всем, у кого в настоящее время нет лицензии. Затем выберите **Проверить сейчас**.
 4. Выполните оставшиеся действия, чтобы завершить проверку.
 
-Подробнее см. в [примере Купить другую подписку.](/microsoft-365/commerce/buy-another-subscription)
+Подробнее см. в [примере Купить другую подписку.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)

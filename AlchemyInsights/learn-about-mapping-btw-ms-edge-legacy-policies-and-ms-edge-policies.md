@@ -1,5 +1,5 @@
 ---
-title: Сведения о сопоставлении с устаревшими политиками Microsoft EDGE и пограничными политиками Microsoft Edge
+title: Узнайте о сопоставлении между устаревшая версия Microsoft Edge политиками и Microsoft Edge политиками
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087401"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Сведения о сопоставлении с устаревшими политиками Microsoft EDGE и пограничными политиками Microsoft Edge
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Узнайте о сопоставлении между устаревшая версия Microsoft Edge политиками и Microsoft Edge политиками
 
-Групповые политики в Microsoft Edge прежних версий (версии 45 и более ранних) и параметры управления мобильными устройствами (MDM) сопоставляются с соответствующими политиками Microsoft Edge версии 80. Чтобы узнать больше, ознакомьтесь [со статьей Microsoft Edge Legacy to Mapping Microsoft Edge Policy](https://go.microsoft.com/fwlink/?linkid=2141665).
+Групповые политики устаревшая версия Microsoft Edge (версии 45 и более ранние версии) и параметры управления мобильными устройствами (MDM) соизмеряются с соответствующими политиками Microsoft Edge версии 80. Дополнительные дополнительные [устаревшая версия Microsoft Edge Microsoft Edge сопоставление политик.](https://go.microsoft.com/fwlink/?linkid=2141665)

@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065297"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895804"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Симулятор атаки в Microsoft 365
 
 - Отсутствует симулятор атак? Симулятор атак требует **microsoft Defender для Office 365 плана 2** или Office 365 корпоративный **E5.** Симулятор атак **не входит** в Microsoft Defender для Office 365 плана 1, Office 365 корпоративный E3 или Приложения Microsoft 365 для бизнеса подписки.
 
-- Учетная запись, используемая для запуска имитации атак, требует разрешений глобального администратора или администратора безопасности и многофакторной проверки подлинности (MFA). Дополнительные сведения о требованиях к симулятору атак см. [в этом разделе.](/microsoft-365/security/office-365-security/attack-simulator)
+- Учетная запись, используемая для запуска имитации атак, требует разрешений глобального администратора или администратора безопасности и многофакторной проверки подлинности (MFA). Дополнительные сведения о требованиях к симулятору атак см. [в этом разделе.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
 - Важные моменты, которые необходимо знать об имитации атак **brute Force Password:**
 
@@ -35,8 +35,8 @@ ms.locfileid: "54065297"
 
   - По дизайну вы не можете предоставить настраиваемую ценность для **URL-адреса сервера фишинговых входов.**
 
-  - Если получатель использует надстройку [Enable the Report Message](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) для сообщения о фишинге, вы можете не получать оповещений о сообщении (так как это имитация атаки).
+  - Если получатель использует надстройку [Enable the Report Message](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) для сообщения о фишинге, вы можете не получать оповещений о сообщении (так как это имитация атаки).
 
 - Отчеты. После завершения смоделированной атаки можно нажать **кнопку Сведения** о атаке, чтобы увидеть отчет.
 
-- Подробные инструкции и новые функции в симуляторе атак см. в [Microsoft 365.](/microsoft-365/security/office-365-security/attack-simulator)
+- Подробные инструкции и новые функции в симуляторе атак см. в [Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
