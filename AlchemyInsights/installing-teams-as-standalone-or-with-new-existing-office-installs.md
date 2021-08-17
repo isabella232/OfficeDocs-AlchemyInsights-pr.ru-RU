@@ -1,5 +1,5 @@
 ---
-title: Установка Teams в качестве автономных или с новыми/существующими установками Office
+title: Установка Teams в качестве автономных или с новыми или существующими Office установок
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: f3fb8c1430a54024c5cb00f2e002e4702d15e33c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6409ce42a79e7c329f21594e7afa409e8776df8ba6159c6592a4be2bfa648261
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078023"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Установка Teams в качестве автономных или с новыми или существующими установками Office
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Установка Teams в качестве автономных или с новыми или существующими Office установками
 
-Microsoft Teams включена в  состав новых установок Microsoft 365 Apps для предприятия, Microsoft 365 Apps для бизнеса и Office для Mac. Дополнительные сведения см. в дополнительных сведениях о том, когда Microsoft Teams начнет включаться с [новыми установками Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams входит в состав новых  установок Приложения Microsoft 365 для предприятий, Приложения Microsoft 365 для бизнеса и Office для Mac. Дополнительные сведения см. в Microsoft Teams, включив новые установки [Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Кроме того, начиная с версии 1906 в  Current Channel, команды будут добавлены к существующим установкам Microsoft 365 Apps для предприятия (и Microsoft 365 Apps для бизнеса) на устройствах под управлением Windows при обновлении существующей установки до последней версии. Дополнительные сведения [см. в дополнительных сведениях о существующих установках Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Кроме того, начиная с версии 1906 в current  Channel Teams будут добавлены к существующим установкам Приложения Microsoft 365 для предприятий (и Приложения Microsoft 365 для бизнеса) на устройствах, работающих Windows при обновлении существующей установки до последней версии. Дополнительные сведения [см. в дополнительных](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps) сведениях о существующих установках Office?
 
-Вы можете развернуть Teams в качестве автономных для пользователей, следуя этим [инструкциям,](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)или вы можете установить для пользователей Teams для себя от https://teams.microsoft.com/downloads .
+Вы можете развернуть Teams как автономный для пользователей, следуя этим [инструкциям,](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)или вы можете установить Teams для себя от https://teams.microsoft.com/downloads .
 
-После установки Teams автоматически [](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) обновляется примерно каждые две недели с помощью новых функций и обновлений качества. 
+После Teams установлен, он автоматически [](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) обновляется примерно каждые две недели с новыми функциями и обновлениями качества. 
 

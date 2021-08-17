@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609524"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078131"
 ---
 # <a name="install-and-configure-onedrive"></a>Установка и настройка OneDrive
 
-Клиент синхронизации OneDrive предварительно установлен в Windows 10. Чтобы установить OneDrive для Windows 7 или Mac или получить мобильное приложение для телефона или планшета, перейдите на страницу [https://onedrive.com/download](https://onedrive.com/download) .
+Клиент приложение синхронизации OneDrive предварительно установлен с помощью Windows 10. Чтобы установить OneDrive для Windows 7 или Mac, или получить мобильное приложение для телефона или планшета, перейдите к [https://onedrive.com/download](https://onedrive.com/download) .
   
-Чтобы настроить клиент синхронизации OneDrive в Windows, ознакомьтесь со статьей:
+Чтобы настроить клиент приложение синхронизации OneDrive в Windows, см.:
   
-- [Onedrive Настройка руководства](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) для начала работы с хранилищем файлов onedrive, совместной работы, совместной работы и синхронизации.
+- [OneDrive руководство](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) для начала работы с возможностями OneDrive, совместного использования, совместной работы и синхронизации.
 
-- [Настройка компьютера для синхронизации файлов OneDrive для бизнеса](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Настройка компьютера для синхронизации OneDrive для бизнеса файлов](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [Синхронизация файлов SharePoint с помощью нового клиента синхронизации OneDrive](https://go.microsoft.com/fwlink/?linkid=871666)

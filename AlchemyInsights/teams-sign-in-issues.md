@@ -1,5 +1,5 @@
 ---
-title: Проблемы с входом в teams
+title: Teams при входе
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2688"
 - "9000744"
-ms.openlocfilehash: f484015d8a96730443ef4b35da5ec59af2419a55
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 20941c2b369d075ee11ba02bbad5bdf84a67c33615e7e5624ce790bb04cb808c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106418"
 ---
-# <a name="troubleshooting-teams-sign-in"></a>Вход команд по устранению неполадок 
+# <a name="troubleshooting-teams-sign-in"></a>Устранение неполадок Teams вход 
 
 Возникли проблемы с входом в Microsoft Teams? Дополнительные сведения можно найти в следующих статьях.
 
-- [Почему у меня возникли проблемы с входом в Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
+- [Почему у меня возникают проблемы со входом в Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
 - [Microsoft Teams слишком долго находится в цикле входа в Edge или Internet Explorer](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
-- [Код состояния — ошибка 4c7 в Microsoft Teams](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
+- [Код состояния — это ошибка 4c7 с Microsoft Teams](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
 - [Как получить доступ к Microsoft Teams?](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)
