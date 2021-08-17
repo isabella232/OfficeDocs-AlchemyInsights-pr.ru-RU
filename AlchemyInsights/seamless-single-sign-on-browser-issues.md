@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50530827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074297"
 ---
 # <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Устранение проблем с бесшовным одним входом (SSO) проблемы браузера
 
@@ -31,11 +31,11 @@ ms.locfileid: "50530827"
 
 - Бесшовный SSO не работает в режиме приватного просмотра в Firefox.
 - Бесшовный SSO не работает в Internet Explorer при включенном режиме расширенной защиты.
-- Бесшовный SSO не работает в режиме приватного просмотра в Microsoft Edge (устаревшем).
+- Бесшовный SSO не работает в режиме личного просмотра в Microsoft Edge (устаревшем).
 - Бесшовный SSO не работает в мобильных браузерах на iOS и Android.
 
-Бесшовный SSO поддерживает следующую версию Microsoft Edge на основе Chromium и по дизайну работает в режиме InPrivate и Guest.
+Бесшовная SSO поддерживает следующую версию Microsoft Edge на основе Chromium и по дизайну работает в режиме InPrivate и Guest.
 
-**Консультационные услуги**
+**Предупреждение**
 
 Чтобы делать запросы на функции или задавать технические вопросы о бесшовных SSO, см. в [&Microsoft Q.](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: eb6bec37afc8702ec76dec5868c68f26e7c8b2633214a5c3f9776d7bb555bf64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ca9dd54a7ba8007da5f78b7c4fd8b2e0cfff6d5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071489"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303842"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Отмена Microsoft 365 подписки?
 
@@ -30,7 +30,6 @@ ms.locfileid: "54071489"
 
 **Возврат. Любой прооценный кредит будет возвращен вам в течение следующего цикла вычета.**
 
-> [!NOTE]
-> Если вы не видите возможность отмены, выберите подписку, чтобы просмотреть страницу сведений. В разделе **Параметры подписки и параметров оплаты** выберите **Отмена подписки.**
+**Примечание.** Если вы не видите возможность отмены, выберите подписку, чтобы просмотреть страницу сведений. В разделе **Параметры подписки и параметров оплаты** выберите **Отмена подписки.**
 
-Подробнее см. в [журнале Cancel your subscription.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Подробнее см. в [журнале Cancel your subscription.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
