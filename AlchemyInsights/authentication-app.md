@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403838"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082955"
 ---
 # <a name="authentication-app"></a>Приложение проверки подлинности
 
@@ -30,11 +30,11 @@ ms.locfileid: "51403838"
 
 **Проверьте применимый сценарий:**
 
-1. Если пользователь не получает push-уведомления в приложении Microsoft Authenticator, убедитесь, что они не показаны под заблокированными пользователями MFA, как описано в Block и [разблокировать пользователей](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom).
+1. Если пользователь не получает push-уведомления в приложении Microsoft Authenticator, убедитесь, что они не показаны под заблокированными пользователями MFA, как описано в блоке и [разблокировать пользователей](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom).
 1. Если пользователь не заблокирован для MFA, но не получает push-уведомления, он может открыть приложение Microsoft Authenticator, которое будет тянуть ожидающих запросов на утверждение.
 1. В качестве альтернативного метода регистрации пользователь также может щелкнуть кнопку Войти другим способом и выбрать код проверки из мобильного приложения.
-1. Приложение Microsoft Authenticator — единственный доступный метод для многих пользователей. [Дополнительные новости о по умолчанию безопасности,](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) [проверка](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) часто задаваемой вопросы и их устранение.
+1. Приложение Microsoft Authenticator является единственным доступным методом для многих пользователей. [Узнайте больше о по умолчанию](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)безопасности, Authenticator [часто](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) задаваемой проблеме и о том, как их устранить.
  
 **Рекомендуемые видео**
 
-[Настройка приложения authenticator на новом телефоне (2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)
+[Настройка приложения Authenticator на новом телефоне (2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)

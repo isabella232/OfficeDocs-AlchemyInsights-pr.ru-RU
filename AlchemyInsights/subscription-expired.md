@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009189"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891912"
 ---
 # <a name="subscription-expired"></a>Срок действия подписки истек
 
@@ -35,7 +35,7 @@ ms.locfileid: "54009189"
 3. В области **Повторно активировать эту подписку** выберите способ оплаты из раскрывающегося списка или нажмите **Добавить способ оплаты**.
 4. Нажмите **Сохранить**.
 
-Дополнительные сведения см. в статье [Повторная активация подписки](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Управление продлением подписки**
 
@@ -47,4 +47,4 @@ ms.locfileid: "54009189"
 4. В области **Изменение параметров автоматического продления** выберите **Включено**, **Включено с однократным продлением** или **Отключено**.
 5. Нажмите **Сохранить**.
 
-Дополнительные сведения см. в разделе [Отключение и включение автоматического продления](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Дополнительные сведения см. в разделе [Отключение и включение автоматического продления](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

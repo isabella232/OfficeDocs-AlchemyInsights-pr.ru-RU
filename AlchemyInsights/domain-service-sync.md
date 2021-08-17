@@ -1,5 +1,5 @@
 ---
-title: Синхронизация службы доменов
+title: Синхронизация службы домена
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: b35d3a402bc08a27a818209385c5666b901fa524
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 95b5c3b768caf4b5d80a088a17a33facb39805fc766e4888586ae052d91681e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49876519"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057871"
 ---
-# <a name="domain-service-synchronization"></a>Синхронизация службы доменов
+# <a name="domain-service-synchronization"></a>Синхронизация службы домена
 
-Объекты и учетные данные в управляемом домене доменных служб Azure Active Directory (Azure AD DS) можно создавать локально в домене или синхронизировать с клиентом Azure Active Directory (Azure AD). При первом развертывании Azure AD DS настраивается и инициируется автоматическая синхронизация в одну сторону для репликации объектов из Azure AD. Эта однонаправная синхронизация продолжает работать в фоновом режиме, чтобы поддерживать управляемый домен Azure AD DS в курсе всех изменений, внесенных в Azure AD. Синхронизация из Azure AD DS обратно в Azure AD не происходит.
+Объекты и учетные данные в управляемом домене Azure Active Directory Службы домена (Azure AD DS) можно создавать локально в домене или синхронизировать с клиентом Azure Active Directory Azure AD. При первом развертывании Azure AD DS настраивается автоматическая синхронизация в одну сторону, которая инициируется для репликации объектов из Azure AD. Эта одноавтная синхронизация продолжает работать в фоновом режиме, чтобы сохранить управляемый домен Azure AD DS в курсе всех изменений в Azure AD. Синхронизация не происходит из Azure AD DS обратно в Azure AD.
 
-Дополнительные сведения о синхронизации службы домена Azure Active Directory см. в этой [теме.](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization) 
+Дополнительные сведения о синхронизации Azure Active Directory службы домена см. в [материале Синхронизация службы домена.](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization) 

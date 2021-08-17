@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: d466e4dc26379509c4bf3b34d9d7b39c5d3c4c19
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0b6155ce38cd2703a4bf406d73ebbc59eb4c9034
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833124"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320768"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Решения по устранению проблем при установке Office
 
@@ -30,7 +30,7 @@ ms.locfileid: "51833124"
 - Удалите все предыдущие трассировки Office и переустановите Office с помощью помощника по поддержке и восстановлению (SaRA). 
 
     - Скачайте и установите [помощника по поддержке и восстановлению](https://aka.ms/SARA-OfficeUninstall-Alchemy). После открытия окна **Удаление продуктов Office** выберите версию, которую вы хотите удалить (при наличии), и нажмите кнопку **Далее**. Следуйте подсказкам на экране и перезагрузите компьютер при появлении соответствующего запроса. После перезагрузки SaRA автоматически перезапустится, чтобы завершить процесс удаления.
-    - Используйте SaRA для [переустановки Office](https://aka.ms/sara-officeinstall). **Примечание.**. Чтобы настроить Visio или Project с помощью SaRA, используйте разделы [Установка Visio](https://aka.ms/SaRA-VisioSetupScenario) или [Установка Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Используйте SaRA, чтобы [переустановить Office](https://aka.ms/sara-officeinstall). **Примечание.** Чтобы настроить Visio или Project с помощью SaRA, воспользуйтесь разделами [Установка Visio](https://aka.ms/SaRA-VisioSetupScenario) или [Установка Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - Установите Office [с помощью автономного установщика](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
 

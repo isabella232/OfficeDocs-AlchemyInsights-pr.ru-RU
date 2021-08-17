@@ -1,5 +1,5 @@
 ---
-title: 1554 Winsock Error 10061
+title: Ошибка 1554 Winsock 10061
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: 4f8007bd8ccb4666260c75fdca15dd0b14eb4e96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7991f83a0b4791eaa7eb3246f7e61f781e4c7430931fbf920d7fd9e44c018d13
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083243"
 ---
 # <a name="winsock-error-10061"></a>Ошибка Winsock 10061
 
-Этот код ошибки означает, что корпорации Майкрософт не удалось установить TCP-сокет (подключение) с конечным узлом. Наиболее вероятная причина этой ошибки — проблема с настройкой брандмауэра. Чтобы устранить эту проблему, проверьте указанные ниже параметры.
+Этот код ошибки означает, что Корпорация Майкрософт не смогла установить розетку TCP (подключение) с целевым хостом. Наиболее вероятной причиной этой ошибки является проблема с конфигурацией брандмауэра. Чтобы устранить проблему, проверьте эти параметры:
 
-- Проверьте конфигурацию брандмауэра, указав сведения в [диапазонах адресов и IP-адресов Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) .
+- Проверка конфигурации брандмауэра с помощью [Microsoft 365 URL-адресов и IP-адресов](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Если сообщение об ошибке относится только к Exchange Online Protection (EOP), вы уже получали уведомление об изменении [IP-адресов Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+- Если ошибка является определенной для Exchange Online Protection (EOP), вы должны были быть предварительно уведомлены об изменении Exchange Online Protection [IP-адресов](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
 
-- Убедитесь, что ваш поставщик услуг Интернета (ISP) не блокирует порт.
+- Убедитесь, что поставщик интернет-услуг (ISP) не блокирует порт.
 
-- Проверьте параметры промежуточного узла и целевого сервера в соединителях.
+- Проверка параметров интеллектуального хоста и целевого сервера в соединители.
 
-Обратите внимание, что Microsoft 365 не блокирует *Входящие* подключения таким образом.
+Обратите внимание, Microsoft 365 не *блокирует* входящие подключения таким образом.
