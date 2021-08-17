@@ -14,20 +14,20 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 0fd0eab942a07fdf4e01eb5b4a45dd1035b490bb4ef265e57c28701e93eb3c11
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937906"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889395"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Активация или повторное активация подписки
 
 **Активация подписки**
 
-- Чтобы предоставить пользователям доступ к службе, назначьте им лицензию. Сведения об этом см. в статье [Назначение лицензий пользователям](/microsoft-365/admin/manage/assign-licenses-to-users).
+- Чтобы предоставить пользователям доступ к службе, назначьте им лицензию. Сведения об этом см. в статье [Назначение лицензий пользователям](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Если вам уже назначена лицензия, вы можете найти приложения, которые можно скачать со страницы ["Моя учетная запись".](https://portal.office.com/account/#installs) На этой странице содержится список приложений, которые можно скачать на основе назначенных лицензий.
-- Если вы уже загрузили Office приложения, возможно, потребуется войти в приложения с вашей учетной записью или учебной учетной записью. Это можно сделать в любом приложении Office (Word, Excel и т.д.), нажав на учетную запись **File**  >  **Office** (в нижней части). В **статье Сведения о пользователях** выберите **учетную запись Switch.** Дополнительные сведения см. в [Office приложениях.](/microsoft-365/admin/setup/install-applications)
+- Если вы уже загрузили Office приложения, возможно, потребуется войти в приложения с вашей учетной записью или учебной учетной записью. Это можно сделать в любом приложении Office (Word, Excel и т.д.), нажав на учетную запись **File**  >  **Office** (в нижней части). В **статье Сведения о пользователях** выберите **учетную запись Switch.** Дополнительные сведения см. в [Office приложениях.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
 
 **Повторная активация подписки**
 
@@ -41,9 +41,9 @@ ms.locfileid: "53937906"
 4. В этой **области подписки** повторно выберите существующий способ оплаты или выберите **метод Добавить оплату.**
 5. Выберите **Reactivate**.
 
-Дополнительные сведения см. в статье [Повторная активация подписки](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Активация новой подписки с помощью ключа продукта**
 
 1. Сведения об активации новой подписки на Microsoft 365 с помощью ключа продукта см. в статье [Где вводить ключ продукта Office](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
-2. Введите ключ продукта Microsoft 365 и следуйте инструкциям по активации подписки. Если у вас возникли проблемы с активацией, см. в этом списке распространенные ошибки и решения [ключа продукта.](/microsoft-365/commerce/product-key-errors-and-solutions)
+2. Введите ключ продукта Microsoft 365 и следуйте инструкциям по активации подписки. Если у вас возникли проблемы с активацией, см. в этом списке распространенные ошибки и решения [ключа продукта.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

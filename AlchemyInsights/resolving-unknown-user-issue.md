@@ -1,5 +1,5 @@
 ---
-title: Устранение проблемы с неизвестным пользователем в чате Teams
+title: Решение проблемы с неизвестным пользователем в Teams чате
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003807"
 - "6809"
-ms.openlocfilehash: 523c11cb9d5c4696703c67c2a6b3184f5d12f8e7
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 276a073a7213bca4a66dc6b9f27b6c9270a2845c9f2b3aaee791ce28f17e9a75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48785621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109937"
 ---
-# <a name="resolving-issue-with-unknown-user-in-teams-chat"></a>Устранение проблемы с "неизвестным пользователем" в чате Teams
+# <a name="resolving-issue-with-unknown-user-in-teams-chat"></a>Решение проблемы с "Неизвестным пользователем" в Teams Чате
 
-Иногда удаленный пользователь будет отображаться как "неизвестный пользователь". Это [известная проблема](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/removed-user-appears-as-unknown).
+Время от времени удаленный пользователь будет отображаться как "Неизвестный пользователь". Это [известная проблема.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/removed-user-appears-as-unknown)
 
-Если вы постоянно видите, что пользователи отображаются как "неизвестный пользователь" в разделе Chats Teams, попытайтесь очистить кэш:
+Если вы постоянно видите, как пользователи отображаются как "Неизвестный пользователь" в Teams чатах, попробуйте очистить кэш:
 
-1.  Щелкните правой кнопкой мыши значок команды на панели задач. Нажмите кнопку  **выход** .
+1.  Щелкните правой кнопкой мыши значок Teams в панели задач. Нажмите  **кнопку Выйти**.
 2.  Перейдите в папку %appdata%\Microsoft\teams\ на вашем компьютере и удалите все файлы в этой папке.
 
-Вы можете запретить анонимным пользователям присоединяться к собраниям, убедившись, что они ожидают ожидания в "зале ожидания". Дополнительные сведения см. [в статье изменение параметров участников для собрания Teams](https://support.microsoft.com/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e).
+Вы можете запретить анонимным пользователям присоединяться к собраниям, обеспечивая их ожидание в вестибюле. Дополнительные сведения см. в дополнительных сведениях об изменении параметров участников собрания [Teams.](https://support.microsoft.com/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e)

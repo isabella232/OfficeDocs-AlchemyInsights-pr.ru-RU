@@ -16,12 +16,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 756c1ac4a5d5fdf9cb7f347feb445b910c7a9e513ca4ea9542f5e1fbb08c954f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5fabc89dcca3a35d285e5677287dc890c0b3788d29d2ba9c8e2c106fd5672fc5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503845"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899129"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Когда взимается плата с моей кредитной карты?
 
@@ -29,4 +29,4 @@ ms.locfileid: "54503845"
   
 Повторяющиеся платежи происходят в течение одного дня со дня создания счета.
   
-Если плата не будет успешной, система будет продолжать пытаться уладить баланс в течение следующих нескольких недель. Чтобы застраховать следующую попытку оплаты, вы можете в любой момент обновить сведения о платежах. Подробнее см. в статье [Управление способами оплаты](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Если плата не будет успешной, система будет продолжать пытаться уладить баланс в течение следующих нескольких недель. Чтобы застраховать следующую попытку оплаты, вы можете в любой момент обновить сведения о платежах. Подробнее см. в статье [Управление способами оплаты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

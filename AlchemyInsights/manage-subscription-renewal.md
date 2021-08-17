@@ -15,12 +15,12 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 0e4c2607c5105d2811ed077dc269ae75f066efe1dd45bbb9936b2336a370a052
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd1b749a5798bcf0b42d12bfe0add2a7b3933f4dec2225bfd1d030a29f3edb0a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976554"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889843"
 ---
 # <a name="manage-subscription-renewal"></a>Управление продлением подписки
 
@@ -31,5 +31,5 @@ ms.locfileid: "53976554"
 3. В области **Редактировать автоматическое продление** выберите **Вкл.**, **Вкл., продление подписок** или **Выкл.**.
 4. Нажмите **Сохранить**.
 
-Дополнительные сведения см. в разделе [Отключение и включение автоматического продления](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Дополнительные сведения см. в разделе [Отключение и включение автоматического продления](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 
