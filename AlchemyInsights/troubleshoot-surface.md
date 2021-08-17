@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10024"
 - "9003951"
-ms.openlocfilehash: e1fda7763502a4a816874e1ab44d6f8215a21be9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7c90dd73c4c552b1e83f494daee0838639ee4e61abf97d5d576f88ded9a4c631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038899"
 ---
 # <a name="troubleshoot-surface"></a>Устранение неполадок на устройствах Surface
 
@@ -30,7 +30,7 @@ ms.locfileid: "51830459"
  
 - [Проблемы с док-станцией Surface](https://docs.microsoft.com/surface/support-solutions-surface#surface-dock-issues)
  
-- [Проблемы с клавиатурой устройства](https://support.microsoft.com/sbs/surface/troubleshoot-your-surface-type-cover-or-keyboard-5b7ed1a7-bedd-5164-94a7-87f8e95df3fe??)
+- [Проблемы с клавиатурой устройства](https://support.microsoft.com/sbs/surface/troubleshoot-your-surface-type-cover-or-keyboard-5b7ed1a7-bedd-5164-94a7-87f8e95df3fe?)
  
 - [Проблемы с питанием или батареей Surface](https://docs.microsoft.com/surface/support-solutions-surface#surface-power-or-battery-issues)
  

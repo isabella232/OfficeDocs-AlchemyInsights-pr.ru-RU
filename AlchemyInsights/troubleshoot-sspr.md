@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "6128"
-ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
-ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.openlocfilehash: 9d8184efdc60befd359059c62ea3eb1a14ad7d2a20dade921d4a71e424f52033
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50428833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038971"
 ---
 # <a name="troubleshoot-sspr"></a>Устранение неполадок SSPR
 
 **У меня возникли проблемы с настройкой сброса пароля**
 
 - Если вы администратор и ищете, как включить сброс пароля самообслуживаемых, см. в учебнике включить [SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), чтобы настроить сброс пароля для вашей организации. Кроме того, может потребоваться просмотреть [требования к лицензированию.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support) В организации должна быть назначена по крайней мере одна лицензия.
-    - **Только пользователи облачных** вычислений . Любой Office 365 (O365) платный SKU или Azure AD Basic
-    - **Облачные и/или** локально пользователи - Azure AD Premium P1 или P2, Корпоративная мобильность и безопасность (EMS) или Secure Productive Enterprise (SPE)
+    - **Только пользователи облака** — Office 365 (O365) платные SKU или Azure AD Basic
+    - **Облачные и/или** локально пользователи — Azure AD Premium P1 или P2, Enterprise Mobility + Security (EMS) или Secure Productive Enterprise (SPE)
 - Дополнительные вопросы об сбросе паролей самообслуживаем читайте [в нашем faQ.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Я получаю сообщение об ошибке**
@@ -35,12 +35,12 @@ ms.locfileid: "50428833"
 
 **У меня возникли проблемы с политикой сброса паролей**
 
-- Если политика сброса паролей ведет себя не так, как ожидалось, или у вас есть вопросы по политикам сброса паролей, просмотрите эту статью: политики паролей и ограничения в [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Если политика сброса паролей ведет себя не так, как ожидалось, или у вас возникли вопросы по политикам сброса [паролей,](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support)просмотрите эту статью: политики паролей и ограничения в Azure Active Directory .
 - Политики сброса паролей не применяются к администраторам. Корпорация Майкрософт применяет сильную политику сброса паролей с двумя воротами по умолчанию для любой роли администратора Azure. Убедитесь, что вы тестируете с пользователем, который не является администратором. Дополнительные сведения о политике сброса администратора см. в этой [статье.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)
 
 **Я не хочу, чтобы мои пользователи регистрируют дополнительные сведения о безопасности для сброса пароля**
 
-Вы можете предварительно заполнить данные (атрибуты электронной почты и телефона) для пользователей с помощью API, PowerShell или Azure AD Connect. Чтобы узнать, как читать:
+Вы можете предварительно заполнить данные (атрибуты электронной почты и телефона) для пользователей с помощью API, PowerShell или Azure AD Подключение. Чтобы узнать, как читать:
 
 - [Развертывание сброса пароля без необходимости регистрации пользователей](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
 - [Какие данные используются при сбросе пароля](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
