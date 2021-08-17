@@ -1,5 +1,5 @@
 ---
-title: Не удается предварительно просмотреть все вложения в Outlook.com
+title: Не может просмотреть все вложения в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9000576"
 - "2431"
-ms.openlocfilehash: 8e8c2535e0fe4f71f0a3115601bd336de6f5a12e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d51193c8196558d7a464179eb8f2f51fb25857d934d70860bc84c4f1f2bf0389
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111485"
 ---
-# <a name="cant-preview-all-of-an-attachment"></a>Не удается предварительно просмотреть все вложения
+# <a name="cant-preview-all-of-an-attachment"></a>Не может просмотреть все вложения
 
-Мы осведомлены о проблемах, в которых некоторые пользователи не могут просмотреть все вложения. Чтобы устранить эту проблемы, откройте вложение в новом окне.
+Нам известно о проблеме, из-за которой некоторые клиенты не могут просмотреть все вложения. В качестве обходного решения откройте вложение в новом окне.

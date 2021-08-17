@@ -1,5 +1,5 @@
 ---
-title: Проблемы интеграции приложений с SSO
+title: Проблемы интеграции приложений SSO
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004344"
 - "7758"
-ms.openlocfilehash: bba3c30c7123f946f38ef559b31397f5464b9880
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 5652a3dd5acd95cf1007a6e0cc6b37d7bb7ed9423cab15946983cc2f28bc450c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49876562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084431"
 ---
-# <a name="sso-application-integration-issues"></a>Проблемы интеграции приложений с SSO
+# <a name="sso-application-integration-issues"></a>Проблемы интеграции приложений SSO
 
-Выполните поиск конкретного приложения, которое вы хотите интегрировать с единым входом, в коллекции учебников по интеграции приложений с [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) и следуйте указаниям по устранению неполадок интеграции.
+Поиск конкретного приложения, которое необходимо интегрировать с бесшовным единым входом (SSO) в нашу коллекцию учебников по интеграции приложений с Azure Active Directory и следуйте указаниям по устранению неполадок в интеграции. [](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)

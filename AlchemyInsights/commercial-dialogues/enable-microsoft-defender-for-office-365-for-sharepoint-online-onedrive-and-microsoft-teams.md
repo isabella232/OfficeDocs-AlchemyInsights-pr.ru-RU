@@ -1,5 +1,5 @@
 ---
-title: Включить Microsoft Defender для Office 365 для SharePoint Online, OneDrive и Microsoft Teams
+title: Включить Сейф вложения для SharePoint Online, OneDrive и Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058879"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894476"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Включить Microsoft Defender для Office 365 для SharePoint Online, OneDrive и Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Включить Сейф вложения для SharePoint Online, OneDrive и Microsoft Teams
 
-1. Используя учетные данные глобального администратора или администратора безопасности, войдите в центр Office 365 [безопасности и соответствия](https://protection.office.com/)требованиям.
-2. Выберите **управление угрозами** в левой области, а затем   >  [выберите Сейф политики.](https://protection.office.com/safeattachment)
-3. Включите Microsoft Defender для Office 365 **для SharePoint, OneDrive и Microsoft Teams,** а затем выберите **Сохранить**.
+1. Используя учетные данные глобального администратора или администратора безопасности, откройте портал Microsoft 365 Defender по ссылке, а затем перейдите к политикам & правил политики угрозы Сейф вложениям в разделе <https://security.microsoft.com>  \>  \>  **Политики**
+
+   Чтобы перейти непосредственно **на страницу Сейф вложения,** используйте <https://security.microsoft.com/safeattachmentv2> .
+
+2. На странице **Сейф вложения нажмите** **глобальные параметры**.
+3. На вылете, который появится, выберите включите Microsoft Defender для Office 365 для **SharePoint, OneDrive и Microsoft Teams,** а затем выберите **Сохранить**.
+
     > [!TIP]
     >
-    > - В качестве глобального администратора или администратора SharePoint Online запустите следующий комдлет PowerShell с параметром **DisallowInfectedFileDownload,** установленным для true *:* [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Настройка оповещений для обнаруженных файлов](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > Сделайте следующие действия, чтобы повысить защиту Сейф вложений для SharePoint, OneDrive и Microsoft Teams:
+    >
+    > - Чтобы запретить пользователям скачивать вредоносные файлы, используйте значение `$true` *параметра DisallowInfectedFileDownload* в комлете **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** в SharePoint PowerShell. Дополнительные сведения см. [в SharePoint Online PowerShell, чтобы](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)запретить пользователям скачивать вредоносные файлы.
+    > - [Создание политики оповещения для обнаруженных файлов](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-Дополнительные сведения см. в Office 365 Microsoft [Defender для SharePoint, OneDrive и Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)
+Дополнительные сведения см. [в Сейф приложения Office 365 для SharePoint, OneDrive и Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)

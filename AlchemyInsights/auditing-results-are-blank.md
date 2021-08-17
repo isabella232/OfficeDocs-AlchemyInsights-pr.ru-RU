@@ -12,23 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d63158872c817ea6b856378367acc6f41f41e055
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53917724"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313855"
 ---
 # <a name="auditing-results-are-blank"></a>Результаты аудита пусты
 
- **Отчеты по аудиту для классических сайтов**
+**Отчеты по аудиту для классических сайтов**
   
-Чтобы просмотреть отчет аудита для SharePoint веб-сайта, необходимо быть администратором для коллекции сайтов. Чтобы добавить себя в качестве администратора, см. статью Добавление администраторов коллекции сайтов в качестве глобального или [SharePoint администратора.](https://go.microsoft.com/fwlink/?linkid=869390) Сведения о работе с журналом аудита см. в [обзоре отчетов журнала аудита.](https://go.microsoft.com/fwlink/?linkid=395237) 
+Чтобы просмотреть отчет аудита для SharePoint веб-сайта, необходимо быть администратором для коллекции сайтов. Чтобы добавить себя в качестве администратора, см. [в статью Управление администраторами сайтов.](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators) Сведения о работе с журналом аудита см. в [обзоре отчетов журнала аудита.](https://support.microsoft.com/office/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
   
- **Поиск в журнале аудита**
+**Поиск в журнале аудита**
   
-Чтобы работать с журналом аудита в Центре соответствия требованиям безопасности, необходимо быть глобальным [ &amp; администратором.](https://protection.office.com) Перед началом включи журнал аудита. Затем можно выполнить поиск журнала аудита. 
+Вы должны быть глобальным администратором для работы с журналом аудита в Центр соответствия требованиям Microsoft 365 или на Microsoft 365 Defender <https://compliance.microsoft.com/auditlogsearch> <https://security.microsoft.com/auditlogsearch> портале . Перед началом включи журнал аудита. Затем можно выполнить поиск журнала аудита.
   
-[Узнайте, как искать журнал аудита.](https://go.microsoft.com/fwlink/?linkid=708432)
-  
-
+[Узнайте, как искать журнал аудита.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)

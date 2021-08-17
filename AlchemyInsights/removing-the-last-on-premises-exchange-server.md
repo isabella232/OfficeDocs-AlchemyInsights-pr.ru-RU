@@ -1,5 +1,5 @@
 ---
-title: Удаление последнего локального сервера Exchange Server
+title: Удаление последнего локального Exchange сервера
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 77dcc8d5396807f581c96ed79321a24ffe929d66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4980f3089305ce589cc8b205fe073c0d1328cdf289d18a15669c081e0ab4aa5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741028"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110755"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a>Удаление последнего локального сервера Exchange Server
+# <a name="removing-the-last-on-premises-exchange-server"></a>Удаление последнего локального Exchange сервера
 
-Прежде чем удалять последний сервер Exchange из локальной организации, следует убедиться, что вы знаете, как это сделать, чтобы помочь вам решить, нужен ли последний сервер для других целей. Для получения дополнительных сведений Узнайте, [как и когда следует списать локальные серверы Exchange в гибридном развертывании](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
+Перед удалением последнего сервера Exchange из локальной организации необходимо убедиться, что вы понимаете последствия этого, чтобы помочь вам решить, нужен ли последний сервер для любых других целей. Дополнительные сведения можно узнать о том, как и когда списание локального Exchange серверов [в гибридном развертывании.](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx)
   

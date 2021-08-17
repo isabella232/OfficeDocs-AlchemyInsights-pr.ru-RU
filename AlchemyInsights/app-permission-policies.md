@@ -13,20 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f07fa4a64fb64233f88cfbf0a681d6f2ab586c88
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951686"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313937"
 ---
 # <a name="app-permission-policies"></a>Политики разрешений приложений
 
 С [помощью политик разрешений приложений](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)вы можете сделать следующее:
 - В качестве администратора вы можете управлять политиками установки приложений в центре [Microsoft Teams администрирования.](https://admin.teams.microsoft.com/policies/app-permission)
 - Управление приложениями, доступными для пользователей Microsoft Teams организации с [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) помощью глобальной политики, или создание и назначение настраиваемых политик для настройки и управления доступом пользователей к приложениям. 
-> [!NOTE]
-> Параметры приложений для всей организации переопределяют глобальную политику и любые настраиваемые политики, которые создаются и назначаются пользователям.
+**Примечание.** Параметры приложений для всей организации переопределяют глобальную политику и любые настраиваемые политики, которые вы создаете и назначаете пользователям.
 - Политики установки [приложений](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) можно использовать для настройки Microsoft Teams для выделения наиболее важных для пользователей приложений. 
 
 
