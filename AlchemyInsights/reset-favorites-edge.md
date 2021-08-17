@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "11937"
 - "9007099"
-ms.openlocfilehash: a76234d17e39c7122fc5eedcb5a08df5af6d4197f71168434806ebd9f2a92346
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e631a639df9944581b53f409a1a17d6e1644df5c5f48ae3d1b40e1b33a4118da
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972962"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892516"
 ---
 # <a name="reset-favorites-in-microsoft-edge"></a>Сброс избранного в Microsoft Edge
 
 Чтобы сбросить или переместить данные в Edge, выберите один из следующих вариантов. Они применяются к версии 88, если не указано иное: 
 
-- [Резервное копирование избранного в Edge](/deployedge/edge-learnmore-reset-data-in-cloud#back-up-your-favorites)
-- [Сброс для устранения проблемы с синхронизацией](/deployedge/edge-learnmore-reset-data-in-cloud#perform-a-reset-to-fix-a-synchronization-problem)
-- [Сброс или удаление данных из облака Майкрософт](/deployedge/edge-learnmore-reset-data-in-cloud#perform-a-reset-to-remove-your-data-from-microsofts-cloud)
+- [Резервное копирование избранного в Edge](https://docs.microsoft.com/deployedge/edge-learnmore-reset-data-in-cloud#back-up-your-favorites)
+- [Сброс для устранения проблемы с синхронизацией](https://docs.microsoft.com/deployedge/edge-learnmore-reset-data-in-cloud#perform-a-reset-to-fix-a-synchronization-problem)
+- [Сброс или удаление данных из облака Майкрософт](https://docs.microsoft.com/deployedge/edge-learnmore-reset-data-in-cloud#perform-a-reset-to-remove-your-data-from-microsofts-cloud)
