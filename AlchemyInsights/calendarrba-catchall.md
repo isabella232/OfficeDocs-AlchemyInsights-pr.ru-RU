@@ -1,5 +1,5 @@
 ---
-title: 1081 календарь РБА для общего захвата
+title: Календарь 1081 — RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 3c7dff50fba4bd667d1432bd295edf404b459309
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcc2fbcc73e0c03b09d55de3eadb00273e83379476dfff4af8e2c758c91230d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059383"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>Создание почтовых ящиков помещений и управление ими
 
-Чтобы создавать и изменять почтовые ящики помещений в центре администрирования Exchange, ознакомьтесь со статьей [Создание почтовых ящиков комнаты и управление ими](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Чтобы создать и изменить почтовые ящики комнат в центре администрирования Exchange, см. в этой информации создание и управление [почтовыми ящиками комнат.](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)
 
-Дополнительные сведения о почтовых ящиках [помещений и оборудования](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)(которые также называются почтовыми ящиками ресурсов) см.
+Дополнительные информацию о почтовых ящиках комнат и оборудования (также известных как почтовые ящики ресурсов) см. в списке [Room и equipment mailboxes.](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)

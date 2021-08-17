@@ -1,5 +1,5 @@
 ---
-title: Получение списка корпоративных приложений
+title: Получение списка Enterprise приложений
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379915"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116741"
 ---
-# <a name="get-a-list-of-enterprise-applications"></a>Получение списка корпоративных приложений
+# <a name="get-a-list-of-enterprise-applications"></a>Получение списка Enterprise приложений
 
 1. Чтобы **получить** список корпоративных приложений (все приложения или фильтруются по имени Display, идентификатору, ИДЕНТИФИКАТОРу идентификатора и т.д.) с помощью команды Powershell, см. в приложении [Get-AzureADApplication (AzureAD).](https://docs.microsoft.com/powershell/module/azuread/get-azureadapplication)
 2. Чтобы получить список основных объектов службы (все объекты или фильтруются по ID) с помощью команды Powershell, см. в обзоре [Get-AzureADServicePrincipal (AzureAD).](https://docs.microsoft.com/powershell/module/azuread/get-azureadserviceprincipal)
@@ -52,9 +52,9 @@ ms.locfileid: "51379915"
 
 7. **Необходимо экспортировать список неиспользованых приложений Azure** — отчет аудита
 
-    Azure AD может показывать журналы приложений только в течение 30 дней при условии, что у вас есть лицензия Azure AD Premium.
+    Azure AD может показывать журналы приложений только в течение 30 дней при Azure AD Premium лицензии.
     У вас есть два варианта хранения данных дольше 30 дней. API отчетов [Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) можно использовать для получения данных программным образом и хранения их в базе данных. Кроме того, можно интегрировать журналы аудита в сторонние системы SIEM.
 
     Вы также можете скачать список приложений для всех приложений и приложений в Azure Active directory>Регистрация приложений>Загрузка>Все приложения и собственные приложения.
 
-    Чтобы получить список приложений через MS Graph, см. в приложении [List - Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) и типе ресурсов приложений - Microsoft Graph [v1.0.](https://docs.microsoft.com/graph/api/resources/application)
+    Чтобы получить список приложений с помощью ms Graph, см. в приложении List [- Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) и типе ресурсов приложений [- Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).
