@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 986c78f20e7b8c303c302913d63d817a56ce2896
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2e7f898ac1a9e9469f633192be18e2a3a362023c83c9e510593196b5a4a0daf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51798562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074687"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Выход на пенсию устаревших средств для электронных обнаружений
 
-В результате новых и улучшенных функций по обнаружению электронных данных в центре соответствия требованиям Microsoft 365 следующие устаревшие средства и командные команды электронной почты будут отправлены в отставку в ближайшие месяцы:
+В результате новых и улучшенных функций по обнаружению электронных данных в центре Microsoft 365 соответствия требованиям в ближайшие месяцы будут отменены следующие устаревшие средства и командные команды eDiscovery:
 
-- [Открытие электронных данных на месте](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) и удерживает на месте [в](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) центре администрирования Exchange.
+- [Открытие электронных данных](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) на [](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) месте и удерживает на месте в центре Exchange администрирования.
 
-- Комлеты Exchange Online PowerShell, которые поддерживают In-Place и In-Place удерживает. (Эти cmdlets совместно определены как *-MailboxSearch cmdlets.) Это включает в себя следующие cmdlets:
+- Эти Exchange Online PowerShell, которые поддерживают In-Place и In-Place удерживает. (Эти cmdlets совместно определены как *-MailboxSearch cmdlets.) Это включает в себя следующие cmdlets:
 
     - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
     - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
@@ -33,7 +33,7 @@ ms.locfileid: "51798562"
     - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
 - Комлет [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) в Exchange Online PowerShell.
-- Следующие операции в API веб-служб Exchange:
+- Следующие операции в API Exchange веб-служб:
     - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
@@ -47,7 +47,7 @@ ms.locfileid: "51798562"
 
 **Дополнительные сведения см. в .**
 
- - [Перенос устаревших поисков электронных данных и их перенос в центр соответствия требованиям Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Перенос устаревших поисков электронных поисков и удерживает их в Центр соответствия требованиям Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
  - [Прекращение поддержки устаревших средств обнаружения электронных данных](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
  - [FAQs about In-Place eDiscovery and In-Place Holds](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 

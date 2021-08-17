@@ -1,5 +1,5 @@
 ---
-title: Вход в Outlook.com или из него
+title: Вход или выход из Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 86c76fa3d9f7f72fa4061321cd95cabb90fa4c35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ce3ea7b6d0677796713ca98dbfe863f6033b8d6ea4bb4aa0aef6a86df7ab119
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042931"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Вход в Outlook.com или из него
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Вход или выход из Outlook.com
 
-Если вы не можете войти в учетную запись электронной почты Outlook.com, Hotmail, Live или MSN, либо вы не знаете, как войти или выйти, ознакомьтесь с [разрешениями](https://go.microsoft.com/fwlink/p/?linkid=2005840).
+Если вы не можете войти в свою учетную запись электронной почты Outlook.com, Hotmail, Live или MSN, или [](https://go.microsoft.com/fwlink/p/?linkid=2005840)вы не знаете, как войти или выйти, вот несколько решений.
   
-Если у вас по-прежнему возникают проблемы с входом, посмотрите, [когда не можете войти в свою учетную запись Майкрософт](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Если у вас по-прежнему возникают проблемы с входом, см. статью Когда вы не можете войти [в свою учетную](https://go.microsoft.com/fwlink/p/?linkid=837479)запись Майкрософт.

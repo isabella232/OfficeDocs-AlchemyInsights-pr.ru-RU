@@ -1,5 +1,5 @@
 ---
-title: Использование стикерами в беседах в Teams
+title: Использование Giphys в Teams беседах
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104321"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>Использование стикерами в беседах в Teams
+# <a name="using-giphys-in-teams-conversations"></a>Использование Giphys в Teams беседах
 
-Стикерами доступ в чате в Teams включен по умолчанию. Как администратор вы можете контролировать доступность стикерами для пользователей, [настроив политику обмена сообщениями](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) и убедившись в **том, что** **Использование стикерами в беседах** включено.
+Доступ giphys в Teams чате включен по умолчанию. Как администратор вы можете контролировать, доступны ли giphys пользователям, установив политику обмена сообщениями и обеспечив использование **Giphys** в беседах [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) **on**.
 
-Если GIF в беседах Teams не работает должным образом, убедитесь, что:
+Если GIF-ы работают не так, как Teams беседах, убедитесь:
 
-[Политика обмена сообщениями](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) должна разрешить стикерами. Чтобы проверить с помощью командлетов PowerShell, выполните следующие действия:
+Политика [обмена сообщениями должна](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) разрешить Giphys. Проверка с помощью cmdlets PowerShell:
 
-- Убедитесь, что вы можете [управлять Teams с помощью PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
-- Выполните команду PowerShell [Get-кстеамсмессагингполици-Identity global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) и убедитесь, что для **Алловгифи** задано **значение true**.
-- Если для **алловгифи** задано **значение false** , выполните следующую команду PowerShell [Set-Кстеамсмессагингполици-Identity global-алловгифи $true](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
+- Убедитесь, что [вы можете управлять Teams с PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
+- Запустите команду PowerShell [Get-CsTeamsMessagingPolicy-Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) и убедитесь, что **AllowGiphy** задает **true**.
+- Если **allowGiphy** задает **false,** запустите следующую команду PowerShell [Set-CsTeamsMessagingPolicy-Identity Global -AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
 
-Для предоставления доступа к URL-адресу Giphy необходимо включить [необязательный подключенный интерфейс](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) .
+[Чтобы разрешить](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) доступ к URL-адресу Giphy, необходимо включить необязательные подключенные функции.
 
 > [!NOTE]
-> Если для клиента настроено несколько политик обмена сообщениями Teams, можно определить удостоверение политики, назначенной для затронутого пользователя, с помощью команды PowerShell [Get – CsOnlineUser – Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Выберите Теамсмессагингполици.
+> Если для клиента Teams несколько политик обмена сообщениями, можно определить удостоверение политики, назначенной влияемому пользователю с командой [PowerShell Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Выберите TeamsMessagingPolicy.
