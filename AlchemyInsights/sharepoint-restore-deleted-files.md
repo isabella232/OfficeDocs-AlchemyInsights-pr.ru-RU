@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 8c7ce48f50b5c933ea15c23a486b99ad7a7f4d79
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7935d6f74113e6da843f5f7df65bcb540b3d7a23b69f388b721fd778f4ff7a0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707535"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085133"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Восстановление удаленного файла или папки
 
@@ -30,13 +30,13 @@ SharePoint Online сохраняет резервные копии всего с
 
 [Восстановление удаленной коллекции сайтов (включая групповые, коммуникационные и другие сайты)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[Восстановление удаленного сайта OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+[Восстановление удаленного OneDrive сайта](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
 Для массовых действий по утилизации корзины администраторы могут рассмотреть возможность использования [PNP Sharepoint Online.](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
 **Функция восстановления файлов**
 
-Если множество файлов OneDrive или SharePoint будут удалены, перезаписаны, повреждены или заражены вредоносными программами, вы можете восстановить всю библиотеку OneDrive или SharePoint до предыдущего времени с помощью функции восстановления файлов.
+Если множество OneDrive или SharePoint файлов удаляются, перезаписываются, повреждены или заражены вредоносными программами, вы можете восстановить всю библиотеку OneDrive или SharePoint до предыдущего времени с помощью функции восстановления файлов.
 
 [Восстановление библиотеки OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 

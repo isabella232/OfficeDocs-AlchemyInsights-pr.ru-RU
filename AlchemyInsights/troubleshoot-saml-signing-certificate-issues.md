@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9406"
 - "9004341"
-ms.openlocfilehash: 290e740ccd7f3beac5b77e63c32c5b18c295070e6002dcdde44ce4a93f4330f6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fb043122edf5f99325f0403810eb0dc119d254e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105689"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314433"
 ---
 # <a name="troubleshoot-saml-signing-certificate-issues"></a>Устранение проблем, связанных с сертификатами подписи SAML
 
@@ -31,13 +31,11 @@ ms.locfileid: "54105689"
 
 3. Если срок действия этого сертификата истек, создайте новый сертификат, обновите его у поставщика приложения и активируйте его на стороне Azure. Дополнительные сведения см. в разделе [Обновление сертификата с истекающим сроком действия](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
 
-> [!NOTE]
-> Если срок действия сертификата истек, пользователь не будет заблокирован.
+**Примечание.** Если срок действия сертификата истек, пользователь не будет заблокирован.
 
-4. [Добавьте адрес электронной почты для уведомлений](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#add-email-notification-addresses-for-certificate-expiration), отправляемых до истечения срока действия текущего сертификата.
+4. [Добавьте адрес электронной почты для уведомлений](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#add-email-notification-addresses-for-certificate-expiration), которые будут отправлены до истечения срока действия текущего сертификата.
 
-> [!NOTE]
-> Этап 4 является необязательным.
+**Примечание.** Этап 4 является необязательным.
 
 5. Измените параметры подписи сертификата SAML приложения и алгоритм подписи сертификата. Дополнительные сведения см. в разделе [Изменение параметров подписи сертификата и алгоритма подписи](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).
 

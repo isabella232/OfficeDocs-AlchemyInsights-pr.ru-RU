@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 9051fb44d7d6bde388d279b3311627848b6f499e30b5eca00d6a47cef105fb77
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d0fff3e699d46af2a19a8ad60696b824bafa109
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997147"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314975"
 ---
 # <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender для Office 365 для SharePoint, OneDrive и Microsoft Teams
 
@@ -28,8 +28,8 @@ ms.locfileid: "53997147"
 
 3. Выберите **Включить защитник для Office 365 для SharePoint, OneDrive и Microsoft Teams**.
 
-4. [Создайте политику оповещения о действиях для](/microsoft-365/compliance/create-activity-alerts) получения уведомлений при обнаружении вредоносных файлов.
+4. [Создайте политику оповещения о действиях для](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) получения уведомлений при обнаружении вредоносных файлов.
 
-Полные инструкции см. в этой Сейф вложения для [SharePoint, OneDrive и Microsoft Teams.](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
+Полные инструкции см. в этой Сейф вложения для [SharePoint, OneDrive и Microsoft Teams.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
 
-**Примечание.** По проекту Microsoft Defender для Office 365 не сканирует каждый файл SharePoint Online, OneDrive для бизнеса или Microsoft Teams. Файлы сканируют асинхронно с помощью процесса, который использует действия общего доступа, действия гостей и сигналы угроз для выявления вредоносных файлов. Дополнительные сведения см. [в Сейф вложениях SharePoint, OneDrive и Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+**Примечание.** По проекту Microsoft Defender для Office 365 не сканирует каждый файл SharePoint Online, OneDrive для бизнеса или Microsoft Teams. Файлы сканируют асинхронно с помощью процесса, который использует действия общего доступа, действия гостей и сигналы угроз для выявления вредоносных файлов. Дополнительные сведения см. [в Сейф вложениях SharePoint, OneDrive и Microsoft Teams.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
