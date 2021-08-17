@@ -1,5 +1,5 @@
 ---
-title: Начало работы с использованием отчетов об использовании Microsoft Search
+title: Начало работы с использованием Поиск (Майкрософт) отчетов об использовании
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11047"
-ms.openlocfilehash: 2da847a66d227cbad07d56d733488a216deacbe7
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b5bfba500c229ee58f82fde1de01da91c46ecbc991fb4c2f7418b0dc3bf141e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52642047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077303"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Начало работы с использованием отчетов об использовании Microsoft Search
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Начало работы с использованием Поиск (Майкрософт) отчетов об использовании
 
-Отчеты об использовании microsoft Search предоставляют сведения о том, как работает поиск в вашей организации. Эти сведения помогут вам найти контент и сделать поиск более полезным и приятным для пользователей в организациях.
+Поиск (Майкрософт) отчеты об использовании предоставляют сведения о том, как работает поиск в организации. Эти сведения помогут вам найти контент и сделать поиск более полезным и приятным для пользователей в организациях.
 
-Дополнительные данные см. [в отчетах об использовании](https://go.microsoft.com/fwlink/?linkid=2152048)поиска в Microsoft.
+Дополнительные данные см. [в Поиск (Майкрософт) Отчеты об использовании.](https://go.microsoft.com/fwlink/?linkid=2152048)
