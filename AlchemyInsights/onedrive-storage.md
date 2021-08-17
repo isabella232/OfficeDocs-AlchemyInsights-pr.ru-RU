@@ -1,5 +1,5 @@
 ---
-title: Хранилище OneDrive
+title: OneDrive хранения
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,17 +15,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: a47d53ea985ca3809396bcd741d20cb8ed639b26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ef5fe2dfa6f223b3b87ba5018ece36e9f673566b840bb8b7a0ed700f7bc94a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754100"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075748"
 ---
-# <a name="manage-your-onedrive-storage"></a>Управление хранилищем OneDrive
+# <a name="manage-your-onedrive-storage"></a>Управление OneDrive хранения
 
-Вы можете управлять OneDrive для бизнеса, чтобы узнать, сколько места используется и освободите место на диске.  Для получения дополнительных сведений перейдите по приведенным ниже ссылкам.
+Вы можете управлять OneDrive для бизнеса, чтобы узнать, сколько места вы используете, и освободить место.  Дополнительные сведения см. в приведенной ниже ссылке.
 
-- [Управление хранилищем OneDrive для бизнеса](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
-- [Изменение места для хранения в OneDrive для определенного пользователя](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Управление OneDrive для бизнеса хранения](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Изменение объема хранилища OneDrive для определенного пользователя](https://docs.microsoft.com/onedrive/change-user-storage)
 - [Настройка стандартного размера хранилища OneDrive для пользователей](https://docs.microsoft.com/onedrive/set-default-storage-space)
