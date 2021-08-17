@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499561"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886304"
 ---
 # <a name="too-many-licenses"></a>Слишком много лицензий?
 
@@ -34,6 +34,6 @@ ms.locfileid: "54499561"
 2. На вкладке **Продукты** выберите подписку, которую хотите изменить.
 3. На странице сведений о подписке выберите **Удалить лицензии**.
 4. В области **Удаление лицензий** в поле **New number** in the **Total licenses** введите общее количество лицензий, которые необходимо для этой подписки. Например, если у вас есть 100 лицензий и вы хотите удалить 25 из них, введите 75.
-5. Нажмите кнопку **Сохранить**.
+5. Нажмите **Сохранить**.
 
-Дополнительные дополнительные новости см. [в руб. "Купить или удалить лицензии".](/microsoft-365/commerce/licenses/buy-licenses)
+Дополнительные дополнительные новости см. [в руб. "Купить или удалить лицензии".](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

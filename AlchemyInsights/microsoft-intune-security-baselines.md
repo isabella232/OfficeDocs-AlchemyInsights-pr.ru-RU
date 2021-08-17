@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: 0a89b121f2f425b0a81fa250650f108e9af48c9da39dfc8a62b07541d3a6c3dd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f77fdbb315db8317a6a1374f05489a7f5a0bedcec484dc9ac53a473098583949
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54098075"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886645"
 ---
 # <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Используйте Microsoft Intune безопасности для настройки Windows 10 устройств
 
@@ -30,5 +30,5 @@ ms.locfileid: "54098075"
 
 Если вы не знаете, с чего начать, базовые параметры безопасности помогут быстро создать и развернуть безопасный профиль. Если вы в настоящее время используете групповую политику, миграция в Intune для целей управления намного проще с базовыми показателями безопасности, так как они встроены в Intune и включают передовые возможности управления.
 
-Дополнительные данные см. [в Windows базовых показателей](/windows/security/threat-protection/windows-security-baselines) безопасности и [управления мобильными устройствами.](/windows/client-management/mdm/)
+Дополнительные данные см. [в Windows базовых показателей](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines) безопасности и [управления мобильными устройствами.](https://docs.microsoft.com/windows/client-management/mdm/)
 

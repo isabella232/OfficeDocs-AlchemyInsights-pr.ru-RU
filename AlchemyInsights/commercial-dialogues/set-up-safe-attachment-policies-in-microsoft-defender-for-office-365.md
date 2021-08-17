@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058555"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888383"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Настройка политик Сейф в Microsoft Defender для Office 365
 
-1. Перейдите в [центр Office 365 безопасности & и](https://go.microsoft.com/fwlink/p/?linkid=2077143) выберите политику управления угрозами  >    >  **Сейф вложения.**
-2. Чтобы включить эту функцию для других рабочих нагрузок, выберите Включи microsoft Defender для Office 365 для **SharePoint Online, OneDrive и Microsoft Teams**.
-3. Чтобы создать новую политику, выберите **значок New** **+** () .
-4. Укажите имя, описание и параметры политики.
-5. Нажмите кнопку **Сохранить**.
+1. На портале Microsoft 365 Defender перейдите на электронную почту & политики совместной & правила угрозы Сейф вложения в разделе <https://security.microsoft.com/>  \>  \>  \>  **Политики.**
+
+   Чтобы перейти непосредственно **на страницу Сейф вложения,** используйте <https://security.microsoft.com/safeattachmentv2> .
+
+2. На странице **Сейф вложения** сделайте любой из следующих действий:
+   - Чтобы добавить новую политику, выберите **+ Создать**. Мастер запустится, чтобы помочь вам определить параметры политики.
+   - Чтобы изменить существующую политику, выберите политику, нажав на имя политики. В появились сведения, которые появляются, выберите **Изменить** в разделе, который содержит параметры, которые вы хотите настроить.
+   - Чтобы включить или отключить Сейф вложения для SharePoint, OneDrive и Microsoft Teams, щелкните глобальные параметры, включите или отключите параметры, а затем нажмите кнопку **Сохранить**.
+
+3. После просмотра параметров выберите **Отправка** (новая) или **Сохранить** (изменить).
+
+Дополнительные сведения см. в следующих статьях:
+
+- [Настройка политик Сейф в Microsoft Defender для Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Включение безопасных вложений для SharePoint, OneDrive и Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)
