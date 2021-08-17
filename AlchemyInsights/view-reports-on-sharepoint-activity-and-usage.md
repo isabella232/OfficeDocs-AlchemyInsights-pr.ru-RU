@@ -1,5 +1,5 @@
 ---
-title: Просмотр отчетов об активности и использовании SharePoint
+title: Просмотр отчетов о SharePoint и использовании
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7973"
-ms.openlocfilehash: 61bfdb110f3f2c561bf25d03aad968c1ef7f73db
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: 2b1070fb8557a22e9f36e41e7e7f8676011c64cc092b2a52f24339b49df41453
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950793"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037297"
 ---
-# <a name="view-reports-on-sharepoint-activity-and-usage"></a>Просмотр отчетов об активности и использовании SharePoint
+# <a name="view-reports-on-sharepoint-activity-and-usage"></a>Просмотр отчетов о SharePoint и использовании
 
-Перейдите на страницу отчетов об использовании в Центре администрирования [Microsoft 365.](https://admin.microsoft.com/AdminPortal/Home) В **области "Выбор отчета"** выберите отчет об активности или использовании SharePoint.
+Перейдите на [страницу Отчеты об](https://admin.microsoft.com/AdminPortal/Home)использовании в Центр администрирования Microsoft 365 . В **статье Выберите отчет,** выберите SharePoint или отчет об использовании.
 
-Дополнительные сведения [см. в отчетах SharePoint.](https://go.microsoft.com/fwlink/?linkid=875240)
+Дополнительные сведения см. [в SharePoint отчетов.](https://go.microsoft.com/fwlink/?linkid=875240)
