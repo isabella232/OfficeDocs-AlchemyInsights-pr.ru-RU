@@ -1,5 +1,5 @@
 ---
-title: Команды сдвигаются
+title: Teams Сдвиги
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106511"
 ---
-# <a name="using-teams-shifts"></a>Использование команд Shift
+# <a name="using-teams-shifts"></a>Использование Teams shifts
 
-Сведения об управлении приложением "смены", в том числе о том, как настроить смены, включить смены для пользователей и управлять приложением смены, можно найти в следующих статьях:
+Сведения об управлении приложением Shifts, в том числе о настройках смен, включаем shifts для пользователей и управлении приложением Shifts см. в этой информации:
  
-- [Управление приложением смены для Организации в Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Включение или отключение смен для определенных пользователей в Организации](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Управление приложением Shifts для организации в Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Включить или отключить Shifts для определенных пользователей в организации.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Чтобы узнать больше о сменах для Teams, в том числе об управлении календарным планом смены, ознакомьтесь со статьями [смены для Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Дополнительные новости о сменах для Teams, в том числе об управлении расписанием shifts см. в см. [в](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)Teams.
 
-В **силу 30 июня 2020**. Корпорация Майкрософт Staffhub прекращена. Более подробную информацию можно узнать в [статье Microsoft StaffHub](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
+**С 30 июня 2020** г. Microsoft Staffhub была отправлена в отставку. Дополнительные сведения см. [в сайте Microsoft StaffHub.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 
