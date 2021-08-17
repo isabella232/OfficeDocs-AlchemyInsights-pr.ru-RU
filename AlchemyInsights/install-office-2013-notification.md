@@ -1,5 +1,5 @@
 ---
-title: Установка уведомления Office 2013
+title: Уведомление Office 2013 г.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - "54"
 - "1700001"
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: 789b68c3cd2765ac63c59c964727f7ce2f6d6333
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 80615d366c48f0c1639040c6738c7f9c11ec8f95b6216f3d0671a0d58b8df767
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055531"
 ---
 # <a name="upgrade-to-office-2016"></a>Обновление до Office 2016
 
-К сожалению, Office 2013 больше не доступен для скачивания, но вы можете перейти на Office 2016 бесплатно! Дополнительные сведения и действия по установке Office 2016 можно найти в этой статье: Установка или обновление [до Office 2016.](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx)
+К сожалению, Office 2013 не доступен для скачивания больше, но вы можете обновить до Office 2016 бесплатно! Дополнительные сведения и шаги по установке Office 2016 г. используйте эту статью: Установка или обновление до [Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx)г.
   
