@@ -1,5 +1,5 @@
 ---
-title: Ошибки разрешений SharePoint
+title: SharePoint разрешений
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab3e2accbb9c2e765dd77fc64b92305dce748cd5da3bf0c6c6dd8414737c709f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107660"
 ---
-# <a name="sharepoint-permissions-errors"></a>Ошибки разрешений SharePoint
+# <a name="sharepoint-permissions-errors"></a>SharePoint разрешений
 
 Существует множество сценариев, которые могут подсказыть одно из этих сообщений. Чаще всего разрешения для пользователя или администратора настроены неправильно или вообще не настроены. 
 
-Дополнительные сведения см. в разделе "Отказано в доступе", "Требуется разрешение на доступ к этому сайту" или "Ошибки пользователя, не найденного в каталоге" в SharePoint Online и[OneDrive для бизнеса.](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+Дополнительные сведения см. в "Отказано в доступе", "Вам нужно разрешение на доступ к этому сайту" или "Пользователь, не найденный в[каталоге",](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)ошибки в SharePoint Online и OneDrive для бизнеса .

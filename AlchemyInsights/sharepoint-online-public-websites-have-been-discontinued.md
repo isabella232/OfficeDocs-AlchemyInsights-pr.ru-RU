@@ -1,5 +1,5 @@
 ---
-title: Общие веб-сайты SharePoint Online не поддерживаются
+title: SharePoint Общедоступные веб-сайты в Интернете прекращаются
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: fbe21c0aa9fbad3345c62d2dac276f49a37d5c02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b26f8561565288f8bb9400a6bd7c4f8006672e304142e41c5b92088036e88bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051247"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Общедоступные веб-сайты SharePoint Online больше не поддерживаются
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Общедоступные веб-сайты в Интернете прекращены
 
-Общедоступные веб-сайты SharePoint Online больше не поддерживаются.
+SharePoint Общедоступные веб-сайты в Интернете были прекращены.
 
-Если вы создали общедоступный веб-сайт SharePoint Online, вы смогли продолжить его использовать до 31 марта 2018 г. Если вы хотите продолжить работу с общедоступным веб-сайтом, необходимо создать новый поставщик с новым поставщиком. Содержимое общедоступного веб-сайта SharePoint Online удалено.
+Если вы создали веб-SharePoint Online, вы смогли продолжить использовать его до 31 марта 2018 г. Если вы хотите продолжать иметь общедоступный веб-сайт, необходимо создать новый веб-сайт с новым поставщиком. Содержимое на вашем SharePoint веб-сайте общего содержимого было удалено.
 
-Сведения о продолжении общедоступных веб-сайтов можно узнать [в статье сведения о процессе](https://go.microsoft.com/fwlink/?linkid=866980)прекращения работы компонента.
+Сведения о прекращении работы общедоступных веб-сайтов см. в [материале Details about the feature discontinuation process.](https://go.microsoft.com/fwlink/?linkid=866980)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1126"
 - "6700007"
-ms.openlocfilehash: 06f905551cbd015c80b6de4f97d0beb535d70fa0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69377155659cb76f376f0e3fbee86a3475c9ec35bb59f5331e26ca15b12e548a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732368"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080111"
 ---
 # <a name="create-or-migrate-update-rings"></a>Назначение или миграция кругов обновления
 
@@ -26,7 +26,7 @@ ms.locfileid: "47732368"
 
 1.  Зайдите на портал Azure и выберите **Все службы**.
 2.  В поле  **Фильтр**  введите **Intune** и выберите  **Microsoft Intune**.
-3.  Выберите **Обновления программного обеспечения**  >  **Круги обновления Windows 10 **  >  **Создать**.
+3.  Выберите **Обновления программного обеспечения**  >  **Круги обновления Windows 10**  >  **Создать**.
 4.  Введите имя и описание, затем выберите **Настройка**.
 5.  Настройте параметры обновления программного обеспечения для организации.
 6.  Нажмите **ОК** > **Создание круга обновления** > **Создать**.
