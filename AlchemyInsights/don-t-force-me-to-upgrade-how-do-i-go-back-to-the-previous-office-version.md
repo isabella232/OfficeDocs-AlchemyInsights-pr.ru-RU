@@ -1,5 +1,5 @@
 ---
-title: Не применяйте принудительное обновление. Как вернуться к предыдущей версии Office?
+title: Не принудйте меня к обновлению. Как вернуться к предыдущей версии Office?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,17 +14,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: cc8084e08930f7ecea9676996419112106d42bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3ff997f7241ac5b266391f2b9f84b7edd691dc84ed641e77b091d33c5a3dbf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079607"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Не применяйте принудительное обновление. Как вернуться к предыдущей версии Office?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Не принудйте меня к обновлению. Как вернуться к предыдущей версии Office?
 
-При открытии файла Office пробная версия приложения Office может открываться, а не в другой версии. Это произойдет при наличии пробной версии Microsoft 365.
+При открытии Office может открыться пробная версия Приложение Office, а не другая. Это произойдет, если у вас есть Microsoft 365 пробная версия.
   
-При установке пробной версии Microsoft 365 устанавливается пробная версия 2016. Эти пробные версии становятся стандартными для открытия файлов Word, Excel и PowerPoint. Например, если на компьютере установлено приложение Excel 2013 и вы также установили пробную версию Microsoft 365, ваши книги будут открываться в пробной версии Excel 2016.
+При установке Microsoft 365 установлена пробная версия приложений 2016 года. Эти пробные версии становятся по умолчанию для открытия word, Excel и PowerPoint файлов. Например, если установлен Excel 2013 г., а также установлена Microsoft 365 пробная версия, ваши книги откроются в пробной версии Excel 2016.
   
-При возникновении этой проблемы можно [Удалить](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) приложения 2016 и использовать более ранние версии установленных ранее приложений. Вы также можете [Удалить](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) старые версии приложений и перейти к новым версиям, входящим в состав Microsoft 365.
+Если у вас есть [](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) эта проблема, вы можете удалить приложения 2016 г. и использовать старые версии уже установленных приложений. Также можно [удалить](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) старые версии приложений и обновить их до более новых версий, включенных в Microsoft 365.

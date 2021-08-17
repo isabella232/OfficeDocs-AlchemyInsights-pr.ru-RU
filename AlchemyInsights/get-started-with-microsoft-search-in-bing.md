@@ -1,5 +1,5 @@
 ---
-title: Начало работы с Microsoft Search в Bing
+title: Начало работы с Поиск (Майкрософт) в Bing
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9260"
-ms.openlocfilehash: f7ae2b7bf9349f4a5d31b4c8dad20be4948f478e
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a5d506a0784200c2e11d338a3b973128748785474bc957b8f75f67a72324503b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079319"
 ---
-# <a name="get-started-with-microsoft-search-in-bing"></a>Начало работы с Microsoft Search в Bing
+# <a name="get-started-with-microsoft-search-in-bing"></a>Начало работы с Поиск (Майкрософт) в Bing
 
-Если ваша организация является новой для Microsoft Search в Bing, мы предлагаем вам просмотреть руководство по microsoft [Search in Bing Admin Essentials](https://go.microsoft.com/fwlink/p/?linkid=2127979)Guide, в котором содержится информация о настройке, настройке и развертывании microsoft Search в Bing.
+Если ваша организация не Поиск (Майкрософт) в Bing, рекомендуем просмотреть руководство по Поиск (Майкрософт) в [Bing Admin Essentials](https://go.microsoft.com/fwlink/p/?linkid=2127979)Guide, в котором содержится информация о настройке, настройке и развертывании Поиск (Майкрософт) в Bing.
 
-Чтобы повысить осведомленность пользователей о Microsoft Search в [](https://go.microsoft.com/fwlink/p/?LinkID=2114710) Bing, обратитесь к нашему набору принятия (.zip file), который предоставляет учебные и коммуникационные ресурсы.
+Чтобы повысить осведомленность пользователей о Поиск (Майкрософт) в Bing, перенародите их в наш набор принятия [(.zip](https://go.microsoft.com/fwlink/p/?LinkID=2114710) файл), который предоставляет учебные и коммуникационные ресурсы.
 
-Дополнительные сведения и средства см. в дополнительных сведениях о том, как повысить [результаты поиска Майкрософт в Bing для вашей организации.](https://go.microsoft.com/fwlink/?linkid=2152022)
+Дополнительные сведения и средства см. в Поиск (Майкрософт) [в Bing результатах организации.](https://go.microsoft.com/fwlink/?linkid=2152022)

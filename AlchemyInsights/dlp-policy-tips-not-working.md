@@ -1,5 +1,5 @@
 ---
-title: Советы по политике DLP не работают
+title: Политика DLP Советы не работает
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958715"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079679"
 ---
 # <a name="dlp-policy-tip-issues"></a>Проблемы с политикой DLP
 
@@ -30,6 +30,6 @@ ms.locfileid: "51958715"
 
 - Убедитесь, что содержимое соответствует тому, что необходимо для запуска правила, описанного в определениях сущности типа [конфиденциальной информации.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Советы по политике отображаются в OWA и Outlook. Однако при использовании Outlook 2013 или более поздней стадии подсказки политики отображаются только при определенных условиях. В списке определенных условий см. [поддерживаемые условия для Outlook 2013 или](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)более поздней 2013 для отображения советов по политике.
+- Советы политики отображаются как в OWA, так и в Outlook. Однако при использовании Outlook 2013 или более позднего года подсказки политики отображаются только при определенных условиях. В списке определенных условий см. поддерживаемые условия для Outlook [2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)или более поздней Советы .
 
-Сведения о советах по политике DLP см. в справке о советах по политике [DLP и](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) матрице поддержки для советов по политике [DLP.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
+Сведения о советах по политике DLP [см.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) в Советы рекомендации по политике DLP Советы и Матрица поддержки для [политики DLP.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
