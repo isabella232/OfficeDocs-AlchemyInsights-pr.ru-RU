@@ -1,5 +1,5 @@
 ---
-title: Проблемы с URL-адресом для SSO
+title: Проблемы URL-адресов SSO
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7812"
-ms.openlocfilehash: 7ab8c9f64e376218ca6c76056952f8f835f699ac
-ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+ms.openlocfilehash: 2ebad785eb966e822d7dfedbaaa0e37c6d6acb2e4aff12e1c4f85c5cc481bd65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049987"
 ---
-# <a name="sso-url-issues"></a>Проблемы с URL-адресом для SSO
+# <a name="sso-url-issues"></a>Проблемы URL-адресов SSO
 
-1. [User - Generate SSO Url](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) - Retrieves a redirection URL containing an authentication token for signing a given user into the developer portal.
-2. Ссылка на "Проблемы" при щелчке гиперссылки на веб-сайт SSO в документе при перенаправлении на страницу для логотипа или на страницу ошибки или при щелчке гиперссылки на веб-сайт [SSO](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) в документе Office вам будет предложено получить сведения о проверке подлинности.
-3. Список [ограничений и](https://docs.microsoft.com/azure/active-directory/develop/reply-url) ограничений URI перенаправления (URL-адрес ответа) см. в этой статье.
+1. [Пользователь — Создание URL-адреса SSO](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) — извлекает URL-адрес перенаправления, содержащий маркер проверки подлинности для подписания данного пользователя на портал разработчика.
+2. Обратитесь к вопросам, когда при нажатии гиперссылки на веб-сайт SSO в документе, если вы перенаправлены на страницу логотипа или страницу ошибки, или вам будет предложено получить сведения о проверке подлинности при нажатии гиперссылки на веб-сайт [SSO](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) в документе Office.
+3. [Перенаправьте](https://docs.microsoft.com/azure/active-directory/develop/reply-url) эту статью для списка ограничений и ограничений URI (URL-адрес ответа).
