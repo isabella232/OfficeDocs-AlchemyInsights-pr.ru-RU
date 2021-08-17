@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b6fbaf3f2ab30888d7a8f9d6f5aeccb65b5cfd0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918908"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312838"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Требуемая заглавная алхимия H1, H2 не работает".
 Рекомендации и рекомендации по авторингу алхимии:
@@ -27,8 +27,8 @@ ms.locfileid: "53918908"
     1. Включай В поле ms.custom ID правила или ИД ковша с портала [Alchemy Partner.](https://alchemyportal.azurewebsites.net) ex. ***ms.custom: 100021***
 1. В качестве шаблона используйте остальные метаданные в верхней части этого файла.
 1. На [портале Партнер](https://alchemyportal.azurewebsites.net)алхимии перейдите к разделу **Заголовок** идеи клиента и используйте его в качестве отправной точки для заголовка H1 для проницательности. 
-    > [!NOTE]
-    > Алхимия Аналитика должна иметь только один H1 в верхней части или они будут перерыв в производстве. H2s не отрисовываются так, чтобы **использовать** жирные или другие условности для знака отдельных разделов.
+
+**Примечание.** Аналитика должны иметь только один H1 в верхней части или они будут перерыв в производстве. H2s не отрисовываются так, чтобы **использовать** жирные или другие условности для знака отдельных разделов.
 1. Далее заполните текст тела с помощью черновика в разделе Customer Insights страницы Правила алхимии
     1. Списки с пулями в порядке
     1. Про номерные списки тоже

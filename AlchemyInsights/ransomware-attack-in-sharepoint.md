@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a75b090ae6122c8f2b47ae24415dd9fa9e09b1405c3ee278e619381382a322d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062561"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893208"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Атака вымогателей в SharePoint или OneDrive
 
 1.  Если вы ищете помощь в том, что делать при обнаружении вредоносного файла в OneDrive или SharePoint или Teams, см. в справке Что делать при обнаружении вредоносного [файла.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
 2. Если вы ищете, как защитить данные от программ-вымогателей, см.:
-    - [Защита данных в SharePoint и OneDrive](/sharepoint/safeguarding-your-data) 
-    - [Защита от угрозы вымогателей](/windows/security/threat-protection/intelligence/ransomware-malware)    
+    - [Защита данных в SharePoint и OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+    - [Защита от угрозы вымогателей](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
 3.  Все ли файлы в вашем OneDrive или SharePoint подвержены вирусу-вымогателям или вредоносным программам или вирусу Crypto? 
 
@@ -37,12 +37,12 @@ ms.locfileid: "54062561"
 - [Восстановление библиотеки документов](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 Дополнительные сведения о Microsoft Defender для Office 365 см.:
-- [Microsoft Defender для Office 365 для SharePoint, OneDrive и Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [Представления обозревателя угроз](/microsoft-365/security/office-365-security/threat-explorer-views)
+- [Microsoft Defender для Office 365 для SharePoint, OneDrive и Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Представления обозревателя угроз](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 Дополнительная информация:
 
-- [Обнаружение вирусов в SPO](/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [Шифрование данных в ODB и SPO](/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [Обнаружение вирусов в SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Шифрование данных в ODB и SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
 - [Обнаружение и восстановление файлов вымогателей](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Обнаружение обозревателя угроз и реального времени](/microsoft-365/security/office-365-security/threat-explorer-views)
+- [Обнаружение обозревателя угроз и реального времени](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)

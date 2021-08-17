@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11228"
 - "9005470"
-ms.openlocfilehash: 0f2e3d2d2cfa205f95a5d5dc84f7293fbee165a2976248de75a96379becd6925
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1eb0d949693916d1192fb75132207cd6a52e75840899e57c089a5f5aaca3ca88
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072209"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893148"
 ---
 # <a name="attack-surface-reduction-rules"></a>Правила сокращения направлений атак
 
 Исключение файлов или папок может значительно снизить защиту, предоставляемую правилами сокращения направлений атак. Файлы, которые были бы заблокированы правилом, могут запускаться, при этом не ведется запись отчетов или событий. Исключение применяется ко всем правилам, допускающим эти исключения.
 
-Исключения для сокращения направлений атак (СНА) используют тот же синтаксис, что и исключения антивирусной программы в Microsoft Defender. Подробные сведения см. в разделе [Настройки и утверждение исключений для проверки антивирусной программой в Microsoft Defender](/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus). Во избежание проблем просмотрите [распространенные ошибки, которые следует избегать при определении исключений](/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus).
+Исключения для сокращения направлений атак (СНА) используют тот же синтаксис, что и исключения антивирусной программы в Microsoft Defender. Подробные сведения см. в разделе [Настройки и утверждение исключений для проверки антивирусной программой в Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus). Во избежание проблем просмотрите [распространенные ошибки, которые следует избегать при определении исключений](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus).
 
-Исключения применяются не для всех правил СНА. Чтобы проверить, поддерживает ли правило исключения, см. таблицу [Правила сокращения направлений атак](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
+Исключения применяются не для всех правил СНА. Чтобы проверить, поддерживает ли правило исключения, см. таблицу [Правила сокращения направлений атак](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
 
 ## <a name="attack-surface-reduction-rules"></a>Правила сокращения направлений атак
 
@@ -34,11 +34,11 @@ ms.locfileid: "54072209"
 
 Дополнительные сведения см. в статьях:
 
-- [Сопоставление правила СНА GUID с именем](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
+- [Сопоставление правила СНА GUID с именем](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
 - Требования к правилам СНА:
-    - [Windows 10 Pro версии 1709 или более поздней](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows 10 Корпоративная версии 1709 или более поздней](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows Server версии 1803 (Semi-Annual Channel) или более поздней](/windows-server/get-started/whats-new-in-windows-server-1803)
+    - [Windows 10 Pro версии 1709 или более поздней](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows 10 Корпоративная версии 1709 или более поздней](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows Server версии 1803 (Semi-Annual Channel) или более поздней](https://docs.microsoft.com/windows-server/get-started/whats-new-in-windows-server-1803)
 
 ## <a name="identify-the-correct-exclusion-to-apply"></a>Определение правильного исключения для применения
 
@@ -50,15 +50,15 @@ ms.locfileid: "54072209"
     - Настройте исключение максимально строго.
     - При необходимости примените подстановочный символ (например, замените переменную User).
 
-1. Примените исключение согласно потребностям развертывания. Подробные сведения см. в разделе [Настройка правил сокращения направлений атак](/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction).
+1. Примените исключение согласно потребностям развертывания. Подробные сведения см. в разделе [Настройка правил сокращения направлений атак](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction).
 
 ## <a name="exclusion-is-not-honored"></a>Исключение не соблюдается
 
-1. Определите, допускаются ли исключения для правила. Подробные сведения см. в разделе [Правила сокращения направлений атак](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
+1. Определите, допускаются ли исключения для правила. Подробные сведения см. в разделе [Правила сокращения направлений атак](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
 
-1. Просмотрите примененные исключения и выполните проверку опечаток или неправильно интерпретированных подстановочных символов при помощи данных события. Дополнительные сведения см. в разделе[Поддерживаемые типы исключений](/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)
+1. Просмотрите примененные исключения и выполните проверку опечаток или неправильно интерпретированных подстановочных символов при помощи данных события. Дополнительные сведения см. в разделе[Поддерживаемые типы исключений](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)
 
-1. если влияние правила слишком большое, попробуйте переместить правило (назад) в режим аудита для дальнейшей проверки. Подробные сведения см. в разделе [Работа функций Microsoft Defender для конечной точки в режиме аудита](/microsoft-365/security/defender-endpoint/audit-windows-defender).
+1. если влияние правила слишком большое, попробуйте переместить правило (назад) в режим аудита для дальнейшей проверки. Подробные сведения см. в разделе [Работа функций Microsoft Defender для конечной точки в режиме аудита](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/audit-windows-defender).
 
 1. Чтобы принять обращение в службу поддержки, соберите необходимые данные и примените следующую команду:
     

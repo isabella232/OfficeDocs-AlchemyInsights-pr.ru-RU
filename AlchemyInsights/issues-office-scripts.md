@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12064"
 - "9006408"
-ms.openlocfilehash: e75feb99bfc34e27929fb4c1120f4b932b42ef8d
-ms.sourcegitcommit: 34cf91e5a1063154e9ad37bfb99e81cefd7a1b54
+ms.openlocfilehash: eeaf233d46fee73649c25d501abe161d28fc31d5b37011b862876f6fd34f0140
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53111209"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893252"
 ---
 # <a name="issues-related-to-office-scripts"></a>Проблемы, связанные со сценариями Office
 
@@ -32,13 +32,13 @@ ms.locfileid: "53111209"
 - Office 365 A3
 - Office 365 A5
 
-Изменение параметров сценариев Office может занять до 48 часов. Подробные сведения см. в статье [Управление параметрами сценариев Office](/microsoft-365/admin/manage/manage-office-scripts-settings).
+Изменение параметров сценариев Office может занять до 48 часов. См. сведения в статье [Управление параметрами сценариев Office](https://docs.microsoft.com/microsoft-365/admin/manage/manage-office-scripts-settings).
 
-Так как сценарии Office работают с Power Automate, рекомендуется просмотреть существующие политики защиты от потери данных (DLP), чтобы обеспечить защиту данных организации во время использования пользователями сценариев Office. Дополнительные сведения см. в статье [Политики защиты от потери данных (DLP)](/power-automate/prevent-data-loss).
+Поскольку сценарии Office работают с Power Automate, рекомендуется просмотреть существующие политики защиты от потери данных (DLP), чтобы обеспечить защиту данных организации во время использования пользователями сценариев Office. Подробнее см. в статье [Политики защиты от потери данных (DLP)](https://docs.microsoft.com/power-automate/prevent-data-loss).
 
 Дополнительные сведения см. в статьях:
 
-[Документация по сценариям Office](/office/dev/scripts/)<br/>
+[Документация по сценариям Office](https://docs.microsoft.com/office/dev/scripts/)<br/>
 [Общие сведения о сценариях Office в Excel](https://support.microsoft.com/office/introduction-to-office-scripts-in-excel-9fbe283d-adb8-4f13-a75b-a81c6baf163a)<br/>
 [Общий доступ к сценариям Office в веб-программе Excel](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)<br/>
-[Запись, редактирование и создание сценариев Office в Excel в Интернете](/office/dev/scripts/tutorials/excel-tutorial)
+[Запись, редактирование и создание сценариев Office в Excel в Интернете](https://docs.microsoft.com/office/dev/scripts/tutorials/excel-tutorial)

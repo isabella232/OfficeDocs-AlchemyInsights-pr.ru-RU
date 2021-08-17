@@ -1,5 +1,5 @@
 ---
-title: Поиск электронной почты в архивном почтовом ящике
+title: Поиск электронной почты в почтовом ящике Archive
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,16 +13,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 2c1284472c147d29f5d09fb7e7541bdcec9e8520
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f88aa25642ba29dbf0673cafe4efb66678a873974cad844ae12fc35287915f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109145"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Поиск электронной почты в архивном почтовом ящике
+# <a name="search-for-email-in-the-archive-mailbox"></a>Поиск электронной почты в почтовом ящике Archive
 
-Если архивный почтовый ящик включен для Microsoft 365, можно использовать **Поиск и Экспорт обнаружения электронных** данных для обнаружения контента в основном и архивном почтовом ящике. Для получения сведений об использовании **экспорта поиска eDiscovery** для поиска содержимого выполните действия, описанные [здесь](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Если почтовый ящик Archive включен для Microsoft 365,  вы можете использовать поиск и экспорт электронных данных для обнаружения контента в основном и архивном почтовом ящике. Сведения о том, как использовать **экспорт поиска по** электронным данным для поиска контента, выполните описанные ниже [действия.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
   
-Вы также можете сохранить это содержимое, добавив почтовый ящик в политику хранения. При этом содержимое будет размещено в основном и архивном почтовых ящиках на удержании. Дополнительные сведения о создании политик хранения для сохранения электронной почты приведены в действиях, описанных в [этой статье](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+Этот контент также можно сохранить, добавив почтовый ящик в политику хранения. Это позволит разместить содержимое в почтовом ящике Primary и Archive в удержании. Дополнительные сведения о создании политик хранения для сохранения электронной почты см. в [описании](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)ниже.
   

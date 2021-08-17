@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007385"
 - "12446"
-ms.openlocfilehash: 226e9212b7413a87711731c1362bd247bf5ff4efaeceabfa7caf31d0a97b8ede
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b595cd789ac593ee2f48752ac3e483280350018d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54043605"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313262"
 ---
 # <a name="address-false-positivesnegatives-in-microsoft-defender-for-endpoint"></a>Устранение ложных положительных/отрицательных срабатываний в Microsoft Defender для конечной точки
 
 В решениях по защите конечной точки ложный срабатывка — это объект, например файл или процесс, который был обнаружен и идентифицирован как вредоносный, несмотря на то, что объект на самом деле не представляет угрозы. 
 
-Ложный отрицательный — это объект, который не был обнаружен в качестве угрозы, даже если он на самом деле является вредоносным. Ложные срабатыва-срабатывательство могут возникать с любым решением защиты от угроз, включая [Microsoft Defender для конечной точки.](/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint)
+Ложный отрицательный — это объект, который не был обнаружен в качестве угрозы, даже если он на самом деле является вредоносным. Ложные срабатыва-срабатывательство могут возникать с любым решением защиты от угроз, включая [Microsoft Defender для конечной точки.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint)
 
-Дополнительные сведения см. в сообщении [Address false positives/negatives in Microsoft Defender for Endpoint.](/microsoft-365/security/defender-endpoint/defender-endpoint-false-positives-negatives)
+Дополнительные сведения см. в сообщении [Address false positives/negatives in Microsoft Defender for Endpoint.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/defender-endpoint-false-positives-negatives)
