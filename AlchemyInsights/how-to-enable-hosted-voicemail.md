@@ -1,5 +1,5 @@
 ---
-title: Включение поддержки размещенной голосовой почты
+title: Как включить хозяйную голосовую почту
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608878"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055567"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Включение поддержки размещенной голосовой почты
+# <a name="how-to-enable-hosted-voicemail"></a>Как включить хозяйную голосовую почту
 
-Чтобы включить голосовую почту, для **хостедвоицемаил** необходимо задать значение $true.
+Чтобы включить голосовую почту, **hostedVoicemail** должна быть настроена $true.
 
-Свойство **хостедвоицемаил** пользователя, использующего удаленную оболочку POWERSHELL (RPS).
+Свойство **HostedVoicemail** для пользователя с помощью удаленной powerShell (RPS).
 
-Дополнительные сведения о подключении к RPS приведены в [статье Обзор Microsoft Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) для получения дополнительных сведений о подключении к RPS.
+Дополнительные сведения о подключении к RPS см. в Microsoft Teams [Обзор PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)
 
-1. Администратор Teams должен войти в удаленную оболочку PowerShell для Teams.
-1. В командной консоли PowerShell администратор Teams может выполнить командлет **Set-csuser user@contoso.com-хостедвоицемаил $true** , в котором находится URI SIP пользователя.
+1. Администратор Teams войти в удаленную powerShell для Teams.
+1. Из PowerShell подсказок Teams администратор может запускать **set-csuser user@contoso.com-HostedVoiceMail $true** где sip uri является пользователем, о котором идет речь.
 
 > [!NOTE]
-> Репликация изменений в политиках может занять до 24 часов.
+> Репликация изменений политик может занять до 24 часов.

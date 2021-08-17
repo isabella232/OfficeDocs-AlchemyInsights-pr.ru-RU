@@ -1,5 +1,5 @@
 ---
-title: Настройка DKIM
+title: Установка DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,43 +10,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: b34bfdafcab6229a4dd2e9d9f23103fa13556482
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc90965516cc4d360b9be56c7737c6d134123ea8ac263b092559dd1416faff4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108569"
 ---
-# <a name="setup-dkim"></a>Настройка DKIM
+# <a name="setup-dkim"></a>Установка DKIM
 
-В [этой статье](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)приведены полные инструкции по настройке DKIM для пользовательских доменов в Microsoft 365.
+Полные инструкции по настройке DKIM для настраиваемых доменов в Microsoft 365 [здесь](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
-1. Для **каждого** настраиваемого домена необходимо создать **две** записи CNAME DKIM в службе хостинга DNS вашего домена (обычно это регистратор доменных имен). Например, contoso.com и fourthcoffee.com должны иметь четыре записи CNAME DKIM: две для contoso.com и две для fourthcoffee.com.
+1. Для **каждого** настраиваемого домена необходимо создать две записи **DKIM** CNAME в службе DNS-хостинга домена (как правило, регистратора домена). Например, contoso.com и fourthcoffee.com требуются четыре записи CNAME DKIM: две для contoso.com и две для fourthcoffee.com.
 
-   Записи CNAME DKIM для **каждого** пользовательского домена используют следующие форматы:
+   Записи DKIM CNAME для **каждого** настраиваемого домена используют следующие форматы:
 
-   - **Имя узла**: `selector1._domainkey.<CustomDomain>`
+   - **Имя хозяина:**`selector1._domainkey.<CustomDomain>`
 
-     **Указывает на адрес или значение**: `selector1-<DomainGUID>._domainkey.<InitialDomain>`
-
-     **TTL**: 3600
-
-   - **Имя узла**: `selector2._domainkey.<CustomDomain>`
-
-     **Указывает на адрес или значение**: `selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Указывает на адрес или значение:**`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\> — Это текст, расположенный слева `.mail.protection.outlook.com` в настраиваемой записи MX для пользовательского домена (например, `contoso-com` для домена contoso.com). \<InitialDomain\> — Это домен, который вы использовали при регистрации в Microsoft 365 (например, contoso.onmicrosoft.com).
+   - **Имя хозяина:**`selector2._domainkey.<CustomDomain>`
 
-2. Создав записи CNAME для пользовательских доменов, выполните следующие действия:
+     **Указывает на адрес или значение:**`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
-   а. [Войдите в Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) с помощью рабочей или учебной учетной записи.
+     **TTL**: 3600
 
-   б. В левом верхнем углу щелкните значок средства запуска приложений и выберите **Администратор**.
+   \<DomainGUID\> — это текст слева от настраиваемой записи MX для настраиваемого `.mail.protection.outlook.com` домена (например, для `contoso-com` домена contoso.com). \<InitialDomain\>это домен, используемый при регистрации на Microsoft 365 (например, contoso.onmicrosoft.com).
 
-   в. В области навигации слева внизу разверните узел **Администратор** и выберите элемент **Exchange**.
+2. После создания записей CNAME для пользовательских доменов выполните следующие инструкции:
 
-   г. Перейдите в раздел **Защита**  >  **DKIM**.
+   А. [во входе Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) с вашей учетной записью или учебной записью.
 
-   д. Выберите домен, а затем выберите **включить** для **подписи сообщений для этого домена с DKIM подписями**. Повторите этот шаг для каждого личного домена.
+   Б. В левом верхнем углу щелкните значок средства запуска приложений и выберите **Администратор**.
+
+   c. В области навигации слева внизу разверните узел **Администратор** и выберите элемент **Exchange**.
+
+   d. Перейдите **к защите**  >  **DKIM**.
+
+   e. Выберите домен, а затем **выберите Включить** для подписи сообщения для этого домена с **помощью подписей DKIM.** Повторите этот шаг для каждого личного домена.

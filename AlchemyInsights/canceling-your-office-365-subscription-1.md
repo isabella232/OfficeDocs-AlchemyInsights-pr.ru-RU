@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931210"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890771"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Отмена Microsoft 365 подписки?
 
@@ -31,6 +31,6 @@ ms.locfileid: "53931210"
 3. В области **Отмена подписки** выберите причину, по которой вы отменяете подписку. Вы можете предоставить отзыв.
 4. Нажмите **Сохранить**.
 
-Подробнее об отмене подписки или параметрах см. в [журнале Cancel your subscription.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Подробнее об отмене подписки или параметрах см. в [журнале Cancel your subscription.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Если вы хотите продолжать использовать подписку на время пробного периода, можно отключить повторяющиеся выставление счета для подписки. Подробнее о том, как это сделать, [см. в Microsoft 365 для бизнеса.](/microsoft-365/commerce/subscriptions/renew-your-subscription)
+Если вы хотите продолжать использовать подписку на время пробного периода, можно отключить повторяющиеся выставление счета для подписки. Подробнее о том, как это сделать, [см. в Microsoft 365 для бизнеса.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
