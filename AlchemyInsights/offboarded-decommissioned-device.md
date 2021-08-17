@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 46ac46c583cd0ac956797737d8150277f0d79ba5
-ms.sourcegitcommit: c685f197dbf83a9dfd85e9acfdf14a4daf0e9a5a
+ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52319181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076665"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Проблемы с удалением отключенного или списанного устройства из инвентаризации устройств
 
@@ -26,7 +26,7 @@ Microsoft Defender для конечной точки в настоящее вр
 
 В целях безопасности устройство остается на портале в качестве исторической записи на срок до 180 дней. Однако данные устройства будут сгвеяться в соответствии с настроенным периодом хранения.
 
-**Примечание:** Отключенное или списаное устройство автоматически переключается в состояние **Неактивно** через семь дней. Кроме того, устройства, не активные в течение последних 30 дней, не будут учитываться в данных, отражающих оценку подверженности угрозам организации и уязвимостям или microsoft Secure Score для устройств.
+**Примечание:** Отключенное или списаное устройство автоматически переключается в состояние **Неактивно** через семь дней. Кроме того, устройства, не активные в течение последних 30 дней, не будут учитываться в данных, отражающих оценку контроль угроз и уязвимостей или Microsoft Secure Score для устройств.
  
 Если вы по-прежнему не хотите видеть определенные устройства в представлении инвентаризации устройств, попробуйте поместить тег устройства, чтобы отфильтровать списанное устройство из представления инвентаризации устройств.
 
@@ -34,7 +34,7 @@ Microsoft Defender для конечной точки в настоящее вр
 
 [Offboard devices from the Microsoft Defender for Endpoint service](/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[Оценка экспозиции в управлении угрозами и уязвимостью](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[Оценка экспозиции в контроль угроз и уязвимостей](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
 [Исправление нездоровых датчиков в Microsoft Defender для конечной точки](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
