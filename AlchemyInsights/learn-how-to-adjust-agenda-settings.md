@@ -1,5 +1,5 @@
 ---
-title: 603 сведения о настройке параметров повестки
+title: 603 Узнайте, как настроить параметры Повестки дня
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: 1dac3f87e47eb791add54015673fb3ba1ae0c3b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10aa9b32c50763d6d8c4a5db793204a7993a8498e5589312b54e2d02a14d7dcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054127"
 ---
-# <a name="learn-how-to-configure-agenda-settings"></a>Сведения о настройке параметров повестки
+# <a name="learn-how-to-configure-agenda-settings"></a>Узнайте, как настроить параметры повестки дня
 
-Параметры повестки располагаются в параметрах **календаря** в Outlook в Интернете. Дополнительные сведения см в разделе [Параметры календаря в Outlook в Интернете](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
+Параметры повестки дня расположены в **параметрах Calendar** в Outlook в Интернете. Дополнительные сведения см. [в Outlook в Интернете.](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f)
 
-Администраторы могут использовать командлет **Set-CalendarNotification** в Exchange Online PowerShell для настройки параметров повестки. Дополнительные сведения см. в статье [Set – CalendarNotification](https://technet.microsoft.com/library/dd351284).
+Администраторы могут использовать комлет **Set-CalendarNotification** в Exchange Online PowerShell для настройки параметров повестки дня. Дополнительные сведения см. [в set-CalendarNotification.](https://technet.microsoft.com/library/dd351284)
