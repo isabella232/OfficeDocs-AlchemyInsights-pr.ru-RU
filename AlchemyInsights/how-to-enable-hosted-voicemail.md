@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055567"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318661"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>Как включить хозяйную голосовую почту
 
@@ -31,5 +31,4 @@ ms.locfileid: "54055567"
 1. Администратор Teams войти в удаленную powerShell для Teams.
 1. Из PowerShell подсказок Teams администратор может запускать **set-csuser user@contoso.com-HostedVoiceMail $true** где sip uri является пользователем, о котором идет речь.
 
-> [!NOTE]
-> Репликация изменений политик может занять до 24 часов.
+**Примечание.** Изменения политик могут занять до 24 часов для репликации.

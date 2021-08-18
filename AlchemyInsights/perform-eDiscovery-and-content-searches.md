@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317489"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902057"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Выполнение поиска по контенту и поиска по электронным данным
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317489"
 4. Введите необходимые условия поиска, включая ключевые слова и расположения контента.
 5. Выберите **сохранить &,** чтобы назвать поиск, запустить его и просмотреть результаты.
 
-**Примечание.** **В Microsoft 365 решения центра** соответствия требованиям расширяйте поиск электронных данных и выберите нужный инструмент для поиска  >  электронных данных. 
+> [!NOTE]
+> В **Microsoft 365 Центра** решений по обеспечению соответствия требованиям расширяйте поиск электронных данных и выберите нужный инструмент для поиска  >  электронных данных. 
 
 Подробные инструкции по поиску контента, экспорту результатов и созданию дел по обнаружению электронных данных для хранения данных см. в материалах [Content Search](https://docs.microsoft.com/microsoft-365/compliance/content-search) и [eDiscovery cases.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 

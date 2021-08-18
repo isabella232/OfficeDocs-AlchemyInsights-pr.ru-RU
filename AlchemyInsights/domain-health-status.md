@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11443"
 - "100001"
-ms.openlocfilehash: e92d27ff163910185c6df862e1e35085c4ff8d10c655524e3974b0d9145e3395
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 874233d44c1151e4449d7735a9e4b30ded16ab772e9435f27684e640d1a8c263
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53965150"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902117"
 ---
 # <a name="domain-health-status"></a>Состояние работоспособности домена
 
@@ -29,5 +29,5 @@ ms.locfileid: "53965150"
 
 Сведения о дополнительной помощи по устранению проблем с DNS см. в:
 
-- [Создание записей DNS у любого поставщика услуг размещения DNS](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
-- [Добавление домена и изменение пользовательских записей DNS](/microsoft-365/admin/setup/add-domain)
+- [Создание записей DNS у любого поставщика услуг размещения DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [Добавление домена и изменение пользовательских записей DNS](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)
