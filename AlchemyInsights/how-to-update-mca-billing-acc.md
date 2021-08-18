@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001521"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320043"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Обновление адресов продажи и счета, связанных с MCA — рекомендуемые действия
 
 Вы можете обновить адрес с проданным и выставленным на продажу адресом, связанным с вашим соглашением о клиентах Майкрософт (MCA). 
 
-> [!NOTE]
-> Только администратор пользователя может вносить изменения в Azure Active Directory профиля пользователя. Если вам не назначена роль администратора пользователя, обратитесь к администратору пользователя. Дополнительные сведения об изменении профиля пользователя см. в странице Добавление или обновление сведений о профиле пользователя с помощью [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+**Примечание.** Только администратор пользователя может вносить изменения в сведения Azure Active Directory профиля пользователя. Если вам не назначена роль администратора пользователя, обратитесь к администратору пользователя. Дополнительные сведения об изменении профиля пользователя см. в странице Добавление или обновление сведений о профиле пользователя с помощью [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Sold-to address** . Проданный адрес — это адрес и контактные данные организации или физического лица, ответственного за учетную запись для выставления счетов. Он отображается во всех счетах, созданных для учетной записи выставления счетов.
 

@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 71cbb52d73261d59732f42789997d0ee55e71906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b302dbd6e894fef80756a4e77564845474a48affd2cfe1a944765189395f8f6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092433"
 ---
 # <a name="troubleshooting-intune-policy-and-profiles"></a>Устранение неполадок политики и профилей Intune
 
-Чтобы просмотреть существующие политики, устранить конфликты, просмотреть данные журналов и ознакомиться с общими вопросами и проблемами, могут помочь следующие руководства.
+Чтобы просмотреть существующие политики, устранить конфликты, просмотреть данные журналов и увидеть общие вопросы и проблемы, вам помогут следующие руководства.
 
-- [Устранение неполадок в политиках и профилях в Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
+- [Политики и профили устранения неполадок в Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Распространенные вопросы, проблемы и решения с помощью политик и профилей устройств в Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Общие вопросы, проблемы и разрешения с политиками и профилями устройств в Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Мониторинг профилей конфигурации устройств и Просмотр конфликтов в Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Мониторинг профилей конфигурации устройств и просмотр конфликтов в Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Устранение неполадок совместимости устройств и условного доступа в Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Устранение неполадок в устройстве и условный доступ в Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Наблюдение за политиками соответствия и Просмотр конфликтов в Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Мониторинг политик соответствия требованиям и просмотр конфликтов в Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
 - [Отправка данных журнала Intune в хранилище Azure, концентраторы событий или аналитику журналов](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Ознакомьтесь с обзором, чтобы [настроить устройства](https://docs.microsoft.com/intune/device-profiles) или [использовать политики соответствия](https://docs.microsoft.com/intune/device-compliance-get-started).
+См. обзор [для настройки устройств или](https://docs.microsoft.com/intune/device-profiles) использования политик [соответствия](https://docs.microsoft.com/intune/device-compliance-get-started)требованиям.

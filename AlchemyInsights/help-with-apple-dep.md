@@ -1,5 +1,5 @@
 ---
-title: Справка по программе Apple DEP
+title: Справка с DeP Apple
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116345"
 ---
-# <a name="help-with-apple-dep"></a>Справка по программе Apple DEP
+# <a name="help-with-apple-dep"></a>Справка с DeP Apple
 
-Если устройство DEP не может регистрироваться, а MFA (многофакторная проверка подлинности) включено, отключите MFA. В настоящее время MFA не поддерживается регистрация для предотвращения выполнения данных.
+Если устройство DEP не может зарегистрироваться и включена MFA (многофакторная проверка подлинности), отключайте MFA. MFA в настоящее время не поддерживается для регистрации DEP.
 
-[Начало работы с программой регистрации устройств для Intune и Apple (предотвращение выполнения данных)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Начало работы с программой регистрации устройств Intune и Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Общие ошибки и решения для регистрации iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Распространенные ошибки и решения для регистрации iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Сценарии резервного копирования и восстановления для зарегистрированных устройств iOS и Ипадос](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+[Сценарии резервного копирования и восстановления для зарегистрированных устройств iOS и iPadOS](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
 
-[Общие сведения об устранении неполадок при регистрации](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Устранение неполадок при общей регистрации](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Использование портала устранения неполадок Intune для диагностики и устранения распространенных ошибок регистрации](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Использование портала устранения неполадок Intune для диагностики и устранения распространенных сбоев регистрации](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
