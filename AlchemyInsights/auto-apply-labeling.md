@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8232"
 - "9004597"
-ms.openlocfilehash: f58915cac2e85d8f29f2cb03f85c278e781effaa80d5981b7b5b68170094fc9d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0cbdf5031de899ecb9d3c78016148c581f2da0c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54091777"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320574"
 ---
 # <a name="auto-apply-labeling"></a>Автоматическое применение меток
 
@@ -30,8 +30,8 @@ ms.locfileid: "54091777"
 1. В мастере в разделе **Определить область для этой метки** выберите **Файлы и электронные письма**. 
 1. Следуйте инструкциям мастера и настройте параметры автоматического применения меток для файлов и сообщений электронной почты. 
 
-Дополнительные сведения об автоматическом применении меток для приложений Office см. в разделе [Настройка автоматического применения меток в приложениях Office](/microsoft-365/compliance/apply-sensitivity-label-automatically#how-to-configure-auto-labeling-for-office-apps).
+Дополнительные сведения об автоматическом применении меток для приложений Office см. в разделе [Настройка автоматического применения меток в приложениях Office](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically#how-to-configure-auto-labeling-for-office-apps).
 
 Чтобы настроить политики автоматического применения меток для SharePoint, OneDrive и Exchange, см. раздел [Настройка политик автоматического применения меток для SharePoint, OneDrive и Exchange](https://go.microsoft.com/fwlink/?linkid=2148841).
 
-Дополнительные сведения об автоматическом применении меток конфиденциальности к содержимому см. в статье [Автоматическое применение метки конфиденциальности к содержимому](/microsoft-365/compliance/apply-sensitivity-label-automatically).
+Дополнительные сведения об автоматическом применении меток конфиденциальности к содержимому см. в статье [Автоматическое применение метки конфиденциальности к содержимому](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically).
