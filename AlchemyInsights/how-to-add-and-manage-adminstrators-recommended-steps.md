@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963800"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339045"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Добавление и управление администраторами — рекомендуемые действия
 
@@ -59,7 +59,7 @@ ms.locfileid: "53963800"
 
 1. Чтобы добавить нового пользователя, войдите на портал [Azure](https://ms.portal.azure.com/#home) в качестве администратора пользователя для организации.
 2. Выберите **Azure Active Directory,** выберите **Пользователей** и нажмите **кнопку Новый пользователь**.
-3. На странице **Пользователь** заполните необходимые сведения. Нажмите **Создать**. Пользователь создается и добавляется в клиент Azure AD.
+3. На странице **Пользователь** заполните необходимые сведения. Нажмите кнопку **Создать**. Пользователь создается и добавляется в клиент Azure AD.
 
 **Дополнительные**
 
@@ -75,7 +75,7 @@ ms.locfileid: "53963800"
 - [Учебник. Предоставление доступа пользователю с помощью RBAC и портала Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Устранение неполадок RBAC в Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Организация ресурсов с помощью групп управления Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Запрос копии счета Azure по электронной почте](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Запрос копии счета Azure по электронной почте](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Добавление, обновление или удаление кредитной или дебетовой карты из Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Подписка на управление (повторное включение/отмена/переключение)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

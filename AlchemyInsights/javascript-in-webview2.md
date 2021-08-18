@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "12051"
 - "9007100"
-ms.openlocfilehash: 510344cf836609b25ed4a57b156d74e94e2056582ea6478a315d34697ddf5048
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a2a3d9c46c152e0505f158d7833ba23de76f4487
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53945142"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331090"
 ---
 # <a name="use-javascript-in-webview2"></a>Использование JavaScript в WebView2
 
-Использование JavaScript в средствах управления WebView2 позволяет настраивать местные приложения для удовлетворения ваших требований, наметить основные функции WebView2 и добавлять сценарии, чтобы лучше понять программу. Дополнительные сведения см. в [странице Использование JavaScript в WebView для расширенных сценариев.](/microsoft-edge/webview2/how-to/javascript)
+Использование JavaScript в средствах управления WebView2 позволяет настраивать местные приложения для удовлетворения ваших требований, наметить основные функции WebView2 и добавлять сценарии, чтобы лучше понять программу. Дополнительные сведения см. в [странице Использование JavaScript в WebView для расширенных сценариев.](https://docs.microsoft.com/microsoft-edge/webview2/how-to/javascript)

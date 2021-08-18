@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 61372075ac8ccf04606a8003b4ec29f89fc048e5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894476"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332392"
 ---
 # <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Включить Сейф вложения для SharePoint Online, OneDrive и Microsoft Teams
 
@@ -28,11 +28,8 @@ ms.locfileid: "57894476"
 2. На странице **Сейф вложения нажмите** **глобальные параметры**.
 3. На вылете, который появится, выберите включите Microsoft Defender для Office 365 для **SharePoint, OneDrive и Microsoft Teams,** а затем выберите **Сохранить**.
 
-    > [!TIP]
-    >
-    > Сделайте следующие действия, чтобы повысить защиту Сейф вложений для SharePoint, OneDrive и Microsoft Teams:
-    >
-    > - Чтобы запретить пользователям скачивать вредоносные файлы, используйте значение `$true` *параметра DisallowInfectedFileDownload* в комлете **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** в SharePoint PowerShell. Дополнительные сведения см. [в SharePoint Online PowerShell, чтобы](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)запретить пользователям скачивать вредоносные файлы.
-    > - [Создание политики оповещения для обнаруженных файлов](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
+    **Совет.** Сделайте следующие действия, чтобы повысить защиту Сейф вложений для SharePoint, OneDrive и Microsoft Teams:
+    - Чтобы запретить пользователям скачивать вредоносные файлы, используйте значение `$true` *параметра DisallowInfectedFileDownload* в комлете **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** в SharePoint PowerShell. Дополнительные сведения см. в [SharePoint Online PowerShell, чтобы](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)запретить пользователям скачивать вредоносные файлы.
+    - [Создание политики оповещения для обнаруженных файлов](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
 Дополнительные сведения см. [в Сейф приложения Office 365 для SharePoint, OneDrive и Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)

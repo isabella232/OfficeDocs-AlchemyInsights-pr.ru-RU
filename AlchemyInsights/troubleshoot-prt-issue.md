@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a005c4a6848bbf0725560375df1220ce906cbb5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972729"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330972"
 ---
 # <a name="troubleshoot-prt-issue"></a>Устранение неполадок с PRT
 
@@ -34,8 +34,7 @@ ms.locfileid: "53972729"
     1. Устройство сначала пытается получить сведения клиента из клиентской SCP в реестре [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Дополнительные сведения см. в [этом документе](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
     2. В случае сбой устройства взаимодействует с локальной службой Active Directory (AD), чтобы получить сведения о клиентах из точки подключения к службе (SCP). Чтобы проверить SCP, обратитесь к этому [документу.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
-> [!NOTE]
-> Рекомендуется включить SCP в AD и использовать только клиентскую SCP для начальной проверки.
+**Примечание.** Рекомендуется включить SCP в AD и использовать только клиентскую SCP для начальной проверки.
 
 2. Windows 10 пытается связаться с Azure AD в системном контексте для проверки подлинности в отношении Azure AD. Вы можете проверить, может ли устройство получить доступ к ресурсам Майкрософт в учетной записи системы с помощью скрипта подключения к регистрации тестовых устройств.
 
@@ -47,8 +46,7 @@ ms.locfileid: "53972729"
 
 6. При следующем входе пользователя в Windows 10 регистрация будет завершена. 
 
-> [!NOTE]
-> Если вы подключены к VPN, а процесс входа в систему входа прекращает подключение к домену, можно запускать регистрацию вручную:
+**Примечание.** Если вы подключены к VPN, а процесс входа в систему входа завершает подключение к домену, можно запускать регистрацию вручную:
  1. Выдайте dsregcmd/join локально на запросе администратора или удаленно через PSExec на компьютер. Например, PsExec -s \\ win10client01 cmd, dsregcmd/join
 
  2. Дополнительные сведения о проблемах hybrid Join см. в материале [Проблема устройств устранения неполадок.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)
