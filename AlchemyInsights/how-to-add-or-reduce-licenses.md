@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 1d96cefc7918359e5d9006628d3eec723a39a77d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501829"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326402"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Добавление или удаление лицензий для подписки
 
@@ -30,12 +30,12 @@ ms.locfileid: "54501829"
 2. На **вкладке Продукты** найдите подписку, для которой необходимо купить или удалить лицензии. Выберите три точки (больше действий), а затем выберите **купить лицензии**.
 3. Если вы хотите уменьшить количество лицензий, в верхней части области Лицензии **Купить** выберите **удаление лицензий**.
 4. Чтобы купить или удалить лицензии, в поле **New number** in the **Total licenses** введите общее количество лицензий, которые нужны для этой подписки. Например, если у вас есть 100 лицензий и вы хотите добавить еще 25, введите 125. Если вы хотите удалить 25 лицензий, введите 75.
-5. Нажмите кнопку **Сохранить**.
+5. Нажмите **Сохранить**.
 
-Сведения о назначении лицензий см. в сайте [Назначение лицензий пользователям.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Сведения о назначении лицензий см. в сайте [Назначение лицензий пользователям.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-**Ресурсы**
+**Resources**
   
-- [Приобретение или удаление лицензий](/microsoft-365/commerce/licenses/buy-licenses)
-- [Отмена Microsoft 365 для бизнеса](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Попробуйте или Microsoft 365 подписку на бизнес](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Приобретение или удаление лицензий](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Отмена Microsoft 365 для бизнеса](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Попробуйте или Microsoft 365 подписку на бизнес](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

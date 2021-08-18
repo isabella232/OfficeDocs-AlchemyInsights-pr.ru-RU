@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: aa505491f205eafd032fb3eef95f5d7d6f5226c61b73462312573789745258fc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6ab9ed1edddc2c6ade5d52f0de4d2793e87a85ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988380"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326998"
 ---
 # <a name="create-an-ediscovery-case"></a>Создание дела обнаружения электронных данных
 
@@ -27,8 +27,8 @@ ms.locfileid: "53988380"
 1. Перейдите в [Центр & безопасности](https://go.microsoft.com/fwlink/p/?linkid=2077143) и выберите **eDiscovery**  >  **eDiscovery**.
 1. На странице eDiscovery нажмите **кнопку Создать случай**.
 1. Введите имя и описание case и нажмите кнопку **Сохранить**.
-    > [!TIP]
-    >Чтобы управлять разрешениями для дела, щелкните белое пространство рядом с именем случая (не щелкните Открыть).
+    
+    **Совет.** Чтобы управлять разрешениями для дела, щелкните белое пространство рядом с именем случая (не щелкните Открыть).
 1. Чтобы управлять настройками удержания, поиска и экспорта в этом случае нажмите кнопку **Открыть**.
 
 Подробные сведения о том, как дела по обнаружению электронных данных работают с контентом, см. в материалах [eDiscovery cases.](https://go.microsoft.com/fwlink/?linkid=2101589)
