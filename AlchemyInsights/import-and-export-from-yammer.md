@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9735"
 - "9003224"
-ms.openlocfilehash: 3ead2702c2fbd26b2e5596e26e9189c2f97baf93c93ec3cbd57f15c855b5128e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b365921d3ca64e8ad4bd3891e11add8043b2a903
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001485"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329839"
 ---
 # <a name="import-and-export-from-yammer"></a>Импорт и экспорт из Yammer
 
@@ -29,8 +29,7 @@ ms.locfileid: "54001485"
 - **Неосновной режим.** Пользователей можно импортировать в группы с помощью функции [Добавить из адресной книги](https://support.microsoft.com/office/manage-yammer-community-members-75253554-d0f3-4148-b835-e6a9a8a0c294) (не более 100 пользователей) в окне параметров группы или в сеть с помощью [массового обновления](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) в Администраторе сети.
 - **Основной режим.** Операции членства в группах и членства в сети следует выполнять на [портале администрирования Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users), [портале Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory) или с помощью других функций Azure AD. Сети в основном режиме больше не имеют доступа к массовому обновлению и другим устаревшим функциям.
 
-> [!IMPORTANT]
-> В Yammer никогда не было возможности импорта содержимого из Администратора сети, даже если в другой сети использовалась функция экспорта данных. Возможна повторная публикация контента с помощью решений партнеров или API Yammer REST.
+    **Важно!** В Yammer никогда не было возможности импорта содержимого из Администратора сети, даже если в другой сети использовалась функция экспорта данных. Возможна повторная публикация контента с помощью решений партнеров или API Yammer REST.
 
 **Экспорт**
 

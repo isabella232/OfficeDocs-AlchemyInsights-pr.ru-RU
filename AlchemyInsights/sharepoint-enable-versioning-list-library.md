@@ -13,12 +13,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085853"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328385"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Версия в SharePoint и OneDrive 
 
@@ -39,7 +39,6 @@ ms.locfileid: "54085853"
 
 - [Ограничения версии](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->Если вы клиент Microsoft 365, версия включена по умолчанию при создании новых библиотек OneDrive для бизнеса, и она автоматически сохранит последние 500 версий документа. Это поможет предотвратить потерю важных документов или данных. Если у вас есть существующие библиотеки на OneDrive для бизнеса или на сайте вашей команды, в которых не включена версия, вы можете включить версию для них в любое время.
+**Примечание.** Если вы клиент Microsoft 365, версия теперь включена по умолчанию при создании новых библиотек OneDrive для бизнеса, и это автоматически сохранит последние 500 версий документа. Это поможет предотвратить потерю важных документов или данных. Если у вас есть существующие библиотеки на OneDrive для бизнеса или на сайте вашей команды, в которых не включена версия, вы можете включить версию для них в любое время.
 
 

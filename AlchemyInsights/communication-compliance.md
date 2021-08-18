@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090749"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329931"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Соответствие требованиям к обмену данными в Microsoft 365
 
@@ -43,5 +43,4 @@ ms.locfileid: "54090749"
 
 Если у вас нет ни одного из вышеперечисленного и вы хотите попробовать соответствие требованиям связи, подпишитесь на пробную **[Office 365 корпоративный E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
 
-> [!NOTE]
-> Для полной обработки сообщений электронной почты в политике может потребоваться до 24 часов. Обработка Microsoft Teams, Yammer и сторонних платформ может занять до 48 часов.
+**Примечание.** Для полной обработки сообщений электронной почты в политике может потребоваться до 24 часов. Обработка Microsoft Teams, Yammer и сторонних платформ может занять до 48 часов.

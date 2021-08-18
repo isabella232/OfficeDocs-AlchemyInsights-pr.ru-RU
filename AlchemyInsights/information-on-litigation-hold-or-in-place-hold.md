@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8703944c6839be1b3a5e4b9ed53fd52dc035b126
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54115445"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329783"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>О тяжбах и удерживается на месте
 
@@ -25,8 +25,7 @@ ms.locfileid: "54115445"
     
 - Чтобы применить  удержание на месте для одного пользователя или удержание для всех почтовых ящиков во всей **Организации,** вы можете использовать политики хранения в центре Microsoft 365 безопасности и соответствия требованиям, следуя описанным здесь шагам. [](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
-    > [!NOTE]
-    > Для политик хранения на всей оргии новые пользователи будут автоматически добавлены в удержание. 
+    **Примечание.** Для политик хранения на всей оргии новые пользователи будут автоматически добавлены в удержание. 
   
 - Чтобы просмотреть или обнаружить содержимое почтового ящика, помещенное на удержание, используйте поиск и экспорт **электронного обнаружения.** Сведения об использовании поиска и экспорта **электронных** данных можно найти в описании [ниже.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     

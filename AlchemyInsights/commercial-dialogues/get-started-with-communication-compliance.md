@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9b4fbba05af371356497b68399277da4539a50db
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034695"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327931"
 ---
 # <a name="get-started-with-communication-compliance"></a>Начало работы с соответствием требованиям к обмену данными
 
@@ -35,5 +35,4 @@ ms.locfileid: "54034695"
 * Office 365 корпоративный Подписка на E5 (платная или пробная версия)
 * Office 365 корпоративный Подписка на E3 + Office 365 Advanced Compliance надстройка (больше недоступна для новых подписок, см. примечание)
 
-    > [!NOTE]
-    > Если у вас нет существующего плана Office 365 корпоративный E5 и вы хотите попробовать [](https://go.microsoft.com/fwlink/?linkid=2130508) управление рисками, вы можете добавить Microsoft 365 к существующей подписке или зарегистрироваться на пробную Office 365 корпоративный E5.
+    **Примечание.** Если у вас нет существующего плана Office 365 корпоративный E5 и вы хотите попробовать [](https://go.microsoft.com/fwlink/?linkid=2130508) управление рисками, вы можете добавить Microsoft 365 к существующей подписке или зарегистрироваться для пробного Office 365 корпоративный E5.
