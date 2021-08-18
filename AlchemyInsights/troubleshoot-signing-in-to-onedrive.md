@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: fb944ae8dac7a8a222d2946025d8009216d6ca02efa750977bc9037bf578c8a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea5000a06f86c0bc33cb057b67f6001fd1a4d5bddd39ac3324cd3b5c74ecdae7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972621"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900701"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>Устранение неполадок со входом в OneDrive
 
@@ -29,7 +29,7 @@ ms.locfileid: "53972621"
 
 **Устранение неполадок со входом в клиент синхронизации OneDrive**
 
-- Инструкции по устранению ошибки с кодом 0x004de40 см. в статье [Код ошибки 0x8004de40 при входе в OneDrive](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive).
+- Инструкции по устранению ошибки с кодом 0x004de40 см. в статье [Код ошибки 0x8004de40 при входе в OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive).
 - Войдите в OneDrive или на сайт SharePoint и нажмите кнопку **Синхронизировать** в верхней части строки меню на сайте.
 - Войдите в OneDrive для бизнеса, а не в OneDrive.com. Если введенный URL-адрес начинается с onedrive.live.com, это не расположение OneDrive для бизнеса. Простой способ войти в OneDrive для бизнеса — воспользоваться ссылкой https://portal.office.com/onedrive, а затем использовать рабочую или учебную учетную запись для входа.
 - Если у вас по-прежнему возникают проблемы, попробуйте [сбросить OneDrive](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c).
@@ -48,5 +48,5 @@ ms.locfileid: "53972621"
 
 **Другие советы по устранению неполадок**
 
-Если вы являетесь глобальным администратором, администратором лицензий или администратором пользователей, [назначьте затронутому пользователю нужную лицензию](/microsoft-365/admin/manage/assign-licenses-to-users).
+Если вы являетесь глобальным администратором, администратором лицензий или администратором пользователей, [назначьте затронутому пользователю нужную лицензию](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 

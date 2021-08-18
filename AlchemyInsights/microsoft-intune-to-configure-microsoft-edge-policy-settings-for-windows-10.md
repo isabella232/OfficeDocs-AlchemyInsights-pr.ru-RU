@@ -1,5 +1,5 @@
 ---
-title: Используйте Microsoft Intune для настройки параметров политики Microsoft Edge для Windows 10
+title: Используйте Microsoft Intune для настройки параметров Microsoft Edge политик для Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004632"
 - "7096"
 - "8365"
-ms.openlocfilehash: 0107571b4a9313b39751f8c8d06468ccf8cdf807
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 7b044a17c06522bd0cc97eef10841754833f7ae04fb25e9951c1d9df7e93f6f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401776"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114149"
 ---
-# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Используйте Microsoft Intune для настройки параметров политики Microsoft Edge для Windows 10
+# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Используйте Microsoft Intune для настройки параметров Microsoft Edge политик для Windows 10
 
-Вы можете настроить политики и параметры Microsoft Edge, добавив профиль конфигурации устройства в Microsoft Intune. Это эквивалентно настройке политик групп Microsoft Azure Active Directory или локальных параметров объекта групповой политики (GPO) на устройствах пользователей.
+Вы можете настроить Microsoft Edge политик и параметров, добавив профиль конфигурации устройства в Microsoft Intune. Это эквивалентно настройке Microsoft Azure Active Directory групповых политик или локальных параметров объекта групповой политики (GPO) на устройствах пользователей.
 
-Дополнительные данные см. в странице Создание профиля для управления [настройками в Microsoft Edge для Windows 10.](https://go.microsoft.com/fwlink/?linkid=2133700)
+Дополнительные данные см. в [странице Create a profile to manage settings in Microsoft Edge for Windows 10.](https://go.microsoft.com/fwlink/?linkid=2133700)
 
-Эта статья применяется к версиям Microsoft Edge 77 и более поздних версий.
+Эта статья применяется к Microsoft Edge версии 77 и более поздней версии.

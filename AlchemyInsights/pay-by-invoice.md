@@ -14,19 +14,19 @@ ms.custom:
 - commerce_billing
 - "492"
 - "1500024"
-ms.openlocfilehash: 00dd95e617293bd285faff0f028a5766d2433ca89bfffe5cf053314dd56d8241
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 4773604b6779c2995e055be18e616552dcdf54ea
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501721"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317525"
 ---
 # <a name="pay-by-invoice"></a>Оплата по счету
 
 Если Microsoft 365 стоимость подписки на определенную сумму (эта сумма зависит от расположения службы), вы можете оплатить счет с помощью чека или EFT. Для оплаты крупных счетов может потребоваться проверить вашу кредитоспособность. Вы будете уведомлены об этом в процессе приобретения подписки. Если вы согласитесь на получение уведомлений, вы получите сообщение электронной почты с более подробными сведениями об условиях проверки кредитоспособности. Обычно проверка кредитоспособности выполняется в течение двух рабочих дней.
 
-Если вы оплачиваете подписку с помощью счета-фактуры, вы получите сообщение, когда ваша выписка по счету будет готова к просмотру. Это сообщение не содержит копию выписки. Однако вы можете [получить копию выписки по счету в виде сообщения электронной почты](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice.md#receive-a-copy-of-your-billing-statement-in-email). Выписка содержит сведения о возможных способах оплаты с указанием деталей для их отправки. Если при покупке подписки вы указали номер заказа на покупку, он будет указан в выписке. Сведения о доступе к выпискам по счету см. в статье [Просмотр счета или выписки по счету](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+Если вы оплачиваете подписку с помощью счета-фактуры, вы получите сообщение, когда ваша выписка по счету будет готова к просмотру. Это сообщение не содержит копию выписки. Однако вы можете [получить копию выписки по счету в виде сообщения электронной почты](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice.md#receive-a-copy-of-your-billing-statement-in-email). Выписка содержит сведения о возможных способах оплаты с указанием деталей для их отправки. Если при покупке подписки вы указали номер заказа на покупку, он будет указан в выписке. Сведения о доступе к выпискам по счету см. в статье [Просмотр счета или выписки по счету](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
 
-Дополнительные информацию об оплате по фактуре см. в [журнале How to pay for your subscription.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Дополнительные информацию об оплате по фактуре см. в [журнале How to pay for your subscription.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
 
-Если вы хотите обновить методы оплаты, см. в ["Управление методами оплаты".](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Если вы хотите обновить методы оплаты, см. в ["Управление методами оплаты".](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

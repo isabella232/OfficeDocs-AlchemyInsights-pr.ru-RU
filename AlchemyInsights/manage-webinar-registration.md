@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: e164efdd5b1dec329179496f89f95867be7666d1
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ed05eb30df4a4d8b6616d2b57ebe493f33e187144b9d5180dc508d7517326c8a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687511"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901089"
 ---
 # <a name="manage-webinar-registration"></a>Управление регистрацией в вебинаре
 
@@ -38,8 +38,8 @@ ms.locfileid: "53687511"
 
 3. В разделе **Общее** перейдите к параметру **Кто может зарегистрировать** и выберите **Все** или **Все в компании**. 
 
-**Примечание**. Если анонимное присоединение отключено в параметрах собрания, анонимные пользователи не смогут присоединяться к вебинарам. Дополнительные сведения о включении этого параметра см. в статье  [Управление параметрами собраний в Microsoft Teams](/microsoftteams/meeting-settings-in-teams). 
+**Примечание**. Если анонимное присоединение отключено в параметрах собрания, анонимные пользователи не смогут присоединяться к вебинарам. Дополнительные сведения о включении этого параметра см. в статье  [Управление параметрами собраний в Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams). 
 
-Дополнительные сведения об управлении пользователями, которые могут регистрироваться на вебинары, и политиками с помощью Teams PowerShell, см. в статье  [Управление пользователями, которые могут регистрироваться на вебинары](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Дополнительные сведения о параметрах Microsoft Списки см. в статье  [Управление параметрами для Microsoft Списки](/sharepoint/control-lists). 
+Дополнительные сведения об управлении пользователями, которые могут регистрироваться на вебинары, и политиками с помощью Teams PowerShell, см. в статье  [Управление пользователями, которые могут регистрироваться на вебинары](https://docs.microsoft.com/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Дополнительные сведения о параметрах Microsoft Списки см. в статье  [Управление параметрами для Microsoft Списки](https://docs.microsoft.com/sharepoint/control-lists). 
 
  

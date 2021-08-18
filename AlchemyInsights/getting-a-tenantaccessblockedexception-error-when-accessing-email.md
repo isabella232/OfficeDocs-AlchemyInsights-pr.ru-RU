@@ -1,5 +1,5 @@
 ---
-title: 127 при доступе к электронной почте возникла ошибка Тенантакцессблоккедексцептион?
+title: 127 Получение ошибки TenantAccessBlockedException при доступе к электронной почте?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089453"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>При получении доступа к электронной почте возникла ошибка Тенантакцессблоккедексцептион?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Получение ошибки TenantAccessBlockedException при доступе к электронной почте?
 
-Эта ошибка может возникать по разным причинам. Пример:
+Существует несколько различных причин, по которым вы можете получить эту ошибку. Например:
 
-- Убедитесь, что подписка действительна на странице " **выставление счетов** по \> **[продуктам](https://portal.office.com/adminportal/home#/subscriptions)** " в центре администрирования Microsoft 365.
+- Убедитесь, что ваша подписка действительна на странице **"Выставление** счета своим \> **[](https://portal.office.com/adminportal/home#/subscriptions)** продуктам" в Центр администрирования Microsoft 365.
 
-- Проверьте, не просрочены ли просроченные уведомления на странице **выставление счетов** \> **[& платежей](https://portal.office.com/adminportal/home#/billoverview)** в центре администрирования Microsoft 365.
+- Проверьте, нет ли уведомлений о прошлых платежах на странице &  \> **[платежей](https://portal.office.com/adminportal/home#/billoverview)** в Центр администрирования Microsoft 365.
 
-- Если выставление счетов и подписка для вашей учетной записи были недавно обновлены, для распространения изменений может потребоваться некоторое время. Повторите попытку через несколько минут, а если проблема не исчезнет, свяжитесь с нами.
+- Если недавно были обновлены счета и подписки для вашей учетной записи, может потребоваться время для распространения изменений. Попробуйте еще раз через несколько минут, и если проблема сохраняется, свяжитесь с нами.

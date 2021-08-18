@@ -1,5 +1,5 @@
 ---
-title: 123 возвратить учетной записи об отключении учетной записи в OWA?
+title: 123 Получение ошибки отключенной учетной записи в OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 4e2f7a0d370c32dc6e38d65e04d54d473ba4db20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73879d883bd942d1b4bd59bf4ebf290d358349fbeb026b3234934319014d21af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089345"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Ошибка при отключении учетной записи в Outlook в Интернете
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Получение отключенной ошибки учетной записи в Outlook в Интернете?
 
-Если вы получаете сообщение об ошибке, с которым была **отключена учетная запись**  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` при попытке открыть Outlook в Интернете (прежнее название — Outlook Web App), администратор организации отключил доступ к Outlook в Интернете. Администратор может устранить эту ошибку, выполнив действия, описанные в разделе [Включение или отключение Outlook Web App для почтового ящика](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Если при попытке  открыть Outlook в Интернете (ранее известная как Outlook Web App) ваша учетная запись была отключена, администратор организации мог отключить доступ к `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` Outlook в Интернете. Администратор может устранить эту ошибку, следуя шагам в разделе Включить или отключить Outlook Web App [для почтового ящика.](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)
