@@ -1,5 +1,5 @@
 ---
-title: Решения импорта Dynamics CRM
+title: Решения по импорту CRM Dynamics
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.custom:
 - "1077"
 - "1078"
 - "6200003"
-ms.openlocfilehash: b27dc0251ac89fa6e47744ac42ba9a95c8568c21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2db0671d2d7caa1540704e74a8330e0791f68f1dfc2a5b3bf9988f8d716b684
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711180"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118505"
 ---
-# <a name="dynamics-crm-import-solutions"></a>Решения импорта Dynamics CRM
+# <a name="dynamics-crm-import-solutions"></a>Решения по импорту CRM Dynamics
 
-* [Решение не может быть удалено из-за зависимостей](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
+* [Решение нельзя удалить из-за зависимостей](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
 
-* [Ошибка версии сборки при импорте решения](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
+* [Решение по импорту ошибок версии сборки](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
 
-* [Ошибка при экспорте бизнес-процесса](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
+* [Не удалось экспортировать ошибку бизнес-процесса](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
 
-* [Не удалось выполнить установку или удаление решения из-за установки или удаления другого решения в то же время.](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
+* [Установка или удаление решения не удалось одновременно с установкой или удалением другого решения.](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
 
 * [Установка, обновление или удаление предпочтительного решения](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
   

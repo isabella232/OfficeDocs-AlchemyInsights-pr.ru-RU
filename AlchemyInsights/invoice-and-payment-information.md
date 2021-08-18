@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8b9b8545607e230a13de78478e3b1c655c461f6259f649aeb2b369d94d2697aa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502621"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321976"
 ---
 # <a name="invoice-and-payment-information"></a>Сведения о счетах и оплате
 
 **Оплата**
 
-При покупке Microsoft 365 подписки на бизнес напрямую из Корпорации Майкрософт можно оплатить кредитной или дебетовой картой.  В некоторых странах и регионах можно также оплатить банковский счет.  Вы можете научиться управлять этими методами оплаты и устранять их с помощью [методов управления платежами.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Это включает решение проблем при отклонении кредитной карты и обновление сведений об оплате.
+При покупке Microsoft 365 подписки на бизнес напрямую из Корпорации Майкрософт можно оплатить кредитной или дебетовой картой.  В некоторых странах и регионах можно также оплатить банковский счет.  Вы можете научиться управлять этими методами оплаты и устранять их с помощью [методов управления платежами.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Это включает решение проблем при отклонении кредитной карты и обновление сведений об оплате.
 
 **Счет/счет**
 
@@ -37,4 +37,4 @@ ms.locfileid: "54502621"
 
 Счета создаются ежемесячно или ежегодно в зависимости от частоты выставления счетов, выбранной во время покупки.  При ежегодной оплате при добавлении или удалении лицензий на подписку вы можете получить счет в среднесрочной перспективе.
 
-- Дополнительные сведения см. [в сайте Understand your invoice for Microsoft 365 для бизнеса.](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+- Дополнительные сведения см. [в сайте Understand your invoice for Microsoft 365 для бизнеса.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

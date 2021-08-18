@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: bdf94220de45d92f63e56501ea4e35389224d25c
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+ms.openlocfilehash: 5ae99192c769dd5d5acae1c6e8f9b021e824b465
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529311"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322180"
 ---
 # <a name="do-site-discovery"></a>Обнаружение сайтов
 
@@ -36,8 +36,7 @@ ms.locfileid: "50529311"
 
 Если вы используете только Internet Explorer, возможно, вы не знаете, какие сайты были обновлены до современных веб-стандартов и какие по-прежнему требуют Internet Explorer. Вам нужно найти и добавить эти сайты в список сайтов предприятия, чтобы использовать режим Internet Explorer только для этих сайтов.
 
-> [!NOTE]
-> [Обнаружение сайтов предприятия](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) находит сайты, для которых может требоваться режим Internet Explorer. Эта функция может собирать данные на компьютерах под управлением Windows Internet Explorer 8 до Internet Explorer 11 в Windows 10, Windows 8.1 или Windows 7.
+**Примечание**: [Обнаружение сайтов предприятия](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) находит сайты, для которых может требоваться режим Internet Explorer. Эта функция может собирать данные на компьютерах под управлением Windows Internet Explorer 8 до Internet Explorer 11 в Windows 10, Windows 8.1 или Windows 7.
 
 **Анализ данных**
 
@@ -47,8 +46,7 @@ ms.locfileid: "50529311"
 3. Протестируйте приложение, чтобы убедиться, что оно не работает в собственном режиме. Многие сайты предлагают современный контент при обнаружении современного браузера и предлагают устаревший контент только при обнаружении Internet Explorer.
 4. Добавьте приложение в список сайтов предприятия, если оно не прошло тестирование.
 
-> [!NOTE]
-> Рекомендуется сгруппировать все сайты, составляющие приложение. Таким образом, при обновлении приложения проще удалить весь сайт из режима Internet Explorer и начать использовать современный браузер для этого приложения.
+**Примечание**: Рекомендуется сгруппировать все сайты, составляющие приложение. Таким образом, при обновлении приложения проще удалить весь сайт из режима Internet Explorer и начать использовать современный браузер для этого приложения.
 
 Закончив обнаружение сайтов и проанализировав данные, вы можете приступить к выбору стратегии канала.
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9834"
 - "9003257"
-ms.openlocfilehash: 052311ffe71bcb65de2b5c2a964932b1fb99c373
-ms.sourcegitcommit: c34ba92e19419dcb2d251b8a1afe4d180a939617
+ms.openlocfilehash: d71bb376615191f507d39b99d9e51ca77d929b90
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "50965471"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323451"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-domain-joined-device"></a>Условный доступ блокирует меня при использовании устройства, присоединенного к домену
 
@@ -32,7 +32,7 @@ ms.locfileid: "50965471"
 
 Вот некоторые распространенные причины, по которым условный доступ не удается использовать для устройства, присоединенного к домену (гибридное присоединение к Azure AD).
 
-1. **На устройстве нет основного маркера обновления Azure AD**. На устройстве должен содержаться основной маркер обновления (PRT) Azure AD. Дополнительные сведения о PRT см. в [этом документе](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
+1. **На устройстве нет основного маркера обновления Azure AD**. На устройстве должен содержаться основной маркер обновления (PRT) Azure AD. Дополнительные сведения о PRT см. в этом [документе](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
 
 Чтобы проверить наличие основного маркера обновления Azure AD, можно выполнить команду `dsregcmd/status` на устройстве и убедиться, что параметру AzureAdPrt соответствует значение "ДА".
 
@@ -52,8 +52,7 @@ ms.locfileid: "50965471"
 
 Чтобы устранить эту проблему, выполните команду `dsregcmd/leave` на затронутых устройствах и позвольте им повторно присоединиться к Azure AD. Дополнительные сведения см. в [этом документе](https://docs.microsoft.com/azure/active-directory/devices/faq#q-why-do-my-users-see-an-error-message-saying-your-organization-has-deleted-the-device-or-your-organization-has-disabled-the-device-on-their-windows-10-devices).
 
-> [!NOTE]
-> Если ваши устройства работают под управлением Windows 10 с обновлением 1809 и VPN или облачным прокси-сервером и у вас возникают проблемы с состоянием AzureAdPrt или любая проблема приложения с единым входом (Outlook не подключается к почтовому ящику, даже если у вас был PRT), воспользуйтесь исправлением [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) или накопительным пакетом обновления [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6) за апрель, чтобы предотвратить сбои PRT на этих компьютерах.
+**Примечание**: Если ваши устройства работают под управлением Windows 10 с обновлением 1809 и VPN или облачным прокси-сервером и у вас возникают проблемы с состоянием AzureAdPrt или любая проблема приложения с единым входом (Outlook не подключается к почтовому ящику, даже если у вас был PRT), воспользуйтесь исправлением [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) или накопительным пакетом обновления [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6) за апрель, чтобы предотвратить сбои PRT на этих компьютерах.
 
 
 

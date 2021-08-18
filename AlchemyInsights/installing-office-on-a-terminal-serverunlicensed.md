@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7e435df1515878ab4fe935ab8148daee29b8e3820095fc6e49db45de4c6279db
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35ef317ea87fedd01c08fee5b370e3c81e515c27
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055171"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322012"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Установка Office на сервер терминала
 
@@ -28,8 +28,7 @@ ms.locfileid: "54055171"
 
 Если вы хотите установить Приложения Microsoft 365 для предприятий на RDS из ***Центр администрирования Microsoft 365,*** в котором используются параметры установки по умолчанию, используйте следующие действия.
 
-> [!TIP]
-> Вы также можете скачать и запустить [microsoft помощник по поддержке и восстановлению](https://aka.ms/SaRA_OfficeSCA_M365Portal) для установки Приложения Microsoft 365 для предприятий в режиме активации общего компьютера.
+    **Tip**: You can also download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) to install Microsoft 365 Apps for enterprise in shared computer activation mode.
   
 1. Проверьте, Microsoft 365 подписка у вас есть. [Инструкции](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
