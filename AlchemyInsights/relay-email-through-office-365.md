@@ -13,23 +13,23 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: ef06cfe41eee5d67bf82d4f64875ddafac82ee2062aade761f81b906cd428dd5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8f8b0780ebec2911b6698deee25e0fabe83bd9afef5fb3a6ef4c51cccd67fc7c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54024219"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898561"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Настройка многофункционального устройства или приложения для отправки электронной почты
 
-Сведения о вариантах и инструкции см. в статье [Настройка многофункционального устройства или приложения для отправки электронной почты с помощью Microsoft 365](/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
+Сведения о вариантах и инструкции см. в статье [Настройка многофункционального устройства или приложения для отправки электронной почты с помощью Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
   
 Если у вас есть устройство или приложение, которое недавно перестало работать, наиболее распространенными проблемами являются:
 
-- **Ошибки, связанные с проверкой подлинности при использовании клиента проверки подлинности SMTP**. Мы недавно внесли изменения, связанные с работой проверки подлинности SMTP. Дополнительные сведения об устранении проблем см. в разделе Сбой проверки подлинности в статье [Устранение проблем с принтерами, сканерами и бизнес-приложениями, отправляющими электронную почту с помощью Microsoft 365 или Office 365](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful).
-- **Мы поддерживаем только версию TLS 1.2 для обеспечения безопасного подключения к Office 365**. Если вы используете безопасное соединение (TLS), убедитесь, что ваше приложение или устройство поддерживает TLS 1.2. Дополнительные сведения см. в статье [Подготовка к использованию протокола TLS 1.2 в Office 365 и Office 365 GCC](/microsoft-365/compliance/prepare-tls-1.2-in-office-365).
+- **Ошибки, связанные с проверкой подлинности при использовании клиента проверки подлинности SMTP**. Мы недавно внесли изменения, связанные с работой проверки подлинности SMTP. Дополнительные сведения об устранении проблем см. в разделе Сбой проверки подлинности в статье [Устранение проблем с принтерами, сканерами и бизнес-приложениями, отправляющими электронную почту с помощью Microsoft 365 или Office 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful).
+- **Мы поддерживаем только версию TLS 1.2 для обеспечения безопасного подключения к Office 365**. Если вы используете безопасное соединение (TLS), убедитесь, что ваше приложение или устройство поддерживает TLS 1.2. Дополнительные сведения см. в статье [Подготовка к использованию протокола TLS 1.2 в Office 365 и Office 365 GCC](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365).
  
-Сведения о других проблемах и способах их устранения см. в статье [Устранение проблем с принтерами, сканерами и бизнес-приложениями, отправляющими электронную почту с помощью Microsoft 365 или Office 365](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off)
+Сведения о других проблемах и способах их устранения см. в статье [Устранение проблем с принтерами, сканерами и бизнес-приложениями, отправляющими электронную почту с помощью Microsoft 365 или Office 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off)
 
 Чтобы просмотреть затронутые устройства, откройте [Отчет о клиентах проверки подлинности SMTP](https://protection.office.com/mailflow/dashboard).
 

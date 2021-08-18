@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005463"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315633"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Развертывание Microsoft Edge для мобильных устройств для iOS/iPadOS или Android
 
@@ -28,8 +28,7 @@ ms.locfileid: "54005463"
 - Интеграция с Azure Active Directory Application Proxy
 - Управляемое избранное и ярлыки домашней страницы
 
-> [!NOTE]
-> Если вы заблокировали доступ пользователей к мобильным устройствам, этот управляемый сценарий не сработает, и пользователям потребуется установить Microsoft Edge самостоятельно.
+**Примечание.** Если вы заблокировали доступ пользователей к мобильным устройствам, этот управляемый сценарий не будет работать, и пользователям потребуется установить Microsoft Edge самостоятельно.
 
 Чтобы развернуть Microsoft Edge для мобильных устройств для iOS/iPadOS или Android, см.:
 

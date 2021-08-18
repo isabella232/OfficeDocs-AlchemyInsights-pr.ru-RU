@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940832"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316153"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Обмен корневым сайтом Classic на современный.
 
@@ -28,8 +28,8 @@ ms.locfileid: "53940832"
     - Используйте [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) для замены расположения сайта на другой сайт при архивации исходного сайта. Доступно как для сайта группы (не подключенного к группе), так и для сайта связи. 
 
 - В ближайшее время будут представлены дополнительные возможности, которые позволят вам продолжать использовать контент на сайте, но преобразовывать существующий сайт в сайт связи. 
->[!Important]
->Эти возможности будут постепенно откатываться. Продолжить проверку центра сообщений для обновления. 
+
+**Важно.** Эти возможности будут постепенно откатываться. Продолжить проверку центра сообщений для обновления. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Известные проблемы с заменой сайтов
 

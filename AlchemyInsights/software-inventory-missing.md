@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11382"
 - "9001470"
-ms.openlocfilehash: 191d6ae772dc1b1c6b15071da9c4aca14429cf2db17be6ee0db6b23ea0d29e2d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f26fab92d0159c06eb600cf9ec4161892561a719e8d113d15bfbac133301e793
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54084656"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897609"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Перечень программного обеспечения отсутствует или неточен
 
@@ -32,8 +32,8 @@ ms.locfileid: "54084656"
 
 1. Чтобы понять, как было обнаружено программное обеспечение, ознакомьтесь с разделом свидетельств программного обеспечения.
 1. Убедитесь, что необходимое программное обеспечение поддерживается. Программное обеспечение может быть видимым только на уровне устройства, даже если в настоящее время на нем не активирован контроль угроз и уязвимостей. Однако доступны только ограниченные данные.
-1. Ознакомьтесь с инструкциями по отправке отчета о неточности на портале в разделе [отчете о неточности](/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy).
+1. Ознакомьтесь с инструкциями по отправке отчета о неточности на портале в разделе [отчете о неточности](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy).
    
     **Примечание**. Отчеты о неточности с портала MDE — это односторонний канал связи с разработчиками. Если проблема является срочной, отправьте запрос в службу поддержки.
 
-Подробнее см. в статье [Инвентаризация программного обеспечения: контроль угроз и уязвимостей](/microsoft-365/security/defender-endpoint/tvm-software-inventory).
+Подробнее см. в статье [Инвентаризация программного обеспечения: контроль угроз и уязвимостей](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory).
