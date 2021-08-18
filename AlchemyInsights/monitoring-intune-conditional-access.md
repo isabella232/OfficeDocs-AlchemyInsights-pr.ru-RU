@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: a3e84e32eac09d8788bbec56185f3cfc714cfb4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7855d8dac488fe62d8e0ad8ee2ad46e615ea031fc535eb54dfde9512c8921ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694866"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113393"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Устранение неполадок, связанных с Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Устранение неполадок с Microsoft Intune
 
-Просмотрите перечисленные ниже ресурсы, чтобы устранить проблему.
+Просмотрите ресурсы, перечисленные ниже, чтобы устранить проблему сейчас.
   
-1. С помощью [портала устранения неполадок Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) можно диагностировать и устранить некоторые распространенные ошибки. Просмотрите [этот документ ](https://docs.microsoft.com/intune/help-desk-operators), чтобы получить дополнительные сведения.
+1. Используйте [портал устранения неполадок Intune для](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) диагностики и устранения некоторых распространенных сбоев. Дополнительные [сведения об ](https://docs.microsoft.com/intune/help-desk-operators)этом документе.
     
-2. Ознакомьтесь с разрешениями [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod), чтобы найти ответы и решения распространенных проблем.
+2. Просмотрите [Intune TechNet, ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)чтобы найти ответы и решения распространенных проблем.
     
-3. Чтобы просмотреть состояние службы, извлеките состояние [работоспособности службы](https://portal.office.com/AdminPortal/Home#/servicehealth) . 
+3. Ознакомьтесь [со службой "Здоровье",](https://portal.office.com/AdminPortal/Home#/servicehealth) чтобы узнать состояние службы. 
     
-4. Ознакомьтесь с [документацией по Intune](https://docs.microsoft.com/intune/) для планирования, инструкций по устранению неполадок и других статей. 
+4. Просмотрите [документацию intune для](https://docs.microsoft.com/intune/) планирования, устранения неполадок и других статей. 
     
 
