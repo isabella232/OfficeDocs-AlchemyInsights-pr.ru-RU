@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 13865acb75b60a824c1dde9427c11471e980ea9e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076665"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324457"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Проблемы с удалением отключенного или списанного устройства из инвентаризации устройств
 
@@ -32,11 +32,11 @@ Microsoft Defender для конечной точки в настоящее вр
 
 Дополнительные сведения см. в указанных ниже статьях.
 
-[Offboard devices from the Microsoft Defender for Endpoint service](/microsoft-365/security/defender-endpoint/offboard-machines.md)
+[Offboard devices from the Microsoft Defender for Endpoint service](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[Оценка экспозиции в контроль угроз и уязвимостей](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[Оценка экспозиции в контроль угроз и уязвимостей](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
-[Исправление нездоровых датчиков в Microsoft Defender для конечной точки](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
+[Исправление нездоровых датчиков в Microsoft Defender для конечной точки](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
 [Эффективное использование тегов (часть 1)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058)
 

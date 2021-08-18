@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 296c2f80d35f1c93ab3c60e0be65fd96c953ca81
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54104321"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323533"
 ---
 # <a name="using-giphys-in-teams-conversations"></a>Использование Giphys в Teams беседах
 
@@ -33,5 +33,4 @@ ms.locfileid: "54104321"
 
 [Чтобы разрешить](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) доступ к URL-адресу Giphy, необходимо включить необязательные подключенные функции.
 
-> [!NOTE]
-> Если для клиента Teams несколько политик обмена сообщениями, можно определить удостоверение политики, назначенной влияемому пользователю с командой [PowerShell Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Выберите TeamsMessagingPolicy.
+**Примечание.** Если для клиента настроено несколько политик Teams обмена сообщениями, вы можете определить удостоверение политики, назначенной влияемому пользователю с помощью команды [PowerShell Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Выберите TeamsMessagingPolicy.

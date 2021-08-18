@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667fa9c7334169794ebc96152d7b58d4deb5dde9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908363"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324864"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Разрешения пользователей в SharePoint и OneDrive
 
@@ -34,8 +34,7 @@ ms.locfileid: "53908363"
     
     Для классического сайта группы щелкните **Share** в правом верхнем справа. Введите имя человека, которого вы хотите пригласить или введите Все, чтобы поделиться со всеми в вашей организации. Щелкните **Общий доступ**.
     
-> [!NOTE]
-> Если вы член сайта, но не владелец, вы можете пригласить людей на сайт, но ваше приглашение будет генерировать запрос на доступ, который может быть утвержден или отклонен владельцем сайта. 
+**Примечание.** Если вы член сайта, но не владелец, вы можете пригласить людей на сайт, но ваше приглашение будет генерировать запрос на доступ, который может быть утвержден или отклонен владельцем сайта. 
   
 [Узнайте, как обмениваться файлом или папкой с пользователем](https://go.microsoft.com/fwlink/?linkid=533408)
   

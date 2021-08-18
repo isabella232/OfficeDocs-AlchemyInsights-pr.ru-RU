@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 607e27c883f83b4b29347e764b8f2273cf0f117e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118217"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325400"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Разрешение обратной записи пароля в Azure AD Connect
 
@@ -42,5 +42,4 @@ ms.locfileid: "54118217"
 
 Дополнительные сведения см. в статье [Включение обратной записи сброса пароля самообслуживания в Azure Active Directory для локальной среды](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
-> [!NOTE]
->  Когда администратор сбрасывает пароль пользователя на портале Azure Portal, пароль обратно записывается в локальной среде, если этот пользователь является федеративным или выполнена синхронизация хэша паролей. Эта функция требует наличия лицензии Azure Premium (P1 или P2) и в настоящее время не поддерживается на портале администрирования Office.
+**Примечание.** Когда администратор сбрасывает пароль пользователя на портале Azure, пароль записывается обратно в локальную среду, если этот пользователь является федеративным или выполнена синхронизация хэша паролей. Эта функция требует наличия лицензии Azure Premium (P1 или P2) и в настоящее время не поддерживается на портале администрирования Office.

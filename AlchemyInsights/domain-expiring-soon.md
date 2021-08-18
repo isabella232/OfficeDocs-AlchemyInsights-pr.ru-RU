@@ -1,5 +1,5 @@
 ---
-title: Срок действия домена скоро иссякает
+title: Истечение срока действия регистрации домена
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,20 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "10933"
+- "9006437"
 - "5300030"
-ms.openlocfilehash: 277285bfd0d52f3bcdbb7b0d0702f8032f6b9dce
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9462deefe62f2fb6fffd1703d4cca84a83c84eef
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814907"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325560"
 ---
-# <a name="domain-expiring-soon"></a>Срок действия домена скоро иссякает
+# <a name="domain-registration-expiration"></a>Истечение срока действия регистрации домена
 
-Предупреждение об истечении срока действия домена Office 365 может быть неверным. Мы работаем над исправлением этой ошибки.
+Истечение срока действия домена: 
 
-- Чтобы проверить срок действия домена, обратитесь к вашему регистратору доменного имени.
+- Чтобы проверить дату срока действия домена, обратитесь к вашему регистратору доменного имени.
 
 - Если вы приобрели домен в корпорации Майкрософт, перейдите в раздел [Выставление счетов > Ваши продукты](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions), чтобы проверить подписку на домен.
 

@@ -1,5 +1,5 @@
 ---
-title: Значок календаря не отображается в клиенте Microsoft Teams
+title: Значок Calendar не отображается в Microsoft Teams клиенте
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9001219"
 - "6794"
 - "3403"
-ms.openlocfilehash: e28b1c8d5d0feef1a743c8527db424af4c205fe9
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: edd6b4a2d94b03cf4ae7bf3a8d6332ed94a7e8263aba9df1f9588eecbd0ce05a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120017"
 ---
-# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Значок календаря не отображается в клиенте Microsoft Teams
+# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Значок Calendar не отображается в Microsoft Teams клиенте
 
-Для работы с вкладкой **Календарь** в Teams требуется доступ к почтовому ящику Exchange через веб-службы Exchange. Почтовый ящик Exchange может быть подключен к сети или локальной среде. Для пользователей Online, которые не видят вкладку **Календарь** , убедитесь, что они [лицензированы для почтового ящика Exchange Online, а почтовый ящик включен](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes). Если пользователи размещены в локальной среде, необходимо подтвердить работоспособность гибридной конфигурации. Используйте [мастер гибридной конфигурации](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) для устранения неполадок. Обратите внимание, что [для Teams требуется Exchange 2016 CU3 или выше](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
+**Вкладка** Calendar в Teams требует доступа к почтовому Exchange через Exchange веб-службы. Почтовый Exchange может быть Online или On-Premises. Для пользователей в Интернете, которые не видят вкладку **Calendar,** убедитесь, что они лицензированы для Exchange Online почтового ящика и включен [почтовый ящик](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes). Если пользователи находятся в локальном помещении, необходимо подтвердить, что гибридная конфигурация здорова. Используйте [мастер гибридной конфигурации](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) для устранения неполадок. Обратите внимание, что [для Teams требуется Exchange 2016 CU3 или выше](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
 
-Дополнительные сведения и инструкции по устранению неполадок приведены в разделе [Устранение неполадок взаимодействия Microsoft Teams и Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Дополнительные сведения и действия по устранению неполадок см. в Microsoft Teams [и Exchange Server взаимодействия.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

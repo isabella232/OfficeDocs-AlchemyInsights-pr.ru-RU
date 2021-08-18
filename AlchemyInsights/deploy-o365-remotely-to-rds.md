@@ -13,24 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 55b86557ec205dde2c459d76e8e330d2a8271dbec723f079e119ebe409b41c3f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b8df97c19937a757c1de9865b6c7b8d1cddfd62d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031491"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325616"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Развертывание Приложения Microsoft 365 для предприятий для общего использования в RDS, Terminal Server или VDI
 
 Развертывание Приложения Microsoft 365 для предприятий с помощью служб удаленного рабочего стола (RDS), ранее именуемой службами терминалов:
 
 - Вы должны иметь Microsoft 365 для бизнеса или Office 365, который включает Приложения Microsoft 365 для предприятий, например Office 365 корпоративный E3 или Enterprise E5.
-   > [!NOTE]
-   > В Приложения Microsoft 365 для бизнеса и Microsoft 365 бизнес стандарт не включены Приложения Microsoft 365 для предприятий.
+   **Примечание.** Приложения Microsoft 365 для бизнеса и Microsoft 365 бизнес стандарт не включают Приложения Microsoft 365 для предприятий.
 - Необходимо включить [активацию общего компьютера.](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
 
-> [!NOTE]
-> Вы также можете скачать и запустить [microsoft помощник по поддержке и восстановлению](https://aka.ms/SaRA_OfficeSCA_M365Portal) для установки Приложения Microsoft 365 для предприятий в режиме активации общего компьютера.
+**Примечание.** Вы также можете скачать и запустить [microsoft помощник по поддержке и восстановлению](https://aka.ms/SaRA_OfficeSCA_M365Portal) для установки Приложения Microsoft 365 для предприятий в режиме активации общего компьютера.
 
 Дополнительные сведения о необходимых предпосылках, инструкциях по настройке и руководстве по настраиваемым установкам с помощью средства развертывания Office см. в Приложения Microsoft 365 для предприятий Deploy Приложения Microsoft 365 для предприятий с помощью служб удаленного [рабочего стола.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003582"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325476"
 ---
 # <a name="enable-cost-management"></a>Включить управление затратами
 
@@ -34,8 +34,7 @@ ms.locfileid: "54003582"
 2. Выберите **счеты** и **доступ к счетам.**
 3. Включите доступ, а затем сэкономите изменения, чтобы разрешить пользователям в ролях с охватом подписки загружать счета-фактуры.
 
-> [!NOTE]
-> Администратор учетной записи также может настроить отправку счетов по электронной почте. Дополнительные дополнительные сообщения см. в [сообщении Get your invoice in email.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+**Примечание.** Администратор учетной записи также может настроить отправку счетов по электронной почте. Дополнительные дополнительные сообщения см. в [сообщении Get your invoice in email.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
 
 **Добавление пользователей в роль читателя биллинга**
 

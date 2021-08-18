@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 07c6acf1457964ab9b8f26007b25a23621dfc433e1a062122bd67039d793e350
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 410f835c85d7c9f8ec5197a3d06ff591626cd990
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118967"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323855"
 ---
 # <a name="create-a-microsoft-365-group-connected-team-site"></a>Создание сайта Microsoft 365 групп, связанных с группой
 
@@ -22,8 +22,7 @@ ms.locfileid: "54118967"
     
 2. В верхней части домашней SharePoint нажмите **кнопку Создать сайт** и выберите вариант сайта **Team.** 
     
-    > [!NOTE]
-    > Если вы не видите команду Create site, создание сайта может быть не включено в организации. Чтобы включить его, см. [в веб-сайте Управление созданием сайта.](https://go.microsoft.com/fwlink/?linkid=2009644) 
+    **Примечание.** Если вы не видите команду Создать сайт, создание сайта может не быть включено в организации. Чтобы включить его, см. [в веб-сайте Управление созданием сайта.](https://go.microsoft.com/fwlink/?linkid=2009644) 
   
 3. Выполните действия на экране, чтобы назвать сайт и создать адрес электронной почты для Microsoft 365 группы, а затем нажмите **кнопку Далее**. Вы также можете добавить других владельцев и членов группы. Нажмите кнопку **Готово**.
   
