@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499057"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896944"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Как сделать покупку Microsoft 365
 
@@ -30,7 +30,7 @@ ms.locfileid: "54499057"
 - Чтобы приобрести дополнительные лицензии, перейдите на страницу **Billing** \> **[Your products.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Выберите подписку, которую необходимо изменить, а затем выберите **Лицензии на покупку**.\
 **ПРОСМОТРИТЕ видео**, которое показывает, как это сделать: [Приобретение новых лицензий](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Дополнительные дополнительные новости см. [в руб. "Купить или удалить лицензии".](/microsoft-365/commerce/licenses/buy-licenses)
+Дополнительные дополнительные новости см. [в руб. "Купить или удалить лицензии".](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Устранение неполадок**
 
@@ -38,5 +38,5 @@ ms.locfileid: "54499057"
 
 **Дополнительные ресурсы**
   
-- [Назначение лицензий пользователям в Microsoft 365 для бизнеса](/microsoft-365/admin/add-users/add-users)
-- [Отмена Microsoft 365 для бизнеса](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Назначение лицензий пользователям в Microsoft 365 для бизнеса](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Отмена Microsoft 365 для бизнеса](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

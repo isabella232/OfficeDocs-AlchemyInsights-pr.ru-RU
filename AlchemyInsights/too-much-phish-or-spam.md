@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: fb9a4d17f553c14a7b2ec1fb1a3e721310791f5f38dd58b696162f766243c1f2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f19ab35837085b4a99212ab445d815a899c2c9df
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53921416"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315453"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Вы получаете слишком много фишинга или нежелательной почты в почтовом ящике?
 
@@ -26,7 +26,7 @@ ms.locfileid: "53921416"
 
 Чтобы сделать его более облегчим, вы можете разрешить пользователям напрямую сообщать в Корпорацию Майкрософт с помощью [надстройки Report Message.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-**Знаете ли вы?**. Теперь вы [](https://security.microsoft.com/messagetrace) можете отправлять образцы непосредственно из трассировки сообщений и E5/Microsoft Defender для Office 365 2 клиенты плана 2 могут отправлять образцы из [Обозревателя угроз](/microsoft-365/security/office-365-security/threat-explorer).
+**Знаете ли вы?**. Теперь вы [](https://security.microsoft.com/messagetrace) можете отправлять образцы непосредственно из трассировки сообщений и E5/Microsoft Defender для Office 365 2 клиенты плана 2 могут отправлять образцы из [Обозревателя угроз](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
 
 Дополнительные новости о отправке сообщений для анализа на портале Microsoft 365 Defender см. в видеоролике Отправка образцов [для анализа.](https://go.microsoft.com/fwlink/?linkid=2166435)
 

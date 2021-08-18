@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: afba00ffc6ba082606e0071b41e2917b11e6a39d61cd0df7e468f0238f2ed8e8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118757"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896728"
 ---
 # <a name="create-user"></a>Создание пользователя
 
 **ОБЪЯВЛЕНИЕ:**
 
-- [Обесценение поддержки регистрации WebView от Google с 4 января 2021 г.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Проверьте, могут ли приложения оказаться затронутыми, следуя указаниям [Google](https://go.microsoft.com/fwlink/?linkid=2157323) по тестированию совместимости.
-- Убедитесь, что при входе в учетные записи Google пользователи используют веб-просмотр системы или системный браузер. Дополнительные сведения см. в статье [Проблемы при входе в приложения с помощью браузера Chrome](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
+- [Обесценение поддержки регистрации WebView от Google с 4 января 2021 г.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Проверьте, могут ли приложения оказаться затронутыми, следуя указаниям [Google](https://go.microsoft.com/fwlink/?linkid=2157323) по тестированию совместимости.
+- Убедитесь, что при входе в учетные записи Google пользователи используют веб-просмотр системы или системный браузер. Дополнительные сведения см. в статье [Проблемы при входе в приложения с помощью браузера Chrome](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
 
 **Не удается создать нового пользователя в каталоге Azure AD**
 
@@ -36,6 +36,6 @@ ms.locfileid: "54118757"
 1. См. [роли и администраторы Azure AD](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) для вашей службы Azure AD.
 1. См. [имена доменов](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) для вашей службы Azure AD.
 1. Чтобы получить подробные сведения о недавно созданном или удаленном пользователе, например о том, кто и когда выполнил это действие, проверьте [журналы аудита](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators).
-1. Дополнительные сведения о добавлении новых пользователей см. в сайте Использование портала Azure для создания нового пользователя [в Azure AD.](/azure/active-directory/active-directory-users-create-azure-portal)
-1. [Административные роли Azure AD:](/azure/active-directory/active-directory-assign-admin-roles)разрешения на роль администратора в Azure Active Directory
-1. Вы также можете [использовать Azure AD PowerShell для создания нового пользователя.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. Дополнительные сведения о добавлении новых пользователей см. в сайте Использование портала Azure для создания нового пользователя [в Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+1. [Административные роли Azure AD:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)разрешения на роль администратора в Azure Active Directory
+1. Вы также можете [использовать Azure AD PowerShell для создания нового пользователя.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
