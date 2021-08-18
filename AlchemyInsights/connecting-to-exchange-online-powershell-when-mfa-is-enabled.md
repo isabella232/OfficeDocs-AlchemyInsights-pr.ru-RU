@@ -1,5 +1,5 @@
 ---
-title: 761 подключение к Exchange Online PowerShell при включенном MFA
+title: 761 Подключение к Exchange Online PowerShell при включенной MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 5622b6faef8f1fb5d39d884410feda5af07ff466
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d60e36e779327f18de760bfd487f9056034cdf016b4282180648906277f6d2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090281"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Подключение к Exchange Online PowerShell при включенном MFA
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Подключение Exchange Online PowerShell при включенной MFA
 
-Если у вашей учетной записи включен многофакторная проверка подлинности (MFA), вам необходимо выполнить следующие инструкции для подключения к Exchange Online PowerShell: [Используйте Exchange Online PowerShell с современной проверкой подлинности с помощью модуля v2](https://aka.ms/exops-docs). Выполните поиск инструкций по проверке подлинности MFA/Multi-Factor на этой странице.
+Если в вашей учетной записи включена многофакторная проверка подлинности (MFA), необходимо следовать этим инструкциям, чтобы подключиться к Exchange Online PowerShell: Используйте Exchange Online [PowerShell](https://aka.ms/exops-docs)с современной проверкой подлинности с помощью модуля V2 . На этой странице можно найти инструкции по проверке подлинности mFA/Multi Factor.

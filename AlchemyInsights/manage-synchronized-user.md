@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bfa66492397adfd121fd3c9ddb2c190394cbc9a771a3e2c2db656ad438e404f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114791"
 ---
 # <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Невозможно установить основной адрес электронной почты, изменить атрибуты пользователей или удалить или удалить синхронизированного пользователя
 
-Если для среды включена синхронизация каталогов, некоторые атрибуты пользователя или объекта нельзя изменить с помощью центра администрирования Microsoft 365.
+Если для среды включена синхронизация каталогов, некоторые атрибуты пользователя или объекта нельзя изменить с помощью Центр администрирования Microsoft 365.
 
 Чтобы полностью управлять синхронизированными пользователями и всеми их атрибутами, используйте локальные активные пользователи каталогов и консоль управления группами (adsiedit.msc).  
 

@@ -14,12 +14,12 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: d8335c20da06d4cfde2f92149b560f3829c773cfff10aec1ad160b95049f7139
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5af0a042e1ffb686899c9e777fc7ff2a14ad7ecfb8f0d42f529a7ddc449978e6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53956533"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901229"
 ---
 # <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook надстройки (Share to Teams, Meet now, New Teams, Join Teams meeting)
 
@@ -29,8 +29,8 @@ ms.locfileid: "53956533"
 
 1. Если служба диагностики не указывает на какие-либо проблемы, диагностика и исправление проблем клиента на затронутых компьютерах пользователей путем загрузки и запуска сценария надстройки [Microsoft помощник по поддержке и восстановлению](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook.**
 
-Чтобы вручную устранить Teams Outlook надстройки, просмотрите список потенциальных факторов, которые могут привести к тому, что Teams надстройка не появится в списке. Дополнительные сведения [см. в Teams надстройки meeting in Outlook для Windows не показывается.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
+Чтобы вручную устранить Teams Outlook надстройки, просмотрите список потенциальных факторов, которые могут привести к тому, что Teams надстройка не появится в списке. Дополнительные сведения [см. в Teams надстройки meeting in Outlook для Windows не показывается.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
 ## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Устранение неполадок при планировании Teams собрания от имени другого лица (делегата)
 
-Чтобы запланировать собрание Teams от имени другого лица, см. в Microsoft Teams и [Exchange Server взаимодействия.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+Чтобы запланировать собрание Teams от имени другого лица, см. в Microsoft Teams и [Exchange Server взаимодействия.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
