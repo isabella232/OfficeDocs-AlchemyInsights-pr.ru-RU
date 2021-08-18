@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11224"
 - "9006572"
-ms.openlocfilehash: abb7b01c8ffd60b43555ee054f8de5d05f19ebea5588d1de9ed7f35532cb56ee
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: dc49d1f538d39711e65ba4e9e9297268dc8b8f2ba228aebc6a7154658c688deb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54002565"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899517"
 ---
 # <a name="error-546-or-5414-related-to-hop-count-exceeded"></a>Ошибка 5.4.6 или 5.4.14, связанная с превышением числа прыжков
 
 Если у вас возникает код ошибки 5.4.6 или 5.4.14, связанный с превышением числа прыжков, возможно, это связано с проблемой почтового цикла в Exchange Online.
 
-Чтобы понять возможную причину и решение, см. раздел [Число прыжков](/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-4-6-through-5-4-20-in-exchange-online).
+Чтобы понять возможную причину и решение, см. раздел [Число прыжков](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-4-6-through-5-4-20-in-exchange-online).

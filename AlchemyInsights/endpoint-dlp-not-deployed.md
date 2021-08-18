@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11470"
 - "9000292"
-ms.openlocfilehash: 2d5f0486ed8d4cbd95603f223bc0e48c4dcf38abb001d1616ca968b1d6bba7de
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fa0e2766e1526d8e81cb247029e7c0fd98630b96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044245"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316831"
 ---
 # <a name="endpoint-dlp-not-deployed-to-users-device"></a>DLP конечной точки не развернута на устройстве пользователя
 
@@ -34,4 +34,4 @@ ms.locfileid: "54044245"
 
 - Чтобы применить действие политики, убедитесь в том, что браузер Microsoft Chromium Edge установлен на устройстве с конечной точкой.
 
-Дополнительные требования к развертыванию защиты от потери данных в конечной точке см. в разделе[. Начало работы с функцией защиты от потери данных](/microsoft-365/compliance/endpoint-dlp-getting-started#prepare-your-endpoints).
+Дополнительные требования к развертыванию защиты от потери данных в конечной точке см. в разделе[. Начало работы с функцией защиты от потери данных](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#prepare-your-endpoints).

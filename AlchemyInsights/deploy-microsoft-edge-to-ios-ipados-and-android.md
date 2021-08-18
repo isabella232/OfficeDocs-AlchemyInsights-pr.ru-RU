@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 56ccfc2bff811d0a70582ace6278af76d2339cd7ddb14fe3488c15c1d4e9340b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914160"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316887"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Развертывание Microsoft Edge в iOS, iPadOS и Android
 
 Описанный ниже интерактивный сценарий поможет назначить Microsoft Edge пользователям устройств с iOS, iPadOS и Android.
 
-> [!NOTE]
-> Ели вы запретите пользователям регистрировать мобильные устройства, этот интерактивный сценарий не будет работать и им придется установить Microsoft Edge самостоятельно.
+**Примечание.** Если вы запретите пользователям регистрировать мобильные устройства, этот интерактивный сценарий не будет работать и им придется устанавливать Microsoft Edge самостоятельно.
 
 Этот интерактивный сценарий включает следующие шаги:
 

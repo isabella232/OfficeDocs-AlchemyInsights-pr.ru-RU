@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100415"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316653"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Экспорт элементов в архивный файл в Outlook для Mac
 
@@ -24,8 +24,7 @@ ms.locfileid: "54100415"
 
 1. На **вкладке Tools** нажмите кнопку **Экспорт**.
 
-> [!NOTE]
-> Не видите кнопку **Экспорт?** Убедитесь, что у вас есть последняя версия Outlook. В меню Outlook **справки** нажмите **кнопку Проверка обновлений**. Если Outlook все обновления применяются, а кнопку Экспорт  все еще не  видно, найми экспорт в меню Outlook **File.**
+    **Примечание.** Не видите кнопку **Экспорт?** Убедитесь, что у вас есть последняя версия Outlook. В меню Outlook **справки** нажмите **кнопку Проверка обновлений**. Если Outlook все обновления применяются, а кнопку Экспорт  все еще не  видно, найми экспорт в меню Outlook **File.**
 
 2. В поле **Экспорт в архив (.olm)** проверьте элементы, которые необходимо экспортировать, и нажмите **кнопку Продолжить**.
 
