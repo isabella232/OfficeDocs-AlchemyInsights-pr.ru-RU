@@ -21,7 +21,7 @@ ms.locfileid: "58314253"
 ---
 # <a name="activating-microsoft-365-apps"></a>Активация приложений Microsoft 365
 
-**Примечание**. Если вы используете более раннюю версию Windows (например, Windows 7 с пакетом обновления 1, Windows Server 2008 R2), включите TLS 1.2 в качестве стандарта с помощью [простого исправления](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi). Дополнительные сведения см. в статье [Обновление для включения TLS 1.1 и TLS 1.2 в качестве стандартных протоколов защиты в WinHTTP в Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
+**Примечание.** Если вы используете более раннюю версию Windows (например, Windows 7 с пакетом обновления 1, Windows Server 2008 R2), включите TLS 1.2 в качестве стандарта с помощью [простого исправления](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi). Дополнительные сведения см. в статье [Обновление для включения TLS 1.1 и TLS 1.2 в качестве стандартных протоколов защиты в WinHTTP в Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
 Сведения об активации Office см. в следующих статьях:
 
