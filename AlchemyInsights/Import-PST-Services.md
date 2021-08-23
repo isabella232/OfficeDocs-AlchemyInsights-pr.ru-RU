@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-Services
+title: Служба импорта в центре Office 365 безопасности & соответствия требованиям
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,28 +14,23 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2add8264754cadccc7025d5afa3d2e6fdf15140e
+ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312736"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58418162"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Служба импорта
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>Служба импорта в центре Office 365 безопасности & соответствия требованиям
 
-Чтобы получить доступ к службе Импорт и запустить процесс импорта:
+Office 365 Служба импорта позволяет импортировать несколько PST-файлов в почтовые Exchange Online пользователей. Используйте службу Import для массового импорта PST-файлов в организацию с помощью параметра **сетевой** загрузки или **доставки дисков.**
 
-1. Перейдите в [Центр соответствия требованиям M365](https://compliance.microsoft.com/)и войдите в использование учетных данных для учетной записи администратора в организации.
+Чтобы получить доступ к службе Import и средствам импорта нескольких PST-файлов:
 
-1. В левой области центра соответствия M365 в **статье Solutions** выберите импорт **управления**  >  **информацией.**
+1. Перейдите [Office 365 безопасности & соответствие](https://protection.office.com)требованиям и войдите в Office 365 учетную запись.
+1. Выберите **управление данными,** **выберите импорт** и выполните действия мастера. 
 
-1. На странице **Импорт** выберите **новое задание импорта.** Введите имя задания и выберите **Далее**.
+Дополнительные сведения и пошаговая инструкция по импорту нескольких PST-файлов см. в обзоре импорта [PST-файлов организации.](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365)
 
-1. Выберите **Upload данные для** использования параметра загрузки сети для типа **импортных рабочих мест.** Подробные действия см. в материалах [Use network upload to import your organization's PST files to Microsoft 365.](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)
-
-Чтобы получить доступ **к странице Импорт,** убедитесь, что вам назначены соответствующие разрешения. Дополнительные сведения см. в [материалах Использование сетевой загрузки для импорта PST-файлов.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
-
-Если вы хотите импортировать PST в почтовый ящик, см. статью Импорт электронной почты, контактов и календаря из [файла Outlook PST](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
-
-Если у вас возникли проблемы с импортом, см. в примере [Вопросы, влияющие на задания импорта PST.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+Импорт одного PST-файла см. в Outlook электронной почты, контактов [и календаря.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)
 
