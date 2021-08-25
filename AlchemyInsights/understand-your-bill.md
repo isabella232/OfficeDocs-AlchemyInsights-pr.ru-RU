@@ -1,8 +1,9 @@
 ---
 title: Расшифровка счета
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 72f6ba61c8b898643aa967bb7c6ddaebf6c977de
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 41fef2ca1d65b46e49b602b5cd03e19a4ab708fc
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51796870"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451827"
 ---
 # <a name="understand-your-bill"></a>Расшифровка счета
 
@@ -38,7 +40,7 @@ ms.locfileid: "51796870"
 
 1. Для подписки были добавлены или удалены лицензии. Изменение количества лицензий в середине периода оплаты отражается в следующем счете.  Вы можете увидеть кредит и повторный счет за предыдущий период обслуживания, учитывающий это изменение.
 
-2. Подписка была отменена.  После отмены вы получите счет со всеми непогашенными остатками за вычетом кредитов.
+2. Подписка была отменена. После отмены вы получите счет со всеми непогашенными остатками за вычетом кредитов.
 
 3. Ваша подписка была продлена на новый срок, и изменилась стоимость лицензий.  
 
