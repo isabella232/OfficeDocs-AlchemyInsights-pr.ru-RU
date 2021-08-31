@@ -12,21 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 1954ceef7454a4bb047d366cc55793dc78a969e375e9eea88d2d0dbe7f4997ef
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f8f2824cc4a575ab7d7c9adec5b75e5955ec9fb5
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088013"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744659"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Проблемы с входом в Приложения Microsoft 365
+
+Примечание. Если вы используете более старую версию Windows (например, Windows 7 SP1, Windows Server 2008 [](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) R2), используйте простое исправление, чтобы включить TLS 1.2 в качестве по умолчанию. Дополнительные сведения см. в статье [Обновление для включения TLS 1.1 и TLS 1.2 в качестве стандартных протоколов защиты в WinHTTP в Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
 Чтобы устранить проблемы со входом в приложения Microsoft 365, попробуйте воспользоваться следующими вариантами на затронутом компьютере.  
 
 - Для Windows см. Рекомендации [по решению общих](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) проблем с входом
 - Для Mac [см. статью Can't sign in to an Office 2016 для Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Совет**: на компьютерах с Windows можно диагностировать и автоматически устранять некоторые распространенные проблемы с входом в Office. Для использования нашего автоматического инструмента скачайте и запустите **[Помощник по поддержке и восстановлению Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)**.
+**Совет**: на компьютерах с Windows можно диагностировать и автоматически устранять некоторые распространенные проблемы с входом в Office. Для использования нашего автоматического инструмента скачайте и запустите **[помощника по поддержке и восстановлению (Майкрософт)](https://aka.ms/SaRA-OfficeSignInScenario)**.
 
 **Примечание:** Отключение современной проверки подлинности (ADAL) или управления веб-учетной записью (WAM) для устранения проблем с входом или активацией не **рекомендуется.** Если ошибки возникают при подключении к Microsoft 365 с Office 2013 [](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) г., убедитесь, что вы включаете современную проверку подлинности для Office клиента.
 
