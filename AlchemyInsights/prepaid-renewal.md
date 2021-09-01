@@ -3,7 +3,6 @@ title: Обновление предоплаты
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/11/2021
+ms.openlocfilehash: dabc83172eb9e58393620d7d24dae418de1a1b19
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901977"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842383"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Обновление предоплаченных Microsoft 365
 
@@ -29,8 +29,7 @@ ms.locfileid: "57901977"
 3. На странице подробные сведения о подписке в разделе **Параметры** подписки и параметров оплаты выберите **Даты окончания подписки.**
 4. На странице **обновления или добавления лицензий** пользователей выберите Используйте новый и неиспользимый ключ продукта, а затем выберите **Далее**. 
 5. Введите ключ продукта, а затем выберите **Далее**.
-    > [!NOTE]
-    > Если вам требуется активировать несколько ключей продукта, выберите команду **Добавить ключ продукта**.
+    **Примечание.** Если у вас есть несколько ключей продукта, вы можете выбрать **Добавить другой ключ** продукта, чтобы ввести их.
 6. Просмотрите сведения о заказе, а затем выберите **"Искупить".**
 
 Дополнительные новости см. в добавлении лицензий или продлении подписки, [оплаченной за использование ключа продукта.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)
