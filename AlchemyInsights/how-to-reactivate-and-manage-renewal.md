@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_subscriptions
 - "349"
 - "1500012"
+ms.date: 08/10/2021
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 7e8965db163c659a80c8515b133302ec64aa0fdf6e742bbbe56b0d7dc25d7656
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4748b9515f5699465213d06eb845678a882bb9be
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54116015"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844759"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Как активировать подписку и управлять повторяющимися выставлением счета
 
@@ -32,7 +32,7 @@ ms.locfileid: "54116015"
 3. В области **Повторно активировать эту подписку** выберите способ оплаты из раскрывающегося списка или нажмите **Добавить способ оплаты**.
 4. Нажмите **Сохранить**.
 
-Дополнительные сведения см. в статье [Повторная активация подписки](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Дополнительные сведения см. в статье [Повторная активация подписки](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Чтобы управлять ежемесячным или ежегодным выставлением счетов, можно включить или отключить переключатель **Автоматическое продление**.
   
@@ -42,4 +42,4 @@ ms.locfileid: "54116015"
 4. В области **Изменение параметров автоматического продления** выберите **Включено**, **Включено с однократным продлением** или **Отключено**.
 5. Нажмите **Сохранить**.
 
-Дополнительные сведения см. в разделе [Отключение и включение автоматического продления](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Дополнительные сведения см. в разделе [Отключение и включение автоматического продления](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
