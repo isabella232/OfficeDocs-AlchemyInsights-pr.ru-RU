@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 9113c21a6b840abbbe86c54a9b6e41f4e61aa4916ff6a96ecd8f5170640bcd95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: a198a0547b319bffa35e91f03456449dad9e634b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031851"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841554"
 ---
 # <a name="renewing-your-subscription"></a>Продление подписки
 
@@ -33,4 +34,4 @@ ms.locfileid: "54031851"
 2. На вкладке **Продукты** выберите подписку, которую хотите изменить.
 3. На странице сведений о подписке в разделе **Параметры подписки и платежей** выберите **Изменить автоматическое продление**.
 4. В области **Изменение параметров автоматического продления** выберите **Включено**, **Включено с однократным продлением** или **Отключено**.
-5. Нажмите кнопку **Сохранить**. 
+5. Нажмите **Сохранить**. 
