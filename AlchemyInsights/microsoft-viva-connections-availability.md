@@ -1,5 +1,5 @@
 ---
-title: Доступность Microsoft Viva Связи
+title: Настройка настольного приложения Viva Connections
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c00d30e32914d9fb35d3c8e563aababa9e11093
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000477"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923711"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Доступность Microsoft Viva Связи
+# <a name="set-up-the-viva-connections-desktop-app"></a>Настройка настольного приложения Viva Connections
 
-Решение "Microsoft Viva Связи" станет доступным для компьютеров в первой половине 2021 г., а для мобильных устройств — летом 2021 г. Дополнительные функции будут развернуты в течение 2022 г.
+Существует два основных требования для Viva Connections для Teams Desktop. 
 
-Дополнительные сведения см. в статье [Microsoft Viva Связи помогает всем взаимодействовать и оставаться в курсе дел](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009).
+- Планка SharePoint должна быть свернута и включена для клиента, чтобы получить все преимущества Viva Connections. Настоятельно рекомендуется использовать домашний сайт в качестве места посадки в Teams. 
+- Первая версия Viva Connections может быть провизирована через центр загрузки Майкрософт с помощью PowerShell (используйте наиболее последние версии [SharePoint PowerShell).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps) Затем Viva Connections загружается в качестве приложения в центре Teams администрирования. Скрипт PowerShell доступен с 31 марта 2021 г. Скачайте рабочий стол Viva Connections в [официальном центре загрузки Майкрософт.](https://www.microsoft.com/download/confirmation.aspx?id=102888) 
+
+Дополнительные сведения см. в [обзоре Add Viva Connections для настольных](https://docs.microsoft.com/SharePoint/viva-connections) Microsoft Teams и [Microsoft Teams PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)

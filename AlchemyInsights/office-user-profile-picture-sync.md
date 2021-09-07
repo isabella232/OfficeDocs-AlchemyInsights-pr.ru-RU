@@ -9,33 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 67d041da543dc1ac3668190faacefe4207d6c8eb30af4c19a5ff0833a3b46538
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea00bfb368cca514c2b4732667cfb55509f9a3f5
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985606"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923747"
 ---
 # <a name="sync-a-users-profile-picture"></a>Синхронизация изображения профиля пользователя
 
-Вы можете добавить или изменить фотографию профиля в Microsoft 365 с Office.com или с помощью приложений Майкрософт на компьютере или в браузере на телефоне. Ваша фотография отображается везде, в Microsoft 365.
-
-Чтобы добавить фотографию профиля в Microsoft 365 для бизнеса:
-
-1. Найдите фотографию, которая будет использовать, и храните ее на компьютере, OneDrive или другом расположении, в который вы можете добраться.
-
-2. Вопишите Microsoft 365 с вашей учетной записью в office.com [.](https://www.office.com)
-
-3. Выберите круг в правом верхнем углу страницы, где показаны инициалы или значок человека.
-
-4. В области Мои учетные записи выберите круг, в который будут показаны инициалы или значок человека. Измените фотографию в всплываемом всплываемом
-
-**Примечание.** Если изображение профиля пользователей в SharePoint по сравнению с другими приложениями Майкрософт, выполните следующие действия.
-
-1. Откройте закрытый сеанс браузера (InPrivate/incognito).
-1. Перейдите [в Microsoft Office 365](https://www.office.com).
-1. Выберите значок SharePoint.
-1. Просмотрите сайт или страницу, на которой фотография не обновляется, или страницу, на которой пользователь включен в веб-часть People.
+Изображение профиля SharePoint Online не отображается на SharePoint сайтах или веб-частях People. Чтобы отобразить изображение профиля, выполните действия в изображении Profile, не отображаемом [в SharePoint Online.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/profile-picture-not-showing)
 
 Дополнительные сведения см. [в странице Сведения о синхронизации](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)изображений профиля в Microsoft 365.
 
