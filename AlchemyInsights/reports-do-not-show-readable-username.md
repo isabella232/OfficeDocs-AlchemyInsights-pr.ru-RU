@@ -15,12 +15,12 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "58896350"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327827"
 ---
 # <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Отчеты в Центре администрирования Microsoft 365 не отображают понятное имя пользователя
 
@@ -30,5 +30,5 @@ ms.locfileid: "58896350"
 
 Глобальные администраторы могут отменить это изменение в своем клиенте и отображать идентифицируемые сведения пользователей, если это разрешено политиками конфиденциальности организации. Чтобы отменить изменение в клиенте:
 
-1. В Центре администрирования выберите **Параметры** > **Параметры организации** > [**Службы**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services) и нажмите **Отчеты**. 
+1. В Центре администрирования выберите **Параметры** > **Параметры организации** > [**Службы**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services ) и нажмите **Отчеты**. 
 1. В разделе **Выберите способ отображения сведений о пользователе** нажмите **Показывать персональные сведения пользователя в отчетах** и повторно запустите отчет.
