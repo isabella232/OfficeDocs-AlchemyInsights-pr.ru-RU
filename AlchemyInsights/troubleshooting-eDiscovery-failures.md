@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105581"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481818"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Устранение ошибок поиска контента
 
 Вы испытываете проблемы с поиском контента или сбоями при экспорте результатов поиска?
-
 Например, вы получаете следующие при запуске поиска?
 
-- Ошибки CS008 или CS012
+- Ошибки CS007, CS008 или CS012
 
 - Ошибки загруженности сервера и времени.
 
 - Произошла ошибка приложения
 
-Или при поиске или экспорте результатов из большого числа почтовых ящиков (более 100 000 почтовых ящиков) вы получаете ошибки экспорта?
+Или вы получаете ошибки экспорта при поиске или экспорте результатов из большого числа (более 100 000) почтовых ящиков?
 
-Для этих типов ошибок повторно в поиске сбойных местоположений контента. Дополнительные  [сведения см.](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) в этой статье.
+Для этих ошибок повторно в поиске расположения контента, которые не удалось, или обновив поиск, снизив сложность запроса поиска. Например, поиск wild card может возвращать слишком много результатов для обработки системы, что вызывает ошибку CS007.   
 
-Если вы экспортируете более 100 000 почтовых ящиков, для скачивания результатов Экспорта: Экспорт результатов из более  [чем 100K](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)почтовых ящиков необходимо использовать следующие powershell.
+Дополнительные сведения см. в материалах [Retry a Content Search to resolve a content location error](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) or [Investigate, troubleshoot and resolve common eDiscovery issues.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)
+
+Если вы экспортируете более 100K почтовых ящиков, необходимо скачать результаты экспорта. Подробные сведения см. в [результатах поиска по экспорту контента.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
