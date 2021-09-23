@@ -1,5 +1,5 @@
 ---
-title: Миграция из Microsoft Stream (Classic) в новый Microsoft Stream
+title: Перенос из Microsoft Stream (классическая версия) в новый Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: d1196b0a9737da577833c90a7b5202fde264973c8fe9b196ec55d595315d2a20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a88d4beab4d3749d622f200f7b4117e7ed4a80f9
+ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097391"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59482681"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream — это корпоративная служба обмена видео, которая позволяет сотрудникам вашей организации выкладывать и просматривать видеофайлы, а также безопасно делиться ими с другими пользователями. Вы можете поделиться записями занятий, собраний, презентаций, учебных семинаров и другими видеофайлами, которые будут полезны для совместной работы вашей команды.  
+Новое видение Microsoft Stream позволяет пользователям создавать, делиться, открывать и управлять видео так же, как и с любым другим файлом. Дополнительные сведения см. в указанных ниже статьях.
 
-- [Новый поток Майкрософт](https://docs.microsoft.com/stream/new-stream)
-- [Microsoft Stream (Классический)](https://docs.microsoft.com/stream/overview)
-- [Миграция из Microsoft Stream (Classic) в новый Microsoft Stream](https://docs.microsoft.com/stream/classic-migration)
+- [Stream (построен на SharePoint), новая версия Microsoft Stream](https://docs.microsoft.com/stream/streamnew/new-stream)
+- [Обзор миграции из Microsoft Stream (классическая версия) в Stream (построен на SharePoint)](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)
