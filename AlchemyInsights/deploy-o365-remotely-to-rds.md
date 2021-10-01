@@ -1,5 +1,5 @@
 ---
-title: Развертывание Приложения Microsoft 365 для предприятий для общего использования в RDS, Terminal Server или VDI
+title: Развертывание Приложения Microsoft 365 для общего использования в RDS, terminal Server или VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60041019"
+ms.locfileid: "60077263"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Развертывание Приложения Microsoft 365 для предприятий для общего использования в RDS, Terminal Server или VDI
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>Развертывание Приложения Microsoft 365 для общего использования в RDS, terminal Server или VDI
 
 Чтобы развернуть Приложения Microsoft 365 с помощью служб удаленного рабочего стола (RDS), ранее служб терминалов, необходимо:
 
@@ -28,7 +28,7 @@ ms.locfileid: "60041019"
 - У вас есть план, включавший Приложения Microsoft 365 для предприятий (ранее Office 365 Плюс). Например, Office 365 E3 или Microsoft 365 E5 или любой план, который включает в себя десктопную версию Project или Visio, например Project, план 3 или Visio, план 2, или план Microsoft 365 бизнес премиум, который также включает Приложения Microsoft 365 для бизнеса.
 - Включение активации общего компьютера. Дополнительные сведения см. в [обзоре активации](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation)общих компьютеров для Приложения Microsoft 365.
 
-**Примечание.** Чтобы установить Приложения Microsoft 365 в режиме активации общего компьютера, скачайте и [запустите microsoft помощник по поддержке и восстановлению](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds). Дополнительные сведения о необходимых предпосылках, инструкциях по настройке и руководстве по настройке установок с помощью средства развертывания Office см. в Приложения Microsoft 365 Deploy Приложения Microsoft 365 с помощью служб удаленного рабочего [стола.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
+**Примечание.** Чтобы установить Приложения Microsoft 365 в режиме активации общего компьютера, скачайте и [запустите microsoft помощник по поддержке и восстановлению](https://aka.ms/SaRA_OfficeSCA_M365Portal). Дополнительные сведения о необходимых предпосылках, инструкциях по настройке и руководстве по настройке установок с помощью средства развертывания Office см. в Приложения Microsoft 365 Deploy Приложения Microsoft 365 с помощью служб удаленного рабочего [стола.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
 
 Чтобы устранить ошибки, связанные с активацией общего компьютера, см. в разделе:
 
