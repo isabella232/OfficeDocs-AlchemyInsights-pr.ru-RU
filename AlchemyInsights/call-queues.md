@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 119496a2a13b4b07bf954702eed95e29984358f03114ed42d44c26a422292836
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5487891259d2792a908ddf09cfb0afe2bcbd5406
+ms.sourcegitcommit: 06e4a1b63b36767fbef56d5031b7ebea44d15e67
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54103925"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131907"
 ---
 # <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Очереди вызовов в Microsoft Teams и Skype для бизнеса 
 
-Чтобы начать работу с очередями вызовов, обратитесь к следующим ссылкам.
+Очереди вызовов требуют определенного лицензирования и учетных записей ресурсов. Подробные сведения см. в материале [Планирование Teams и очередей вызовов: Необходимые условия]. https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites . 
 
-- [Создание облачной очереди вызовов](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Ответ на звонки автосекретарей и очередей вызовов непосредственно из Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+Чтобы узнать о создании и настройке очередей вызовов в Microsoft Teams, см. в [руб. Создание очереди вызовов.](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) 
+
+Дополнительные сведения см. в [дополнительных сведениях:](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)Автоответница Answer и вызовы очереди вызовов непосредственно из Teams. 
