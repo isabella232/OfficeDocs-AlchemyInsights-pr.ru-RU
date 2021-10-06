@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 5487891259d2792a908ddf09cfb0afe2bcbd5406
-ms.sourcegitcommit: 06e4a1b63b36767fbef56d5031b7ebea44d15e67
+ms.openlocfilehash: 933f1a2a49e953c9fd598e02ca21fa95c6ad6ee0
+ms.sourcegitcommit: 0a982e89c24cfb7922629e886716a6f64ee7fa6c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60131907"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60146632"
 ---
 # <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Очереди вызовов в Microsoft Teams и Skype для бизнеса 
 
-Очереди вызовов требуют определенного лицензирования и учетных записей ресурсов. Подробные сведения см. в материале [Планирование Teams и очередей вызовов: Необходимые условия]. https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites . 
+Очереди вызовов требуют определенного лицензирования и учетных записей ресурсов. Подробнее см. в [материале Plan for Teams и очереди вызовов: Необходимые условия.](https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites) 
 
 Чтобы узнать о создании и настройке очередей вызовов в Microsoft Teams, см. в [руб. Создание очереди вызовов.](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) 
 
